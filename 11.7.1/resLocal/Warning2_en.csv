@@ -137,4 +137,4 @@ Pay %d Cat Food to unlock Slot #%d.|※You must first collect %d Meow Medals※|
 On Sale!! Cost reduced from %d to  |%d Cat Food to unlock Formation Slot #%d.|※You must first collect %d Meow Medals※|※Unlock up to 17 Slots※|＠|||
 %s x %d| received!|＠||||
 Limited Cat|%@|received!|＠|||
-${charaName} cannot go past +${level}|in the current game version.|＠||||
+${charaName} cannot go past +${level}|in the current game version.|＠||||
