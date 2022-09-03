@@ -5,4 +5,5 @@ decrypted
 extracted
 packs
 *.apk
-*.list
+resLocal.list
+DataLocal.list
