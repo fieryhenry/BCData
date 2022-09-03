@@ -6,6 +6,4 @@ Older versions are zipped
 
 This is used in my battle cats save editor for true forms, talent data, treasure data, etc
 
-This is used in my battle cats game modder for whether NumberLocal has separate hashes for each language stored in the lib file
-
-The server .pack and .list files are used in a project I'm working on
+The server .pack and .list files will be used in a new game modding tool
