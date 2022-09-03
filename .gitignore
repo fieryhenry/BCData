@@ -1,3 +1,8 @@
 /apks/
 /decrypted_lists/
 /run.bat
+decrypted
+extracted
+packs
+*.apk
+*.list
