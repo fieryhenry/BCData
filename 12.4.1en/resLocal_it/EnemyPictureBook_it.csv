@@ -1,0 +1,652 @@
+%s|Un tenero shiba, rivale dei Battle Cats.|Quest'anno vuole andare all'università.|Molto premuroso, manda regali|di compleanno al Gatto ogni anno.|
+%s|Usa gli acquerelli per il body painting.|Quindi... non resiste molto all'acqua.|Questa informazione non ha niente a|che fare con il gioco.|
+%s|Un gruppo di bulli a cui piace coalizzarsi.|Si sono conosciuti su internet.|Stranamente|sono tutti molto ricchi.|
+%s|Questo pericoloso ippopotamo|ha fiducia nella sua potenza e resistenza.|Lui/lei ha una capacità di multi attacco.|Non sappiamo se sia un lui o una lei.|
+%s (Rosso)|Ama farsi le lampade,|ecco perché ha la pelle rossa.|Nato in un allevamento bio all'aperto.|Sapevi che i maiali amano la pulizia?|
+%s|Adora guardare i film di kung-fu,|sogna di sfondare a Hollywood.|Usa un kung-fu da autodidatta.||
+%s|È riuscito a farsi cacciare dallo zoo|per la sua faccia spaventosa.|Non ha lavoro né istruzione,|perciò si è dato ad alcol e gioco d'azzardo.|
+%s|Nome banale. Aspetto banale.|Ha il terrore di essere troppo normale.|Prova a rimediare con lezioni di comicità|alla scuola di recitazione.|
+%s (Rosso)|Arrivato in città|dalla placida spiaggia.|Voleva più attenzioni, così|si è dipinto di rosso.|
+%s|Ha una portata estremamente lunga.|Gli piacciono le donne in carne. Molto in carne.|Colleziona un sacco di riviste...|Non chiedere quali.|
+%s|Sognava di diventare pugile|Non ci è riuscito|perché... beh, è un canguro.|Storia tristissima.|
+%s (Rosso)|Ama aiutare il prossimo.|Lavora part time dai pompieri.|Tuttavia, essendo così lento|non arriva mai in tempo all'incendio.|
+%s|Un maestro d'asilo. ADORA i bambini.|I suoi artigli affilati non sono l'ideale.|Non è parente di quell'altro orso.|Nessuno sa il suo vero nome.|
+%s|Salvato da Dundee.|Infatuato della didattica a distanza.|È riuscito a ottenere diversi titoli.|Certificato di videoscrittura di serie B.|
+%s (Rosso)|Ha lasciato una multinazionale|e ora dirige 4 aziende.|Spera di diventare sindaco prima o poi.||
+%s|Parla un antico dialetto inglese.|No, davvero, sembra inglese ma|è impossibile capire cosa dica.|Lavora alla scuola inglese accanto alla stazione.|
+%s (Nero)|Con licenza di uccidere.|La crisi finanziaria globale non lo aiuta|molto, però. Guarda i volantini.|Offre un milione a uccisione.|
+%s (Rosso/Flutt.)|Terribilmente timido.|Adora cantare, ma non lo ha|mai fatto davanti a nessuno.|... lo specchio vale? Karaoke in solitaria.|
+%s (Fluttuante)|È rimasto senza corpo dopo una dieta ferrea.|Non si sa perché fluttui.|Davvero, qualcuno lo sa?|(Meglio non provarci a casa.)|
+|||||
+|||||
+%s|La sua famiglia è composta|da padre, madre, fratello e un "papino".|Vuole sposarsi al più presto.|Arriva quando ci metti troppo tempo.|
+%s (Fluttuante)|Sognava di diventare|una bellissima farfalla in futuro.|Ha scoperto la verità e ora|si ribella alla natura.|
+%s (Rosso)|Adirato perché non gli è permesso|di bere alcolici.|Si dà arie facendo finta di bere.|Il bicchiere è pieno di crema al caffè.|
+%s (Fluttuante)|Il vecchio maestro di Professor Orso.|La sua punizione è l'amore.|Non pensare. SENTI!||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s|Conosce tutte le zozzerie.|I suoi amici della scuola media|lo ammirano e lo chiamano Maestro.|Esperienze amorose: zero.|
+%s|Stressato per la recente perdita di capelli.|Sì, si chiama Truzzo.|Il nome è S.|Può infliggere danni critici.|
+%s|Si è guadagnata il nomignolo|perché si accanisce sull'obiettivo.|Conserva il ricordo degli antenati.|Una normalissima pietra.|
+%s|Un koala davvero eccentrico.|È stato cacciato dallo zoo per le fatture|del suo cibo, così ora scrocca da Gory.|Anche Gory lo caccerà fuori molto presto.|
+%s|Nato in Arabia, adora fare la sauna.|La sua abilità speciale è chiudere le narici,|ma non sa che tutti i cammelli lo sanno fare|perché non ha amici.|
+%s|Adora studiare etimologia.|Sta scrivendo un saggio sul perché|il suo nome suoni nel modo in cui suona.|Aspetta che venga pubblicato.|
+%s (Fluttuante)|Non dimostra la sua età. Ha 78 anni.|Il dottore gli ha detto di camminare di più.|Si lamenta un sacco perché viene trattato come|un nemico fluttuante, ma sta solo camminando.|
+%s (Rosso)|Ha sempre pensato che il suo nome|fosse lo spelling corretto della sua essenza.|Arrossisce un sacco quando si presenta.|Sono Cinghio.|
+%s|L'animale più spaventoso|riesce a scendere dall'albero...|Purtroppo, muoversi è davvero troppo|e ora dice di voler tornare a casa.|
+%s|Si deprime un sacco quando arriva|Natale. E in più odia il Rosso.|Non chiedere perché.|Lascialo in pace, poverino.|
+%s|Prova davvero a fare l'umano.|Sa solamente alzare le zampe,|girare su se stesso e parlare.|Dagli un premio quando lo fa.|
+%s|Studentessa universitaria|che ama chiacchierare con le amiche|ogni pomeriggio in caffetterie di lusso.|Le sue amiche la odiano in segreto.|
+%s|Il suo nome è I.|Dice sempre no. Smaltisce alimenti.|Sempre sola. Dice no a tutti.|Tutti lo evitano.|
+%s|Può usare attacchi a ondata.|Poliziotto da poco andato in pensione.|(In realtà sostituito da pastori tedeschi.)|Spesso visto con Celebribau...|
+%s|Non dirlo a nessuno, ma ho sentito che viene dalla|periferia. In canile, ha provato ad adottare|un bastardino... ha trovato una razza inaspettata!||
+%s (Nero)|Un giorno il Cane ha preso un volantino|e ha trovato lavoro come killer part time.|Lavora duro ogni giorno per guadagnare|tanto da entrare nella migliore università.|
+%s (Metallico)|Una certa organizzazione ha deciso di|fare esperimenti e rendere Ippo metallico.|Sembra essere debole agli attacchi critici.||
+%s (Rosso)|Antenato del Suino.|Secondo re del regno suino.|Tra qualche giorno diventerà|pancetta biologica (non lo sa ancora)|
+%s (Rosso/Flutt.)|Un autore molto famoso. Figura influente per|Professor Bum-bum. Le opere principali:|Punizione e Pregiudizio (1868)|Les Pénitents (1875)|
+%s (Flutt./Nero)|L'AMORE TI PORTA IN PARADISO #AMORE|È quello che dice quando colpisce le persone.|Alcuni dicono che puoi vedere l'altro mondo|quando ti colpisce... Fonti attendibili: zero.|
+%s (Nero)|Gory ha trovato un lavoro!|Si lascia la vecchia vita alle spalle|e non vede l'ora di rivedere|la sua famiglia quando torna a casa.|
+%s (Nero)|Sei già morto - P. K. O.|Spara sempre battute banali.|Gli dispiace per il cucciolo|nel marsupio che lo deve sopportare.|
+%s (Nero)|Un regista fallito noto per aver|copiato il famosissimo regista cinematografico.|Le sue opere sono state tutte un flop, ma|è famoso per le scene volgari.|
+%s (Metallico)|Metallippo ha abusato di un software|per condividere file e si è preso|un virus Trojan, ora è fuori controllo.|Sembra essere debole agli attacchi critici.|
+|||||
+%s (Metallico)|Un Cornetto che ha subìto un potenziamento|cibernetico. Può intercettare le onde radio|e trasmettere quasi istantaneamente.|Ma non fa mai in tempo.|
+%s (Metallico)|Professor Orso ha subìto cyber-impianti sperimentali|per un'educazione più potente ed efficiente.|Ora le sue lezioni sono troppo pesanti per i bambini|e ha dovuto spostarsi in un istituto professionale.|
+%s (Metallico)|Cimelio della guerra finale dell'umanità, questo cyborg|riduce tutto in polvere con una maggior forza della mascella.|Sembra fluttuare, ma in realtà si muove|su una dozzina di gambe al plasma invisibili.|
+%s (Metallico)|Una foca arrivata in città|sognando il successo.|Voleva più attenzioni, così|ha deciso di diventare un cyborg.|
+|||||
+|||||
+|||||
+|||||
+%s (Rosso/Flutt.)|L'implacabile assalto del vento|tiene lontani occhi indiscreti.|Se solo ci fosse un modo per fermarlo|o stordirlo... una possibilità di contrattacco?|
+|||||
+|||||
+|||||
+|||||
+%s (Fluttuante)|Attacca continuamente mentre si muove|e nessuno può fermare la sua forza ciclonica.|Sembra ricevere un sacco di attenzioni,|forse a causa di un certo aspirapolvere.|
+%s (Flutt./Nero)|Attacca continuamente mentre si muove|e nessuno può fermare la sua forza ciclonica.|Ha una potenza di spinta maggiore.|... o potenza di aspirazione?|
+%s (Metallico)|Attacca continuamente mentre si muove|e nessuno può fermare la sua forza ciclonica.|Un vortice di schegge metalliche volanti.|Il suo corpo pesante gli impedisce di fluttuare.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Angelico)|Un essere iracondo che elimina il male|con la forza di un tifone.|Attenzione: gli angelici non subiscono|danni dagli attacchi di anti-fluttuanti!|
+%s (Angelico)|Un Ippo che bramava un'aureola.|Ha creato delle ali con i capelli...|il che lo rende la cosa più simile|a Pegaso. Dico bene?|
+%s (Angelico)|Il bisnonno del clan del Cane.|Sorveglia per assicurarsi che gli eredi|continuino a studiare: chi dorme in classe|si becca un morso dal vecchio!|
+%s (Angelico)|Un brutto muso lo ha fatto|cacciare dal paradiso.|Un angelo caduto vecchia scuola che|vive appostandosi alle slot machine.|
+%s|Ha sperperato i suoi risparmi in prodotti angelici.|Ha scoperto che gli angelici non sono|fluttuanti dopo aver ossessivamente|collezionato Miaocapsule rare.|
+%s|Un Cane che ha copiato il|Gatto muro e si è trasformato in un muro.|Non aveva previsto che gli altri Cani lo|avrebbero usato come tessera del domino.|
+%s (Rosso)|La sua bella chioma rossa ha ispirato|una tesi di laurea sull'haircare dei rettili.|La tintura è sempre ad acquerello, e questa|informazione è sempre inutile.|
+%s (Angelico)|Un persico di nome Jones. Sì, e allora?|Simile a un bombardiere stealth,|quindi non è rilevabile dai sistemi radar.|In realtà, è così che è entrato in paradiso.|
+|||||
+|||||
+|||||
+%s (Fluttuante)|Non teme mai di guidare la battaglia|per difendere gli ideali pacifisti.|Picchia amorevolmente i Gatti invasori|con il suo affilato becco diplomatico.|
+%s (Nero)|Porta l'arma finale della famiglia: la|normalissima pietra, terrore delle vongole.|In realtà è un nocciolo di prugna, ma non dirlo|o andrà fuori di testa.|
+%s (Angelico)|Il dio-cavallo a otto zampe del mito norreno.|Spende tutto lo stipendio in|scarpe, quindi di solito passa i weekend|a casa a fare giardinaggio.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s|Ha sparlato dei suoi amici sul suo|blog personale, "Dico-solo-la-verità.com".|È diventato troppo famoso e ora non lo|chiama più nessuno: internet non dimentica!|
+%s (Metallico)|Tornando dalla scuola, in cielo|ha visto un gigantesco disco d'argento.|Non ricorda cosa sia successo dopo, ma|ora indossa solo tute argentate?|
+%s (Rosso)|Un errore quantistico lo ha fatto tornare bambino.|La gente non sa cosa pensare quando quel|viso coriaceo piange per le caramelle, ma al|cinema paga ancora il biglietto intero.|
+%s (Nero)|Questo pachiderma nero è un collezionista maniacale|di film per gentiluomini. Teme|che il suo hobby possa essere scoperto|così fa a pezzi chiunque gli si avvicini.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Angelico)|Un energico novellino al suo secondo|giorno di lavoro in paradiso. L'Oca|non ne può più di sentirlo parlare di quanto|sia bella la sua nuova casa in paradiso.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Alieno)|Un adorabile Cane, geneticamente modificato|dagli invasori per essere il soldato perfetto!|Dice sempre "Pensiamo", ma è molto egoista.|Per questo combatte con i suoi coinquilini.|
+%s (Alieno)|Ha superato il problema agli occhi per laurearsi|in design d'interni. La sua filosofia è "Semplice|è meglio". Si è scoperto che dipinge tutto di|blu e si prende il resto della settimana libera.|
+%s (Alieno)|Questo Ippo viene rapito dagli alieni ogni mese.|Traumatizzato dalla cosa che gli cresce|sulla testa, la sua pelle è diventata blu come|il suo cuore, e così ha cambiato nome.|
+%s (Alieno)|Un tricheco guerriero venuto dallo spazio|per sconfiggere le foche rosse della Terra. Non|ha mani, ma per educazione cerca di stringerti|la mano. Non mentirò su questo gentleman elegante.|
+%s (Alieno/Flutt.)|Un idolo pop del pianeta degli insetti, nota per|i suoi abiti appariscenti e sexy. Molti fan|sono arrivati per il suo Tour Terra, ma nessun|umano è sopravvissuto. Può immobilizzare unità Gatto.|
+%s (Alieno)|Ha occhi così grandi che possono vedere|per due anni luce. Ma è troppo luminoso di|giorno, così rimane in casa fino al tramonto. Porta|speciali lentine che indeboliscono l'attacco dei Gatti.|
+%s (Alieno)|Ha chiesto un prestito di 45 anni per una casa|vera per coprire quella COSA che gli cresce dietro.|Va ancora tutti i weekend a visitare case.|Può sopravvivere a un colpo letale.|
+%s (Alieno/Flutt.)|Un cameo dal programma Face Force 5.|Venuto a proteggere la Terra, è diventato cattivo|dopo essere stato ignorato a cena da chi era|intento a guardare il telefono. Può immobilizzare Gatti.|
+%s (Alieno)|Ha visitato la Terra in crociera, ma si|è allontanato dal gruppo e l'hanno lasciato lì.|Lavora alla NASA sperando di intrufolarsi in un razzo.|Più danni subisce, più diventa forte.|
+%s (Alieno/Flutt.)|La sua missione: iniziare l'apocalisse e|distruggere la razza umana. Per sbaglio è|atterrata sulla luna. Ora fa dei crateri per|noia. Indebolisce attacchi dei Gatti.|
+%s (Alieno)|Il taglio a scodella aiuta a contenere la forza|del suo potere razionale. Cerca un elegante|capitano di navicella per imparare ad amare.|Si fa strada con logica e zanne.|
+%s (Alieno)|Rampolla del cyberg-porcile, Liz ha quasi|posto fine alla sua stirpe strozzandosi|con un fungo. È ancora blu da quel giorno.|Usa potenti attacchi a ondata.|
+%s (Alieno/Flutt.)|Tempesta nebulosa nata da un buco nero,|fa a pezzi tutto ciò che si avvicina.|Meglio bloccarlo e attaccare dietro una copertura!|Attacchi più forti dopo aver subito danni.|
+%s (Alieno)|Ha l'orrido potere di reindirizzare tutte|le tue future e-mail a indirizzi a caso. Non|saprai mai perché i tuoi amici si sono dimenticati|di te. Attacchi a volte rallentano movimento.|
+%s (Alieno/Flutt.)|Ha ricevuto la lancia canina Baunir per scherzo|a un addio al nubilato. Ora la sua mente|è annebbiata dall'ira contro tutti i felini...|Diventa più forte dopo aver subito danni.|
+%s (Alieno)|Già campione dei pesi welter di Gliese 832c.|Le hanno tolto il titolo quando i giudici hanno|notato i guantoni che aveva nel 4° round.|Sono ottimi per infliggere potenti respinte.|
+%s (Alieno)|Una macchina assassina con un solo scopo:|impedire che vengano postate su internet|foto di gatti. Voleva unirsi al Capitolo 1,|ma non ha fatto in tempo a prendere il bus.|
+%s (Alieno)|Unica figlia della dinastia politica più potente|di Centauri anno 1192. Bella, intelligente,|spiritosa... eppure ha sposato un chihuahua|di un reality. Più forte dopo aver subito danni.|
+%s (Rosso)|Anche se è ancora uno studente universitario,|la sua ricerca sulle cose zozze è così profonda|e meticolosa che gli amici lo chiamano Professore.|Le esperienze amorose sono ancora a zero.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Rosso)|Brasiliana maniaca del fitness. Va in palestra due|volte al giorno e mastica sempre bene il cibo.|Appesantita dai muscoli, è più lenta di quanto|sembri, ma quegli attacchi critici fanno davvero male.|
+%s (Rosso)|Una volta dopo un pisolino ho trovato Kory|nella mia cucina. Dopo averlo cacciato via|per avermi razziato il frigo, sembra che il tramonto|sulla schiena gli abbia risvegliato poteri oscuri.|
+%s (Fluttuante)|DICI SUL SERIO??? Non mangia glutine,|ma non perde l'occasione di far colpo sulle|ragazze con briciole del panificio bio.|Il cervello è grande come una noce, ma ci sa fare.|
+%s (Alieno/Flutt.)|La navicella è atterrata rovinosamente vicino al|mercato del pesce Tsukiji. Ha introdotto uno stile|traslucido che ora è très chic al porto.|Indebolisce molto gli attacchi nemici.|
+%s (Alieno)|Gobbetta si è attaccata delle palline di cotone per|diventare un alpaca. Allergica alle fibre,|non smette di tossire e sputare, ma|è troppo orgogliosa per ammettere di aver sbagliato.|
+%s (Alieno)|Il nonno del BRADIPO ha comprato un pass eterno|per le terme. I minerali curativi dell'acqua|in cui passa tutto il suo tempo gli hanno dato|le abilità di super velocità e potenti respinte!|
+%s (Alieno/Flutt.)|Il DNA di Bum Bum si è legato a una creatura|aliena. Ha infettato pure gli studenti e ora|la scuola è un grande cervello-alveare (fonte: Ippo).|A volte spara una potente ondata di energia.|
+%s (Alieno/Flutt.)|Finalmente ha sbloccato la cerniera del costume|e ora è libero e inarrestabile! Non controlla le|spinte distruttive che lo spingono a|devastare tutto ciò che lo circonda!|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Angelico)|Questo essere mistico è la salvezza dell'umanità...|o la sua distruzione. Ma per ora è troppo impegnato|a essere un genitore single iperprotettivo che|protegge il figlio con attacchi a lungo raggio.|
+|||||
+|||||
+%s|Cerco un degno rivale! #Lottalpa è l'unico|Tweet sul profilo di questo aspirante artista|marziale. La sua tecnica segreta "Pugno di talpa"|respinge i nemici da ultra lontano.|
+%s (Fluttuante)|Una tempesta di categoria 5 divenuta enorme|consumando cicloni più piccoli. Respinge minacce|da ultra lontano. I meteorologi dicono che|avvicinarsi al suo occhio ne disattiva la Respinta.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Angelico)|Fa impazzire tutti con i suoi|consigli ipocriti. Meglio fingere|di ascoltarlo, o ti colpirà per bene:|Un giorno mi ringrazierai per questo!|
+%s (Rosso/Nero)|Un tempo conduceva un famoso quiz televisivo.|Questo tipo migratore ora viaggia per il mondo|giocando a golf e tornando a fare ospitate in TV|se finisce i soldi. Spara ondate di avidità.|
+%s (Nero)|Uno spietato lanciatore semiprofessionista che|ricorre a qualsiasi mezzo per vincere.|Lancia palle non regolamentari da lontano|per intimidire i battitori della squadra avversaria.|
+%s|Nato nell'anno 1196 del calendario cosmico, si è|guadagnato una corona grazie al servizio militare|e ai progressi scientifici. Infastidito dal fatto|che il fratellino sia più famoso per un reality show.|
+%s|Una ragazza delle foreste scelta come assassina|dall'armata canina. L'armata felina la teme per|l'uso spietato di qualsiasi tattica necessaria|per uccidere. Perfino un bazooka a lungo raggio!|
+|||||
+|||||
+%s (Angelico)|Assistente esecutivo del produttore discografico|più famoso del paradiso. Ghost writer per due|meteore musicali: "Gatto senza peccato" e|C.P.U. (Intelligenza futuristica n. II).|
+|||||
+|||||
+|||||
+|||||
+%s|Ci ha messo 9 anni sabbatici per trovare il|coraggio di iscriversi all'università. Spera di|laurearsi in fisica nucleare per controllare i suoi raggi|di particelle, ma papà vuole che studi contabilità.|
+%s (Rosso)|Si è messo un'orribile maschera per scherzo, ma|è diventato un demone affamato di carne. Succede.|Respira pura corruzione nata da un odio vendicativo.|La Faccia normale non è più così male, eh?|
+|||||
+|||||
+|||||
+%s (Alieno/Flutt.)|Principessa in esilio, ora regna sulle strade|peggiori della grande città. La sua triste educazione|le ha dato un brutto carattere... Non avvicinarti|troppo o sarai vittima della sua terribile puntura.|
+%s (Fluttuante)|Super campione del Gran Premio Bambini Problematici,|terrore delle classi d'asilo di tutto il mondo.|Forse papà gli ha fatto leggere i classici russi|troppo presto? Parola preferita: AMORE.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Nero)|Dopo anni passati a vagare per terre desolate,|il suo pelo e la sua anima sono stati anneriti|dalla corruzione del mondo. Riceve|premi per la perfetta frequenza al lavoro.|
+|||||
+|||||
+|||||
+%s (Zombi)|Il compianto padre del Cane, sepolto molti anni fa.|Nemmeno la tomba ha potuto impedirgli|di preoccuparsi per i voti dei figli. Solo con|una pagella è possibile farlo riposare in pace.|
+%s (Zombi)|Una creatura strisciante che usa gli acquerelli per|un trucco horror (ma è già morto per davvero).|L'unica informazione che ti serve è che|possiede una potenza d'attacco spaventosa.|
+%s (Zombi)|Una tetra notte vagava per una torba|velenosa e più tardi si è svegliato morto.|Non sembra preoccuparsene, comunque.|Ora non sapremo mai se sia un lui o una lei.|
+%s (Zombi)|Nemmeno la morte può spingere questo suino|regale a lasciare il trono. Indossa un teschio|stiloso finché non ritroverà la corona rubata.|Non mi decompongo, invecchio come il vino.|
+%s (Zombi)|Dopo il fiasco del suo film d'esordio,|nel cuore di Ping è rimasta un'enorme voragine.|Nemmeno la morte da recensioni negative|fermerà la sua vendetta sull'ingrato pubblico!|
+%s (Zombi)|Dopo essere stato cacciato dal paradiso a causa|della sua faccia spaventosa, Gory vaga per la terra.|Qualcuno gli ha strappato un pezzo di testa|mentre scommetteva, pensando fosse un parrucchino. Ahi.|
+%s (Zombi)|Nella nebbia del mattino ho visto una Foca.|Mi chiamò per unirmi a lui in una voce né viva|né morta, invitandomi a seguirlo sulla|riva lontana di un mondo misterioso...|
+%s (Zombi)|Dopo 50 anni come pugile, il suo corpo|non ha retto più a tutto quel doping.|Le sostanze chimiche però erano abbastanza|forti da farle tirare pugni pure da morta.|
+%s (Zombi)|Un povero alligatore morto di fame.|Troppo debole per attraversare il Fiume Stige,|è tornato in questo mondo come un fantasma|sgangherato. A volte scambiato per un manubrio.|
+%s (Zombi)|Un abusivo ha preso dimora nella|Tomba di Zane! Che maleducato! Chiunque|sia questo misterioso cadavere, la sua|voglia di spaccare sembra viva e vegeta.|
+%s (Zombi)|Gli spiriti di coloro che sono stati sconfitti dai|Battle Cats si sono riuniti in|una tempesta vendicativa. Come puoi|sconfiggere un vortice già morto?|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Zombi)|La moglie di Zane doveva essere|sepolta qui, ma è ancora viva|a 158 anni e sembra che qualcun altro|si sia impossessato dell'immobile.|
+%s (Zombi)|Meglio lasciar stare questo pigrone,|mangerà chiunque disturbi il suo sonnellino.|O peggio: ti racconterà storie infinite sulla sua|carriera nella lega minore di baseball.|
+|||||
+|||||
+|||||
+|||||
+%s (Zombi)|Un antico eroe dell'armata canina.|L'anno scorso si è registrato come specie|in via d'estinzione... gli anziani defunti sono molto|soli. Nome scientifico: Canis Mortus Tumbus|
+%s (Zombi)|È morta dopo un fallimentare intervento di|chirurgia plastica sulla sua gobba fuori moda. Però|è un bel cadavere, la prima modella non-morta!|Non parlare del suo colore innaturale...|
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Zombi)|Lo spirito di un Cane guerriero ha posseduto un|giovane attore che ha accettato di interpretarlo|in un adattamento teatrale su di lui. Non avvicinarti|troppo... il suo castello infestato potrebbe reagire.|
+%s (Zombi)|Lo zombi migliore è quello istruito, diceva|sempre papà. Ma dietro quella minacciosa|copertina si celano numeri arretrati di fumetti|horror trash. Immune da tutti gli effetti negativi.|
+%s|Spesso vista sull'ultimo treno verso casa dopo|una notte di follie. Ora riflette sulla|sua giovinezza superficiale e giura che migliorerà.|Ha fatto tardi al lavoro solo 3 volte questa settimana.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Angelico)|Un sapore paradisiaco del mare, inviato|come una visione mistica dal Gatto divino per|i puri di cuore. Un paradiso culinario|attende coloro che superano questa prova di fede.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s|In cima alla Torre celestiale, questa leggenda|vivente delle arti marziali aspetta coloro che sono degni.|Adora umiliare i ragazzini ricchi che pensano di|poter comprare l'illuminazione. Ama la limonata.|
+%s|Professionista di eSports, famoso perché|in preda all'ira abbandona i tornei usando la|lingua per premere il pulsante reset. È un|modo per mantenere il bilancio vittorie/sconfitte.|
+|||||
+|||||
+|||||
+|||||
+%s (Alieno)|Cane ufficiale nei marine alieni.|Ha ricevuto ottimi voti nell'accademia|specializzandosi in teletrasporto.|Ma il mercato del lavoro è duro ormai.|
+%s (Alieno)|L'ideatore della tattica di teletrasporto.|I Ping sono una razza di guerrieri orgogliosi|con conoscenze scientifiche avanzate, grazie|alla pratica quotidiana del sudoku.|
+%s (Alieno)|Un potente stratega ancora single grazie|alla sua faccia spaventosa. In realtà è un ottimo cuoco|e ha un'estensione vocale di sei ottave,|ma è troppo timido per mostrare i suoi talenti.|
+%s (Alieno)|Madre di tutti gli Eleboin, proteggerà i suoi|dolci figlioli con la sua pelle di ferro.|Invade almeno tre nuovi pianeti alla settimana|per mantenere le sue belle curve.|
+%s (Alieno)|Può percepire tutti i tuoi pensieri zozzi.|Mantieni una mente pura vicino a lui, o|le energie lascive lo renderanno più forte.|Non ha alcun tipo di esperienza.|
+%s (Alieno)|Prode soldato della grande Armata di Talpe,|salvaguarda la pace e l'amore in tutto|il cosmo. Il suo montante antimaterico|catapulta i Gatti in un'altra dimensione.|
+%s (Alieno/Flutt.)|Arma biologica allevata dai Cani Spaziali|per attacchi a sorpresa sugli avamposti felini.|Invisibile davanti, ma dato che il gioco è in|orizzontale, la sua furtività non funziona.|
+%s (Fluttuante)|Ehi, sono io, Gatto divino.|Sembra che ti stia divertendo|a leggere la mia descrizione.|È quasi ora del mio bagno, però, quindi...|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Angel./Alieno)|Un uccello super sicuro di sé chiamato così|dai genitori che credevano in lui. La sua|arroganza è così estrema che ha consumato|la sua dimensione nativa e l'ha portato in questa.|
+|||||
+%s (Alieno)|Uno strappo nello spazio-tempo apertosi dentro|una nebulosa. Manipola il continuum per|teletrasportare i Gatti. Puoi vincere se|attacchi da lontano...|
+|||||
+%s (Angelico)|Un adorabile suino con un nasino a forma di cuore.|Non vuole farti del male con il suo allegro|saltellare, ma annienterà la tua voglia di combattere.|Vuole tornare a casa dalla sua famiglia celeste.|
+%s|Sacro guardiano della Torre celestiale. Solo|chi supera la sua prova è ritenuto degno.|A causa dei pochi visitatori, ha accettato|di insegnare danza moderna ai bambini dell'asilo.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Rosso)|Aspirante lanciatore la cui passione ardente|di solito finisce per riscaldare la panchina.|Spera di provare la potenza del suo attacco|da lontano con la palla prima o poi!|
+%s (Alieno)|Pecora stellare con una potente barriera.|Sembra abbia il pelo a punta, ma è|il segno del cuscino. Poiché tutti la|tengono a distanza, è paranoica sul suo alito.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Fluttuante)|Artefatto di un antico impero che un tempo regnava|sulla Terra. Un'oscura congrega di Cani ha riportato|in vita questa forza terribile, ma per fortuna hanno|solo una copia delle istruzioni da condividere!|
+%s (Antico)|Un artefatto inarrestabile che distrugge senza pietà|qualsiasi intruso nel regno degli Antichi.|Le profezie parlano di qualcuno che possa resistere|alle oscure maledizioni lanciate da questo guardiano.|
+%s (Antico)|Nemesi ancestrale dell'Impero dei Gatti.|Serio e diligente come ogni Cane,|ma a volte sbadatamente gli scappa una maledizione|se si concentra a lungo. Ops, scusate!|
+|||||
+|||||
+|||||
+|||||
+%s (Antico)|Parla solo in inglese antico: ciò|significa che è un giovane Antico.|Se i Gatti prendessero sul serio lo studio,|potrebbero imparare molto da lui.|
+%s (Antico)|Un antico profeta che scopre le tragedie|imminenti viaggiando nel tempo. I suoi viaggi|non sono molto precisi, quindi quando arriva|a casa le cose peggiori sono già accadute...|
+%s (Antico/Flutt.)|Sindaca dell'antico ducato dei Lepidotteri.|I cittadini odiano le sue storie lunghe e|farneticanti che fanno andare avanti le|riunioni del consiglio comunale fino a tardi.|
+|||||
+|||||
+%s (Alieno)|Consegne espresse in tutta la galassia!|La sua ragazza pensa si debba trovare|un vero lavoro, così si è unito all'élite|delle truppe d'assalto aliene.|
+%s (Alieno)|Chef geniale sottovalutato di un bistrot|stellato. Teletrasporta ciò che gli sembra|poco invitante di nuovo in cucina. Qual è il miglior|vino da abbinare al Gatto?|
+%s|Ciao! Sono io, il Gatto divino più amato di sempre!|Te la sei spassata nel capitolo 2 di Cosmo?|Sai, la vita può essere difficile... Dalla|settimana scorsa sono tornato a vivere da mia madre...|
+%s (Antico)|Celebrità in voga lo scorso anno, famosa per|il suo gusto eccentrico in fatto di occhiali. Ma|in realtà i suoi occhi sono proprio così... Strano che|li porti così bene. Antichi, dico bene?|
+|||||
+|||||
+%s (Antico/Flutt.)|Forma di vita il cui scopo è far estinguere i Gatti.|Pensava di averli distrutti mille anni fa durante|una battaglia con l'armata felina originale.|È la più piccola e bella tra le Facce.|
+%s (Antico)|Struzzo che è anche uno storico cabarettista.|Fonte di ispirazione per i giovani comici, sta|però diventando più consapevole del gap|generazionale sul palco.|
+|||||
+|||||
+%s (Zombi)|Fatto dalle parti più forti di diversi|Professor Orsi defunti. La testa non voleva|stare dritta, così è stata imbullonata.|La voglia di uccidere sembra in ascesa...|
+%s (Zombi)|Grazie a un tragico incidente con una|permanente, questo maialino adesso ha degli|stilosi rasta... ed è un ex-cinghiale.|Che improvviso cambio di immagine.|
+|||||
+|||||
+%s (Nero)|Un'adorabile mangia-sogni che vaga|mezza-addormentata. Porta ancora il pannolino anche|se ha 14 anni. Non spaventare questa tenera|sonnambula, non importa quanto forte russi.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Antico)|Il più antico dei cicloni, nato proprio dal|Big Bang. Non si è indebolito nemmeno|dopo aver divorato i dinosauri. Infligge maledizioni,|diventa più forte dopo aver subito danni.|
+|||||
+|||||
+|||||
+|||||
+%s (Alieno)|Si dice sia il figlio segreto di una famosa|tempesta. Impossibile capire di chi,|però. Teletrasporta chiunque si avvicini.|Ha poca resistenza, quindi vai a oltranza!|
+%s (Alieno)|Questa malvagia banda di pesci cattivoni|ne ha abbastanza dei Gatti che causano problemi|nel loro territorio. Fuori dal fango, pronti a lottare!|Non chiamateli serpenti, non gli piace.|
+%s (Alieno)|Una salamandra spaziale allergica ai gatti.|I suoi implacabili starnuti provocano potenti|spostamenti d'aria che i Gatti piccoli dovrebbero|evitare, se non vogliono finire in un'altra dimensione.|
+%s|Oh, eccoti di nuovo! Il Gatto divino non si|sconfigge così facilmente! Sì, ti è andata bene|nell'ultimo capitolo di Cosmo, direi. Forse|hai dimostrato di poter lavorare come mio aiutante...|
+%s (Alieno/Flutt.)|Dopo millenni sperduta tra le stelle, una|strana forza ancora una volta devasta|l'Impero galattico dei Gatti. Il caos che|scatena potrebbe riscrivere le leggi della realtà.|
+|||||
+|||||
+%s (Antico)|Un antico combattente estratto dai Cani.|Il corpo in argilla sembra debole ma è rinforzato|con potere Antico. Il suo busto umano è stato|per errore attaccato a un corpo di cavallo, ma funziona.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Zombi)|Uno scienziato pazzo si è dato fuoco|alla coda per testare i limiti del potere|aviario. Il panico gli ha dato la|forza necessaria per volare in paradiso.|
+%s (Zombi)|Quei tipi sono sempre insieme, vivi o morti.|Per fortuna c'era una navetta dal cimitero|fino al campo di battaglia. La non-morte|non cura la codipendenza...|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Antico)|Direttore di filiale di un'azienda di|commerci sottomarini. Noto per la sua|personalità tossica, il matrimonio lo ha reso|più alla mano, nonostante l'aspetto appuntito.|
+|||||
+%s (Alieno)|Un aspirante idolo che appare una volta ogni|100 anni, spesso scambiato per un asteroide.|Il suo entourage di fan fedeli forma una coda|luccicante visibile ad anni luce di distanza.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Rosso/Nero)|Un'espressione maliziosa si cela dietro questa|immagine tradizionale di innocente virtù.|Cerca vendetta su chiunque abbia|approfittato della sua ingenuità giovanile.|
+%s (Angelico)|Gli esami di abilitazione per arcangelo|si avvicinano, così si porta i libri ovunque.|I Gatti che interromperanno il suo studio|saranno puniti con magie tossiche. Shhh!|
+%s (Antico/Flutt.)|Regina del palco che ha iniziato come semplice|ballerina di riserva 888 anni fa. Amata da|tutto l'alveare anche in età avanzata. Alcuni|droni dicono che lei è la vera regina...!|
+|||||
+%s|Questo mostriciattolo sembra sempre in pace|mentre mangia cetrioli nello stagno,|finché non scatta e ti colpisce con|un attacco a valanga assurdo!|
+%s (Antico)|Guardiani delle lande primordiali.|Nessun intruso è mai uscito vivo dalla loro|foresta sacra. Solo chi li sconfigge|può sbirciare dietro la maschera.|
+%s (Metallico)|Cocco si offrì volontario per la cyborgizzazione|per diventare il membro più potente|del suo clan. Il budget è finito a metà|strada, ma lui fa funzionare il look.|
+%s (Fluttuante)|Tacchino che è anche un venditore provetto.|È andato da un veggente a ottobre e|ha ricevuto pessime notizie sul suo futuro.|Si prepara a scappare allenando le ali.|
+%s (Rosso) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare la Foca migliore. Si consiglia |estrema cautela: causa immobilità e indebolimento.|La sua letalità aumenta a ogni battaglia.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Alieno)|Playboy n. 1 dell'universo, amato dalle|signore solitarie di tutta la galassia.|Bastano poche parole da parte sua|e chiunque comincerà a vedere le stelle.|
+|||||
+|||||
+|||||
+%s (Nero) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare l'Elenoir migliore, di impareggiabile|stazza e aggressività, con attacchi che rallentano.|La sua letalità aumenta a ogni battaglia.|
+%s (Zombi)|Una specie di Clionel in qualche modo sopravvissuto (?)|all'estinzione di massa degli oceani inquinati del suo|mondo. Non avvicinarti mai più a me o ai miei figli.|Pare che paralizzi i Gatti con la paura.|
+%s (Zombi)|Amato nipote dello zio senza figli Ziclone.|Ha la forza della madre e lo spirito timido del|padre, e li unisce in una piccola tempesta affamata|che nasconde al primo segno di pericolo.|
+%s (Angelico)|Leale fino alla fine, attende pazientemente|l'arrivo del suo padrone ai cancelli del paradiso.|Una famosa statua che lo rappresenta durante un attacco a|valanga è un punto di incontro gettonato tra gli adolescenti.|
+%s|Un bebè esperto con oltre 7 anni di esperienza|nell'infanzia. Ha perfezionato il pianto finto, abbastanza|potente da stendere gli estranei. Rifiutato|da 2 asili d'élite a causa di questo "talento".|
+%s (Fluttuante) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare la Falena migliore. Con le sue ali|giganti provoca respinte ai danni delle prede.|La sua letalità aumenta a ogni battaglia.|
+%s|Capo di un potente clan in pensione, comanda|ancora segretamente. Ha costruito un nascondiglio segreto|su un'alta torre per passare del tempo con la sua ragazza,|prima che si intrufolassero quei Gatti cafoni!|
+%s (Metallico)|Mascotte/allenatore di base per i campioni dell'NLB, i|Koala Kattivi. Costringe a rigiocare tante partite|perché invade il campo quando la squadra sta perdendo.|La durezza del suo allenamento è temuta da tutti.|
+|||||
+|||||
+|||||
+%s (Rosso/Alieno/Zombi)|Un musicista da metropolitana che cambia i suoi tratti|concentrandosi su un'immagine diversa. Faceva parte di|una band molto famosa, ma l'ha abbandonata appeeena|prima che sfondassero per iniziare una carriera da solista.|
+|||||
+|||||
+|||||
+%s (Alieno) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare l'Yppo migliore, di stazza enorme|con l'abilità di rallentamento su chi oppone resistenza.|La sua letalità aumenta a ogni battaglia.|
+%s (Antico)|Soggetto 002 (Forma di vita paleobatterica)|Potenziale di combattimento: Incommensurabile.|Nonostante l'apparenza, tratto Fluttuante non presente|Rendimento corrispondente a capacità ridotta|
+%s (Zombi/Flutt.)|Un uccello così in forma da poter attraversare|il Fiume Stige ogni volta che vuole.|Sconvolto dal fatto di non poter impedire alla massa|che ha coltivato tanto duramente di marcire.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Antico)|Il promesso signore dei Gatti, divorato dall'orgoglio|nella sua maestria delle antiche stregonerie della foresta.|Ora è il re della rovina e si scaglia contro questo|mondo decadente con furiose valanghe e maledizioni.|
+|||||
+|||||
+%s|"Nessuno tingerà QUESTO Cinghio" grida il|giovane ribelle prima di andarsene sulla sua motocicletta.|A lui non interessa il giudizio del mondo degli adulti,|a lui interessa solo percorrere liberamente la sua strada.|
+|||||
+|||||
+%s (Rosso)|Dopo aver imparato Attacco a valanga con un corso online,|questa volpe ha accidentalmente colpito Suino con un'ondata|mentre si allenava illegalmente nel parco. Ora si camuffa|per sfuggire al lungo braccio della legge...|
+|||||
+|||||
+|||||
+|||||
+|||||
+%s|Ha rinunciato al riferimento al leone.|Come mai...? Gli studiosi hanno|provato a chiederglielo, ma per|la rabbia fa un attacco a mini-ondata.|
+|||||
+%s (Nero/Behemoth)|Guerriero aziendalista votato a una malvagia multinazionale.|Ha gli occhi iniettati di sangue dopo giorni di straordinari,|e vedere il tizio nuovo andarsene alle|17 lo ha fatto diventare pazzo.|
+|||||
+%s (Antico)|Nel cuore dell'antica foresta, la tribù|Doron vive nascosta dietro maschere|benedette dagli dei. Spezzare la maschera|libera una letale esplosione di energia divina.|
+%s (Aku)|Stanco della vita liceale, il fratello del Cane|è scappato per unirsi agli Aku.|Anche se il clan lo ritiene un traditore,|continua a pagare in segreto la retta del Cane.|
+%s (Aku)|Serpe segnata dalla fiamma blu del potere Aku.|Lancia un attacco a valanga al momento della morte.|Forse l'acqua è il suo punto debole, ma è un'informazione|totalmente inutile in questo gioco.|
+%s (Aku)|Un trio di abitanti della rete che ha venduto le proprie|anime cliccando sull'e-mail di spam per il reclutamento Aku.|Erano nemici rossi di basso livello, ma ora|sono imprenditori di successo che investono nel male.|
+%s (Aku)|Famoso per aver recitato in "Insonnia di Ping".|Per fare anche il seguito, ha fatto un patto Aku|per avere un corpo che non deve riposare. Gli hanno|anche messo un raggio che può sparare dalla fronte.|
+%s (Aku)|Licenziato dal paradiso per i continui errori in ufficio,|è stato presto reclutato dagli Aku|per la sua faccia spaventosa. Ora trasmette|in diretta la sua vita quotidiana nel Vortice Aku.|
+%s (Aku)|Ha fatto un patto con gli Aku: la sua anima|in cambio di foto molto difficili da trovare...|Niente domande. Ha uno scudo per proteggere|meglio l'inestimabile collezione di foto.|
+%s (Aku)|Ambasciatore d'élite dei regni Aku.|Stretta di mano decisa e sorriso abbagliante|per una contrattazione fisica impeccabile.|Se le cose si mettono male... va bene anche un'atomica.|
+%s (Aku)|Nessuno osa avvicinarsi a questo potentissimo Aku!|È quello che crede lui, ma in realtà ha un|carattere terribile ed è portatore di un gran numero|di batteri disgustosi. (Fonte: Ricercatore di Aku)|
+%s (Aku)|Una vasta tempesta del male che distrugge tutto. Le anime|che risucchia vengono mandate nei regni Aku|per unirsi alle armate malvagie di quel reame. Se perfori|il suo scudo potresti avere una possibilità.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Aku)|Un malvagio prete che vuole dominare tutti|i regni Aku. Usa altari per sigillare il potere dei|suoi nemici e risucchiare la loro forza vitale|per realizzare le sue oscure ambizioni.|
+%s (Aku)|Un mago che ruba energia vitale da usare nella|risurrezione rituale del Signore della Rovina.|Il mondo perfetto dei suoi sogni si realizzerà|o ci saranno delle sorprese inaspettate?|
+%s (Aku)|Il dio della distruzione, un tempo imprigionato|da grandi eroi e ora tornato in vita grazie ai rituali|di un Prete oscuro. Un'era di devastazione a lungo|dimenticata tornerà ancora una volta...|
+%s (Aku)|Nella sua ricerca ossessiva, l'imperatrice ha aperto|un grimorio maledetto ed è stata posseduta da un male|supremo. Con l'anima macchiata dal male, conduce|l'impero verso il disastro totale.|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+%s (Aku)|Aku con crisi di identità. "Sono un|serpente, un leone o un pesce?" chiede ai viandanti,|e li trasforma in pietra se sbagliano risposta.|Davvero pericolosa, con attacchi a valanga.|
+%s (Aku)|Malefica "esperta" di questioni di cuore, dà|sempre consigli sbagliati causando delusioni|d'amore. La si può trovare spesso in centro,|a sabotare tutti i primi appuntamenti.|
+%s (Aku)|Un Aku creato da una maschera maledetta per|portare avanti la risurrezione del Grande Aku.|Il miasma malefico della maschera risucchia la|linfa vitale da chiunque osi avvicinarsi.|
+%s (Aku)|Un cugino di Rennana, con corna nere come la notte.|Prima tutti ridevano delle sue corna,|ora è in cerca di vendetta e non si fermerà|finché il suo naso non diventerà rosso acceso.|
+%s (Aku)|Un asso del baseball dal cuore di pietra che|ha venduto l'anima del gemello agli Aku|per vincere un torneo. Un giocatore completo|che è stato scoperto dalla serie A.|
+%s (Aku)|Un Kory anarchico che canta in una band deathcore|metal. Non ha mai paura di gettarsi nella mischia,|bandito da molti locali per aver colpito con|attacchi a ondata l'ignaro pubblico.|
+|||||
+|||||
+|||||
+[%s] (Rosso)|I. Ena ha una dipendenza da finta|Vitamiao C e ha perso il contatto con la realtà,|sostenendo di essere un Berserker fatto per la battaglia.|Attacchi a valanga tengono a distanza i nemici.|
+%s (Angelico) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare il Mr. Angelo migliore, che guida|i peccatori con indebolimento e teletrasporto verso la|salvezza. La sua letalità aumenta a ogni battaglia.|
+%s (Zombi) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare il Ping migliore, a scala colossale|con l'abilità di spruzzare tossine in ogni direzione.|La sua letalità aumenta a ogni battaglia.|
+|||||
+|||||
+|||||
+|||||
+%s (Antico/Behemoth)|Un essere primordiale sacro, il più antico|tra tutte le creature della foresta.|Evoca i fulmini per mettere alla prova gli intrusi.|Chi sopravvive è ritenuto degno di vivere.|
+%s (Zombi)|Capy si stava godendo una splendida vacanza|alle terme... finché non è morta all'improvviso.|Una rompiscatole che protegge il suo angolo di|vasca teletrasportando lontano altri avventori.|
+|||||
+|||||
+%s (Behemoth)|Questo cane si trovava ai tropici e ha sentito|il richiamo della natura. Allora si è licenziato,|lasciandosi alle spalle un fratello gemello pur di|trascorrere una vita alla ricerca dell'onda perfetta.|
+%s (Rosso/Behemoth)|Un'anatra tornata in natura che ha evitato|per un pelo di diventare foie gras. Muove con|violenza la cresta e può trafiggere i nemici con|il suo becco gigante. Bestia tra le bestie.|
+%s (Fluttuante/Behemoth)|Un Gufotto che ha scoperto il suo lato spericolato|a 79 anni. Un anziano che scende in un vulcano|e scatena anni di rabbia repressa sotto forma|di una palla di luce. Può infliggere attacco a valanga.|
+%s (Alieno/Behemoth)|Un Helmut Grank che ha ricevuto l'irrazionale potere|dell'amore e un bel posto in cui vivere.|Le sue chele giganti possono rallentare i nemici,|mentre infligge dolore con multi-attacchi a distanza.|
+%s (Rosso/Gigante)|Questo coniglietto è scappato da un laboratorio segreto|che modificava il genoma. I negozi che gestiva sono|falliti durante la sua assenza, ma i gioielli|sul suo didietro sono di buon auspicio.|
+%s|Nipote di Cane. Viene dal futuro per modificare|il passato, in cui suo nonno fu bocciato a un esame.|Le domande al test di ingresso sono così|diverse che sta avendo problemi a modificare il passato.|
+%s (Antico/Flutt.)|Un'arma distruttiva costruita dagli antichi.|Dicono che il suo raggio sia capace di grandi distruzioni.|Un saggio l'aveva nascosta sul fondo dell'oceano.|Dicono stia galleggiando in superficie.|
+%s (Aku) (Behemoth)|Un Behemoth potente diventato demoniaco dopo aver|perso la propria casa. Non gli piacciono gli |alberi della giungla in cui si trova. Può sparare|aculei dalla coda che immobilizzano i movimenti.|
+%s (Nero) (Behemoth)|Il terzo dei tre Fratelli Uccelli. A casa nell'oscurità,|ha coltivato piante pericolose, o almeno così|dicono. Può abbattere i nemici con ripetuti|colpi del becco e infliggere veleno.|
+%s (Antico)|Un cane di argilla creato per fare da guardia alle case.|Ha una serie di funzionalità di interferenza e disturbo|per impedire a chiunque di raggiungere la casa.|Miglior caratteristica: assomiglia al padrone.|
+%s (Ang.) (Behemoth)|Sovrano della natura con un volto spaventoso che|nasconde il suo cuore gentile e il desiderio di proteggere|l'ambiente. Con ondate, valanghe e il suo sacro|pugno, sconfigge i malvagi bracconieri.|
+%s (Zombie) (Behemoth)|Una formica che ha lavorato duramente per raccogliere cibo|per l'inverno, per poi mangiare troppo e ritrovarsi|in bilico tra la vita e la morte.|Il suo stomaco esplode se si innervosisce.|
+%s (Ang.) (Gigante)|Figlio di un imprenditore, ha trovato lavoro grazie a delle|conoscenze. Si è sottoposto a un intervento al genoma|per non essere paragonato al proprio padre.|In futuro ha intenzione di candidarsi alle elezioni.|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+%s (Behemoth)|Uccello ancestrale avvolto nei tuoni che vive in|una torre nel cielo. Le leggende dicono che è uno|spettacolo da vedere, ma nasconde una personalità violenta|che diventa più feroce quando viene messo in difficoltà.|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】 (Antico/Behemoth)|Anatra anziana seguita da tre piccoli.|Tende a perdere il controllo. Madre severa|che alleva gli anatroccoli che un giorno lasceranno|il nido. Invia denaro al suo anatroccolo più giovane.|
+【%s】 (Antico/Behemoth)|Una grande scimmia che custodisce i Boschi Sacri|fin dall'antichità. È ritenuto il progenitore|dell'uomo. Può resistere ai Behemoth che|esercitano la "Maledizione Antica".|
+【%s】 (Antico/Gigante)|Assorbe l'energia che compone ogni cosa.|Se risveglia tutto il suo potere, colpisce qualsiasi cosa|con i suoi enormi pugni senza alcuna pietà e|finisce la sua preda con una potenza implacabile.|
+【%s】 (Fluttuante)|Vaga per i mondi lasciando una scia |di distruzione e creazione. La sua|composizione è misteriosa quanto il suo potere.|È immune a tutti gli effetti negativi.|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】(Aku) (Behemoth)|Un apprezzato scultore che vive nella natura. |Ha fatto un patto Aku per ottenere la visione a raggi X|per scolpire meglio soggetti nudi, ma ora|vede attraverso i vestiti e la pelle, fino alle ossa...|
+【%s】|仮1|仮2|仮3|仮4|
+【%s】(Aku)|Inganna con la bellezza e il prestigio per attirare|l'attenzione. Vive una vita molto lussuriosa.|Nota per aver fatto scalpore con la sua moda.|Dona tutti i suoi soldi ai meno fortunati.|
+【%s】(Aku) (Gigante)|Un laboratorio segreto ha modificato un genoma|per migliorare gli amici di Cerbero, di misura gigante,|con attacchi valanga/immobilizzanti.|La sua letalità aumenta a ogni battaglia.|
+【%s】(Fluttuante)|Fratellino di Ciclone bianco. Studia aspirazione e|durata all'ultimo anno di università. Per via dell'aumento|di aspirapolveri robot, sta avendo difficoltà|a trovare un posto di lavoro.|
+【%s】(Rosso/Behemoth)|Enorme Pegaso che può incendiare i cieli e trasformare|la terra in cenere. Chiunque posi gli occhi su di lui|viene inghiottito da mini-ondate e legato sul posto|per essere bruciato vivo.|
+%s (Alieno/Behemoth)|Maiale da compagnia della 56ª regina del Regno dei Suini.|Fuggito dopo aver sopportato fin troppo di andare |in giro vestito. Mentre si gode la vita da maiale selvatico,|si rende conto che i vestiti erano la sua stessa pelliccia.|
+%s (Behemoth)|Cresciuto in un mondo violento, non ha tatto quando |si tratta di donne. Dopo essere stato rifiutato |mille volte, ha acquisito la forza mentale|per superare qualsiasi effetto di stato negativo.|
+%s (Aku)|Dopo 560.000 anni è tornato nel nostro mondo|nella forma di un tiranno infernale per farsi una foto |in vista di un appuntamento al buio. Vuole far colpo con|l'altezza, i successi e la glicemia alta.|
+【%s】|Strega raccapricciante che risiede nelle profondità|di un labirinto. Sottopone le vittime cadute nelle sue|trappole a storie infinite e senza senso,|sempre sul fratello maggiore nei regni Aku.|
+【%s】|||||
+【%s】|||||
+【%s】|||||
+【%s】|||||
+【%s】|||||
+%s (Angelico)|Lontra che lavora ai cancelli del paradiso.|Manda chi non è degno di entrare nei cieli|negli inferi con la sua sfera dorata. Evoca|mostri con il potere della valanga.|
+%s (Antico/Behemoth)|L'antenato di tutte le specie invasive. Doveva|sterminare le bestie nocive, ma il suo|incontrollabile appetito lo ha reso difficile da|domare ed è diventato un pericolo per tutti.|
+【%s】|||||
