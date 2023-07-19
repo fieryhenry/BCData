@@ -1,11 +1,1 @@
-/apks/
-/decrypted_lists/
 /run.py
-decrypted
-extracted
-packs
-*.apk
-resLocal.list
-DataLocal.list
-original_extracted
-.*
