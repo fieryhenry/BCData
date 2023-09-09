@@ -1,0 +1,15 @@
+id	map	stage	number	sendText	collaborationText
+0	2005	0	0	collabo_send_message	collaboration_txt2
+1	2009	0	0	collabo_send_message	collaboration_txt2
+2	2011	0	0	collabo_send_message	collaboration_txt2
+7	2019	0	1	collabo_send_message	collaboration_txt1
+8	2019	1	2	collabo_send_message	collaboration_txt1
+9	2019	2	3	collabo_send_message	collaboration_txt1
+21	2096	0	1	collabo_send_message	collaboration_txt1
+22	2097	0	2	collabo_send_message	collaboration_txt1
+23	2098	0	1	collabo_send_message	collaboration_txt1
+24	2098	2	2	collabo_send_message	collaboration_txt1
+25	2045	0	3	collabo_send_message	collaboration_txt1
+26	2075	0	4	collabo_send_message	collaboration_txt1
+27	2099	0	5	collabo_send_message	collaboration_txt1
+31	2132	0	0	collabo_send_message1	collaboration_txt3
