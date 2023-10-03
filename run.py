@@ -39,4 +39,5 @@ def do(cc: core.CountryCode):
     apk.get_server_path(apk.country_code).copy_tree(server_path)
 
 
-do(core.CountryCode.EN)  # Change this to download a different version
+if __name__ == "__main__":
+    do(core.CountryCode.EN)  # Change this to download a different version
