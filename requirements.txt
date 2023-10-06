@@ -1,2 +1,1 @@
-tbcml==1.0.1
-moviepy==1.0.3
+tbcml==1.0.1.1
