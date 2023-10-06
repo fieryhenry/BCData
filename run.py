@@ -2,7 +2,7 @@ from tbcml import core
 
 # requires latest version of tbcml from github
 # https://github.com/fieryhenry/TBCModLoader#from-source
-# currently working as of commit 64fb93a
+# currently working as of commit 1aa400b
 
 
 def do(cc: core.CountryCode):
@@ -10,7 +10,7 @@ def do(cc: core.CountryCode):
     print(gv.to_string())
 
     apk = core.Apk(gv, cc)
-    apk.download()
+    apk.download(progress=None)
     apk.extract()
 
     game_data = core.GamePacks.from_apk(apk)
