@@ -26,6 +26,7 @@ jobs:
               git clone https://github.com/fieryhenry/TBCModLoader.git
               cd TBCModLoader
               python -m pip install .
+              cd ..
     
           - name: Run Script
             run: python run.py
