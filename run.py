@@ -5,6 +5,7 @@ from tbcml import core
 
 
 def do(cc: core.CountryCode):
+    print(cc.get_code())
     gv = core.GameVersion.from_string_latest("latest", cc)
     print(gv.to_string())
 
