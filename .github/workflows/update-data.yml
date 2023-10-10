@@ -1,8 +1,8 @@
 name: Update Game Data
 
 on:
-    schedule:
-        - cron: '0 6 * * *' # every day at 6am UTC
+    #schedule:
+    #    - cron: '0 6 * * *' # every day at 6am UTC
     workflow_dispatch: # allows manual triggering
 
 permissions:
@@ -21,12 +21,15 @@ jobs:
               python-version: '3.10' # install the python version needed
     
           - name: Install dependencies
+            #run: |
+            #  python -m pip install --upgrade pip
+            #  git clone https://github.com/fieryhenry/TBCModLoader.git
+            #  cd TBCModLoader
+            #  python -m pip install .
+            #  cd ..
             run: |
               python -m pip install --upgrade pip
-              git clone https://github.com/fieryhenry/TBCModLoader.git
-              cd TBCModLoader
-              python -m pip install .
-              cd ..
+              python -m pip install tbcml
     
           - name: Run Script
             run: python run.py
