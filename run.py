@@ -1,7 +1,7 @@
 from tbcml import core
 
 # https://github.com/fieryhenry/TBCModLoader
-# currently working as of version 1.0.1.1
+# currently working as of commit 6a243e2
 
 
 def do(cc: core.CountryCode):
