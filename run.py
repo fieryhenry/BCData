@@ -1,7 +1,7 @@
 from tbcml import core
 
 # https://github.com/fieryhenry/TBCModLoader
-# currently working as of commit 6a243e2
+# currently working as of commit 18dcd32
 
 
 def do(cc: core.CountryCode):
@@ -10,7 +10,10 @@ def do(cc: core.CountryCode):
     print(gv.to_string())
 
     apk = core.Apk(gv, cc)
-    apk.download(progress=None)
+    success = apk.download()  # progress=None)
+    if not success:
+        print("Failed to download apk")
+        return
     apk.extract()
 
     game_data = core.GamePacks.from_apk(apk)
@@ -82,4 +85,5 @@ def update_all():
 
 
 if __name__ == "__main__":
-    update_all()
+    # update_all()
+    do(core.CountryCode.KR)
