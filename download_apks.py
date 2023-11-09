@@ -15,6 +15,10 @@ def do(cc: core.CountryCode, gv: core.GameVersion):
         .add(gv.to_string() + ".apk")
     )
 
+    if output_path.exists():
+        print("Already exists")
+        return
+
     apk = core.Apk(gv, cc)
     success = apk.download()  # progress=None)
     if not success:
