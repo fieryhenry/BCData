@@ -3,6 +3,20 @@
         "12.7.0": "https://archive.org/download/jp.co.ponos.battlecatsen.120700/12.7.0.apk"
     },
     "jp": {},
-    "kr": {},
+    "kr": {
+        "12.7.0": "https://archive.org/download/jp.co.ponos.battlecatskr/12.7.0.apk",
+        "12.6.1": "https://archive.org/download/jp.co.ponos.battlecatskr/12.6.1.apk",
+        "12.6.0": "https://archive.org/download/jp.co.ponos.battlecatskr/12.6.0.apk",
+        "12.5.0": "https://archive.org/download/jp.co.ponos.battlecatskr/12.5.0.apk",
+        "12.4.1": "https://archive.org/download/jp.co.ponos.battlecatskr/12.4.1.apk",
+        "12.4.0": "https://archive.org/download/jp.co.ponos.battlecatskr/12.4.0.apk",
+        "12.3.0": "https://archive.org/download/jp.co.ponos.battlecatskr/12.3.0.apk",
+        "12.2.1": "https://archive.org/download/jp.co.ponos.battlecatskr/12.2.1.apk",
+        "12.2.0": "https://archive.org/download/jp.co.ponos.battlecatskr/12.2.0.apk",
+        "12.1.1": "https://archive.org/download/jp.co.ponos.battlecatskr/12.1.1.apk",
+        "12.1.0": "https://archive.org/download/jp.co.ponos.battlecatskr/12.1.0.apk",
+        "12.0.0": "https://archive.org/download/jp.co.ponos.battlecatskr/12.0.0.apk",
+        "11.10.0": "https://archive.org/download/jp.co.ponos.battlecatskr/11.10.0.apk"
+    },
     "tw": {}
 }
