@@ -1,8 +1,7 @@
 from tbcml import core
 
 # https://github.com/fieryhenry/TBCModLoader
-# currently working as of commit 18dcd32
-
+# currently working as of commit 82099b8
 
 def do(cc: core.CountryCode):
     print(cc.get_code())
@@ -44,7 +43,6 @@ def do(cc: core.CountryCode):
     delete_old(cc)
     update_latest_txt(cc)
 
-
 def delete_old(cc: core.CountryCode):
     all_paths: list[core.Path] = []
     for folder in core.Path(".").get_dirs():
@@ -56,7 +54,6 @@ def delete_old(cc: core.CountryCode):
         if path.get_file_name() == f"{latest_version.to_string()}{cc.get_code()}":
             continue
         path.remove()
-
 
 def update_latest_txt(cc: core.CountryCode):
     latest_version = core.GameVersion.from_string_latest("latest", cc)
@@ -78,12 +75,9 @@ def update_latest_txt(cc: core.CountryCode):
     lines[index] = latest_version.to_string() + cc.get_code()
     path.write(core.Data("\n".join(lines).encode("utf-8")))
 
-
 def update_all():
     for cc in core.CountryCode.get_all():
         do(cc)
 
-
 if __name__ == "__main__":
-    # update_all()
-    do(core.CountryCode.JP)
+    update_all()
