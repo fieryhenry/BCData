@@ -1,41 +1,39 @@
 name: Update Game Data
 
 on:
-    #schedule:
-    #    - cron: '0 6 * * *' # every day at 6am UTC
-    workflow_dispatch: # allows manual triggering
+  schedule:
+    - cron: '0 6 * * *' # every day at 6am UTC
+  workflow_dispatch: # allows manual triggering
 
 permissions:
-    contents: write
+  contents: write
 
 jobs:
-    update:
-        runs-on: ubuntu-latest
-        steps:
-          - name: Checkout Repository
-            uses: actions/checkout@v3 # checkout the repository content
-    
-          - name: Set up Python 3.10
-            uses: actions/setup-python@v4
-            with:
-              python-version: '3.10' # install the python version needed
-    
-          - name: Install dependencies
-            #run: |
-            #  python -m pip install --upgrade pip
-            #  git clone https://github.com/fieryhenry/TBCModLoader.git
-            #  cd TBCModLoader
-            #  python -m pip install .
-            #  cd ..
-            run: |
-              python -m pip install --upgrade pip
-              python -m pip install tbcml
-    
-          - name: Run Script
-            run: python run.py
-          
-          - name: Commit changes
-            uses: stefanzweifel/git-auto-commit-action@v4 # commit changes
-            with:
-              commit_message: Update Game Data
-    
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4 # checkout the repository content
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' # install the python version needed
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install PyQt5
+          git clone https://github.com/fieryhenry/TBCModLoader.git
+          cd TBCModLoader
+          python -m pip install .
+          cd ..
+          rm -rf TBCModLoader
+
+      - name: Run Script
+        run: python run.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5 # commit changes
+        with:
+          commit_message: Update Game Data
