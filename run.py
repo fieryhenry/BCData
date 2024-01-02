@@ -38,7 +38,7 @@ def do(cc: core.CountryCode):
 
     server_path = core.Path(f"{cc.get_code()}_server")
 
-    apk.download_server_files(copy=True)
+    apk.download_server_files()
     apk.get_server_path(apk.country_code).copy_tree(server_path)
 
     delete_old(cc)
@@ -86,4 +86,4 @@ def update_all():
 
 if __name__ == "__main__":
     # update_all()
-    do(core.CountryCode.TW)
+    do(core.CountryCode.JP)
