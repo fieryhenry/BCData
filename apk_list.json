@@ -1,8 +1,14 @@
 {
     "en": {
-        "12.7.0": "https://archive.org/download/jp.co.ponos.battlecatsen.120700/12.7.0.apk"
+        "13.0.0": "https://archive.org/download/jp.co.ponos.battlecatsen/13.0.0.apk",
+        "12.7.0": "https://archive.org/download/jp.co.ponos.battlecatsen/12.7.0.apk",
+        "12.6.1": "https://archive.org/download/jp.co.ponos.battlecatsen/12.6.1.apk",
+        "12.3.0": "https://archive.org/download/jp.co.ponos.battlecatsen/12.3.0.apk",
+        "6.10.0": "https://archive.org/download/jp.co.ponos.battlecatsen/6.10.0.apk"
     },
-    "jp": {},
+    "jp": {
+        "13.1.1": "https://archive.org/download/jp.co.ponos.battlecats/13.1.1.apk"
+    },
     "kr": {
         "13.0.0": "https://archive.org/download/jp.co.ponos.battlecatskr/13.0.0.apk",
         "12.7.0": "https://archive.org/download/jp.co.ponos.battlecatskr/12.7.0.apk",
@@ -40,7 +46,16 @@
         "10.3.0": "https://archive.org/download/jp.co.ponos.battlecatskr/10.3.0.apk",
         "10.2.1": "https://archive.org/download/jp.co.ponos.battlecatskr/10.2.1.apk",
         "10.2.0": "https://archive.org/download/jp.co.ponos.battlecatskr/10.2.0.apk",
+        "10.1.0": "https://archive.org/download/jp.co.ponos.battlecatskr/9.10.0.apk",
+        "9.10.0": "https://archive.org/download/jp.co.ponos.battlecatskr/9.10.0.apk",
+        "9.9.0": "https://archive.org/download/jp.co.ponos.battlecatskr/9.9.0.apk",
+        "9.8.0": "https://archive.org/download/jp.co.ponos.battlecatskr/9.8.0.apk",
+        "9.7.0": "https://archive.org/download/jp.co.ponos.battlecatskr/9.7.0.apk",
+        "9.4.0": "https://archive.org/download/jp.co.ponos.battlecatskr/9.4.0.apk",
+        "8.7.0": "https://archive.org/download/jp.co.ponos.battlecatskr/8.7.0.apk",
+        "8.6.0": "https://archive.org/download/jp.co.ponos.battlecatskr/8.6.0.apk",
         "8.3.0": "https://archive.org/download/jp.co.ponos.battlecatskr/8.3.0.apk",
+        "8.2.2": "https://archive.org/download/jp.co.ponos.battlecatskr/8.2.2.apk",
         "8.2.1": "https://archive.org/download/jp.co.ponos.battlecatskr/8.2.1.apk",
         "8.0.0": "https://archive.org/download/jp.co.ponos.battlecatskr/8.0.0.apk",
         "7.2.0": "https://archive.org/download/jp.co.ponos.battlecatskr/7.2.0.apk",
@@ -48,5 +63,7 @@
         "5.3.0": "https://archive.org/download/jp.co.ponos.battlecatskr/5.3.0.apk",
         "1.0.2": "https://archive.org/download/jp.co.ponos.battlecatskr/1.0.2.apk"
     },
-    "tw": {}
+    "tw": {
+        "13.0.0": "https://archive.org/download/jp.co.ponos.battlecatstw/13.0.0.apk"
+    }
 }
