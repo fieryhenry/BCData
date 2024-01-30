@@ -65,8 +65,17 @@
     },
     "tw": {
         "13.0.0": "https://archive.org/download/jp.co.ponos.battlecatstw/13.0.0.apk",
+        "12.7.0": "https://archive.org/download/jp.co.ponos.battlecatstw/12.7.0.apk",
         "12.6.1": "https://archive.org/download/jp.co.ponos.battlecatstw/12.6.1.apk",
         "12.6.0": "https://archive.org/download/jp.co.ponos.battlecatstw/12.6.0.apk",
-        "9.9.0": "https://archive.org/download/jp.co.ponos.battlecatstw/9.9.0.apk"
+        "12.5.0": "https://archive.org/download/jp.co.ponos.battlecatstw/12.5.0.apk",
+        "12.4.1": "https://archive.org/download/jp.co.ponos.battlecatstw/12.4.1.apk",
+        "12.4.0": "https://archive.org/download/jp.co.ponos.battlecatstw/12.4.0.apk",
+        "12.3.0": "https://archive.org/download/jp.co.ponos.battlecatstw/12.3.0.apk",
+        "12.2.1": "https://archive.org/download/jp.co.ponos.battlecatstw/12.2.1.apk",
+        "9.9.0": "https://archive.org/download/jp.co.ponos.battlecatstw/9.9.0.apk",
+        "9.8.0": "https://archive.org/download/jp.co.ponos.battlecatstw/9.8.0.apk",
+        "8.1.0": "https://archive.org/download/jp.co.ponos.battlecatstw/8.1.0.apk",
+        "6.7.0": "https://archive.org/download/jp.co.ponos.battlecatstw/6.7.0.apk"
     }
 }
