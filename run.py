@@ -38,7 +38,7 @@ def do(cc: tbcml.CountryCode):
 
     server_path = tbcml.Path(f"{cc.get_code()}_server")
 
-    apk.download_server_files()
+    apk.download_server_files(display=True)
     apk.get_server_path().copy_tree(server_path)
 
     delete_old(cc)
@@ -86,4 +86,4 @@ def update_all():
 
 if __name__ == "__main__":
     # update_all()
-    do(tbcml.CountryCode.EN)
+    do(tbcml.CountryCode.KR)
