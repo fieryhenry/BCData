@@ -16,7 +16,7 @@ the 100MB limit on GitHub. You can extract them with 7zip or tar.
 ## Files Too Big After Compression
 
 The following files are still over 100MB after compression and I didn't want to
-spli the files up, so I have uploaded them to Google Drive.
+split the files up, so I have uploaded them to Google Drive.
 
 - [NumberServer_100600_00_03_de.pack](https://drive.google.com/file/d/1jkUPokPeEwOzO96Gw5mWSObT1ouaBwsh/view?usp=sharing)
 - [NumberServer_100600_00_03_es.pack](https://drive.google.com/file/d/1_RoAJh1y6lVRKFu1gt66I66cR4SlabHI/view?usp=sharing)
