@@ -16,7 +16,7 @@ def do(cc: tbcml.CountryCode):
         return
     apk.extract()
 
-    game_data = tbcml.GamePacks.from_apk(apk)
+    game_data = tbcml.GamePacks.from_apk(apk, all_langs=True)
 
     packnames = [
         "DataLocal",
@@ -38,7 +38,14 @@ def do(cc: tbcml.CountryCode):
 
     server_path = tbcml.Path(f"{cc.get_code()}_server")
 
-    apk.download_server_files(display=True)
+    if cc == tbcml.CountryCode.EN:
+        langs = tbcml.Language.get_all()
+        langs += [None]
+        for lang in langs:
+            print(lang or "en")
+            apk.download_server_files(lang=lang, display=True)
+    else:
+        apk.download_server_files(display=True)
     apk.get_server_path().copy_tree(server_path)
 
     delete_old(cc)
@@ -86,4 +93,4 @@ def update_all():
 
 if __name__ == "__main__":
     # update_all()
-    do(tbcml.CountryCode.JP)
+    do(tbcml.CountryCode.EN)
