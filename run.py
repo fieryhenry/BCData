@@ -1,6 +1,6 @@
 import tbcml
 
-# https://github.com/fieryhenry/tbcml/tree/new-structure
+# https://github.com/fieryhenry/tbcml
 # currently working as of commit https://github.com/fieryhenry/tbcml/commit/e716282adcbed53c1bac034fe7a5d66ff396e1c4
 
 
@@ -10,9 +10,9 @@ def do(cc: tbcml.CountryCode):
     print(gv.to_string())
 
     apk = tbcml.Apk(gv, cc)
-    success = apk.download()  # progress=None)
-    if not success:
-        print("Failed to download apk")
+    res = apk.download()  # progress=None)
+    if not res:
+        print(res.error)
         return
     apk.extract()
 
@@ -93,4 +93,4 @@ def update_all():
 
 if __name__ == "__main__":
     # update_all()
-    do(tbcml.CountryCode.JP)
+    do(tbcml.CountryCode.EN)
