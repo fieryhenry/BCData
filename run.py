@@ -93,4 +93,4 @@ def update_all():
 
 if __name__ == "__main__":
     # update_all()
-    do(tbcml.CountryCode.EN)
+    do(tbcml.CountryCode.KR)
