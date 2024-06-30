@@ -66,6 +66,11 @@ for cc in all_ccs:
         log(f"Downloading {file} {cc}")
         apk.download()
 
+        if not (res := tbcml.Apk.is_apksigner_installed()):
+            log("apksigner not found")
+            log(str(res))
+            continue
+
         if apk.is_modded or not tbcml.Apk.is_original(apk_path):
             log(f"Skipping {file} {cc} as it is not original")
             continue
