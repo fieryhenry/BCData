@@ -1,5 +1,6 @@
 .venv
 .vscode
+.env
 en_server/ImageServer_100600_01_de.pack
 en_server/ImageServer_100600_01_es.pack
 en_server/ImageServer_100600_01_fr.pack
