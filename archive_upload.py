@@ -48,7 +48,9 @@ all_ccs = [
     tbcml.CountryCode.KR,
     tbcml.CountryCode.TW,
 ]
-for cc in all_ccs:
+
+
+def upload_apks(cc: tbcml.CountryCode):
     all_gvs = tbcml.Apk.get_all_versions(cc)
     for i, gv in enumerate(all_gvs[::-1]):
         log(f"{i+1}/{len(all_gvs)}")
@@ -75,31 +77,81 @@ for cc in all_ccs:
             log(f"Skipping {file} {cc} as it is not original")
             continue
 
-        log(f"Uploading {file} {cc}")
+        upload_file(cc, apk_path, api_url, file)
 
-        # Open the file
-        with open(apk_path.to_str(), "rb") as f:
-            # Upload the file
-            # response = session.put(f"{api_url}/{file}", data=f, stream=True)
+    return all_gvs
 
-            # Create a multipart encoder
-            encoder = MultipartEncoder(
-                fields={
-                    "file": (file, f, "application/octet-stream"),
-                    "metadata": '{"collection": "opensource"}',
-                }
-            )
-            callback = create_callback(encoder)
-            # Create a monitor to track the progress of the upload
-            monitor = MultipartEncoderMonitor(encoder, callback)
-            # Upload the file
-            response = session.put(
-                f"{api_url}/{file}",
-                data=monitor,
-                headers={"Content-Type": monitor.content_type},
-            )
-            # Print the response
 
-            log(str(response.status_code))
-            log(response.text)
-            log("")
+def upload_server_files(latest_gv: tbcml.GameVersion, cc: tbcml.CountryCode):
+    apk = tbcml.Apk(latest_gv, cc)
+    res = apk.download()
+    if not res:
+        log(str(res.error))
+        return
+    res = apk.extract(use_apktool=False)
+    if not res:
+        log(str(res.error))
+        return
+
+    langs = [None]
+    if cc == tbcml.CountryCode.EN:
+        langs += tbcml.Language.get_all()
+
+    for lang in langs:
+        log(lang.value if lang else cc.value)
+        res = apk.download_server_files(lang=lang, display=True)
+
+        if not res:
+            log(str(res.error))
+            return
+
+        upload_directory(
+            cc,
+            apk.get_server_path(),
+            f"https://s3.us.archive.org/jp.co.ponos.battlecats{cc.get_patching_code()}",
+        )
+
+
+def upload_directory(cc: tbcml.CountryCode, path: tbcml.Path, api_url: str):
+    log(f"Uploading {path} {cc}")
+
+    # Upload all the files in the directory
+    for file in path.get_files():
+        upload_file(cc, file, api_url, file.get_file_name())
+
+
+def upload_file(cc: tbcml.CountryCode, path: tbcml.Path, api_url: str, file: str):
+    log(f"Uploading {file} {cc}")
+
+    # Open the file
+    with open(path.to_str(), "rb") as f:
+        # Upload the file
+        # response = session.put(f"{api_url}/{file}", data=f, stream=True)
+        # Create a multipart encoder
+        encoder = MultipartEncoder(
+            fields={
+                "file": (file, f, "application/octet-stream"),
+                "metadata": '{"collection": "opensource"}',
+            }
+        )
+        callback = create_callback(encoder)
+        # Create a monitor to track the progress of the upload
+        monitor = MultipartEncoderMonitor(encoder, callback)
+        # Upload the file
+        response = session.put(
+            f"{api_url}/{file}",
+            data=monitor,
+            headers={"Content-Type": monitor.content_type},
+        )
+        # Print the response
+
+        log(str(response.status_code))
+        log(response.text)
+        log("")
+
+
+for cc in all_ccs:
+    all_gvs = upload_apks(cc)
+    latest_gv = all_gvs[-1]
+    print(latest_gv)
+    upload_server_files(latest_gv, cc)
