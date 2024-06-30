@@ -1,0 +1,26 @@
+{
+  "MapID": {
+    "36000": {
+      "RuleNameLabel": "SpecialRuleName000",
+      "RuleExplanationLabel": "SpecialRuleExplanation000",
+      "RuleType": {
+        "0": {
+          "Parameters": [
+            50000
+          ]
+        }
+      }
+    },
+    "36001": {
+      "RuleNameLabel": "SpecialRuleName001",
+      "RuleExplanationLabel": "SpecialRuleExplanation001",
+      "RuleType": {
+        "1": {
+          "Parameters": [
+            500
+          ]
+        }
+      }
+    }
+  }
+}
