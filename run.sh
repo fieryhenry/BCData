@@ -15,5 +15,5 @@ git commit -m "game data update (auto)"
 # Push the changes
 git push
 
-# Upload the new apks to the internet archive
+# Upload new apks/files to the internet archive
 python3 archive_upload.py
