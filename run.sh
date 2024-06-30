@@ -6,9 +6,6 @@ cd "$(dirname "$0")"
 # Update data
 python3 run.py
 
-# Upload the new apks to the internet archive
-python3 archive_upload.py
-
 # Add the new files to the repository
 git add .
 
@@ -17,3 +14,6 @@ git commit -m "game data update (auto)"
 
 # Push the changes
 git push
+
+# Upload the new apks to the internet archive
+python3 archive_upload.py
