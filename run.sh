@@ -3,8 +3,11 @@
 # cd to the directory of the script
 cd "$(dirname "$0")"
 
-# Run the application
-python3 download_apks.py
+# Update data
+python3 run.py
+
+# Upload the new apks to the internet archive
+python3 archive_upload.py
 
 # Add the new files to the repository
 git add .
