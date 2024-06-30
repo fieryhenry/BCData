@@ -15,7 +15,11 @@ def do(cc: tbcml.CountryCode):
         print(res.error)
         return
     print("Downloaded apk")
-    apk.extract()
+    res = apk.extract(use_apktool=False)
+    if not res:
+        print(res.error)
+        return
+
     print("Extracted apk")
 
     folder = tbcml.Path(f"{gv.to_string()}{cc.get_code()}")
@@ -47,9 +51,14 @@ def do(cc: tbcml.CountryCode):
         langs += [None]
         for lang in langs:
             print(lang or "en")
-            apk.download_server_files(lang=lang, display=True)
+            res = apk.download_server_files(lang=lang, display=True)
     else:
-        apk.download_server_files(display=True)
+        res = apk.download_server_files(display=True)
+
+    if not res:
+        print(res.error)
+        return
+
     apk.get_server_path().copy_tree(server_path)
     print("Downloaded server data")
 
