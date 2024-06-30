@@ -14,27 +14,31 @@ def do(cc: tbcml.CountryCode):
     if not res:
         print(res.error)
         return
+    print("Downloaded apk")
     apk.extract()
-
-    game_data = tbcml.GamePacks.from_pkg(apk, all_langs=True)
-
-    packnames = [
-        "DataLocal",
-        "resLocal",
-        "resLocal_es",
-        "resLocal_it",
-        "resLocal_fr",
-        "resLocal_de",
-        "resLocal_th",
-    ]
+    print("Extracted apk")
 
     folder = tbcml.Path(f"{gv.to_string()}{cc.get_code()}")
+    if not folder.exists():
+        game_data = tbcml.GamePacks.from_pkg(apk, all_langs=True)
 
-    for packname in packnames:
-        pack = game_data.get_pack(packname)
-        if pack is None:
-            continue
-        pack.extract(folder)
+        packnames = [
+            "DataLocal",
+            "resLocal",
+            "resLocal_es",
+            "resLocal_it",
+            "resLocal_fr",
+            "resLocal_de",
+            "resLocal_th",
+        ]
+
+        for packname in packnames:
+            pack = game_data.get_pack(packname)
+            if pack is None:
+                continue
+            pack.extract(folder)
+
+        print("Extracted game data")
 
     server_path = tbcml.Path(f"{cc.get_code()}_server")
 
@@ -47,26 +51,26 @@ def do(cc: tbcml.CountryCode):
     else:
         apk.download_server_files(display=True)
     apk.get_server_path().copy_tree(server_path)
+    print("Downloaded server data")
 
-    delete_old(cc)
-    update_latest_txt(cc)
+    delete_old(cc, gv)
+    update_latest_txt(cc, gv)
+    print("Updated latest.txt")
 
 
-def delete_old(cc: tbcml.CountryCode):
+def delete_old(cc: tbcml.CountryCode, latest_version: tbcml.GameVersion):
     all_paths: list[tbcml.Path] = []
     for folder in tbcml.Path(".").get_dirs():
         if folder.get_file_name().endswith(cc.get_code()):
             all_paths.append(folder)
 
-    latest_version = tbcml.GameVersion.from_string_latest("latest", cc)
     for path in all_paths:
         if path.get_file_name() == f"{latest_version.to_string()}{cc.get_code()}":
             continue
         path.remove()
 
 
-def update_latest_txt(cc: tbcml.CountryCode):
-    latest_version = tbcml.GameVersion.from_string_latest("latest", cc)
+def update_latest_txt(cc: tbcml.CountryCode, latest_version: tbcml.GameVersion):
     path = tbcml.Path("latest.txt")
     if not path.exists():
         path.create()
