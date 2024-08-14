@@ -29,6 +29,7 @@ def does_file_exist(identifier: str, filename: str) -> bool:
     response = requests.head(url, allow_redirects=True)
     return response.status_code == 200
 
+
 def get_all_files(identifier: str) -> list[str]:
     url = f"https://archive.org/metadata/{identifier}"
     response = requests.get(url)
@@ -37,7 +38,7 @@ def get_all_files(identifier: str) -> list[str]:
         return
 
     metadata = response.json()
-    files = metadata.get('files', [])
+    files = metadata.get("files", [])
     file_list: list[str] = []
     for file in files:
         file_list.append(file.get("name", ""))
@@ -49,6 +50,11 @@ dotenv.load_dotenv()
 
 # Set your Archive.org API key and the identifier of the item you want to upload to
 api_key = os.getenv("ARCHIVE_API_KEY")
+if api_key is None or ":" not in api_key:
+    raise ValueError(
+        "Please specifiy your archive.org aws api key in a .env file with contents: `ARCHIVE_API_KEY=access_key:secret_key`"
+    )
+api_key = api_key.strip()
 
 # URL for the Archive.org API endpoint
 # Path to the folder containing the files you want to upload
@@ -134,15 +140,19 @@ def upload_directory(cc: tbcml.CountryCode, path: tbcml.Path, identifier: str):
 
     all_files = get_all_files(identifier)
 
-
     # Upload all the files in the directory
     for file in path.get_files():
         upload_file(cc, file, identifier, file.get_file_name(), all_files)
 
 
-def upload_file(cc: tbcml.CountryCode, path: tbcml.Path, identifier: str, file: str, all_files: list[str]):
+def upload_file(
+    cc: tbcml.CountryCode,
+    path: tbcml.Path,
+    identifier: str,
+    file: str,
+    all_files: list[str],
+):
     log(f"Uploading {file} {cc}")
-
 
     if file in all_files or does_file_exist(identifier, file):
         log(f"Already exists!")
