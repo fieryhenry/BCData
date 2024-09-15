@@ -1,0 +1,10 @@
+マップID,ステージ番号,難易度,敗北フラグ,Tapjoyプレイスメント,アイテムID
+3000,0,0,false,clear_reward_korea,29000
+3000,6,0,false,clear_reward_japan,29001
+3000,6,0,true,level_failed_fukuoka,29002
+3000,11,0,false,clear_reward_nepal,29003
+3000,16,0,false,clear_reward_south_africa,29004
+3000,22,0,false,clear_reward_greece,29005
+3000,28,0,false,clear_reward_denmark,29006
+3000,38,0,false,clear_reward_argentina,29007
+0,1,0,true,level_failed_metalkabachan,29008
