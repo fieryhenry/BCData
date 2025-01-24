@@ -1,0 +1,98 @@
+【Cible Rouge】|＠
+【Cible Flottant】|＠
+【Cible Noir】|＠
+【Cible Métal】|＠
+【Cible Ange】|＠
+【Cible Alien】|＠
+【Cible Zombie】|＠
+【Cible Relique】|＠
+【Cible Aku】|＠
+【Cible Sans caract.】|＠
+【Colosse】|＠
+【Béhémoth】|＠
+【Sage】|＠
+【Magicienne】|＠
+【Ange Eva】|＠
+【Affaiblissement】|La cible voit sa puissance d'attaque|réduite pendant une durée définie.|＠
+【Renforcement】|Renforce les attaques quand la santé de cet ennemi|chute en dessous d'un seuil défini.|＠
+【Immobilisation】|La cible est temporairement incapable de bouger.|＠
+【Ralentissement】|La vitesse de la cible est temporairement réduite.|＠
+【Survie】|Quand la santé de cet ennemi chute en dessous de zéro,|il peut regagner une faible quantité de santé.|＠
+【Casseur de base】|Cet ennemi inflige beaucoup plus de dégâts|à la base féline.|＠
+【Critique】|Les attaques de cet ennemi ont une chance définie d'infliger|davantage de dégâts et touchent les cibles en métal.|＠|＠
+＠
+＠
+＠
+＠
+＠
+【Recul】|Les attaques peuvent repousser les unités.|＠
+【Vague offensive】|Les attaques frappent toutes les unités à portée et|l'énergie des vagues inflige plus de dégâts.|＠
+＠
+【Immun. Vagues】|Cet ennemi est immunisé|contre les vagues offensives.|＠
+【Attaque de zone】|Inflige des dégâts à toutes les unités félines présentes|dans le champ d'attaque défini de l'ennemi.|＠
+【Longue portée】|Les unités éloignées subissent des dégâts, mais les attaques|ennemies peuvent rater des unités à plus courte portée.|＠
+【Immun. Affaiblissement】|Les attaques des unités félines n'affaiblissent pas|les attaques de cet ennemi.|＠
+【Immun. Immobilisation】|Les attaques des unités félines n'immobilisent pas|les mouvements de cet ennemi.|＠
+【Immun. Ralentissement】|Les attaques des unités félines ne ralentissent pas|les mouvements de cet ennemi.|＠
+【Immun. Recul】|Les attaques des unités félines ne provoquent pas|le recul de cet ennemi.|＠
+【Cible unique】|Seul une unité féline à portée est affectée|par les attaques de cet ennemi.|＠
+＠
+＠
+＠
+＠
+【Immun. Téléportation】|Les capacités de téléportation des unités félines|n'affectent pas cet ennemi.|＠
+【Devant-derrière】|L'ennemi attaque les unités félines dans une large zone,|devant mais aussi derrière lui.|＠
+＠
+【Immun. Malédictions】|Les capacités de malédiction des unités félines|n'affectent pas cet ennemi.|＠
+【Téléportation】|Les unités touchées par les attaques ennemies|peuvent être téléportées.
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+【Frappe sauvage】|Possibilité d'augmenter nettement les dégâts d'attaque.|＠
+【Esquive】|Évite temporairement les dégâts infligés par|le type d'unité féline cible.|＠
+【Répliques offensives】|Les attaques réussies infligent des dégâts supplémentaires|à des sections aléatoires de leur zone d'attaque.|＠
+＠
+【Malédiction】|L'unité ne peut pas infliger|de statuts négatifs pendant un certain temps.|＠
+【Immun. Répliques】|Cet ennemi est immunisé|contre les répliques offensives.|＠
+【Mini-vague】|Les attaques réussies peuvent infliger des dégâts additionnels|aux Chats à portée, sous la forme d'une petite vague.|＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+【Mini-réplique offensive】|Les attaques réussies libèrent une petite réplique offensive qui|inflige des dégâts supplémentaires sur un point aléatoire.|＠
+【Contre-réplique】|Face à une réplique offensive d'un Chat,|riposte par sa propre réplique offensive.|＠
+＠
+＠
+＠
+【Immunité contre les dégâts】|Cet ennemi est invulnérable aux dégâts.|＠
+【Toxique】|Inflige des dégâts à une unité selon son maximum de santé.|＠
+【Ultime réplique】|Cet ennemi peut libérer une|réplique offensive en mourant.|＠
+【Barrière】|Crée une barrière qui bloque les dégâts et effets.|À détruire avec Brise-barrière ou des dégâts.|＠
+【Bouclier Aku】|Crée un bouclier qui bloque|les dégâts et effets. À détruire avec|Brise-bouclier ou des dégâts.|＠
+【Explosion】|Génère une explosion dévastatrice qui s'étend|à gauche et à droite d'une attaque réussie.|＠
+【Immun. Explosions】|Immunité aux dégâts de l'effet|explosif des attaques.|＠

@@ -1,0 +1,98 @@
+Effektiv gegen rote Feinde.|＠
+Effektiv gegen fliegende Feinde.|＠
+Effektiv gegen schwarze Feinde.|＠
+Effektiv gegen eiserne Feinde.|＠
+Effektiv gegen Engel-Feinde.|＠
+Effektiv gegen Alien-Feinde.|＠
+Effektiv gegen Zombie-Feinde.|＠
+Effektiv gegen Relikt-Feinde.|＠
+Effektiv gegen Aku-Feinde.|＠
+Effektiv gegen Feinde ohne Werte.|＠
+＠
+＠
+＠
+＠
+＠
+(Schwächen)|Die angegebenen Feindarten werden in ihrer|Angriffskraft für bestimmte Zeit geschwächt.|＠
+(Willensstärke)|Sobald die Gesundheit dieser Einheit unter einen|bestimmten Wert fällt, werden ihre Angriffe stärker.|＠
+(Einfrieren)|Die angegebenen Feindarten können sich für eine|bestimmte Zeit nicht bewegen.|＠
+(Verlangsamen)|Die angegebenen Feindarten werden für eine bestimmte|Zeit verlangsamt.|＠
+(Überlebenswille)|Sobald die Gesundheit dieser Einheit unter null fällt,|kann sie sich selbst um einen geringen Wert heilen.|＠
+(Basiszerstörer)|Wenn diese Einheit eine feindliche Basis angreift,|verursachen ihre Angriffe deutlich mehr Schaden.|＠
+(Haudrauf)|Angriffe dieser Einheit fügen mit bestimmter|Wahrscheinlichkeit eisernen Feinden Extraschaden zu.|＠
+(Angriff nur gegen)|Angriffe dieser Einheit schaden nur einer bestimmten|Art von Feinden.|＠
+(Stark gegen)|Die angegebenen Feindarten erleiden Extraschaden und|der durch diese Arten erlittene Schaden ist verringert.|＠
+(Resistent)|Der durch die angegebenen Feindarten erlittene Schaden|ist deutlich verringert.|＠
+(Bonuszahlung)|Geldbelohnungen durch das Besiegen der angegebenen|Feindarten fallen größer aus.|＠
+(Heftiger Schaden)|Die angegebenen Feindarten erleiden deutlich mehr|Schaden durch die Angriffe dieser Einheit.|＠
+(Rückstoß)|Die Einheit stößt mit einer best. Wahrscheinlichkeit|die jew. Feindarten in Richtung ihrer Basis zurück.|＠
+(Wellenangriff)|Angriffe treffen alle Feinde in Reichweite und|verursachen Extraschaden durch die Energie der Welle.|＠
+(Eisern)|Der Schaden der meisten Angriffe ist deutlich reduziert,|aber die Einheit erleidet weiterhin Haudrauf-Schläge.|＠
+(Immun gegen Wellen)|Diese Einheit nimmt keinen Schaden durch Wellenangriffe.|＠
+(Flächenangriff)|Alle Einheiten im angegebenen Angriffsbereich erleiden|Schaden durch die Angriffe dieser Einheit.|＠
+(Distanzangriff)|Weit entfernte Einheiten erleiden Schaden, aber Angriffe|können Einheiten, die näher sind, verfehlen.|＠
+(Immun gegen Schwächen)|Feindliche Angriffe schwächen die Angriffe|dieser Einheiten nicht.|＠
+(Immun gegen Einfrieren)|Feindliche Angriffe frieren diese Einheit nicht|in der Bewegung ein.|＠
+(Immun gegen Verlangsamen)|Feindliche Angriffe verlangsamen diese|Einheit nicht.|＠
+(Immun gegen Rückstoß)|Feindliche Angriffe stoßen diese|Einheit nicht zurück.|＠
+(Einfacher Angriff)|Nur ein Feind, der sich in Reichweite befindet,|wird von den Angriffen dieser Einheit getroffen.|＠
+(Hexentöter)|Gewaltige Angriffskraft und Verteidigung gegen die Hexen|in den Madoka-Magica-Kollaborationsleveln.|＠
+(Zombietöter)|Einheiten mit dieser Fähigkeit verhindern, dass Zombie-|Feinde sich wiederbeleben können.|＠
+(Wellenschild)|Diese Einheit kann Wellenangriffe negieren und schützt|Einheiten hinter sich von dem Effekt der Wellen.|＠
+(Abwehrbrecher)|Es besteht die Chance, feindliche Barrieren zu zerstören|und beim Durchbrechen heftigen Schaden zu verursachen.|＠
+(Immun gegen Teleport)|Feindliche Teleport-Fähigkeiten haben keinen|Effekt auf diese Einheit.|＠
+(Rundumschlag)|Greift Feinde in einem weiten Bereich vor sowie|hinter sich an.|＠
+(Eva-Engelstöter)|Fügt Evangelion-Kollaborationsbossen mehr Schaden zu|und erleidet weniger Schaden durch sie.|＠
+(Immun gegen Flüche)|Immun gegen kurzfristige Statuseffekte, die durch|feindliche Flüche ausgelöst werden.|＠
+(Teleport)|Angriffe können Feinde teleportieren.|＠
+(Schwächen-Resistenz)|Von Feinden ausgelöste Schwächen-Effekte wirken|mit geringerer Wahrscheinlichkeit.|＠
+(Einfrieren-Resistenz)|Von Feinden ausgelöste Einfrieren-Effekte wirken|mit geringerer Wahrscheinlichkeit.|＠
+(Verlangsamen-Resistenz)|Von Feinden ausgelöste Verlangsamen-Effekte|wirken mit geringerer Wahrscheinlichkeit.|＠
+(Rückstoß-Resistenz)|Von Feinden ausgelöste Rückstoß-Effekte wirken|mit geringerer Wahrscheinlichkeit.|＠
+(Wellen-Resistenz)|Feindliche Wellenangriffe verursachen weniger Schaden.|＠
+(Teleport-Resistenz)|Von Feinden ausgelöste Teleport-Effekte wirken|mit geringerer Wahrscheinlichkeit.|＠
+(Kosten –)|Die Einsatzkosten der Einheit sind geringer.|＠
+(Erholungsbeschleuniger)|Die Einheit kann schneller eingesetzt werden.|＠
+(Bewegungsbeschleuniger)|Die Einheit bewegt sich schneller.|＠
+(Besserer Rückstoß)|Die Rückstoß-Wahrscheinlichkeit ist erhöht.|＠
+(Fluch-Resistenz)|Von Feinden ausgelöste Fluch-Effekte wirken|mit geringerer Wahrscheinlichkeit.|＠
+(Angriffsstärkung)|Der Basisangriff ist dauerhaft verstärkt.|＠
+(Verteidigungsstärkung)|Die Basisverteidigung ist dauerhaft verstärkt.|＠
+(Irrer Schaden)|Erhöht den Schaden gegen anvisierte Feinde|um eine gewaltige Menge.|＠
+(Irre robust)|Reduziert den durch anvisierte Feinde erlittenen Schaden|um eine gewaltige Menge.|＠
+(Ziel: Rot)|Fähigkeiten haben auch auf rote Feinde Einfluss.|＠
+(Ziel: Fliegend)|Fähigkeiten haben auch auf fliegende Feinde Einfluss.|＠
+(Ziel: Schwarz)|Fähigkeiten haben auch auf schwarze Feinde Einfluss.|＠
+(Ziel: Eisern)|Fähigkeiten haben auch auf eiserne Feinde Einfluss.|＠
+(Ziel: Engel)|Fähigkeiten haben auch auf Engel-Feinde Einfluss.|＠
+(Ziel: Alien)|Fähigkeiten haben auch auf Alien-Feinde Einfluss.|＠
+(Ziel: Zombie)|Fähigkeiten haben auch auf Zombie-Feinde Einfluss.|＠
+(Ziel: Relikt)|Fähigkeiten haben auch auf Relikt-Feinde Einfluss.|＠
+(Ziel: Wertelos)|Fähigkeiten haben auch auf wertelose Feinde Einfluss.|＠
+(Wilder Schlag)|Bestimmte Chance, viel Extraschaden zu verursachen.|＠
+(Angriff ausweichen)|Weicht vorübergehend jedem Schaden durch Angriffe|der anvisierten Feindesart aus.|＠
+(Zufallsangriff)|Erfolgreiche Angriffe verursachen in zufälligen|Bereichen des Flächenangriffs Extraschaden.|＠
+(Immun gegen Gifte)|Immun gegen Gift-Effekte von feindlichen Angriffen!|＠
+(Fluch)|Feinde können für kurze Zeit keine negativen|Statuseffekte hervorrufen.|＠
+(Immun gegen Zufallsangriffe)|Nimmt durch feindliche Zufallsangriffe keinen Schaden.|＠
+(Mini-Welle)|Erfolgreiche Angriffe können Feinden in Reichweite|zusätzlichen Schaden als kleinen Wellenangriff zufügen.|＠
+(Resistent gegen Gifte)|Von Feinden ausgelöste Gift-Effekte wirken|mit geringerer Wahrscheinlichkeit.|＠
+(Zufalls-Resistenz)|Weniger Schaden durch feindliche Zufallsangriffe.|＠
+(Durchdringend)|Angriffe haben eine festgelegte Chance, Aku-Schilde|aufzuheben und massiven Schaden zu verursachen.|＠
+(Ziel: Aku)|Fähigkeiten haben auch auf Aku-Feinde Einfluss.|＠
+(Kolosstöter)|Erhöht Angriffsschaden und|Verteidigung gegen kolossale Feinde.|＠
+(Seelenstoß)|Angriffe können vorübergehend|„toten“ Zombie-Feinden Schaden zufügen.|＠
+(Behemothtöter)|Erhöht Angriffsschaden und Verteidigung|gegen Behemoths, hat Chance auszuweichen.|＠
+(Angriffsfrequenz+)|Verkürzte Zeit zwischen Angriffen.|＠
+(Mini-Zufallsangriff)|Erfolgr. Angriffe entfesseln Zufallsangriff,|der einem zufälligen Punkt Extraschaden zufügt.|＠
+(Konter-Zufallsangriff)|Wird die Einheit von einem Zufallsangriff getroffen, |kontert sie selbst mit einem Zufallsangriff.|＠
+(Beschwörer)|Tippe auf das Symbol, um einen Geist zu beschwören, der|Gegner angreift. Einheit muss einzeln eingesetzt werden.|＠
+(Weisentöter)|Erhöht Schaden an Weisen. Verringert erlittenen Schaden|und Schwächungseffekte.|Negiert Schwächungsimmunität feindlicher Weisen-Feinde.|＠
+(Eisernentöter)|Fügt eisernen Feinden Schaden im Verhältnis zur|Restgesundheit des anvisierten Feindes zu.|＠
+＠
+＠
+＠
+＠
+＠
+(Explosion)|Entfesselt eine Schaden verursachende Explosion, die sich|links und rechts von einem erfolgreichen Angriff ausbreitet.|＠
+(Immun gegen Explosionen)|Erleidet keinen Schaden durch feindliche Explosionen.|＠
