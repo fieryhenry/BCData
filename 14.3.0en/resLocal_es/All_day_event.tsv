@@ -1,0 +1,520 @@
+Fase del Lunes	1000	0	3
+Fase del Martes	1001	0	3
+Fase del Miércoles	1002	0	3
+Fase del Jueves	1003	0	3
+Fase del Viernes	1004	0	3
+Fase del Finde	1027	0	4
+Cultivo Verde	1097	0	5
+Cultivo Morado	1098	0	5
+Cultivo Rojo	1099	0	5
+Cultivo Azul	1100	0	5
+Cultivo Amarillo	1101	0	5
+Catástrofe Carmesí	1014	0	0
+Inigualable	1016	0	0
+Paraíso de Oscuridad	1015	0	0
+Dulce Ironía	1043	0	0
+Ira de los Cielos	1039	0	0
+Dimensión Desesperada	1066	0	0
+Cielo Rojo Matutino	1096	0	0
+Muertos Rodantes	1122	0	0
+La Segunda Dimensión	1157	0	0
+Tifón Nemo	1189	0	0
+El Gran Diablo	1259	0	0
+Venganza Carmesí	1169	0	1
+Neocielo Oscuro	1172	0	1
+También Inigualable	1176	0	1
+Ira de los Divinos	1185	0	1
+Amarga Ironía	1187	0	1
+Dimensión de Delirio	1193	0	1
+Cielo Rojo Nocturno	1195	0	1
+Dominante Clionel	1196	0	1
+Rodarán Muertos	1198	0	1
+Tifón Nihil	1247	0	1
+Ascendente Clionel	1095	0	0
+Coronación de la Reina	1119	0	0
+Río Estigia	1117	0	0
+Difunto Debutante	1128	0	0
+Venganza del Rey Guau	1158	0	0
+Sueño Profundo	1177	0	0
+Impacto Azul	1215	0	0
+Fondo del Pantano	1226	0	0
+Preludio de Ruina	1246	0	0
+Sinfonía de Tentaciones	1272	0	0
+Tribunal de Tormento	1217	0	0
+Paraíso de Papuu	1219	0	0
+Vieja Reina	1220	0	0
+Gloria de Guauguau	1229	0	0
+¡Clionel Zombi Ataca!	1231	0	0
+Primer Recado	1232	0	0
+Rashomon	1273	0	0
+Reino del Tirano	1340	0	0
+Río Acheron	1199	0	1
+Condena de la Reina	1201	0	1
+La Tercera Dimensión	1203	0	1
+Difunto Repetidor	1205	0	1
+Retorno del Rey Guau	1207	0	1
+A Sueño Suelto	1214	0	1
+Cúspide del Pantano	1243	0	1
+Tribunal de Agonía	1296	0	1
+Gloria de Neoguauguau	1338	0	1
+Gato Demente	1017	0	0
+Gato Defensor Demente	1018	0	0
+Gato Hachero Demente	1019	0	0
+Gatilargo Demente	1020	0	0
+Gato Lechero Demente	1021	0	0
+Gato Pájaro Demente	1022	0	0
+Piscigato Demente	1023	0	0
+Gato Lagarto Demente	1024	0	0
+Gato Titán Demente	1025	0	0
+Moneko Demente	1161	0	0
+Gato Maníaco	1102	0	1
+Defensor Maníaco	1103	0	1
+Hachero Maníaco	1104	0	1
+Gatilargo Maníaco	1105	0	1
+Vaca Maníaca	1106	0	1
+Pájaro Maníaco	1107	0	1
+Pescado Maníaco	1108	0	1
+Lagarto Maníaco	1109	0	1
+Titán Maníaco	1110	0	1
+Minigato, Álzate	1130	0	1
+Minidefensor, Álzate	1131	0	1
+Minihachero, Álzate	1132	0	1
+Minigatilargo, Álzate	1133	0	1
+Minivaca, Álzate	1134	0	1
+Minipájaro, Álzate	1135	0	1
+Minipescado, Álzate	1136	0	1
+Minilagarto, Álzate	1137	0	1
+Minititán, Álzate	1138	0	1
+Campo de Pruebas	1250	0	3
+Festival de tesoros (Imp.)	100	0	-1
+Festival de tesoros (Fut.)	101	0	-1
+Festival de tesoros (Gal.)	104	0	-1
+Isla del tesoro escondido	24055	0	6
+Caverna de Cometas	1150	0	3
+Isla de Ceniza	1151	0	3
+Estrecho de Alas	1152	0	3
+¡Probabilidad de tique!	1006	0	7
+¡Asedio de Hipo!	1007	0	7
+Cara al Peligro	1078	0	7
+Fase de XP	1028	0	4
+¡Megabote de XP!	1059	0	4
+Coliseo de XP	1124	0	4
+¡XP Inhumana!	1155	0	4
+¡Bonanza de XP!	1319	0	4
+Cultivo Extraño	1162	0	5
+Cultivo Épico	1222	0	5
+Mal Proliferante	1274	0	5
+Bufé de Fruta Felina	1118	0	5
+Minería Épica	1326	0	5
+Bote del Lunes	1073	0	3
+Bote del Martes	1074	0	3
+Bote del Miércoles	1075	0	3
+Bote del Jueves	1076	0	3
+Bote del Viernes	1077	0	3
+Bosque Oculto de Gapra	31000	0	5
+Desierto de Ashvini	31001	0	5
+Volcán Jinfore	31002	0	5
+Confluencia Arcana	1255	0	-1
+Sirviente de la Oscuridad	1256	0	-1
+Gato Maligno	1257	0	-1
+Tanque Maligno	1258	0	-1
+Parque Demoníaco	1265	0	-1
+Gato Hachero Liberado	1266	0	-1
+Venganza de Ciberoso	1173	0	7
+Clan de los Maníacos	1208	0	3
+Día Miau-Miau	1209	0	2
+Informe de Emperatriz 1	1269	0	3
+Informe de Emperatriz 2	1270	0	3
+Informe de Emperatriz 3	1271	0	3
+Informe de Emperatriz 4	1275	0	3
+Informe de Emperatriz 5	1276	0	3
+Excavación de Emperatriz 1	1277	0	0
+Excavación de Emperatriz 2	1278	0	0
+Excavación de Emperatriz 3	1279	0	0
+Excavación de Emperatriz 4	1280	0	0
+Aflicción en el Bosque	1312	0	-1
+Rarezas en el Desierto	1313	0	-1
+Peligro en el Volcán	1314	0	-1
+Aflicción en el Bosque II	1333	0	-1
+Rarezas en el Desierto II	1334	0	-1
+Peligro en el Volcán II	1335	0	-1
+De Mal en Peor	1111	0	3
+Día del Juicio Final	1112	0	3
+Tecnoneurosis	1114	0	3
+Actriz, Álzate	1045	0	1
+Kungfú, Álzate	1046	0	1
+Sr., Álzate	1047	0	1
+Bondage, Álzate	1048	0	1
+Domigatriz, Álzate	1049	0	1
+Caja de Gatitos, Álzate	1050	0	1
+Braguitas, Álzate	1051	0	1
+Triciclo, Álzate	1052	0	1
+Ninja, Álzate	1053	0	1
+Zombi, Álzate	1054	0	1
+Samurái, Álzate	1055	0	1
+Sumo, Álzate	1056	0	1
+Fiebre, Álzate	1057	0	1
+Faldera, Álzate	1058	0	1
+Gato Adulto, Álzate	1083	0	1
+Gato Malvado, Álzate	1084	0	1
+Gatoñecos, Álzate	1085	0	1
+Colegiala, Álzate	1086	0	1
+Koi, Álzate	1087	0	1
+Novia, Álzate	1088	0	1
+Fin de las Vacaciones	1089	0	1
+Venganza, Álzate	1090	0	1
+Kungfú X, Álzate	1091	0	1
+Día Deportivo, Álzate	1092	0	1
+Gato Currito, Álzate	1093	0	1
+Piscigato Reno, Álzate	1094	0	1
+Gato Kart, Álzate	1143	0	1
+	1144	0	1
+Gatomburguesa, Álzate	1153	0	1
+Gato Cantante, Álzate	2037	0	1
+¡Gato Huevo, Álzate!	1337	0	1
+Juicio de minigato	1339	0	-1
+¿Feliz Año Nuevo?	1011	0	0
+Felicidad Ritual	1012	0	0
+Osos Temerosos	1013	0	0
+Profe, Es Primavera	1026	0	0
+Amor Enfermizo	1029	0	0
+La Novia Prohibida	1030	0	0
+¡Verano ni de Miau!	1031	0	0
+Huéspedes Fantasmales	1032	0	0
+Yayos en el Pueblo	1036	0	0
+Otoño: Día Deportivo	1038	0	0
+Amado Trabajo	1009	0	0
+La Miaurimorena	1010	0	0
+Otro Año Nuevo	1184	0	3
+Caos Ritual	1186	0	3
+Vuelven los Osos	1192	0	3
+Lección de Primavera	1194	0	3
+Recaída Amorosa	1197	0	3
+La Novia Prohibida II	1165	0	3
+Nunca No al Verano	1166	0	3
+Forasteros Fantasmales	1167	0	3
+Yayos en la Ciudad	1168	0	3
+Noche Deportiva	1170	0	3
+Revolución Laboral	1171	0	3
+Navidad Espacial	1175	0	3
+¿Ataque del jefe final?	2006	0	0
+Guerra de San Valentín	1297	0	0
+Horda de Gatos	24042	0	0
+¡Pri-ma-ve-ra!	1129	0	0
+Babear a la Victoria	1164	0	0
+Agenda Veraniega	1115	0	0
+Feria Gastronómica	1174	0	0
+Camino Sombrío	1072	0	0
+Noche 1: Santa Miaus en acción	1325	0	0
+El Toque de Midas	1140	0	3
+Lección Veraniega	1149	0	3
+Semana de Plata	1154	0	3
+Gatos en la Nieve	1125	0	3
+¡Ánimo, Estudiantes!	1160	0	3
+Guerra Total: Especial de Primavera	1234	0	3
+Guerra Total: Especial de Verano	1235	0	3
+Guerra Total: Especial de Otoño	1236	0	3
+Guerra Total: Especial de Invierno	1237	0	3
+Desafío de Enero	24032	0	3	3	3	3	3	3	3
+Desafío de Enero II	24033	0	3
+Desafío de Febrero	24039	0	3
+Desafío de Febrero II	24040	0	3
+Desafío de Marzo	24043	0	3
+Desafío de Marzo II	24044	0	3
+Desafío de Abril	24046	0	3
+Desafío de Abril II	24047	0	3
+Desafío de Mayo	24050	0	3
+Desafío de Mayo II	24051	0	3
+Desafío de Junio	24015	0	3
+Desafío de Junio II	24016	0	3
+Desafío de Julio	24017	0	3
+Desafío de Julio II	24018	0	3
+Desafío de Agosto	24021	0	3
+Desafío de Agosto II	24022	0	3
+Desafío de Septiembre	24023	0	3
+Desafío de Septiembre II	24024	0	3
+Desafío de Octubre	24025	0	3
+Desafío de Octubre II	24026	0	3
+Desafío de Noviembre	24028	0	3
+Desafío de Noviembre II	24029	0	3
+Desafío de Diciembre	24030	0	3
+Desafío de Diciembre II	24031	0	3
+Barón Foca Ataca	24020	0	6
+Ataque de L. Fante Letal	24027	0	6
+Megaamenaza	24034	0	6
+Horrorpótamo	24035	0	6
+Sr. Ángel Divino Ataca	24037	0	6
+Gran Ping Pong Z. Ataca	24038	0	6
+Ataque de los augurios	24061	0	6
+El Ángel y el Demonio	1251	0	-1
+La Reina y el Muerto	1252	0	-1
+El Rey y la Doncella	1253	0	-1
+El Muerto y el Hinchado	1305	0	-1
+La Reina y la Doncella	1306	0	-1
+El Rey y el Ángel	1307	0	-1
+Torre Celestial	7000	0	3
+Ciudadela Roja	7001	0	3
+Ciudadela Negra	7002	0	3
+Ciudadela de Ángeles	7003	0	3
+Ciudadela de Álienes	7004	0	3
+Ciudadela de Zombis 	7005	0	3
+Torre Infernal	7006	0	3
+Ciudadela Sin Rasgos	7007	0	3
+Ciudadela Aku	7008	0	3
+Arena Honorífica (Prueba Carmesí)	11000	0	-1
+Arena Honorífica (Prueba Sombría)	11001	0	-1
+Arena Honor. (Prueba del Fénix)	11002	0	-1
+	11003	0	-1
+Arena Honorífica (Espíritu Débil)	11004	0	-1
+	11005	0	-1
+Arena of Honor (Into the Fray: Servants Strike!)	11006	0	-1
+Arena of Honor (Aqua Paradiso)	11007	0	-1
+Arena of Honor (Princess Punt's Army)	11008	0	-1
+Arena of Honor (Tower, Dragon, and Dojo)	11009	0	-1
+Arena Honor. (Consejo Vampírico)	11011	0	-1
+Arena Honor. (Baile Celestial)	11012	0	-1
+Arena Honor. (Zombis del Espacio)	11013	0	-1
+Arena of Honor (I Seek the Strongest)	11014	0	-1
+	11015	0	-1
+Arena of Honor (MikuMiku Music Fest)	11016	0	-1
+Arena de Poder (Torneo Emotivo)	11017	0	-1
+Arena of Honor (I Seek the Strongest)	11018	0	-1
+	11019	0	-1
+Historias Honor. (Prueba Carmesí)	11020	0	-1
+Historias Honor. (Prueba Sombría)	11021	0	-1
+Hist. Honor. (Prueba del Fénix)	11022	0	-1
+Arena Honorífica (Vivo a los 9)	11023	0	-1
+Arena Honor. (Plan de 10 años)	11024	0	-1
+Reto Legendario	16000	0	3
+Laberinto Subterráneo: Profundidades	33000	0	3
+Evangelion Activates!	2065	0	0
+Decisive Battle!	2066	0	3
+The 9th Angel Strikes!	2205	0	0
+The 10th Angel Strikes!	2206	0	1
+Eva Unit-13 Strikes!	2207	0	1
+Final Battle: Eva Unit-13	2208	0	3
+Bye-bye, all of the Cats	2209	0	3
+Heralds of The End	27007	0	3
+#01 La Capilla Fantasma	24052	0	8
+#02 Una boda de muerte	1343	0	3
+#03 ¿En qué cae el 13?	1308	0	4
+#04 Aldea de Alaridos	1309	0	3
+El Grandioso Diablo	1342	0	1
+Evento de las Estrellas Mensual ¡Celebración Especial!	1033	0	4
+Evento de las Estrellas Mensual ¡Ultracelebración!	1034	0	4
+Evento de las Estrellas Mensual ¡Celebración Milagrosa!	1035	0	4
+Evento de las Estrellas Mensual Celebración Maravillosa	1070	0	4
+Evento de las Estrellas ¡Gran Celebración!	1079	0	4
+Evento de las Estrellas ¡Gran aniversario!	1146	0	4
+Evento de las Estrellas Mensual Reunión Agradecida	24049	0	4
+Evento de las Estrellas Superregalo DX	1182	0	3
+Carnaval Mortal	1069	0	3
+Carnaval Mortal II	1120	0	3
+Carnaval Mortal III	1190	0	3
+Cubierta de Oscuridad	1287	0	3
+Marcha de Llamas	1289	0	3
+Comecerebros	1336	0	7
+Desafío de Fases de Duelo	24053	0	3
+Desafío de Arena de Pares	24054	0	3
+P1. Concurso ¡¿Qué hay en la caja?!	1282	0	3
+P5. Concurso de tiempo y fortuna	1283	0	3
+Regalos de Aniversario	1244	0	2
+Regalos de Aniversario	1284	0	2
+	1293	0	2
+Minced Meet-Up	1071	0	0
+	1037	0	0
+	1067	0	0
+Alluring Princess	2001	0	0
+Princess Punt	2002	0	0
+Princess Punt Awakens!	2043	0	1
+Sleeping Beauty Punt Awakens!	2044	0	1
+Teachings of the Kicking Kingdom	2080	0	4
+To Battle! The Great Sweets War!	2100	0	3
+	2185	0	3
+Survive! Mola Mola!	2088	0	0
+300 Million Dead Molas	2089	0	3
+Manbosaki Strikes!	27013	0	3
+Gatos Estivales	24019	0	8
+Preliminares de Sumo Bicho	1315	0	5
+Cuartos de Final de Sumo Bicho	1316	0	5
+Semifinales de Sumo Bicho	1317	0	5
+Final de Sumo Bicho	1318	0	5
+Deberes de Fin de Verano	1344	0	3
+Aflicción en el Bosque III	1345	0	-1
+Rarezas en el Desierto III	1346	0	-1
+Peligro en el Volcán III	1347	0	-1
+Descenso del Guardián del Pantano Sanzu	1348	0	0
+	2024	0	0
+	2025	0	1
+	2026	0	3
+	27011	0	3
+	2078	0	4
+Máquinas en Rebelión	1349	0	7
+Excavación de Emperatriz 5	1281	0	0
+Annihilated City	2166	0	0
+Takuya & Yuki Awaken	2167	0	1
+The Lost World	2168	0	0
+City of Souls	2169	0	3
+The World Beyond	2170	0	0
+Redhead Yuki Cat Awakens!	2204	0	1
+Messier's Assault	27000	0	3
+Hatsune Miku	2126	0	0
+MIKU EXPO	2127	0	4
+MIKU CHERRY	2128	0	3
+SNOW MIKU	2163	0	4
+Electric Diva Strikes!	27005	0	3
+Weekend Concert: Day 1	2210	0	2
+Weekend Concert: Day 2	2211	0	3
+Merc Storia: Inferno	2007	0	0
+Merc Storia: Showdown	2008	0	0
+Healer Awakens!	2018	0	1
+Merc Awakens!	2046	0	1
+Titi Awakens!	2047	0	1
+Merc Storia: Attack	2085	0	4
+Merc Storia: Mystery	2086	0	3
+Trials of Merc Storia!	27004	0	3
+River City Ball-Rolling	1260	0	4
+River City Challenge Course	1261	0	3
+River City Three-Leg Race ①	1262	0	3
+River City Three-Leg Race ②	1263	0	3
+River City Three-Leg Race ③	1264	0	3
+River City Relay	1359	0	4
+#02 Lucha de azúcar	1320	0	0
+#03 Noche de demonios	24056	0	3
+#04 Planes traviesos	1321	0	3
+El Gato Malévolo	1350	0	1
+El Defensor Malévolo	1351	0	1
+El Hachero Malévolo	1352	0	1
+El Gatilargo Malévolo	1353	0	1
+El Lechero Malévolo	1354	0	1
+El Pájaro Malévolo	1355	0	1
+El Piscigato Malévolo	1356	0	1
+El Lagarto Malévolo	1357	0	1
+El Titán Malévolo	1358	0	1
+	24062	0	8
+	1360	0	4
+	1361	0	3
+	1362	0	3
+	1363	0	2
+	11025	0	-1
+Noche 2: Entrega de Nochebuena	24058	0	3
+Noche 3: Entrega de Nochebuena	1364	0	5
+¡5 Más Recurrentes del 2023!	1365	0	3
+Chucho Nieve	1366	0	3
+¡Año Nuevo Colosal!	24063	0	3
+Ciudadela Reliquia	7009	0	3
+Fiebre de las ofertas del Año Nuevo Lunar	1367	0	5
+Festival felino: Año Nuevo Lunar	24041	0	8
+¡Regalos del Año Nuevo Lunar en abundancia!	1288	0	2
+Ataque del Corazón Solitario	24045	0	3
+De tu Alumno	1290	0	3
+De tu Maestro	1291	0	3
+De tu Colega	1292	0	3
+Metal Slug Defense	2021	0	0
+Super Metal Slug Defense	2022	0	0
+METAL SLUG STRIKES!	27015	0	3
+Temp. 1: Días Escolares	24048	0	8
+Temp. 2: Festival de Latidos	1298	0	8
+Temp. 3: Excursión	1299	0	4
+Finde: Confesión	1300	0	3
+Finde ~Otra confesión~	1330	0	3
+Finde: Confesión	1301	0	3
+Finde ~Otra confesión~	1331	0	3
+Finde: Confesión	1302	0	3
+Finde ~Otra confesión~	1332	0	3
+Temp. 4: Día de Graduación	1303	0	3
+Otra historia ~Graduación~	1329	0	3
+Regalos de los 90 M	1368	0	2
+Horda de Gatos	24064	0	0
+Arena de Poder (Calle Artillería)	11026	0	-1
+¡Gigahaniwan Ataca!	24065	0	6
+¡Sufrimiento Primaveral!	24014	0	3
+	24066	0	3
+	1369	0	3
+	1370	0	2
+Era of Enoch	2214	0	3
+Battle with Madhead!	2215	0	0
+Ascend the Tower of Saviors	27016	0	3
+Fase del Año Nuevo Lunar	1224	0	2
+Ostentación de Año Nuevo	1267	0	4
+Ostentación de Año Nuevo	1286	0	4
+Plaga de Gatos Barquillo	1249	0	4
+Rurouni Kenshin	2216	0	0
+Kenshin Himura, Battosai	2217	0	3
+Sanosuke Sagara, Fighter for Hire	2218	0	3
+Aoshi Shinomori Strikes!	27017	0	3
+A Wolf Baring Fangs	2219	0	3
+Arena of Honor (The Swords of Meiji)	11027	0	-1
+Finde de Luna de Miel 1	1372	0	3
+Finde de Luna de Miel 2	1373	0	3
+Último Finde de Luna de Miel	1374	0	3
+Primer Recado NEO	1375	0	1
+Familias Superremate	1376	0	3
+Pt. 1: Recordando Diez Años	24057	0	8
+Pt. 2: Maniobras Enemigas	1322	0	3
+Pt. 5: Desfile Musical	1323	0	4
+The Battle Cats Together!	1206	0	0
+Noche de Verano, de Rumbo a Casa	1380	0	8
+Arena de Poder (Oleadas de Ataque)	11028	0	-1
+La Tortuga y el Bebé	1377	0	-1
+El Príncipe y el Renacido	1378	0	-1
+La Reina y el Santo	1379	0	-1
+La Paradoja de Papuu	1381	0	1
+Coliseo de Otro Mundo	36000	0	3
+Coliseo de Otro Mundo	36001	0	3
+	2092	0	0
+	2093	0	8
+	2094	0	1
+	2095	0	1
+	27002	0	3
+	27003	0	3
+Naufragio de los Gatos Estivales	24067	0	8
+Supervivencia en la Jungla	1382	0	8
+La Reina Más Vieja	1383	0	1
+Coliseo de Otro Mundo	36002	0	3
+Coliseo de Otro Mundo	36003	0	3
+Coliseo de Otro Mundo	36004	0	3
+#01 Fantasmagoría	24068	0	8
+Vendedor de Comida, Álzate	1384	0	1
+Coliseo de Otro Mundo	36005	0	3
+Coliseo de Otro Mundo	36006	0	3
+Coliseo de Otro Mundo	36007	0	3
+	1385	0	-1
+	1386	0	-1
+	1387	0	-1
+	1388	0	-1
+	1389	0	-1
+	11029	0	-1
+	1390	0	2
+Encuentra al Engendro Cósmico	1391	0	0
+Recuerdos de 2024	1392	0	4
+¡El Año Nuevo más feliz!	24069	0	3
+Be a Magical Girl	2173	0	0
+Be a Magical Girl II	2174	0	0
+Nutcracker Witch	2178	0	1
+Witch's Labyrinth: Rose Garden Witch	2220	0	4
+Witch's Labyrinth: Dessert Witch	2221	0	4
+Witch's Labyrinth: Box Witch	2222	0	4
+Walpurgisnacht	27009	0	1
+¡Resurrección de Clionel Zombi!	1393	0	1
+¡Oleada de regalos de los 100 M!	1396	0	2
+Torre Dorada	7010	0	3
+	1397	0	2
+Coliseo de Otro Mundo	36008	0	3
+	11029	0	-1
+	1398	0	-1
+	1399	0	-1
+	1400	0	-1
+	1401	0	-1
+Batalla de Gangas	24070	0	8
+Premio al Consumidor	1402	0	3
+Coliseo de Otro Mundo	36009	0	3
+Coliseo de Otro Mundo	36010	0	3
+Arena del Destino (Torneo de Talentos)	11030	0	6
+Strongest Things Alive	2223	0	8
+Vs Kaoru Hanayama	27018	0	3
+Vs Katsumi Orochi	27019	0	3
+Vs Retsu Kaioh	27020	0	3
+Vs Jack Hammer	27021	0	3
+Vs Baki Hanma	27022	0	3
+Arena of Power (The Strongest Things)	11031	0	-1
