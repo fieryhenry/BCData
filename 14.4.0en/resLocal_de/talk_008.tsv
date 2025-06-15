@@ -1,0 +1,84 @@
+			0	22	777	300	0
+		Entschuldige! Etwas ist dazwischen-<br>gekommen, also frage ich später!<br>Als Dank für deine Treue<br>gebe ich dir das hier!	0	22	300		
+1	0	<flash>Anfrage für Verstärkung</flash><br>auf der Straße zur Einigkeit!<br>Es geht los!	2				
+2	0	Würdest du dir die Bitte<br>einer Katze anhören?<br>Du kriegst zur Belohnung auch<br>haufenweise <flash>Katzenbatzen</flash>!	3	50			
+3	0	Wirklich?!<br>Danke!	4				
+4	0	Die Katzenarmee<br>arbeitet gerade an<br>der absoluten Einigkeit!	5				
+5	0	Aber sie hat nicht<br>genügend Kampfstärke,<br>um dieses Ziel zu erreichen.	6				
+6	0	Daher möchten wir,<br>dass du<br>deine Freunde rekrutierst!	7				
+7	0	Wenn du Freunde hast,<br>die noch nie oder länger nicht<br>mehr gespielt haben,<br>wären sie sehr willkommen!	10				
+8	0	The Battle Cats wird noch lange Spaß<br>verbreiten, also teile das Erlebnis<br>mit deinen Freunden!	9				
+9	0	Hast du das alles verstanden?	10	51			
+10	0	Bitte erzähl das<br>vielen deiner Freunde!	12				
+11	0	Du kannst einem Freund auch direkt<br>von dem Spiel erzählen!	12				
+12	0	Lass uns gemeinsam<br>die Katzenarmee vergrößern!<br>Schließlich hast du<br>einer Katze etwas versprochen!	13				
+13	0	Morgen habe ich eine<br>Katzenbatzen-Belohnung für dich,<br>also komm vorbei!	14				
+14	16	Wir sehen uns!	100				
+50	0	Tut mir leid, dass ich mich<br>so aufgespielt habe!<br>Ich rede ja schon wieder normal,<br>also hör dir meine Bitte an!	4				
+51	0	Ich erkläre es dir<br>noch einmal!	8				
+100	0	Du bist wieder da!<br>Hast du deinen Freunden<br>von der Katzenarmee erzählt?	101	150			
+101	0	Wirklich?!<br>Ich bin froh,<br>dass ich auf dich zählen kann.	102				
+102	0	Mach bitte weiter so<br>und lade noch mehr<br>deiner Freunde ein!	103				
+103	0	Ich belohne dich auch<br>mit Katzenbatzen, wenn du<br>dein Versprechen hältst!	104				
+104	0	Uuund hier sind sie ...!	105				
+105	0	...	106				
+106	0	...	107				
+107	0	Huch ... das sind<br>keine Katzenbatzen.<br>Das ist ein Sack Reis.	108				
+108	0	Ich hab’s vermasselt!<br>Ich habe aus Versehen<br>die Reisrationen<br>der Katzenarmee mitgebracht!	109				
+109	0	Tut mir leid! Ich habe<br>die Katzenbatzen zu Hause vergessen!	110				
+110	0	Keine Sorge.<br>Morgen bringe ich sie<br>ganz sicher mit, ja?!	111				
+111	0	Ich werde mir auf dem Heimweg<br>die ganze Zeit Erinnerungen<br>zuflüstern, damit ich<br>es nicht vergesse!	112				
+112	0	Keine Sorge!<br>Mit der Methode habe ich<br>noch nie etwas vergessen!	113				
+113	0	Oh, und mit dem Reis<br>könnte ich<br>Onigiri für alle machen!	114				
+114	0	Sie müssen hungrig sein!<br>Ich muss schnell zurück!	115				
+115	0	Aber lade du ruhig<br>in der Zwischenzeit<br>noch ein paar Freunde ein!	116				
+116	16	Wir sehen uns morgen!	200				
+150	0	Vergiss nicht,<br>deine Freunde einzuladen!	151				
+151	0	Kannst du es mir<br>noch einmal versprechen?	152	170			
+152	0	Danke!<br>Ich vertraue dir!	153				
+153	0	Ich belohne dich<br>mit Katzenbatzen, weil du<br>mir das versprochen hast!	104				
+170	0	Und ich wette,<br>dass du auch wirklich<br>ein paar Freunde mitbringst!	171				
+171	0	Ich vertraue dir<br>und als Zeichen dieses Vertrauens<br>gebe ich dir Katzenbatzen!	104				
+200	0	Danke, dass du heute da bist!	201				
+201	0	Hast du schon ein paar<br>Freunde eingeladen, sich<br>der Katzenarmee anzuschließen?	202	250			
+202	0	Sehr gut!<br>Jeder sollte Freunde<br>wie dich haben!	203				
+203	0	Haben sie gesagt,<br>dass das Spiel Spaß macht?<br>Wie ist es gelaufen?	204	270			
+204	0	Das freut mich!<br>Ich bin froh, dass deine Freunde<br>auch Spaß haben!	205				
+205	0	Du schaffst es immer,<br>wenn ich dich<br>um etwas bitte!	206				
+206	0	Also, wegen<br>der Katzenbatzen-Belohnung ...	207				
+207	0	... die ich dir unbedingt<br>geben will,<br>aber erst muss ich<br>dir was sagen.	208				
+208	0	Ich möchte gerne,<br>dass du einen weiteren<br>Freund rekrutierst!	209				
+209	0	Wenn du das machst,<br>hätte ich 100 Freunde!	210				
+210	0	Es war schon immer mein Traum,<br>Onigiri für eine Gruppe<br>von 100 Freunden zu machen!	211				
+211	0	Ich brauche nur noch<br>einen Freund, um diesen<br>Traum zu verwirklichen!	212				
+212	0	Das ist meine letzte Bitte!<br>Und morgen bringe ich auch<br>ganz bestimmt die<br>Katzenbatzen-Belohnung für dich mit!	213				
+213	16	Ich zähle auf dich!<br>Wir sehen uns morgen!	300				
+250	0	Oh ... hast du dein<br>Versprechen vergessen ...?	251				
+251	0	Du hast versprochen,<br>deine Freunde für die Katzenarmee<br>zu rekrutieren, damit sie<br>mit der Weltherrschaft helfen.	252				
+252	0	Hast du das wirklich vergessen?	260	253			
+253	0	Hast du bis jetzt<br>einfach nur<br>so getan, als ob?	260	254			
+254	0	Erinnerst du dich wirklich<br>an dein Versprechen?	255	260			
+255	0	Na gut, ich glaube dir!<br>Aber morgen will ich dich<br>und deinen Freund hier sehen!	256				
+256	0	Wir können die Weltherrschaft<br>nur an uns reißen,<br>wenn wir zusammenarbeiten!	257				
+257	0	Ich gehe davon aus, dass du einen<br>Freund rekrutieren wirst, also ist<br>hier deine Katzenbatzen-Belohnung!	207				
+260	0	Hey! Hör zu, was ich<br>dir zu sagen habe!	0				
+270	0	...	271				
+271	0	Ich bin traurig ... aber ich werde<br>mich nicht runterziehen lassen!	272				
+272	0	The Battle Cats ist<br>wie Trockenfleisch.	273				
+273	0	So, wie Trockenfleisch besser<br>schmeckt, je länger du drauf<br>rumkaust, wird das Spiel besser,<br>je mehr du spielst!	274				
+274	0	Also erzähl bitte<br>allen deinen Freunden,<br>wie viel Spaß das Spiel macht!	275				
+275	0	Aber ich bin froh,<br>dass du deinen Freund<br>eingeladen hast!	206				
+300	0	Du hast es geschafft!<br>Ich habe hier deine<br>Katzenbatzen-Belohnung!	301				
+301	0	Das ist ein Geschenk dafür,<br>dass du einen Freund<br>eingeladen hast! Danke!	302				
+302	0	Die Katzenarmee war in letzter Zeit<br>voller Leben! Sie ist Tag<br>und Nacht aktiv!	303				
+303	0	Und ich habe so viele<br>neue Freunde gefunden!	304				
+304	0	Wenn wir so weitermachen,<br>ist die Weltherrschaft<br>zum Greifen nahe!	305				
+305	0	Ich kann es kaum glauben,<br>dass die Welt bald uns gehört!<br>Ich träume von diesem Tag!	306				
+306	0	Du hältst doch bis<br>ganz zum Schluss zu uns,<br>oder?	307	350			
+307	0	Super! Du bist mein<br>allerbester Freund! Gemeinsam werden<br>wir die Welt beherrschen!	308				
+308	0	Ich bin froh, dass du dir in<br>den letzten Tagen<br>meine Bitten<br>angehört hast!	309				
+309	0	So viele Leute spielen<br>mittlerweile, weil du<br>sie rekrutiert hast!	310				
+310	0	Und hier ist<br>die Katzenbatzen-Belohnung,<br>auf die du gewartet hast!	311				
+311	0	Diesmal meine ich es<br>WIRKLICH ernst!	312				
+312	0	Hier ist sie!<br><flash>777 Katzenbatzen!</flash><br>Nur für dich!	-2				
+350	0	Hm?<br>Ich hab dich nicht verstanden.<br>Ich frage noch einmal.	306

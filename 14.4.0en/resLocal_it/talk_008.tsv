@@ -1,0 +1,84 @@
+			0	22	777	300	0
+		Scusa. È successa una cosa,<br>quindi te lo chiedo più tardi!<br>Per ringraziarti del supporto<br>ti regalo questo!	0	22	300		
+1	0	<flash>Richiesta di rinforzi</flash><br>sulla via dell'unificazione!<br>Inizia ora!	2				
+2	0	Vuoi ascoltare<br>la richiesta di un Gatto?<br>Se sì, otterrai un'enorme ricompensa<br>di <flash>Friskat</flash>!	3	50			
+3	0	Davvero?!<br>Grazie!	4				
+4	0	Al momento<br>l'armata felina sta cercando<br>di raggiungere l'unificazione totale!	5				
+5	0	Ma non ha abbastanza<br>potere marziale per farlo.	6				
+6	0	Quindi vorremmo<br>che tu reclutassi<br>i tuoi amici!	7				
+7	0	Se hai amici<br>che non giocano, o non più,<br>li accogliamo a zampe aperte!	10				
+8	0	The Battle Cats sarà qui per molto<br>tempo ancora, quindi condividi<br>il divertimento con gli amici!	9				
+9	0	Hai afferrato la spiegazione?	10	51			
+10	0	Spero che lo dirai<br>a un sacco di amici!	12				
+11	0	Oppure puoi parlare del gioco<br>a un amico direttamente!	12				
+12	0	Accresciamo l'armata felina insieme!<br>Hai fatto una promessa<br>a un Gatto, dopotutto!	13				
+13	0	La ricompensa di Friskat<br>sarà pronta domani,<br>quindi ritorna!	14				
+14	16	A domani!	100				
+50	0	Scusa per aver fatto l'arrogante!<br>La smetto con queste formalità,<br>quindi ascolta la mia richiesta!	4				
+51	0	Ti spiego tutto<br>un'altra volta!	8				
+100	0	Rieccoti!<br>Hai parlato ai tuoi amici<br>dell'armata felina?	101	150			
+101	0	Davvero?!<br>Sono contento<br>di poter contare su di te!	102				
+102	0	Voglio che continui così<br>e che chiedi ad altri amici!	103				
+103	0	Per ringraziarti<br>di aver mantenuto la promessa,<br>ti regalo la ricompensa in Friskat!	104				
+104	0	Beh, eccola...!	105				
+105	0	...	106				
+106	0	...	107				
+107	0	Ehm... Non è Friskat.<br>È una sacca di... riso?	108				
+108	0	Che pasticcio!<br>Per sbaglio ho preso<br>le razioni di riso<br>dell'armata felina!	109				
+109	0	Scusa! Ho dimenticato<br>il Friskat a casa!	110				
+110	0	Non essere triste.<br>Lo porterò sicuramente<br>domani, ok?!	111				
+111	0	Sussurrerò un promemoria<br>mentre torno a casa<br>per ricordarmelo!	112				
+112	0	Non ti preoccupare!<br>Questo metodo<br>ha sempre funzionato!	113				
+113	0	Oh, questo riso<br>lo prendo io<br>e ci preparo degli onigiri per tutti!	114				
+114	0	Devono essere affamati!<br>Vado subito!	115				
+115	0	Ma nel frattempo<br>mi farebbe piacere<br>se lo dicessi ad altri amici!	116				
+116	16	A domani!	200				
+150	0	Non dimenticarti di dirlo<br>ai tuoi amici!	151				
+151	0	Potresti promettermelo<br>ancora una volta?	152	170			
+152	0	Grazie!<br>Mi fido!	153				
+153	0	Ti darò una ricompensa<br>in Friskat<br>per averlo promesso!	104				
+170	0	E scommetto anche<br>che porterai davvero<br>degli amici!	171				
+171	0	Mi fido di te e ti darò<br>del Friskat<br>per dimostrartelo!	104				
+200	0	Rieccoti!	201				
+201	0	Hai invitato altri amici<br>a unirsi<br>all'armata felina?	202	250			
+202	0	Mi fa piacere!<br>Tutti dovrebbero avere<br>degli amici come te!	203				
+203	0	Hanno detto<br>che sarebbe stato divertente?<br>Com'è andata?	204	270			
+204	0	Sono commosso!<br>Sono felice<br>che sia piaciuto ai tuoi amici!	205				
+205	0	Fai sempre<br>quello che ti chiedo!	206				
+206	0	Adesso, riguardo<br>alla ricompensa in Friskat...	207				
+207	0	... o almeno,<br>era quello che volevo darti,<br>ma devo dirti una cosa.	208				
+208	0	In realtà vorrei<br>che invitassi<br>un altro amico!	209				
+209	0	Così avrei il mio<br>centesimo amico!	210				
+210	0	Sogno di poter<br>dar da mangiare torri di onigiri<br>a un gruppo di 100 amici!	211				
+211	0	Ho solo bisogno<br>di un altro amico<br>per realizzare questo sogno!	212				
+212	0	È la mia ultima richiesta!<br>Domani porterò sicuramente<br>la tua ricompensa in Friskat!	213				
+213	16	Conto su di te!<br>A domani!	300				
+250	0	Oh... hai dimenticato<br>la tua promessa...?	251				
+251	0	Avevi promesso<br>che avresti portato i tuoi amici<br>nell'armata felina<br>per conquistare il mondo.	252				
+252	0	Ti è passato di mente?	260	253			
+253	0	Mi avevi detto<br>di sì fino ad ora, no?	260	254			
+254	0	Te la ricordi<br>la tua promessa?	255	260			
+255	0	Beh, ti credo!<br>Ma domani voglio vederti<br>tornare con il tuo amico!	256				
+256	0	Possiamo conquistare il mondo<br>solo collaborando!	257				
+257	0	Mi aspetto<br>che inviti il tuo amico,<br>quindi ecco<br>la tua ricompensa in Friskat!	207				
+260	0	Ehi! Ascolta<br>quello che ho da dire!	0				
+270	0	...	271				
+271	0	Sono triste...<br>ma non mi farò abbattere!	272				
+272	0	The Battle Cats è come<br>la carne essiccata.	273				
+273	0	Più mastichi e più diventa buona;<br>più giochi e più<br>The Battle Cats migliora!	274				
+274	0	Quindi spero che<br>dirai ai tuoi amici<br>quant'è divertente questo gioco!	275				
+275	0	Ma sono felice<br>che tu abbia invitato<br>il tuo amico!	206				
+300	0	Ce l'hai fatta!<br>Ecco la tua ricompensa<br>in Friskat!	301				
+301	0	È un regalo<br>per aver invitato il tuo amico!<br>Grazie mille!	302				
+302	0	Ultimamente<br>l'armata felina è così arzilla!<br>Sono indaffarati<br>dalla mattina alla sera!	303				
+303	0	E ho stretto<br>così tante amicizie!	304				
+304	0	Se continuiamo così,<br>conquistare il mondo<br>sarà un gioco da ragazzi!	305				
+305	0	Il mondo è quasi nostro,<br>non posso crederci!<br>L'ho sognato per tanto tempo!	306				
+306	0	Rimarrai con noi<br>fino alla fine, vero?	307	350			
+307	0	Ottimo!<br>Ti voglio tanto bene!<br>Regneremo sul mondo insieme!	308				
+308	0	Sono felice che tu abbia ascoltato<br>la mia richiesta<br>in questi ultimi giorni!	309				
+309	0	Tantissime persone<br>hanno iniziato a giocare<br>perché gliel'hai chiesto tu!	310				
+310	0	E ora ecco<br>la ricompensa di Friskat<br>che stavi aspettando!	311				
+311	0	Dico davvero DAVVERO<br>sul serio questa volta!	312				
+312	0	Ecco! <flash>777 Friskat!</flash> Tutti per te!	-2				
+350	0	Eh? Non avevo capito.<br>Chiedo di nuovo.	306

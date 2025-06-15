@@ -1,0 +1,34 @@
+||à :|a trouvé : |＠|												//探検ログ：アタリテキスト
+Petite virée (1 h)|＠|												//探険コース【1時間】名
+Inspection classique (3 h)|＠|												//探険コース【3時間】名
+Grande expédition (6 h)|＠|												//探険コース【6時間】名
+|En route pour :|＠|											//探険コース選択時のポップアップ
+Bienvenue chez Gamatoto !|Ici, tu peux organiser des expéditions|pour explorer et obtenir divers objets.|＠|	//チュートリアルポップアップ1：ガマトト画面に初遷移時
+La garde-robe est débloquée !|Change le look de Gamatoto quand tu veux !|* Les tenues n’altèrent pas les cap. de Gamatoto.|＠|														//チュートリアルポップアップ2：ガマトト画面に初遷移時（撤廃のため空ダミー）
+Touche Gamatoto et|choisis une zone à explorer.|＠|									//チュートリアルポップアップ3：ガマトト画面に初遷移時
+La fonction Appel est débloquée !|Organise les assistants de Gamatoto.|＠|														//チュートリアルポップアップ4：初エリア選択画面時（撤廃のため空ダミー）
+＠|＠|＠|														//チュートリアルポップアップ5：初エリア選択画面時（撤廃のため空ダミー）
+＠|＠|＠|														//チュートリアルポップアップ6：初エリア選択画面時（撤廃のため空ダミー）
+Touche Gamatoto pour voir les|résultats de ton expédition.|＠|										//チュートリアルポップアップ7：初帰還画面時
+|sera utilisé pour raccourcir|le temps d’expédition de %d heure(s).|Confirmer ?|									//探索中　：ネコビタン使用時
+Expédition terminée !|Gamatoto a gagné de l’XP !|＠|＠|													//帰還画面：探検成功時
+Très grand succès !|XP x 1,5 pour Gamatoto !|＠|＠|													//帰還画面：探検大成功時
+Gamatoto a gagné un niveau !|Niveau %d atteint !|＠|										//帰還画面：レベルアップ時
+Rappeler l’expédition de Gamatoto ?|Tu ne recevras aucune récompense...|＠|							//探険中　：強制帰還時
+Tu n’as pas de vichamines.|En acheter à la boutique ?|＠|							//探険中　：ネコビタンが不足時（アイテムショップ誘導）
+Objet découvert ! || reçu(e).|＠|											//帰還画面：探検ログ中のアイテム獲得時
+Temps d’expédition raccourci de | heure(s) !|＠|											//探検中　：ネコビタン使用後
+Active-la pour recevoir une notification|quand Gamatoto revient.|(Aussi lorsque la construction de la base est terminée !)|＠|								//チュートリアルポップアップ5-1：探険終了通知を押したときのポップアップ
+Gamatoto est enfin rentré de : |.|＠|											//帰還画面：探検ログ終了時の決まりセリフ
+Une nouvelle zone a été découverte !|＠|											//帰還画面：エリア解放
+Gamatoto a gagné un niveau !|Niveau %d atteint !|Une nouvelle tenue est disponible !|＠|							//帰還画面：レベルアップ+ガマトト装備変更時
+Trop de candidats pour cette expédition.|Renvoie quelqu’un à la maison.|＠|							//探索選択択画面：隊員が上限をオーバーした時
+%s rentre à la maison.|Confirmer ?|＠|						//隊員画面：脱退ボタンを押した後
+Tu as recruté %s !|＠|												//帰還画面：隊員加入時
+[%s]|＠|														//にゃんこ隊員：レア度表示用括弧
+Membre(s) :|%d||＠|														//にゃんこ隊員：現在のにゃんこ隊員数
+Tu as trouvé ||%s ! (%d → |)|												//結果画面：探検で取得した数、探検前所持個数→探検後所持個数、表示時
+Miam découvert !|Regarde une pub pour le déterrer !|On creuse ?|＠|						//基本画面：広告用ネコカンアイコンタップ時
+Tu peux envoyer %s pour aider |Ototo. Qu’en dis-tu ?|＠|						//隊員画面：脱退画面にて「はい」を押した後
+Trop d’ingénieurs... Cet assistant va être|retiré et partir définitivement.|Confirmer ?|＠|				//隊員画面：脱退画面にて「はい」を押した後助手定員時
+Auxiliaires de légende débloqués !|Auxiliaires légendaires disponibles.|＠|								//にゃんこ隊員：レジェンド隊員解放

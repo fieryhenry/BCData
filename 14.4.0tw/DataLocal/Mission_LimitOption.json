@@ -1,0 +1,566 @@
+{
+  "limitID": {
+    "0": {
+      "Map": [
+        1117,
+        14013
+      ],
+      "RarityLimit": [
+        0
+      ],
+      "SlotLimit": [
+        8
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "1": {
+      "Map": [
+        1128,
+        14015
+      ],
+      "RarityLimit": [
+        1
+      ],
+      "SlotLimit": [
+        8
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "2": {
+      "Map": [
+        1158,
+        14016
+      ],
+      "RarityLimit": [
+        0
+      ],
+      "SlotLimit": [
+        9
+      ],
+      "SlotOptionRule": [
+        "Only"
+      ]
+    },
+    "3": {
+      "Map": [
+        1215,
+        14033
+      ],
+      "FormLvLimit": 1
+    },
+    "4": {
+      "Map": [
+        1177,
+        14017
+      ],
+      "FormLvLimit": 0
+    },
+    "5": {
+      "Map": [
+        1115
+      ],
+      "Stage": [
+        0
+      ],
+      "CharaLimit": [
+        615
+      ]
+    },
+    "6": {
+      "Map": [
+        1115
+      ],
+      "Stage": [
+        1
+      ],
+      "CharaLimit": [
+        616
+      ]
+    },
+    "7": {
+      "Map": [
+        1115
+      ],
+      "Stage": [
+        3
+      ],
+      "CharaLimit": [
+        615
+      ]
+    },
+    "8": {
+      "Map": [
+        1115
+      ],
+      "Stage": [
+        5
+      ],
+      "CharaLimit": [
+        616
+      ]
+    },
+    "9": {
+      "Map": [
+        2088
+      ],
+      "Stage": [
+        0
+      ],
+      "CharaLimit": [
+        615
+      ]
+    },
+    "10": {
+      "Map": [
+        2088
+      ],
+      "Stage": [
+        2
+      ],
+      "CharaLimit": [
+        616
+      ]
+    },
+    "11": {
+      "Map": [
+        2089
+      ],
+      "CharaLimit": [
+        615
+      ]
+    },
+    "12": {
+      "Map": [
+        2089
+      ],
+      "CharaLimit": [
+        616
+      ]
+    },
+    "13": {
+      "Map": [
+        1261
+      ],
+      "RarityLimit": [
+        0
+      ],
+      "SlotLimit": [
+        9
+      ],
+      "SlotOptionRule": [
+        "Only"
+      ]
+    },
+    "14": {
+      "Map": [
+        1095,
+        14012
+      ],
+      "RarityLimit": [
+        1
+      ],
+      "SlotLimit": [
+        7
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "15": {
+      "Map": [
+        1119,
+        14014
+      ],
+      "RarityLimit": [
+        0
+      ],
+      "SlotLimit": [
+        7
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "16": {
+      "Map": [
+        1014,
+        14018
+      ],
+      "RarityLimit": [
+        0
+      ],
+      "SlotLimit": [
+        8
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "17": {
+      "Map": [
+        1015,
+        14019
+      ],
+      "RarityLimit": [
+        0
+      ],
+      "SlotLimit": [
+        8
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "18": {
+      "Map": [
+        1016,
+        14020
+      ],
+      "RarityLimit": [
+        2
+      ],
+      "SlotLimit": [
+        8
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "19": {
+      "Map": [
+        1043,
+        14022
+      ],
+      "RarityLimit": [
+        2
+      ],
+      "SlotLimit": [
+        8
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "20": {
+      "Map": [
+        1039,
+        14021
+      ],
+      "RarityLimit": [
+        2
+      ],
+      "SlotLimit": [
+        8
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "21": {
+      "Map": [
+        1066,
+        14023
+      ],
+      "RarityLimit": [
+        0
+      ],
+      "SlotLimit": [
+        8
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "22": {
+      "Map": [
+        1096,
+        14035
+      ],
+      "FormLvLimit": 0
+    },
+    "23": {
+      "Map": [
+        1122,
+        14036
+      ],
+      "FormLvLimit": 0
+    },
+    "24": {
+      "Map": [
+        1157,
+        14049
+      ],
+      "FormLvLimit": 0
+    },
+    "25": {
+      "Map": [
+        2166
+      ],
+      "CharaLimit": [
+        181
+      ]
+    },
+    "26": {
+      "Map": [
+        2166
+      ],
+      "CharaLimit": [
+        179
+      ]
+    },
+    "27": {
+      "Map": [
+        2166
+      ],
+      "CharaLimit": [
+        340
+      ]
+    },
+    "28": {
+      "Map": [
+        2166
+      ],
+      "CharaLimit": [
+        483
+      ]
+    },
+    "29": {
+      "Map": [
+        1262
+      ],
+      "RarityLimit": [
+        2
+      ],
+      "SlotLimit": [
+        2
+      ],
+      "SlotOptionRule": [
+        "Only"
+      ]
+    },
+    "30": {
+      "Map": [
+        1263
+      ],
+      "RarityLimit": [
+        2
+      ],
+      "SlotLimit": [
+        2
+      ],
+      "SlotOptionRule": [
+        "Only"
+      ]
+    },
+    "31": {
+      "Map": [
+        1264
+      ],
+      "RarityLimit": [
+        2
+      ],
+      "SlotLimit": [
+        2
+      ],
+      "SlotOptionRule": [
+        "Only"
+      ]
+    },
+    "32": {
+      "Map": [
+        1262
+      ],
+      "RarityLimit": [
+        1
+      ],
+      "SlotLimit": [
+        2
+      ],
+      "SlotOptionRule": [
+        "Only"
+      ]
+    },
+    "33": {
+      "Map": [
+        1263
+      ],
+      "RarityLimit": [
+        1
+      ],
+      "SlotLimit": [
+        2
+      ],
+      "SlotOptionRule": [
+        "Only"
+      ]
+    },
+    "34": {
+      "Map": [
+        1264
+      ],
+      "RarityLimit": [
+        1
+      ],
+      "SlotLimit": [
+        2
+      ],
+      "SlotOptionRule": [
+        "Only"
+      ]
+    },
+    "35": {
+      "Map": [
+        1380
+      ],
+      "Stage": [
+        0
+      ],
+      "CharaLimit": [
+        615
+      ]
+    },
+    "36": {
+      "Map": [
+        1380
+      ],
+      "Stage": [
+        1
+      ],
+      "CharaLimit": [
+        616
+      ]
+    },
+    "37": {
+      "Map": [
+        1380
+      ],
+      "Stage": [
+        2
+      ],
+      "CharaLimit": [
+        670
+      ]
+    },
+    "38": {
+      "Map": [
+        2088
+      ],
+      "Stage": [
+        0
+      ],
+      "CharaLimit": [
+        767
+      ]
+    },
+    "39": {
+      "Map": [
+        2089
+      ],
+      "Stage": [
+        2
+      ],
+      "CharaLimit": [
+        766
+      ]
+    },
+    "40": {
+      "Map": [
+        2089
+      ],
+      "CharaLimit": [
+        765
+      ]
+    },
+    "41": {
+      "Map": [
+        13011
+      ],
+      "Stage": [
+        5
+      ],
+      "CostLimitMin": [
+        1000
+      ]
+    },
+    "42": {
+      "Map": [
+        13020
+      ],
+      "Stage": [
+        5
+      ],
+      "RarityLimit": [
+        0
+      ],
+      "SlotLimit": [
+        9
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "43": {
+      "Map": [
+        13035
+      ],
+      "Stage": [
+        5
+      ],
+      "RarityLimit": [
+        3
+      ],
+      "SlotLimit": [
+        8
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    },
+    "44": {
+      "Map": [
+        13042
+      ],
+      "Stage": [
+        5
+      ],
+      "CostLimitMax": [
+        2000
+      ]
+    },
+    "45": {
+      "Map": [
+        13048
+      ],
+      "Stage": [
+        0
+      ],
+      "SlotLimit": [
+        5
+      ],
+      "SlotOptionRule": [
+        "Less"
+      ]
+    },
+    "46": {
+      "Map": [
+        34000
+      ],
+      "Stage": [
+        0
+      ],
+      "RarityLimit": [
+        2
+      ],
+      "SlotLimit": [
+        9
+      ],
+      "SlotOptionRule": [
+        "More"
+      ]
+    }
+  }
+}

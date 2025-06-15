@@ -1,0 +1,84 @@
+			0	22	777	300	0
+		Sorry. Something came<br>up, so I'll ask later!<br>Take this for sticking<br>with me this long!	0	22	300		
+1	0	<flash>Reinforcements requested</flash><br>on the Road to Unification!<br>The battle begins now!	2				
+2	0	Would you kindly come to<br>a poor Cat's aid? If you do, you'll<br>get a huge<br><flash>Cat Food</flash> reward!	3	50			
+3	0	Truly?!<br>Thank you!	4				
+4	0	At this very moment,<br>the Cat Army is striving<br>to unite the Empire!	5				
+5	0	But the current might<br>of our forces alone isn't<br>enough to make that happen.	6				
+6	0	So, we humbly request<br>you recruit your<br>friends to the cause!	7				
+7	0	If you have friends<br>that haven't played or played<br>long ago but stopped,<br>they're all welcome!	10				
+8	0	The Battle Cats will be here for<br>a long time to come, so<br>share the fun with friends!	9				
+9	0	Did you get all that?	10	51			
+10	0	I hope you'll tell a<br>bunch of your friends!	12				
+11	0	Or you can tell a friend<br>about the game directly!	12				
+12	0	Let's grow the Cat Army<br>together! A promise made<br>with a Cat ought never<br>be broken, after all!	13				
+13	0	I'll have your Cat Food<br>reward ready by tomorrow,<br>so drop by again then!	14				
+14	16	Well, uhh...<br>See you then!	100				
+50	0	Sorry for acting all highfalutin'!<br>I'll cut it out with all<br>the regal speak, so<br>listen to my request!	4				
+51	0	I'll explain it all<br>one more time!	8				
+100	0	You're back!<br>Did ya tell all your friends<br>about the Cat Army?	101	150			
+101	0	Really?! Truly?!<br>I'm so glad to have a<br>trustworthy pal like you!	102				
+102	0	I hope you'll keep up<br>this energy and spread<br> the word to more friends!	103				
+103	0	For keeping your<br>promise to me, here's<br> your Cat Food reward.	104				
+104	0	Well, here it is...!	105				
+105	0	...	106				
+106	0	...	107				
+107	0	Huh... That's not<br>Cat Food.<br>It's a bag of... rice?	108				
+108	0	I messed up!<br>I grabbed the<br>rice rations for the<br>Cat Army by mistake!	109				
+109	0	Once again, I've left<br>the Cat Food at home...	110				
+110	0	Don't be sad.<br>I PROMISE to bring<br>it tomorrow, okay?!	111				
+111	0	I'll whisper reminders<br>to myself on my<br>way home to keep<br>myself from forgetting!	112				
+112	0	Don't worry!<br>I've NEVER forgotten<br>after doing this!	113				
+113	0	Well, since I have<br>this rice already, I<br>might as well make <br>onigiri for everyone!	114				
+114	0	Hope they're all hungry!<br>Be back soon!	115				
+115	0	But I'd sure like it<br>if you told a few more<br>friends in the meantime!	116				
+116	16	See you tomorrow!	200				
+150	0	Don't forget to tell<br>your friends!	151				
+151	0	Could you do me<br>this one last favor?	152	170			
+152	0	Thanks a lot!<br>I'm trusting you!	153				
+153	0	I'll give you a<br>Cat Food reward for<br>making this promise!	104				
+170	0	I'm trusting you that<br>you actually will invite<br>your friends to play!	171				
+171	0	This Cat Food is a<br> symbol of that trust!	104				
+200	0	Thanks for coming<br>by today as always!	201				
+201	0	Did you invite your<br>friends to become<br>allies of the Cat Army?	202	250			
+202	0	That's great news!<br>Everyone should have<br>a friend like you!	203				
+203	0	Were they having<br>fun fighting alongside us Cats?<br>Did they earn a victory?	204	270			
+204	0	I'm moved!<br>I'm glad that your<br>friends enjoyed it!	205				
+205	0	You always pull through<br>when asked to<br>do something!	206				
+206	0	Now, for your Cat Food<br>reward...	207				
+207	0	...is what I'd<br>like to say, but...<br>I have something<br>to ask you first.	208				
+208	0	I want you to invite<br>just ONE more<br>friend! Pretty please!	209				
+209	0	I'd have my 100th friend<br>if you did that!	210				
+210	0	My dream is to<br>feed a group of 100<br>friends 100 onigiri each!	211				
+211	0	Just need one more<br>friend to make that<br>dream come true!	212				
+212	0	This is my final request!<br>I'll bring the Cat Food<br>reward for you<br>tomorrow for sure!	213				
+213	16	I'm counting on you!<br>See you tomorrow!	300				
+250	0	Oh... did you forget<br>your promise...?	251				
+251	0	You promised to have<br>your friends join the<br>Cat Army and work<br>toward world domination!	252				
+252	0	Did you really forget?	260	253			
+253	0	Were you just telling me<br>what I wanted to hear<br>until now?	260	254			
+254	0	Do you REALLY remember<br>your promise?	255	260			
+255	0	Well, I believe you! But I<br>want you see you here<br>with your friend tomorrow!	256				
+256	0	World domination can<br>only happen if we<br>work together!	257				
+257	0	I believe you'll<br>invite your friend, so<br>here's your Cat Food reward!	207				
+260	0	Hey! Listen to<br>what I say!	0				
+270	0	...<br>	271				
+271	0	I am sad... but I won't<br>let it get me down!	272				
+272	0	The Battle Cats is<br>like beef jerky.	273				
+273	0	Like jerky that tastes<br>better the more you chew,<br>the game gets better<br>the more you play!	274				
+274	0	So I hope you'll tell<br>you friends all about<br>how fun the game is!	275				
+275	0	But I am glad that<br>you invited your<br>friend! Really!	206				
+300	0	You've done it!<br>I have your Cat Food<br>reward here!	301				
+301	0	A gift for inviting<br>your friend! Thank<br>you so much!	302				
+302	0	The Cat Army has<br>been so motivated<br>lately! Just full of pep<br>all day long!	303				
+303	0	And I've made so<br>many new friends!	304				
+304	0	If we keep going like this,<br>then world domination<br>is within our grasp!	305				
+305	0	I can't believe that the<br>world is almost ours! I've<br>dreamed of that day!	306				
+306	0	You'll stick with us<br>until the very end,<br>right?	307	350			
+307	0	Great! You're truly my<br>best friend! We'll rule<br>the world together!	308				
+308	0	I'm glad that you<br>listened to my requests<br>over these last<br>few days!	309				
+309	0	So many people have<br>started playing because<br>you asked them to!	310				
+310	0	And now... here's the<br>Cat Food reward you've<br>been waiting for!	311				
+311	0	I'm really REALLY<br>serious this time!	312				
+312	0	Here it is!<br><flash>777 Cat Food!</flash><br>All for you!	-2				
+350	0	Hm?<br>I didn't hear you.<br>I'll ask again.	306

@@ -1,0 +1,98 @@
+Efficace contre : ennemis rouges|＠
+Efficace contre : ennemis flottants|＠
+Efficace contre : ennemis noirs|＠
+Efficace contre : ennemis métal|＠
+Efficace contre : ennemis anges|＠
+Efficace contre : ennemis aliens|＠
+Efficace contre : ennemis zombies|＠
+Efficace contre : ennemis reliques|＠
+Efficace contre : ennemis Akus|＠
+Efficace contre les ennemis sans caract.|＠
+＠
+＠
+＠
+＠
+＠
+【Affaiblissement】|Les types d’ennemis indiqués voient leur puissance|d’attaque réduite pendant une durée définie.|＠
+【Renforcement】|Renforce les attaques quand la santé|chute au-dessous d’un seuil défini.|＠
+【Immobilisation】|Les types d’ennemis indiqués sont immobilisés|pendant une durée définie.|＠
+【Ralentissement】|Les types d’ennemis indiqués voient leur vitesse|réduite pendant une durée définie.|＠
+【Survie】|Autoguérit l’unité à petite dose quand|sa santé chute au-dessous de zéro.|＠
+【Casseur de base】|Inflige beaucoup plus de dégâts|en attaquant les bases ennemies.|＠
+【Critique】|Chance définie d’infliger davantage de dégâts|aux ennemis métal lors des attaques.|＠
+【Attaque uniquement】|Ne blesse qu’un type spécifique|de cible ennemie.|＠
+【Fort contre】|Les types d’ennemis indiqués subissent des dégâts|suppl. et les dégâts qu’ils infligent sont réduits.|＠
+【Résistance】|Les dégâts infligés par les types d’ennemis indiqués|sont fortement réduits.|＠
+【Rentabilité accrue】|Les récompenses financières pour avoir vaincu|les types d’ennemis indiqués augmentent.|＠
+【Dégâts massifs】|Les types d’ennemis indiqués subissent|beaucoup plus de dégâts.|＠
+【Recul】|Chance définie de repousser les types d’ennemis indiqués|vers leur base.|＠
+【Vague offensive】|Frappe les ennemis à portée. La vague d’énergie|ainsi générée inflige des dégâts supplémentaires.|＠
+【Blindage】|Réduit fortement les dégâts de la plupart des attaques,|mais l'unité reste vulnérable aux frappes critiques.|＠
+【Immun. Vagues】|Immunité aux dégâts des vagues offensives.|＠
+【Attaque de zone】|Inflige des dégâts à tous les ennemis présents|dans son champ d’attaque défini.|＠
+【Longue portée】|Les unités éloignées subissent des dégâts, mais les|attaques peuvent rater des unités à plus courte portée.|＠
+【Immun. Affaiblissement】|Immunité à l’affaiblissement provoqué par|les attaques ennemies.|＠
+【Immun. Immobilisation】|Immunité à l’immobilisation provoquée par|les attaques ennemies.|＠
+【Immun. Ralentissement】|Immunité au ralentissement provoqué par|les attaques ennemies.|＠
+【Immun. Recul】|Immunité au recul provoqué par|les attaques ennemies.|＠
+【Cible unique】|Seul un ennemi à portée est affecté|par les attaques.|＠
+【Tueur de sorcières】|Gros boost d’attaque et de défense contre les sorcières|ennemies des niveaux collaboratifs Madoka Magica.|＠
+【Tueur de zombies】|Empêche les ennemis zombies|de ressusciter.|＠
+【Bloque-vagues】|Annule les vagues offensives et|protège les unités à l’arrière de leur effet.|＠
+【Brise-barrière】|Peut neutraliser les barrières ennemies et infliger|des dégâts massifs ensuite.|＠
+【Bloque-téléportation】|Annule la téléportation provoquée par|les attaques ennemies.|＠
+【Devant-derrière】|Attaque les ennemis placés devant et derrière|dans une large zone.|＠
+【Tueur d’anges Eva】|Inflige des dégâts suppl. aux boss collaboratifs|d’Evangelion et réduit les dégâts subis.|＠
+【Immun. Malédictions】|Immunité aux effets de statut temporaire|infligés par les malédictions ennemies.|＠
+【Téléportation】|Les attaques peuvent téléporter les ennemis.|＠
+【Résist. Affaiblissement】|L’affaiblissement infligé par les ennemis|a moins de chances de faire effet.|＠
+【Résist. Immobilisation】|L’immobilisation infligée par les ennemis|a moins de chances de faire effet.|＠
+【Résist. Ralentissement】|Le ralentissement infligé par les ennemis|a moins de chances de faire effet.|＠
+【Résist. Recul】|Le recul infligé par les ennemis|a moins de chances de faire effet.|＠
+【Résist. Vagues】|Les vagues offensives ennemies sont moins efficaces.|＠
+【Résist. Téléportation】|La téléportation infligée par les ennemis|a moins de chances de faire effet.|＠
+【Coût réduit】|Le coût de déploiement de l’unité est réduit.|＠
+【Récupération accélérée】|L’unité pourra être déployée plus tôt.|＠
+【Vitesse de déplacement aug.】|L’unité se déplace plus vite.|＠
+【Recul amélioré】|Les chances de repousser l’ennemi augmentent.|＠
+【Résist. Malédictions】|Les malédictions infligées par les ennemis|ont moins de chances de faire effet.|＠
+【Bonus d’attaque】|Augmente la puissance d'attaque de base.|＠
+【Bonus de défense】|Augmente la défense de base.|＠
+【Dégâts insensés】|Augmente considérablement les dégâts infligés|aux ennemis cibles.|＠
+【Résistance acharnée】|Réduit considérablement les dégâts infligés|par les ennemis cibles.|＠
+【Cible : ennemis rouge】|Les capacités affecteront aussi les ennemis rouges.|＠
+【Cible : ennemis flottants】|Les capacités affecteront aussi les ennemis flottants.|＠
+【Cible : ennemis noirs】|Les capacités affecteront aussi les ennemis noirs.|＠
+【Cible : ennemis métals】|Les capacités affecteront aussi les ennemis métal.|＠
+【Cible : ennemis anges】|Les capacités affecteront aussi les ennemis anges.|＠
+【Cible : ennemis aliens】|Les capacités affecteront aussi les ennemis aliens.|＠
+【Cible : ennemis zombies】|Les capacités affecteront aussi les ennemis zombies.|＠
+【Cible : ennemis reliques】|Les capacités affecteront aussi les ennemis reliques.|＠
+【Cible : ennemis sans caract.】|Les capacités affecteront aussi les ennemis sans caract.|＠
+【Frappe sauvage】|Chance définie d’infliger beaucoup de dégâts suppl.|＠
+【Esquive】|Évite temporairement les dégâts infligés par|le type d’ennemi cible.|＠
+【Réplique offensive】|Les attaques réussies infligent des dégâts suppl.|à des sections aléatoires dans la zone d’attaque.|＠
+【Immun. Toxique】|Immunité aux effets toxiques des attaques ennemies.|＠
+【Malédiction】|L’ennemi ne peut pas infliger d’effets|de statut négatif pendant un certain temps.|＠
+【Immun. Répliques】|Insensible aux répliques offensives ennemies.|＠
+【Mini-vague】|Les attaques réussies peuvent infliger des dégâts suppl.|aux ennemis à portée, sous la forme d'une petite vague.|＠
+【Résist. toxique】|Les effets toxiques infligés par les ennemis|ont moins de chances de faire effet.|＠
+【Résiste aux répliques】|Subit moins de dégâts des répliques offensives.|＠
+【Perforation de bouclier】|Les att. ont une chance d'annuler les|boucliers ennemis Akus et dégâts massifs.|＠
+【Cible Aku】|Les capacités affecteront aussi les ennemis Akus.|＠
+【Fléau des colosses】|Augmente les dégâts d'attaque et la|défense contre les ennemis colossaux.|＠
+【Impact spirituel】|Son attaque peut infliger des dégâts|aux zombies « morts » temporairement.|＠
+【Fléau des Béhémoths】|Augmente fortement l'attaque et la défense|contre les Béhémoths, avec chance d'esquive.|＠
+【Fréquence d’attaque ↑】|Le temps entre chaque attaque est raccourci.|＠
+【Mini-réplique offensive】|Les att. réussies libèrent une petite réplique off. qui|inflige des dégâts suppl. sur un point aléatoire.|＠
+【Contre-réplique】|Face à une réplique offensive ennemie, |riposte par sa propre réplique offensive.|＠
+【Conjurateur】|Touche l'icône pour invoquer un esprit qui attaque|tes ennemis. 1 unité de ce type déployable à la fois.|＠
+【Fléau des Sages】|Augmente les dégâts infligés aux Sages. Réduit|leurs dégâts et effets d'altérations.|Annule leur immunité aux debuffs.|＠
+【Métallicide】|Inflige des dégâts aux ennemis métal selon|la santé restante de l'ennemi cible.|＠
+＠
+＠
+＠
+＠
+＠
+【Explosion】|Génère une explosion dévastatrice qui s'étend|à gauche et à droite d'une attaque réussie.|＠
+【Immun. Explosions】|Immunité aux dégâts des explosions ennemies.|＠

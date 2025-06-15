@@ -1,0 +1,1564 @@
+item_pack_name_0	Promo booster : pack de Miam !
+item_pack_name_1	Promo booster : superpack de Miam !
+item_pack_name_2	Promo booster : pack de Miam ultra !
+item_pack_name_3	Vente limitée : ensemble de Miam spécial !
+item_pack_name_4	Vente limitée : ensemble de super Miam !
+item_pack_name_5	Vente limitée : ensemble de Miam ultra !
+item_pack_name_6	Offre spéciale : achète un ticket rare !
+item_pack_name_7	Offre spéciale : ticket platine !
+item_pack_name_11	Achète le pack de démarrage platine !
+item_pack_name_12	
+item_pack_name_13	Pack Lion de Shakurel
+item_pack_name_14	Pack Tigre de Shakurel
+item_pack_name_15	Pack Panda de Shakurel
+item_pack_name_17	Pack de remerciement
+item_pack_name_18	Promo à durée limitée : argent
+item_pack_name_19	Promo à durée limitée : or
+item_pack_name_20	Promo à durée limitée : platine
+item_pack_purchased_title	<flash>%@</flash><br>
+item_pack_purchased_item	%@ x %d → <color=255,255,0>%d</color><br>
+item_pack_purchased_xp	%@ %d → <color=255,255,0>%d</color><br>
+item_pack_purchased_ticket	%@ x %d → <color=255,255,0>%d</color><br>
+battle_result_first_clear_bonus	<color=255,255,0>Première récompense de niveaux terminés</color><br>Tu as reçu <flash>30 Miam !!</flash><br>Tu as aussi reçu <flash>1 Autorité !!</flash>
+user_rank_gift_1600_catseye_unlocked	<flash>Augmente ton niveau maximum !</flash><br>Utilise un œil-de-chat sur certaines unités<br>pour qu’elles accèdent à des niveaux supérieurs !
+user_rank_gift_no_more	<color=255,255,0>Tu as débloqué toutes les récompenses disponibles<br>pour le moment… Il y en aura bientôt d’autres !</color>
+user_rank_popup_title1	<color=255,255,0>Mission Rang joueur</color><br>
+user_rank_popup_title2	<flash>Rang joueur %d terminé !</flash><br>
+user_rank_popup_title3	<color=255,255,0>Rang joueur ${rankNum} atteint !</color><br>Récupérer ta récompense ?
+user_rank_full_recovery_energy	Tu as reçu <flash>1 Autorité !</flash>
+data_upload_error_catfood_20000	Il se peut que les données ne se sauvegardent pas car elles ont été modifiées ou piratées. Merci de contacter l'assistance.
+energy_connecting	Mise à jour des données...
+energy_connection_failed1	Erreur de mise à jour des données Charburant.
+energy_connection_failed2	Vérifie ta connexion et réessaie.
+energy_fraud1	Il se peut que l’horaire de l’appareil ait été modifié.
+energy_fraud2	Récupération du Charburant interrompue pendant un certain temps.
+gamatoto_connection	Mise à jour des données...
+gamatoto_connection_failed	Erreur de calcul du temps d’expédition. Vérifie ta connexion, puis redémarre l’application.
+gamatoto_fraud	Il se peut que l’horaire de l’appareil ait été modifié. La récupération du Charburant sera interrompue pendant un certain temps.
+reset_item_reward	<color=255,255,0>Dispo des récompenses restaurée !</color><br>Les récompenses effacées sont à nouveau proposées.<br>Achève des tâches pour les regagner !
+reset_tower_state	<color=255,255,0>Récompenses/Niveaux terminés de retour !</color><br>Les niveaux et les récompenses sont<br>de nouveau disponibles.
+reward_energy	Chance de récupérer du Charburant !<br>Regarder une vidéo pour te réapprovisionner de %d Charburant ?</flash>
+receive_energy	%d Charburant récupéré.
+receive_energy_full	Charburant récupéré en totalité.
+network_unavailable_energy	Charburant non actualisé.\nVérifie ta connexion !
+network_unavailable_gamatoto	Miam non actualisé.\nVérifie ta connexion !
+001_img044.png	i001_img044_fr.png
+001_img044.imgcut	i001_img044_fr.imgcut
+001_img045.png	i001_img045_fr.png
+001_img045.imgcut	i001_img045_fr.imgcut
+021_e.png	i021_e_fr.png
+021_e.imgcut	i021_e_fr.imgcut
+slot_copy_select	Il est possible de copier les unités depuis l'emplacement %d.<br>Copier ou remplacer les unités ?
+slot_copy	Unités copiées depuis l'emplacement %d.<br>Rends-toi sur l'emplacement de ton choix puis appuie sur Remplacer.<br>
+slot_paste	Cet emplacement sera remplacé avec les unités de l'emplacement %d. <br>Tu confirmes ?
+instant_koyashi	Il est possible d'échanger<br>5 Chapsules pleines à craquer contre un ticket rare.<br>Échanger des Chapsules pleines ?<br>(%d autres Chapsules valables nécessaires)
+storage_koyashi	Toutes les Chapsules pleines à craquer seront échangées<br>contre un ou plusieurs ticket(s) rare(s).<br>Tu confirmes ?<br>
+have_koyashi	%d Les Chapsules sont valables pour l'échange.
+tutorial_favoriteUnit	Touche le bouton ☆ pour<br>afficher uniquement tes unités préférées ou<br>toutes les unités que tu as obtenues.
+tutorial_favoriteUnit_pictureBook1	<color=255,255,0>Paramétrer tes Favoris ①</color><br>Après avoir choisi tes Chats<br>préférés, touche le bouton "Confirmer ☆"<br>pour fermer le menu des Favoris !
+tutorial_favoriteUnit_pictureBook2	<color=255,255,0>Paramétrer tes Favoris ②</color><br>Touche le bouton Filtrer dans Améliorer<br>ou Organiser pour n'afficher QUE<br>les Chats marqués en Favoris !
+everyplay_not_supported	Cet appareil n'est pas pris en charge.
+everyplay_no_related_videos	Aucun support associé n'a été trouvé.
+cat_challenge01	<flash>Toutes les zones de quarantaines sont sécurisées !</flash><br>Quantité maximum de Charburant augmentée de %d !
+data_download_error_catfood_20000	Manipulation de données détectée. Il se peut que cette sauvegarde des données ne soit pas transférée vers un autre appareil. Merci de contacter l'assistance de PONOS.
+cat_challenge_item	Utilise autant d'accélérations et de<br>Chats numériques gratuits que tu veux pendant tes combats<br>dans le Dojo Griffélin !<br>* L'activation d'un boost de vitesse consomme l'objet.
+zombie_clear00	<flash>${stageName} : Invasion repoussée !</flash><br>Tu as reçu 10 Miam !
+zombie_clear01	<flash>Zone de quarantaine sécurisée !</flash><br>%@ : Taux d’obtention de trésors accru !
+zombie_clear02	<flash>Toutes les zones de quarantaine Empire sont sécurisées !</flash><br>Max. de Charburant augmenté de ${EnergyNum} !
+zombie_clear03	<flash>Taux d’obtention de trésors élevé sur les niveaux à durée lim. !</flash><br>Consulte la liste des trésors pour les connaître !
+zombie_clear04	<flash>Toutes les zones de quarantaine Futur sont sécurisées !</flash><br>Max. de Charburant augmenté de ${EnergyNum} !
+zombie_clear05	<flash>Toutes les zones de quarantaine Cosmos sont sécurisées !</flash><br>Max. de Charburant augmenté de ${EnergyNum} !
+zombie_area_00	ZQ Asie orientale
+zombie_area_01	ZQ Océan Indien
+zombie_area_02	ZQ Rift de l'Himalaya
+zombie_area_03	ZQ Afro-Méditerranée
+zombie_area_04	ZQ Alpes
+zombie_area_05	ZQ Europe de l'Ouest
+zombie_area_06	ZQ Atlantique nord
+zombie_area_07	ZQ Amériques orientales
+zombie_area_08	ZQ Pacifique
+zombie_area_09	ZQ Fairbanks
+zombie_area_10	ZQ Mauna Kea
+receivedBoxText	Les objets non récupérés dans un délai de 30 jours sont désactivés.
+receive_version_error	Actualise la version<br>avant d'accepter tes récompenses.
+receive_network_error	Erreur de connexion<br>Les objets n'ont pas pu être récupérés.
+receive_item_popup	%d %s
+receive_item_popup_xp	%d %s
+receive_item_popup_chara	Unité féline : %s
+receive_item_popup_chara_evolve	Forme ultime : %s
+receive_item_popup_last	reçu(s) !
+zombie_treasure	Zone de quarantaine sécurisée !<br>%@ : Taux d’obtention de trésors accru !
+zombie_treasure01	Tous les niveaux de cette page sont à l'abri des zombies !<br>Taux d'obtention de trésors augmentés sur ces niveaux !
+receive_list_network_error	Affichage impossible à cause d'une<br>erreur de connexion.
+receive_item_none_popup	Tu ne peux actuellement récupérer<br>aucun objet.
+serial_error_popup	Impossible de recevoir des objets.<br>Si tu penses qu'il y a erreur<br>merci de contacter l'assistance.
+ponos_games_url	https://ponos.s3.amazonaws.com/iphone/en/battlecats.html
+zombie_comp	Zone de quarantaine sécurisée !<br>%@ : taux d’obtention de trésors accru !<br>Le monde est à l'abri de l'invasion des zombies !<br>La quantité maximum de Charburant a été augmentée !
+zombie_comp01	Tous les niveaux de cette page sont à l'abri des zombies !<br>Taux d'obtention de trésors augmentés sur ces niveaux !<br>Toutes les zones sont à l'abri des zombies !<br>Charburant augmenté au niveau maximum !
+zombie_comp02	Tous les niveaux de la zone sont à l'abri des zombies !<br>Taux d'obtention de trésors augmentés sur ces niveaux !<br>Toutes les zones sont à l'abri des zombies !
+Space09_Invasion_stageclear_txt1	<flash>Tu as vaincu un ennemi redoutable !</flash><br>L'unité spéciale Chat flibustier X<br>a juré fidélité à ton armée de Chats !<br> Récupère-la dans le menu Améliorer !
+maxcollab_mg	Unités collaboratives non disponibles en dehors de la période de l'événement collaboratif.
+maxcollab_popup	<flash>Tu as reçu un Chat spécial : "%@" !</flash><br>Active-le dans le menu Améliorer !
+slot_set_error	<color=255,255,0>Aucune unité féline n'est sélectionnée dans ton armée !</color>
+shop_category1	Objets de combat
+shop_category2	XP
+shop_category3	GAMATOTO
+collabo_send_message	Tu as reçu une récompense utilisable dans "%@" !<br>Lancer l'appli "%@" ?
+collabo_send_title_0	
+collabo_send_scheme_0	
+collabo_send_url_0	
+collabo_send_url_android_0	
+collabo_send_title_1	
+collabo_send_scheme_1	
+collabo_send_url_1	
+collabo_send_url_android_1	
+collabo_send_title_2	
+collabo_send_scheme_2	
+collabo_send_url_2	
+collabo_send_url_android_2	
+collabo_send_title_3	
+collabo_send_scheme_3	
+collabo_send_url_3	
+collabo_send_url_android_3	
+collabo_send_title_4	
+collabo_send_scheme_4	
+collabo_send_url_4	
+collabo_send_url_android_4	
+collabo_send_title_5	
+collabo_send_scheme_5	
+collabo_send_url_5	
+collabo_send_url_android_5	
+collabo_send_title_14	
+collabo_send_scheme_14	
+collabo_send_url_14	
+collabo_send_url_android_14	
+collabo_send_title_17	
+collabo_send_scheme_17	
+collabo_send_url_17	
+collabo_send_url_android_17	
+collabo_send_url_android_27	
+collabo_send_title_6	
+collabo_send_scheme_6	
+collabo_send_url_6	
+collabo_send_url_android_6	
+collabo_send_title_15	
+collabo_send_scheme_15	
+collabo_send_url_15	
+collabo_send_url_android_15	
+collabo_send_title_16	
+collabo_send_scheme_16	
+collabo_send_url_16	
+collabo_send_url_android_16	
+collabo_send_title_18	
+collabo_send_scheme_18	
+collabo_send_url_18	
+collabo_send_url_android_18	
+collabo_send_title_19	
+collabo_send_scheme_19	
+collabo_send_url_19	
+collabo_send_url_android_19	
+collabo_send_title_20	
+collabo_send_scheme_20	
+collabo_send_url_20	
+collabo_send_url_android_20	
+collabo_send_title_7	
+collabo_send_scheme_7	
+collabo_send_url_7	
+collabo_send_url_android_7	
+collabo_send_title_8	
+collabo_send_scheme_8	
+collabo_send_url_8	
+collabo_send_url_android_8	
+collabo_send_title_9	
+collabo_send_scheme_9	
+collabo_send_url_9	
+collabo_send_url_android_9	
+collabo_send_title_10	
+collabo_send_scheme_10	
+collabo_send_url_10	
+collabo_send_url_android_10	
+collabo_send_title_11	
+collabo_send_scheme_11	
+collabo_send_url_11	
+collabo_send_url_android_11	
+collabo_send_title_12	Crash Fever
+collabo_send_scheme_12	com.wonderplanet.crashfever://Nyanko?code=001
+collabo_send_url_12	https://itunes.apple.com/us/app/crash-fever/id1146722894?ls=1&mt=8
+collabo_send_url_android_12	https://play.google.com/store/apps/details?id=com.wonderplanet.CrashFever
+collabo_send_title_13	Crash Fever
+collabo_send_scheme_13	com.wonderplanet.crashfever://Nyanko?code=002
+collabo_send_url_13	https://itunes.apple.com/us/app/crash-fever/id1146722894?ls=1&mt=8
+collabo_send_url_android_13	https://play.google.com/store/apps/details?id=com.wonderplanet.CrashFever
+collabo_send_title_21	
+collabo_send_scheme_21	
+collabo_send_url_21	
+collabo_send_url_android_21	
+collabo_send_title_22	
+collabo_send_scheme_22	
+collabo_send_url_22	
+collabo_send_url_android_22	
+scheme_item_param_3	
+scheme_popup_3	<flash>Tu as reçu un Chat spécial : "%@" !</flash>
+scheme_popup_3_option	<flash>Tu as reçu un Chat spécial : "%@" !</flash><br>Récupère-le dans le menu Améliorer !
+scheme_popup_3_option_get	Récompense reçue avec succès !<br>Va la voir dans le menu Améliorer !
+scheme_item_param_47	nekohopper_en1
+scheme_popup_47	Vas-y ! Fonce ! Chat sauteur<br>1re récompense pour la mission de collaboration<br><flash>%@%@！</flash>
+scheme_item_param_48	nekohopper_en2
+scheme_popup_48	Vas-y ! Fonce ! Chat sauteur<br>2è récompense pour la mission de collaboration<br><flash>%@%@！</flash>
+scheme_item_param_49	nekohopper_en3
+scheme_popup_49	Vas-y ! Fonce ! Chat sauteur<br>3è récompense pour la mission de collaboration<br><flash>%@%@！</flash>
+scheme_item_param_50	nekohopper_en4
+scheme_popup_50	Vas-y ! Fonce ! Chat sauteur<br>4è récompense pour la mission de collaboration<br><flash>%@%@！</flash>
+scheme_item_param_51	nekohopper_en5
+scheme_popup_51	Vas-y ! Fonce ! Chat sauteur<br>5è récompense pour la mission de collaboration<br><flash>%@%@！</flash>
+scheme_popup_browser	Profite de ces récompenses d'événement !<br>Reçois tes récompenses à la base féline !
+scheme_popup_browser_get	Récompenses d'événement reçues avec succès !
+rarity_name_1	Classique
+rarity_name_2	Spéciale
+rarity_name_3	Rare
+rarity_name_4	Super rare
+rarity_name_5	Ultra rare
+rarity_name_6	Légendaire
+unlock_popup_message_0	<flash>Le menu Trésors a été débloqué !</flash><br>Obtiens des trésors pour activer<br>des bonus !<br>Consulte les bonus depuis le menu Trésors !
+unlock_popup_message_1	<flash>Écran Améliorer débloqué !</flash><br>Touche "Améliorer" à la base féline pour le consulter !<br><br>Débloque des unités et renforce-les avant la bataille !
+unlock_popup_message_2	<flash>Le Guide ennemis a été débloqué !</flash><br>Tu peux tout apprendre sur les ennemis<br>que tu as rencontrés.
+unlock_popup_message_3	<flash>La boutique d'objets est ouverte !</flash><br>Tu peux y acheter toutes sortes<br>d’articles utiles pour les batailles !<br>
+unlock_popup_message_4	<flash>Tu as débloqué le Guide Chats !</flash><br>Utilise-le pour inspecter tous les <br>Chats que tu as obtenus !
+unlock_popup_message_5	<flash>Gamatoto a été débloqué !</flash><br>Envoie-le en expédition pour<br>récupérer diverses récompenses !
+unlock_popup_message_6	<flash>Il y a de nouveaux objets à la boutique !</flash><br>Achète des vichamines pour raccourcir<br>les expéditions Gamatoto !
+unlock_popup_message_7	<flash>Accrois ton niveau maximum !</flash><br>Utilise un œil-de-chat sur certaines unités<br>pour qu’ils atteignent des niv. supérieurs !<br>Utilisable sur des unités de niv. 30 !
+unlock_popup_message_8	<flash>Un nouveau niveau événement est apparu !</flash><br>Tu peux y accéder depuis l’écran titre
+unlock_popup_message_9	<flash>Nouveau chapitre de "L’empire des Chats" disponible !</flash><br>Sélectionne "L’empire des Chats" depuis l’écran titre<br>pour accéder à un nouveau chapitre !
+unlock_popup_message_10	<flash>Nouveau chapitre de "L’empire des Chats" disponible !</flash><br>Sélectionne "L’empire des Chats" depuis l’écran titre<br>pour accéder à un nouveau chapitre !
+unlock_popup_message_11	<flash>Mode défi débloqué !</flash><br>Accessible via le menu principal.<br>Tu peux passer d’une classe d'unité à l'autre<br>grâce au bouton en bas à droite de l'unité !
+unlock_popup_message_12	<flash>La machine à Chapsules a été débloquée !</flash><br>Tu peux y accéder depuis la base féline.
+unlock_popup_message_13	<flash>新キャラメッセージ</flash>
+unlock_popup_message_14	<flash>Bonus de niveaux terminés !</flash><br>Le Chat spécial "Chats haricot" a été débloqué !<br>À activer dans le menu Améliorer.
+unlock_popup_message_15	<flash>Bonus de complétion totale !</flash><br>Tu as reçu "Moneko" !<br>À activer dans le menu Améliorer.
+unlock_popup_message_16	<flash>Les Histoires légendaires ont été débloquées !</flash><br>Il est possible d'accéder aux niveaux événements<br>réguliers depuis les Histoires légendaires !
+unlock_popup_message_17	<flash>Une nouvelle aventure est apparue !</flash><br>Sélectionne "Vers le futur" depuis l’écran titre<br>pour relever ce tout nouveau défi !
+unlock_popup_message_18	<flash>Tous les filtres sont activés !</flash><br>Tu peux voir toutes les Chapsules dans ta réserve.<br>Jette un œil dans le menu Améliorer !
+unlock_popup_message_19	<flash>Le menu Organiser a été débloqué !</flash><br>Tu peux maintenant organiser les unités<br>que tu veux déployer au combat.
+unlock_popup_message_20	<flash>Formations de bataille augmentées !</flash><br>Tu peux maintenant préparer jusqu’à trois formations<br>via l’écran Organiser.
+unlock_popup_message_21	<flash>Rang joueur débloqué !</flash><br>Atteins le rang cible pour obtenir des récompenses !<br>Le rang est déterminé par ton score total d’amélioration.
+unlock_popup_message_22	<flash>Combos félins débloqués !</flash><br>Organise tes unités pour activer une capacité bonus !<br>Consulte la liste des combos pour en savoir plus !
+unlock_popup_message_23	<flash>Le Dojo Griffélin est ouvert !</flash><br>Sélectionne le Dojo Griffélin depuis l'écran titre pour<br>tester la puissance et les capacités de tes unités !
+unlock_popup_message_24	<flash>Bonus de niveaux terminés !</flash><br>Nouveau combo félin débloqué !<br>Consulte la liste des combos pour en savoir<br>plus sur ta nouvelle capacité.
+unlock_popup_message_25	<flash>Un nouveau chapitre de la saga du futur est arrivé !</flash><br>Sélectionne "Vers le futur" depuis l’écran titre<br>pour relever ce tout nouveau défi !
+unlock_popup_message_26	<flash>Un nouveau chapitre de la saga du futur est arrivé !</flash><br>Sélectionne "Vers le futur" depuis l’écran titre<br>pour relever ce tout nouveau défi !
+unlock_popup_message_27	<flash>Bonus de niveaux terminés !</flash><br>Personnage spécial :<br>Tu as débloqué la forme ultime du Chat Chalkyrie !<br>Fais-le évoluer au niv. 20 pour l’utiliser !
+unlock_popup_message_28	<flash>Bonus de niveaux terminés !</flash><br>Nouveau combo félin débloqué !<br>Consulte la liste des combos pour en savoir<br>plus sur ta nouvelle capacité.
+unlock_popup_message_29	<flash>Bonus de niveaux terminés !</flash><br>Personnage spécial :<br>Tu as débloqué la forme ultime du Chat Bahamut !<br>Fais-le évoluer au niv. 20 pour l’utiliser !
+unlock_popup_message_30	<flash>Bonus de niveaux terminés !</flash><br>Nouveau combo félin débloqué !<br>Consulte la liste des combos pour en savoir<br>plus sur ta nouvelle capacité.
+unlock_popup_message_31	<flash>Réserve de Chagrumes débloquée !</flash><br>Découvre les Chagrumes et les graines<br>que tu as récoltés jusqu’ici !
+unlock_popup_message_32	<flash>Tu peux enregistrer et partager tes batailles !</flash><br>Active Enreg. auto dans<br>les Paramètres en touchant OUI.<br>L’enreg. s’arrête à la fin de la bataille.
+unlock_popup_message_33	<flash>Tu peux maintenant regarder les vidéos des autres joueurs !</flash><br>Accède aux Paramètres depuis l’écran titre<br>pour trouver des vidéos The Battle Cats.
+unlock_popup_message_34	<flash>Le niveau maximum a été augmenté !</flash><br>Tes unités peuvent devenir<br>encore plus puissantes !
+unlock_popup_message_35	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_36	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_37	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_38	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_39	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_40	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_41	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_42	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_43	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_44	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_45	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_46	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_47	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_48	<flash>Une nouvelle unité est apparue !</flash><br>À obtenir dans le menu Améliorer.
+unlock_popup_message_49	<flash>Bonus de niveaux terminés !</flash><br>Tu as reçu %@ !<br>À débloquer dans le menu Améliorer !
+unlock_popup_message_50	<flash>Bonus de niveaux terminés !</flash><br>Tu as reçu %@ !<br>À débloquer dans le menu Améliorer !
+unlock_popup_message_51	<flash>Bonus de niveaux terminés !</flash><br>Tu as reçu %@ !<br>À débloquer dans le menu Améliorer !
+unlock_popup_message_52	<flash>Bonus de niveaux terminés !</flash><br>Tu as reçu %@ !<br>À débloquer dans le menu Améliorer !
+unlock_popup_message_53	<flash>Bonus de niveaux terminés !</flash><br>Unité spéciale : forme ultime de<br>%@ obtenue !<br>Évolue après avoir atteint le niveau 20 !
+unlock_popup_message_54	<flash>Bonus de niveaux terminés !</flash><br>Unité spéciale : forme ultime de<br>%@ obtenue !<br>Évolue après avoir atteint le niveau 20 !
+unlock_popup_message_55	<flash>La Brigade Ototo a été débloquée !</flash><br>Bâtis et améliore ta base féline<br>ainsi que les capacités de son Chanon !<br>Jette un œil dans le menu Gamatoto !
+unlock_popup_message_56	<flash>Les défis félins sont disponibles !</flash><br>Accomplis différentes missions pour<br>recevoir de superbes récompenses !
+unlock_popup_message_57	<flash>"Les Chats du cosmos" sont maintenant disponibles !</flash><br>Sélectionne ce chapitre sur l'écran titre<br>et lance-toi dans de nouvelles et étranges aventures !
+unlock_popup_message_58	<flash>Bonus de fin !</flash><br>La grâce du Dieu des Chats est sur toi !<br>Touche-le pour lancer un miracle spécial<br>dans la bataille en mode Hist. de ton choix !
+unlock_popup_message_59	<flash>Les Chats du cosmos TERMINÉ !</flash><br>Un nouveau chapitre sera bientôt disponible,<br>alors surveille les mises à jour !
+unlock_popup_message_60	<flash>Bonus de niveaux terminés !</flash><br>Forme ultime de "Ururun et Loup" débloquée !<br>Fais-la évoluer au niv. 30 et<br>active-la avec des XP/Chagrumes !
+unlock_popup_message_61	<flash>Bonus de niveaux terminés !</flash><br>Forme ultime de "Li'l Nyandam" débloquée !<br>Fais-la évoluer au niv. 30 et<br>active-la avec des XP/Chagrumes !
+unlock_popup_message_62	<flash>Bonus de niveaux terminés !</flash><br>Forme ultime de "Chaperon Mina" débloquée !<br>Fais-la évoluer au niv. 30 et<br>active-la avec des XP/Chagrumes !
+unlock_popup_message_63	<flash>Bonus de niveaux terminés !</flash><br>Forme ultime "Miyamoku Musashi" débl. !<br>Fais-la évoluer au niv. 30 et<br>active-la avec des XP/Chagrumes !
+unlock_popup_message_64	<flash>Les Légendes mystérieuses apparaissent désormais à la suite des Histoires légendaires !</flash><br>Désormais disponibles dans les niveaux Histoires légendaires !
+unlock_popup_message_65	<flash>Augm. tes niv. max !</flash><br>Les œils-de-chat perm. aux Chats d'atteindre<br>des niv. plus hauts avant leur max. !<br>(œils-de-chat oblig. pour rang joueur 1 600)
+unlock_popup_message_66	<flash>Bonus de niveaux terminés !</flash><br>Forme ultime de "Méca-Bun" débloquée !<br>Fais-la évoluer jusqu’au niveau 30 et<br>utilise des XP/Chagrumes pour l'activer !
+unlock_popup_message_67	<flash>Bonus de complétion !</flash><br> Les Niveaux vichamine sont débloqués !<br> Utilise les vichamines restantes pour te mesurer à ces niveaux !
+unlock_popup_message_68	<flash>Nouveau chapitre disponible pour "Les Chats du cosmos" !</flash><br>Choisis "Les Chats du cosmos" depuis l'écran titre<br>et poursuis l'histoire de The Battle Cats !
+unlock_popup_message_69	<flash>Chapitre 2 du Cosmos TERMINÉ !</flash><br>Un nouveau chapitre sera bientôt disponible,<br>alors surveille les mises à jour !
+unlock_popup_message_70	<flash>Bonus de niveaux terminés !</flash><br>Tu as reçu l'unité spéciale "%@" !<br>À débloquer dans le menu Améliorer.
+unlock_popup_message_71	<flash>Les talents sont débloqués !</flash><br>Consulte le menu Améliorer pour découvrir<br>et développer les capacités des unités sous leur forme ultime (ou plus) !
+unlock_popup_message_72	<flash>Le Club des officiers est débloqué !</flash><br>Sélectionne l'icône à la base féline<br>pour y jeter un œil !
+unlock_popup_message_73	<flash>Nouveau chapitre pour Les Chats du cosmos !</flash><br>Touche "Les Chats du cosmos" sur l'écran titre<br>pour relever ce tout nouveau défi !
+unlock_popup_message_74	<flash>Bonus de niveaux terminés !</flash><br>Tu as reçu<br>%d %@ !
+unlock_popup_message_75	<flash>Navigation des niveaux améliorée !</flash><br>Tu peux maintenant retourner directement<br>au choix du niveau après en avoir terminé un !
+unlock_popup_message_76	<flash>Médailles Miaou débloquées !</flash><br>Jettes-y un œil via le menu<br>de la base féline !
+Castle_Tutorial00	<flash>Bienvenue dans la Brigade Ototo !</flash><br>Modifie l’apparence de ta base féline<br>et améliore ses capacités de bataille !
+Castle_Tutorial01	Touche l’ingénieur en chef pour commencer !<br>Sélectionne un plan pour démarrer la construction !
+Castle_Tutorial02	Touche Modifier pour sélectionner<br>un nouveau style pour ta base féline !
+Castle_part00	Fondation
+Castle_part01	Style
+Castle_part02	Effet
+Castle_dev_finish00	<flash>Améliorations de base féline terminées !</flash><br>Niveau ${level1} → <color=255,255,0>${level2}</color>
+Castle_dev_finish01	<flash>La partie ${partsName} : ${recipeName}<br>est terminée !</flash>
+Castle_dev_finish02	<flash>Renforcement terminé : ${partsName} pour ${recipeName} !</flash><br>Niveau ${level1} → <color=255,255,0>${level2}</color>
+Castle_lock00	Pour renforcer ta base féline, <br>la puissance, la portée et la charge<br>du Chanon doivent être au niveau 10.
+Castle_lock01	%@<br>nécessaire pour effectuer<br>cette amélioration.
+Castle_lock02	Construction de %@ nécessaire<br>pour effectuer cette amélioration.
+Castle_lock03	Pas assez de matériaux...<br>* Récupères-en dans les Histoires légendaires.
+Castle_lock03a	Pas assez d’ingénieurs.<br>* Recrutes-en dans les expéditions Gamatoto.
+Castle_lock04	Niveau maximum atteint !<br>Aucune autre amélioration n’est possible<br>dans la version actuelle du jeu.
+Castle_lock05	Tu dois atteindre<br>%@<br>pour renforcer cette partie.
+Castle_researcher	A intégré la Brigade Ototo en tant qu’ingénieur.<br>Ne peut participer qu’à un seul projet.
+Castle_dev_suspend	Annuler ce projet ?<br>Les ingénieurs/matériaux seront perdus !
+Castle_researcher_name00	Ingénieur n° %d
+Castle_researcher_name01	Ingénieur
+Castle_researcher_counter	Ingénieur(s) actuel(s) :
+Castle_researcher_desc	Assistant de l’ingénieur en chef de la base féline.<br>* Disparaît quand un projet est terminé ou annulé.
+Castle_dev_start00	L’amélioration de la base va commencer.
+Castle_dev_start01	Commence à construire 1 ${partsName} pour ${recipeName}.
+Castle_dev_start02	Commence à renforcer 1 ${partsName} pour ${recipeName}.
+Castle_material_drop00	<flash>Matériau trouvé !</flash><br>
+Castle_material_drop01	 ×
+Castle_researcher_get	J’ai trouvé un %@ !
+Castle_UnlockDataId_1	Rang 600 et Rayon lenteur prêt
+Castle_UnlockDataId_2	Rang 900 et Mur d’acier prêt
+Castle_UnlockDataId_3	Rang 900 et Éclair prêt
+Castle_UnlockDataId_4	Niv. 30 au total pour la puissance d’attaque du Chanon<br>Niv. 30 au total pour la charge du Chanon
+Castle_UnlockDataId_5	Rang 900 et Jet d’eau prêt
+Castle_UnlockDataId_6	Rang 900 et Purificateur prêt
+Castle_UnlockDataId_7	Rang 900 et Briseur prêt
+local_notification_custom	Ototo est de retour après avoir fini la tâche !
+Castle_AutoChange	<flash>Toutes les pièces ont été changées !</flash>
+Castle_shoter00	Utiliser %@ ?,La durée du projet sera raccourcie de %d heures.
+Castle_shoter01	Durée du projet raccourci de , heures !
+castle_connection_failed	Impossible de confirmer la durée restante du projet. Vérifie ta connexion Internet !
+castle_fraud	L’heure de l’appareil a peut-être changé. Ne fais aucune autre modification sur ton horloge.
+beacon_event_date	開催期間: %d年%d月%d日～%d年%d月%d日まで
+beacon_event_before	にゃんこビーコンのイベントは<br>現在、開催してないにゃ
+beacon_event_held	にゃんこビーコン電波を<br>検索してるにゃ～
+beacon_event_held2	イベント報酬を受け取ると<br>取得済マークがつくにゃ
+beacon_bluetooth_off	にゃんこビーコン受信するなら<br>Bluetoothをオンにして<br>ほしいにゃ～
+beacon_location_off	にゃんこビーコン受信するなら<br>位置情報の利用を許可して<br>ほしいにゃ～
+beacon_location_authorization	にゃんこビーコン受信するなら<br>位置情報の利用を許可して<br>ほしいにゃ～
+beacon_pushinfo_off	にゃんこビーコン受信するなら<br>プッシュ通知設定をオンにするにゃ
+beacon_wifi_off	にゃんこビーコン受信するなら<br>Wi-Fiをオンにするにゃ
+beacon_reward_before	にゃんこビーコン報酬はまだ取得していません
+beacon_reward_received	にゃんこビーコン報酬は受け取り済みです
+beacon_event_2017520	京都みやこめっせで記念キャラを取得しよう！<br>5/20～5/21に開催されるBitSummit2017会場の<br>にゃんこブースに訪問すれば<br>記念キャラ「ネコまねき」を取得可能！<br>※にゃんこビーコン受信設定が必要です<br>※詳細はバナーをタップ！
+beacon_unsupported_device	この端末/OSバージョンには対応していません
+not_enough_space_left_on_device	Échec du téléchargement en raison d’un manque d’espace sur le disque.
+ranking_description	<flash>Niveaux classés</flash><br>Réalise de meilleurs scores pour améliorer ton rang !<br>* Connexion Internet requise pour ce lieu.<br>* Le classement et le score seront réinitialisés à la fin de l’événement.
+ranking_unauthorized	Pas assez de Miam...<br>Miam requis pour accéder à ce niveau.
+ranking_suspend	Quitter la bataille ?
+ranking_error01	Échec de connexion aux serveurs de classement.
+ranking_default	―
+ranking_title01	Grand maître
+ranking_title02	Maître
+ranking_title03	Expert
+ranking_title04	Adepte
+ranking_title05	Disciple
+ranking_title06	Initié
+ranking_title07	Stagiaire
+ranking_resultcomment	<flash>Classement actuel : top %d %%</flash><br> Tu vas atteindre le rang %@ !
+ranking_start	<flash>Classement du dojo en cours !</flash><br>(Période du classement : du %d/%02d/%02d au %d/%02d/%02d)<br>Affronte d’autres joueurs dans les niveaux classés !<br>Gagne des récompenses à la fin de l’événement !
+ranking_announce01	<flash>Résultats de l’événement de classement</flash><br>(Période du classement : du %d/%02d/%02d au %d/%02d/%02d)<br>Classement actuel : top %d %<br>Récupère tes récompenses au courrier !<br>(Les récompenses non récupérées expirent au bout d’un mois)
+ranking_announce02	<flash>Classement du dojo annoncé :</flash><br>(Événement accessible du %d/%02d/%02d au %d/%02d/%02d)<br>Résultat final : top %d !<br>Aucune récompense gagnée...<br>Tu auras plus de chance la prochaine fois !
+ranking_no_reward	Aucune
+urguerrilla_warning00	Complète %d fois ce niveau avant qu'il ne disparaisse !<br>Tu peux le compléter autant de fois jusqu'à sa limite !
+mission_receive_achieved	<flash>Mission accomplie !</flash>
+mission_receive_item	<color=255,255,0>Récompense : ${itemNum} ${itemName}</color>
+mission_receive_item_xp	<color=255,255,0>Récompense : ${itemName} +${itemNum} </color>
+mission_receive_item_chara	<color=255,255,0>Unité féline en récompense : ${charaName}</color>
+mission_receive_item_chara_evolve	<color=255,255,0>Forme ultime en récompense : ${charaName}</color>
+everyplay_mapname_E	Niveau spécial
+everyplay_mapname_N	Histoires légendaires
+everyplay_mapname_S	Niveaux spéciaux
+everyplay_mapname_C	Collaborations
+everyplay_mapname_T	Dojo Griffélin
+everyplay_mapname_V	Niveaux spéciaux
+everyplay_mapname_J	L’empire des Chats ch. %d
+everyplay_mapname_W	Vers le futur ch. %d
+everyplay_mapname_P	Les Chats du cosmos ch. %d
+everyplay_mapname_Z	(Zombie)
+lang	fr
+network_unavailable	Connexion au réseau impossible
+connecting	Connexion...
+error	Erreur survenue
+gamecenter_noauth	Connecte-toi à Game Center.
+purchase_unavailable	Achats non activés. Active les achats intégrés dans les paramètres sous Restrictions.
+purchase_failed	Échec de l’achat
+purchase_verifying	Confirmation de l’achat...
+disconnected	Absence de connexion
+invalid_data_received	Données invalides reçues
+nekokan_bonus_msg	<span class='kakoi2'>%d Miam gratuits !</span>
+Copied_txt	Copié dans le presse-papiers
+err_txt	Erreur de lecture des données
+err_v_txt	La version de ce jeu\nne prend pas en charge\nle transfert des données.\nMets à jour le jeu\navant de continuer\nen touchant Mettre à jour.
+nyanko_url	https://ponosgames.com/dl/index_fr.html
+nyanko_update	Mettre à jour
+catfoodbuy_txt	Achat réussi !
+catfoodtapjoy_txt	Tu as reçu %d<br>Miam !
+adreward_txt	Tu as reçu<br>+%d %@ !
+twitter_hash	#battlecats
+yes_txt	Oui
+no_txt	Non
+Rank_txt0	Rang joueur
+Rank_txt1	La somme des scores d’unité et d’objet
+Rank_txt2	détermine ton rang joueur !
+Rank_txt3	Atteindre un rang joueur spécifique te fera gagner
+Rank_txt4	des bonus et récompenses spéciales !
+downloading	Téléchargement.
+download_wrn_cellular	Aucune connexion WiFi détectée.\n* Les données mobiles vont être utilisées.\nAttention, des frais additionnels peuvent s’appliquer.
+download_err	Échec du téléchargement.\nVérifie ta connexion.
+download_retry	Réessayer.
+warning_text1	The Battle Cats est un jeu gratuit.
+warning_text2	Cependant, il propose du contenu payant.
+url_err	Pas compatible avec la version actuelle ou actuellement indisponible.
+sign_in	Se connecter
+sign_out	Se déconnecter
+model_conversion	Sauvegarde des données
+notice	Msg push
+push_on	OUI
+push_off	NON
+local_push	Msg push
+local_notification	Ton Charburant est plein !
+local_notification_expedition	Gamatoto est de retour !
+google_1	Chargement
+google_2	Sauvegarde
+google_3	Réception
+nyanko_storage	%d envoyé(s) dans la réserve
+settle_nyanko	Tu en as %d.
+boss_hp	PV du boss :
+clear_1	1er bonus de niveaux terminés !
+clear_2	30 Miam !
+pause_1	Bataille en cours.
+pause_2	Veux-tu poursuivre cette bataille ?
+ok_txt	Confirmer
+evolveWarningText0	Niveaux
+evolveWarningText1	XP
+evolveWarningText2	Objets
+evolveWarningText3	Besoin de : 
+evolveWarningText4	/
+gamatotoReward_1	Miam découvert !
+gamatotoReward_1_1	Fortune obtenue !
+gamatotoReward_2	Regarde une pub pour la déterrer !
+gamatotoReward_3	* Tu recevras une quantité aléatoire des objets ci-dessous.
+gama_collabo_00_popup	<flash>Collab. PowerPro Baseball !</flash><br>La mascotte de PowerPro, Gunder,<br>fait son apparition pour aider l’équipe de Gamatoto !<br>Pendant cette collab., les récompenses de Gamatoto augmentent !<br>* À l’exception des Miam.
+gama_collabo_00_name	Gunder
+gama_collabo_00_charatext	Un héros canin venu de PowerPro<br>pour une durée limitée ! Augmente les récompenses de Gamatoto !<br>* Les apparitions de Miam n’augmenteront pas.
+gama_collabo_01_popup	<flash>Shoumetsu Toshi Collab!</flash><br>Takuya's loyal buddy "The Geek"<br>appears to help the Gamatoto crew!<br>During the collab, Gamatoto rewards increase!<br>※ Cat Food drops will not increase.
+gama_collabo_01_name	The Geek
+gama_collabo_01_charatext	A tech wizard, visiting from Shoumetsu Toshi<br>for a limited time! Increases Gamatoto rewards!<br>※ Cat Food drops will not increase.
+gama_collabo_02_popup	<flash>Collab. Merc Storia !</flash><br>Toto le gentil monstre<br>vient en aide à l’équipe de Gamatoto !<br>Les récompenses de Gamatoto augmentent tant qu’il est là !<br>* À l’exception des Miam.
+gama_collabo_02_name	Toto
+gama_collabo_02_charatext	Un mini-monstre allié venu de Merc Storia pour une<br>durée limitée ! Augmente les récompenses de Gamatoto !<br>* À l’exception des Miam.
+beginnerPack1_Title	Pack de démarrage à 0,00 USD acheté !
+beginnerPack2_Title	Pack de démarrage à 0,00 USD acheté !
+beginnerPack3_Title	Pack de démarrage à 0,00 USD acheté !
+rankupSale1_Title	Quelle bonne affaire ! 160 Miam achetés !
+rankupSale2_Title	Quelle bonne affaire ! 150 000 XP achetés !
+rankupSale3_Title	Quelle bonne affaire ! Gros ensemble d’objets acheté !
+beginnerPack1	Miam : %d →
+beginnerPack2	XP : %d →
+beginnerPack3	Détecteur de trésor : %d →
+beginnerPack4	Chat fortuné : %d →
+beginnerPack5	Chat diplômé : %d →
+beginnerPack6	Chat tireur : %d →
+beginnerPack1_result	%d
+beginnerPack2_result	%d
+beginnerPack3_result	%d
+beginnerPack4_result	%d
+beginnerPack5_result	%d
+beginnerPack6_result	%d
+rankupSale1	%d Miam → 
+rankupSale2	XP %d → 
+rankupSale3	Accélération %d → 
+rankupSale4	Détecteur de trésor %d → 
+rankupSale5	Chat numérique %d → 
+rankupSale1_result	%d
+rankupSale2_result	%d
+rankupSale3_result	%d
+rankupSale4_result	%d
+rankupSale5_result	%d
+tapjoy_video_error	Erreur de lecture du média. Vérifie ta connexion Internet.
+line_appli_url	https://itunes.apple.com/app/line/id443904275?mt=8
+line_appli_url_android	https://play.google.com/store/apps/details?id=jp.naver.line.android
+line_message	Je pars à la conquête du monde avec The Battle Cats ! Un jeu gratuit !
+serial_txt1	Code de série correctement saisi !\nConfirme ta récompense en touchant le bouton du courrier sur l’écran titre.
+serial_txt2	* Accessible après avoir terminé le Japon.
+serial_txt3	* Connexion à Game Center nécessaire pour recevoir le cadeau.
+serial_txt4	* Ce code de série pour un cadeau non récupéré n’est plus valide.\nConfirme les détails dans le menu de saisie du code.
+warningtxt1	Cette appli a été réinitialisée avec ses paramètres d’origine.\nDonnées sauvegardées introuvables.
+autoSave_txt1	Code de sauvegarde\n%@\nCe code est nécessaire pour récupérer tes données.\nConfirmé à l’écran titre ou dans le menu Paramètres.
+autoSave_txt2	Code de sauvegarde : 
+autoSave_txt3	Note ton code de sauvegarde quelque part !
+autoSave_txt4	Sans ce code, ta progression sera définitivement perdue.
+autoSave_txt5	Code de sauvegarde
+autoSave_txt6	Note bien ce nombre pour éviter la perte de données !
+collaboration_txt1	Cadeaux de collab. : %d !
+collaboration_txt2	Tu as reçu un cadeau de collab. !
+nyancombo_txt1	Touche pour voir le nom de l’unité
+nyancombo_txt2	<color=255,212,0>[Normal]</color>
+nyancombo_txt3	<color=255,212,0>[Spécial]</color>
+nyancombo_txt4	<color=255,212,0>[Rare]</color>
+nyancombo_txt5	<color=255,212,0>[Super rare]</color>
+nyancombo_txt6	<color=255,212,0>[Ultra rare]</color>
+nyancombo_txt7	<color=255,212,0>[Légendaire]</color>
+nyancombo_txt8	???
+nyancombo_txt9	 ？？？？？
+nyancombo_txt10	Place les bonnes unités dans l’emplacement supérieur pour débloquer des compétences spéciales !
+nyancombo_txt11	Touche 2x les noms des combos félins pour définir les unités automatiquement !
+nyancombo_pop0	Tous les Chats %@
+nyancombo_pop1	seront ajoutés à la formation de bataille.
+nyancombo_pop2	Confirmer ?
+pictureBook1	Combo félin : %@
+pictureBook2	Utilise le conseil pour activer ce combo !
+picBook_getCatFood	<flash>Tu as débloqué %@ !</flash><br>Tu as reçu 5 Miam !
+picBook_filteringMiss1	Aucune unité ne correspond aux filtres
+picBook_filteringMiss2	choisis. Effectue une nouvelle recherche !
+picBook_Rarity0	Classique
+picBook_Rarity1	Spécial
+picBook_Rarity2	Rare
+picBook_Rarity3	Super rare
+picBook_Rarity4	Ultra rares
+picBook_Rarity5	Légendaires
+gamestop	Les données sauvegardées actuelles ne respectent pas\nle contrat de licence de l’application The Battle Cats.\nImpossible de jouer au jeu sur ce fichier de sauvegarde.
+gamestop_base	Le compte a été suspendu.<br>Retour à l’écran titre.
+daily_login_date	Jour %d
+filter_err1	Aucune unité ne correspond aux filtres
+filter_err2	choisis. Effectue une nouvelle recherche !
+exstage_text1	Niveau spécial débloqué : %@ !
+exstage_text2	Relever le défi ?
+exstage_text3	Les effets actuels des objets (à l’exception des accélérations) ne seront pas conservés dans ce niveau.
+unit_evol_0	f
+unit_evol_1	c
+unit_evol_2	s
+unit_evol_3	u
+img001.png	img001_fr.png
+img001.imgcut	img001_fr.imgcut
+img002.png	img002_fr.png
+img002.imgcut	img002_fr.imgcut
+img004.png	img004_fr.png
+img004.imgcut	img004_fr.imgcut
+img006.png	img006_fr.png
+img006.imgcut	img006_fr.imgcut
+img008.png	img008_fr.png
+img008.imgcut	img008_fr.imgcut
+img009.png	img009_fr.png
+img009.imgcut	img009_fr.imgcut
+img010.png	img010_fr.png
+img010.imgcut	img010_fr.imgcut
+img011.png	img011_fr.png
+img011.imgcut	img011_fr.imgcut
+img012.png	img012_fr.png
+img012.imgcut	img012_fr.imgcut
+img019.png	img019_fr.png
+img019.imgcut	img019_fr.imgcut
+img022.png	img022_fr.png
+img022.imgcut	img022_fr.imgcut
+img023.png	img023_fr.png
+img023.imgcut	img023_fr.imgcut
+img024.png	img024_fr.png
+img024.imgcut	img024_fr.imgcut
+img027.png	img027_fr.png
+img027.imgcut	img027_fr.imgcut
+img028.png	img028_fr.png
+img028.imgcut	img028_fr.imgcut
+img029.png	img029_fr.png
+img029.imgcut	img029_fr.imgcut
+img031.png	img031_fr.png
+img031.imgcut	img031_fr.imgcut
+img033.png	img033_fr.png
+img033.imgcut	img033_fr.imgcut
+img037.png	img037_fr.png
+img037.imgcut	img037_fr.imgcut
+img041.png	img041_fr.png
+img041.imgcut	img041_fr.imgcut
+img100.png	img100_fr.png
+img100.imgcut	img100_fr.imgcut
+item000.png	item000_fr.png
+ec047.png	ec047_fr.png
+ec047.imgcut	ec047_fr.imgcut
+ec048.png	ec048_fr.png
+ec048.imgcut	ec048_fr.imgcut
+nyancombo_autoset1	Les Chats %@ seront ajoutés<br>à la formation de bataille.<br>Confirmer ?
+nyancombo_autoset2	Les Chats %@ seront ajoutés<br>à la formation de bataille.<br><color=255,0,0>Les unités actuellement en formation seront remplacées.<br>Confirmer ?</color>
+nyancombo_autoset3	Certains Chats doivent évoluer avant que le combo<br>%@ puisse être placé dans la formation.<br>* Confirme les évolutions actuelles de tes Chats !
+challenge_popup	Bienvenue dans le mode Défi !<br>Réalise de meilleurs scores en battant tous les ennemis aussi vite que possible !<br>Essaie autant de fois que tu le veux pour atteindre le haut du classement !<br>* Aucun objet ne peut être utilisé dans ces niveaux.
+everyplay_mapname_M	Niveaux spéciaux
+everyplay_mapname_R	Niveaux classés
+stage_restriction_dot	・
+stage_restriction_cost_over	À partir de %d ￠ seulement
+stage_restriction_cost_under	Moins de %d ￠ seulement
+stage_restriction_cost_just	%d ￠ seulement
+stage_restriction_limit_1	Rareté : <color=255,255,0>%@</color> seulement
+stage_restriction_limit_2	Nombre maximum d'unités à déployer : <color=255,255,0>%d</color>
+stage_restriction_limit_3	Déployer à partir de la rangée <color=255,255,0>%d uniquement</color>
+stage_restriction_limit_4	Coût de déploiement du Chat : <color=255,255,0>%@</color>
+stage_restriction_limit_5	Restriction d’unité : <color=255,255,0>%@</color>
+stage_restriction_text_0	Restriction de bataille
+stage_restriction_text_1	Cette formation ne respecte pas les conditions !
+stage_restriction_warning	Cette unité ne peut pas être déployée !
+stage_restriction_level_select	<color=255,255,0>Restrictions de bataille</color>
+stage_restriction_charagroup_1	
+stage_restriction_charagroup_2	Pas de P’tite Homura/Homura Akemi
+stage_restriction_charagroup_3	Pas de Bébé/Nagisa et Chat
+initializing_adgeneration	Chargement des fonctionnalités.\nMerci de patienter.
+VAMPErrorCodeNotSupportedOsVersion	The Battle Cats n’est pas compatible avec cette version du système d’exploitation.
+VAMPErrorCodeUnknown	Erreur inconnue
+VAMPErrorCodeServerError	Erreur de connexion
+VAMPErrorCodeNoAdnetwork	Connexion expirée
+VAMPErrorCodeNeedConnection	Aucune connexion Internet
+VAMPErrorCodeMediationTimeout	Connexion expirée
+VAMPErrorCodeUserCancel	Annulé
+VAMPErrorCodeNoAdStock	Contenu de la pub indisponible
+VAMPErrorCodeAdnetworkError	Connexion expirée
+VAMPIncentiveError	Récupération impossible en raison<br>d’une erreur de lecture...
+everyplay_community_url	https://everyplay.com/the-battle-cats/home
+GiftMessage_000	<flash>☆★☆ Objet bonus ☆★☆</flash><br>Termine L’empire des Chats ch. 2<br>et obtiens Chalkyrie !
+GiftMessage_001	<flash>☆★☆ Objet bonus ☆★☆</flash><br>Termine L’empire des Chats ch. 3<br>et obtiens le Chat Bahamut !
+GiftMessage_002	<flash>☆★☆ Objet bonus ☆★☆</flash><br>Termine Vers le futur ch. 2<br>pour débloquer la forme ultime de Chalkyrie !
+GiftMessage_003	<flash>☆★☆ Objet bonus ☆★☆</flash><br>Termine la Grèce pour débloquer<br>l’unité spéciale Chats haricot !
+GiftMessage_004	<flash>☆★☆ Objet bonus ☆★☆</flash><br>Termine L’empire des Chats ch. 1<br>pour débloquer l’unité spéciale Moneko !
+GiftMessage_005	<flash>Récompense de niveau terminé 1</flash><br>Termine Le fugitif<br>pour tenter d’obtenir l’unité spéciale<br>Ururun et Loup !
+GiftMessage_006	<flash>Récompense de niveau terminé 2</flash><br>Termine Renard rouge saint<br>pour tenter d’obtenir l’unité spéciale<br>P’tit Nyandam !
+GiftMessage_007	<flash>☆★☆ Objet bonus ☆★☆</flash><br>Termine Vers le futur ch. 3<br>pour débloquer la forme ultime du Chat Bahamut !
+GiftMessage_008	<flash>Récompense de niveau terminé 3</flash><br>Termine Apprendre à aimer<br>pour tenter d’obtenir l’unité spéciale<br>Chaperon Mina !
+GiftMessage_009	<flash>Récompense de niveau terminé 4</flash><br>Termine Studios du multivers<br>pour tenter d’obtenir l’unité spéciale<br>Miyamoku Musashi !
+GiftMessage_010	<flash>☆★☆ Récompense de niveau terminé 1 ☆★☆</flash><br>Termine Les Chats du cosmos ch. 1<br>pour obtenir une récompense mystère !
+GiftMessage_011	<flash>☆★☆ Objet bonus ☆★☆</flash><br>Termine Vers le futur ch. 1 pour débloquer<br>de nouveaux combos félins à utiliser au combat !
+GiftMessage_012	<flash>Récompense de niveau terminé !</flash><br>Termine le dernier niveau d’Une nouvelle légende<br>pour débloquer la forme ultime de Méca-Bun !
+GiftMessage_013	<flash>Récompense de niveau terminé !</flash><br>Termine le dernier niveau de La passion du Dieu des Chats<br>pour débloquer une récompense mystère !
+GiftMessage_014	<flash>☆★☆ Récompense de niveau terminé ☆★☆</flash><br>Termine le dernier niveau<br>de Les Chats du cosmos ch 3 pour obtenir<br>une incroyable récompense !
+GiftMessage_015	<flash>☆★☆ Récompense de niveau terminé ☆★☆</flash><br>Bats l’entité toute-puissante qui rôde<br>dans le chapitre 3 pour obtenir<br>une incroyable récompense !
+GiftMessage_016	<flash>Récompense de niveau terminé 6</flash><br>Termine Âmes primitives<br>pour tenter d’obtenir l’unité spéciale<br>Toutoumaru !
+GiftMessage_017	<flash>Récompense de niveau terminé 7</flash><br>Termine le dernier niveau de Mines de gélatine<br>pour tenter de débloquer<br>l’unité spéciale Urs et Fenrir !
+GiftMessage_018	<flash>Une forme de vie étrange apparaît dans le Labo des reliques (niveau 4) !</flash>
+LvUpLimit_txt	Cette unité a atteint le plus haut niveau possible.
+LvUpLimitMax_txt	Niveau maximum atteint pour la version actuelle.
+option_qrcode_title	Mon code QR
+option_qrcode_txt1	Ce code QR peut être utilisé pour les événements spéciaux.
+option_qrcode_txt2	Ne pas utiliser ce code en dehors des périodes d’événement indiquées.
+option_qrcode_txt3	Assure-toi que ton écran est assez lumineux pour scanner correctement.
+matatabi_growup_1	${itemName} x${Num} seront utilisées pour<br>faire pousser un Chagrume complet.<br>* Chance minime de Chagrume épique !
+matatabi_growup_2	${itemName} x${Num} seront utilisées pour faire pousser<br>un Chagrume complet.
+drop_popup_item	${rewardName}<br><color=255,255,0>Objet</color> ${itemName} +${itemNum}<br>${itemPossession}
+drop_popup_xp	${rewardName}:<br>${itemName} +${itemNum}
+drop_reward	Récomp. butin <flash>Gagnée!!!</flash>
+score_reward	Récomp. score <flash>Gagnée!!</flash>
+drop_popup_chara_first	%@<br>Tu as reçu %@ %@ !<br><flash>À activer dans le menu Améliorer.</flash>
+drop_popup_treasure	<color=255,255,0>Tu as reçu ce trésor :</color><br><flash>%@ %@</flash>
+drop_popup_chara_third_evolve	%@<br>Forme ultime de %@<br>%@ reçue !<br><flash>Débloque-la après avoir atteint le niveau 20 !</flash>
+drop_popup_chara_levelup1	%@<br>Tu as reçu %@ %@ !<br><flash>Amélioration</flash><br>Niveau %d → Niveau %d +%d
+drop_popup_chara_levelup2	%@<br>Tu as reçu %@ %@ !<br><flash>Amélioration</flash><br>Niveau %d +%d → Niveau %d +%d
+drop_popup_chara_levelmax1	%@<br>Tu as reçu %@ %@ !<br><flash>Nouveau niveau max !</flash><br>Niveau %d → Niveau %d +%d
+drop_popup_chara_levelmax2	%@<br>Tu as reçu %@ %@ !<br><flash>Nouveau niveau maximum !</flash><br>Niveau %d +%d → Niveau %d +%d
+drop_popup_chara_limit	%@<br>Tu as reçu %@ %@ !<br> Impossible d’améliorer<br>aux autres niveaux max. + pour l’instant.
+drop_rarity_1	Chats spéciaux
+drop_rarity_2	Chats rares
+drop_rarity_3	Chats super rares
+drop_rarity_4	Chats ultra rares
+drop_rarity_5	Unités légendaires
+nekovitan_Tutorial00	Utilise tes vichamines restantes pour te mesurer à ces niveaux Guerrilla!<br>Achète des vichamines en utilisant des Miam dans la boutique d’objets !
+nekovitan_battle00	Fuir la bataille ?<br>Tes vichamines te seront rendues (bataille de moins de 10 s)
+rareGatya_omakeTicket	Ouvre des Chapsules rares pour tenter d’obtenir ce cadeau unique :<br><flash> %@</flash> !
+nekovitan_shop0	Pas assez de vichamines !<br>Aller à la boutique d’objets ?
+nekovitan_shop1	Aller à la boutique d’objets<br>pour faire le plein de vichamines ?
+kill_application	Quitter l’appli ?
+receive_item_none_BoxText	* Aucun objet à récupérer au courrier.
+nyanko_club_gift_txt_clubitemID0	<flash>Pass en or du Club des officiers !<br>Ta récompense : 1 ticket rare !</flash><br>
+nyanko_club_gift_txt_clubitemID1	<flash>Pass en or du Club des officiers !<br>30 jours d’accélérations illimitées !</flash><br>
+nyanko_club_expiration_date_txt1	Ton pass en or expire<br>dans %d jours !<br>Renouvelle-le au Club des officiers !
+nyanko_club_expiration_date_txt2	Ton pass en or<br>expire bientôt !<br>Renouvelle-le au Club des officiers !
+nyanko_club_error_time_manipulation_txt1	Un problème avec l'heure de ton appareil a été détecté. * Il sera résolu dans les 48 heures suivant la dernière modification de l’horloge.
+nyanko_club_error_already_gold_txt1	Tu as déjà un pass en or actif !
+nyanko_club_error_gold_400_txt1	- Une erreur est survenue -
+nyanko_club_error_gold_500_txt1	Une erreur est survenue.
+nyanko_club_error_out_of_term_txt1	Tu ne peux pas acheter cet objet pour l’instant.
+nyanko_club_error_gold_none_user_data_txt1	Une erreur est survenue...
+nyanko_club_error_normal_none_user_ID_txt1	-- Une erreur est survenue --
+nyanko_club_error_normal_400_txt1	*Une erreur est survenue*
+nyanko_club_error_normal_500_txt1	Une erreur est survenue.
+nyanko_club_error_other_txt1	Erreur de connexion
+nyanko_club_char_change_txt1	Touche pour changer d’icône
+potential_exchange_np	Ceci sera échangé contre des NP.<br>Confirmer ? (%d → <color=255,255,0>%d</color>)
+potential_exchange_np_set	Échange de %d contre des NP.<br>Confirmer ?<br>(%d → <color=255,255,0>%d</color>)
+potential_exchange_all_item	Tout va être échangé.<br>Veux-tu des NP ou des XP ?
+potential_exchange_all_item_np	Toutes les unités de la réserve<br>seront échangées contre des NP.<br>Confirmer ? (%d → <color=255,255,0>%d</color>)
+potential_exchange_gatya_result	Échanger contre des NP ou des XP ?
+potential_skill_acquisition	Utiliser des NP pour débloquer<br>un talent ?
+potential_skill_levelup	Utiliser des NP pour améliorer<br>un talent ?
+potential_skill_warning00	Pas assez de NP.
+potential_skill_lvmax	Niveau d’amélioration maximum atteint !<br>Tu as atteint le plus haut niveau<br>possible dans cette version.
+potential_exchange_error	Aucun(e) autre unité ou objet<br>ne peut être échangé(e) contre des NP.
+potential_skill_get	Améliorations toutes débloquées pour ce talent.
+potential_acquisition_result	<flash>Tu as débloqué %@ !<flash>
+potential_levelup_result	<flash>Amélioration de %@ au niveau %d !<flash>
+potential_skill_name01	Affaiblissement
+potential_skill_name02	Immobilisation
+potential_skill_name03	Ralentissement
+potential_skill_name04	Att. uniquement
+potential_skill_name05	Assure
+potential_skill_name06	Balèze contre
+potential_skill_name07	Dégâts massifs
+potential_skill_name08	Recul
+potential_skill_name09	Téléportation
+potential_skill_name10	Renforcement
+potential_skill_name11	Survie
+potential_skill_name12	Casseur de base
+potential_skill_name13	Critique
+potential_skill_name14	Tueur de zombies
+potential_skill_name15	Brise-barrière
+potential_skill_name16	Argent aug.
+potential_skill_name17	Vague offensive
+potential_skill_name18	Résist. Affaiblissement
+potential_skill_name19	Résist. Immobilisation
+potential_skill_name20	Résist. Ralentissement
+potential_skill_name21	Résist. Recul
+potential_skill_name22	Résist. Vagues
+potential_skill_name23	Bloque-vagues
+potential_skill_name24	Resist. Téléportation
+potential_skill_name25	Coût réduit
+potential_skill_name26	Récupération accélérée
+potential_skill_name27	Vitesse de déplac. aug.
+potential_skill_name28	Recul amélioré
+potential_skill_name29	Immun. Malédictions
+potential_skill_name30	Résist. Malédictions
+potential_skill_name31	Buff d’att.
+potential_skill_name32	Buff de déf.
+potential_skill_name33	Cible Rouge
+potential_skill_name34	Cible Flottant
+potential_skill_name35	Cible Noir
+potential_skill_name36	Cible Métal
+potential_skill_name37	Cible Ange
+potential_skill_name38	Cible Alien
+potential_skill_name39	Cible Zombie
+potential_skill_name40	Cible Relique
+potential_skill_name41	Cible Sans caract.
+potential_skill_name44	Immun. Affaiblissement
+potential_skill_name45	Immun. Immobilisation
+potential_skill_name46	Immun. Ralentissement
+potential_skill_name47	Immun. Recul
+potential_skill_name48	Immun. Vagues
+potential_skill_name49	Resist. Téléportation
+potential_skill_name50	Frappe sauvage
+potential_skill_name51	Esquive
+potential_skill_name52	Résist. toxique
+potential_skill_name53	Immun. toxique
+potential_skill_name54	Résist. répliques
+potential_skill_name55	Immun. répliques
+potential_skill_name56	Réplique offensive
+return_stageselect_error00	Cet événement est terminé...<br>Retour à la base féline...
+return_stageselect_error01	Cet événement n’est plus accessible...<br>Retour à la base féline...
+return_stageselect_error02	Une récompense t’attend !<br>Retour à la base féline !
+h13_inquiry_button	Envoyer un rapport
+h13_inquiry_error	Accès au réseau impossible.\nVérifie ta connexion\net réessaie.
+filter_option_description0	<color=0,0,0>Définis tes Chats favoris dans le menu du Guide Chats<br>pour les afficher rapidement !<br>Tu dois définir au moins un Chat favori pour sélectionner cette option du filtre.</color>
+filter_option_description1	<color=0,0,0>N’afficher que les unités qui correspondent aux restrictions de niveau.</color>
+sort_tutorial_txt1	<flash>Options de tri et de filtrage débloquées !</flash><br>Filtre à l’aide du bouton<br>au centre droit. Trie avec le bouton<br>au centre gauche.
+item_pack_purchased_chara	%@ Unité<color=255,255,0>「%@」</color><br>
+enemy_list_title	Ennemis qui apparaissent
+enemy_name_question	???
+calendar_title	Ton événement signalé a commencé !
+calendar_error	Une erreur de communication avec le serveur<br>ou d’horloge de l’appareil est survenue. Vérifie ta connexion Internet<br>ou tes paramètres d’horloge.
+calendar_99h	=+99 h
+legendquest_tutorial1	Bienvenue dans les Quêtes légendaires !<br>Mesure-toi à un niveau spécial<br>avec des unités choisis au hasard !
+legendquest_tutorial2	Il faut des couronnes pour jouer ce niveau !<br>Obtiens des couronnes en terminant les Niveaux<br>légendaires de niveau 1 à 4.
+legendquest_tutorial3	Sache que les couronnes, le Charburant et les<br>objets ne seront pas rendus si tu fuis<br>une bataille de Quête de légende !
+legendquest_Cancel	Fuir la bataille ?<br><color=255,0,0>Les couronnes, le Charburant et les objets seront perdus.</color>
+legendquest_warning	Pas assez de couronnes...<br>Récupère des couronnes en terminant<br>des niveaux légendaires.
+legendquest_popup	<flash>Quête de légende</flash><br>Joue un niveau aléatoire avec une formation aléatoire !<br>* Utilise des couronnes gagnées dans les Niveaux légendaires ainsi que du Charburant pour relever le défi !<br>* Chaque essai sur un niveau coûtera plus de couronnes.<br>*Les couronnes, le Charburant et les objets ne seront pas rendus en cas de fuite.
+score_sns	Mes Battle Cats ont marqué %d pts dans %@ ! %s %s
+legend_sns	Mes Battle Cats ont envahi la Quête de légende %@ ! %s %s
+nekodojo_sns	Mes Battle Cats ont marqué %d pts dans %@ au Dojo Griffélin ! %s %s
+ranking_sns	Mes Battle Cats ont marqué %d pts dans %@ dans les niveaux classés ! %s %s
+challenge_sns	Mes Battle Cats ont marqué %d pts dans %@ dans la bataille défi ! %s %s
+tower_sns	Mes Battle Cats ont conquis %@ dans la Tour céleste ! %s %s
+sns_txt1	Mes Battle Cats ont envahi %@ dans leur conquête du monde ! %s %s
+gpp_item_popup	Tu as reçu une récompense !<br>Consulte ton courrier pour récupérer tes objets !
+age_confirmation	En raison d'un changement de politique d'achat,<br>tu dois confirmer ta date de naissance afin que<br>nous puissions te montrer des publicités adaptées à ton âge.
+error_age_confirmation	Une erreur de connexion est survenue.<br>Vérifie ta connexion.
+restart_item	<flash>Pack de redémarrage acheté !</flash><br>L’empire des Chats ch. 3 est terminé !<br>13 unités félines reçues !<br>10 tickets Chapsules reçus !<br>1 ticket rare reçu !
+restart_overwrite	Veux-tu utiliser le pack de redémarrage ?<br><color=255,0,0>* Utiliser le pack de redémarrage écrasera ta progression actuelle.<br>* Si tu ne l’utilises pas, le contenu acheté ne sera pas valide.</color>
+restart_reflect	Le contenu acheté est disponible !<br>Tu as terminé L’Empire des Chats !<br>Tickets Chapsules reçus !
+slot_message	Tu as reçu %s x<flash>%d</flash> !
+slot_lastmessage	Résultat final !
+slot_SNS_000	J’ai gagné %s Miams aux Machines à sous Chat sauvage de #TheBattleCats !<br>#BattleCats
+medal_txt1	%s
+medal_txt2	%d médaille(s) reçue(s) !
+medal_unknown	???<br>???
+line_Confirmation	LINE n’est pas installé.<br>Aller dans la boutique d’applis ?
+talk_Reward	Tu as reçu %@ <flash>x%@</flash> !
+talk_000_push	J’ai encore un petit service à te demander... (Ф∀Ф)✧
+DL_permission	Les données de jeu les plus récentes seront téléchargées.<br>Nous te conseillons de te connecter<br>à un réseau WiFi stable avant de commencer l’installation.<br>* Les options de langue se trouvent dans le menu Paramètres.<br>Téléchargement restant : %s Mo
+map_minutes	【Récupération...】Utiliser ${itemNum} vichamine A<br>pour avoir une nouvelle chance ?<br><color=255,255,0>0/${countNum} chances restantes. (récupération d'1 chance dans ${minutes1} min.)</color>
+assault_warning	Après avoir terminé %d niveau(x), tu dois attendre<br>un peu avant d’essayer à nouveau.
+talk_001_push	Reviens demain !
+slot_clearteam_txt_0	Utiliser la formation de ta dernière victoire ?
+slot_clearteam_txt_1	Les Chats de ta dernière victoire sont en place !
+slot_clearteam_txt_2	<flash>Tu as choisi la formation de ta dernière victoire !</flash>
+slot_clearteam_txt_3	Ne pas afficher « Utiliser formation dernière victoire » sur l'écran Organiser.
+slot_clearteam_error	<color=255,255,0>Aucune formation enregistrée pour ce niveau.</color>
+slot_copy_clearteam	La formation de ta dernière victoire sera copiée.<br>Rends-toi à l’emplacement voulu pour enregistrer cette équipe,<br>puis sélectionne Remplacer pour la coller.
+slot_paste_clearteam	Tes Chats actuels vont être remplacés par<br>les Chats de ta dernière victoire. OK ?
+hidden_rarity_0	Niveau inférieur
+hidden_rarity_1	Niveau normal
+hidden_rarity_2	Niveau supérieur
+drop_popup_hidden	<flash>Découverte</flash> de %@ !<br>Jettes-y un œil dans la base féline !
+hidden_hour	%d h %d min avant la fin du déchiffrage !
+hidden_minutes	%d min avant la fin du déchiffrage !
+unlock_popup_message_77	<flash>Tu peux maintenant déchiffrer des cartes énigme !</flash><br>Accède aux Histoires légendaires pour obtenir occasionnellement<br>des énigmes en récompense !
+unlock_popup_message_78	<flash>Gain de niveau !</flash><br>Ton niveau de déchiffrage d’énigme est maintenant à <color=255,255,0>%d</color> !<br>Tu peux découvrir encore plus d’énigmes rares !
+enemy_name_unknown	[Non identifié]
+nyancombo_overwrite_popup_title	Définir un combo félin ?
+nyancombo_overwrite_popup_description	Touche le nom d’un combo félin pour voir son effet !
+000_gatya_rare.png	i000_gatya_rare_fr.png
+000_gatya_rare.imgcut	000_gatya_rare_fr.imgcut
+000_gatya.png	i000_gatya_fr.png
+000_gatya.imgcut	000_gatya_fr.imgcut
+003_gatya_tuika01.png	003_gatya_tuika01_fr.png
+003_gatya_tuika01.imgcut	003_gatya_tuika01_fr.imgcut
+002_bank.png	i002_bank_fr.png
+002_bank.imgcut	002_bank_fr.imgcut
+nekodojo_twitter	Mes Battle Cats ont marqué %d pts au Dojo Griffélin : %@ !\n%@
+nekodojo_facebook	Mes Battle Cats ont marqué %d pts au Dojo Griffélin : %@ !\n%@
+tower_twitter	Mes Battle Cats ont atteint le %@ dans la Tour Céleste !
+tower_facebook	Mes Battle Cats ont atteint le %@ dans la Tour Céleste !
+facebook_txt1	Mes Battle Cats ont conquis %@ !\n%@
+twitter_txt1	Mes Battle Cats ont conquis %@ !
+picBook_getCatFood1	Déblocage de %@ !
+picBook_getCatFood2	Tu as reçu 5 Miam !
+challenge_twitter	Mes Battle Cats ont marqué %d pts dans %@ dans la bataille défi !
+challenge_facebook	Mes Battle Cats ont marqué %d pts dans %@ dans la bataille défi !\n %@
+ranking_twitter	Mes Battle Cats ont marqué %d pts dans %@ dans les Niveaux classés ! %@
+ranking_facebook	Mes Battle Cats ont marqué %d pts dans %@ dans les Niveaux classés !\n %@
+app_name	The Battle Cats
+review1	Si tu aimes The Battle Cats,\névalue le jeu ! Merci !
+review2	Évaluer
+review3	Peut-être plus tard
+review4	Non merci
+appLovin_error0_txt	Aucune vidéo trouvée.
+appLovin_error1_txt	Réessaie.
+appLovin_error2_txt	Vérifie ta connexion Internet et réessaie.
+appLovin_error3_txt	Vérifie ta mémoire disponible et réessaie.
+facebook_txt2	A relevé avec brio un DÉFI dans The Battle Cats !
+facebook_txt3	Je recommande cette appli !\\n*Code d’invitation\\:「%@」* Tu peux saisir ce code après avoir terminé le niveau 7 \\(Japon\\).\\n%@
+facebook_txt4	D’étranges Chats tout mignons se déchaînent dans le jeu à succès The Battle Cats ! 10 000 XP bonus OBTENUS !\\nCode d’invitation Chats haricot : 「%@」\\n* Tu peux saisir ce code après avoir terminé le niveau 7 (Japon).
+twitter_txt2	A relevé avec brio un DÉFI dans The Battle Cats !
+twitter_txt3	Je recommande cette appli !\n*Code d’invitation :「%@」* Tu peux saisir ce code après avoir terminé le niveau 7 (Japon).
+twitter_txt4	D’étranges Chats tout mignons se déchaînent dans le jeu à succès The Battle Cats ! Obtiens un bonus de 10 000 XP en saisissant un code d’invitation !\nCode d’invitation Chats haricot : 「%@」\n* Tu peux saisir ce code après avoir terminé le niveau 7 (Japon).
+line_txt1	A gagné avec brio le mode Défi dans The Battle Cats !\\nUne super appli ! Obtiens 10 000 XP avec ton code d’invitation !\\nCode d’invitation : 「%@」* Tu peux saisir ce code après avoir terminé le niveau 7 (Japon).\\n%@
+line_txt2	A gagné avec brio le mode Défi dans The Battle Cats !\nUne super appli ! Obtiens 10 000 XP avec ton code d’invitation !\nCode d’invitation : 「%@」* Tu peux saisir ce code après avoir terminé le niveau 7 (Japon).\n%@
+line_txt3	Laisse-toi séduire par l’excentricité hilarante de The Battle Cats !\nCode d’invitation Moneko :「%@」* Tu peux saisir ce code après avoir terminé le niveau 7 (Japon).\n%@
+line_txt4	Laisse-toi séduire par l’excentricité hilarante de The Battle Cats !\nCode d’invitation Chats haricot :「%@」* Tu peux saisir ce code après avoir terminé le niveau 7 (Japon).\n%@
+kakao_txt1	dummy
+kakao_txt2	dummy
+kakao_txt3	dummy
+err_txt1	Activité non autorisée (A) détectée.
+err_txt2	Activité non autorisée (B) détectée.
+err_txt3	Activité non autorisée (C) détectée.
+err_txt4	Activité non autorisée (D) détectée.
+err_txt5	Activité non autorisée (E) détectée.
+err_txt6	Activité non autorisée (F) détectée.
+kerihime_txt1	dummy
+kerihime_txt2	dummy
+kerihime_txt3	dummy
+kerihime_txt4	dummy
+kerihime_txt5	dummy
+kerihime_txt6	dummy
+kerihime_txt7	dummy
+kerihime_txt8	dummy
+kerihime_txt9	dummy
+kerihime_txt11	dummy
+kerihime_txt12	dummy
+kerihime_txt13	dummy
+kerihime_txt21	dummy
+kerihime_txt22	dummy
+kerihime_txt23	dummy
+kerihime_tw49	dummy
+kerihime_tw50	dummy
+kerihime_fa49	dummy
+kerihime_fa50	dummy
+manbo_scheme	jp.selectbutton.manbotheworld://collaboration/nyanko1
+manbo_url	https://itunes.apple.com/us/app/survive!-mola-mola!/id915222954?l=en&ls=1&mt=8
+manbo_txt11	Obtiens des cadeaux spéciaux\nMola Mola en jouant à \n« Survive! Mola Mola! »\nLancer l’appli « Survive!\nMola Mola! » ?
+manbo_txt12	Ne pas recevoir\nton cadeau Mola Mola ?\nVraiment ?\n* Pour tenter de le recevoir à nouveau\naprès l’annulation,\ntermine à nouveau ce niveau.
+manbo_txt13	Application non détectée.\nTélécharger « Survive! Mola Mola! »\ndans la boutique d’applis ?
+manbo_txt14	Obtiens des récompenses spéciales utilisables dans « Survive! Mola Mola! » !
+manbo_txt15	Lancer l’appli « Survive! Mola Mola! » ?
+manbo_txt16	Si elle n’est pas déjà installée, tu seras redirigé vers la page de la boutique d’applis.
+appstore_txt1	Des Chats affreusement mignons ! À la portée de tous !\nIl te suffit de saisir le code d’invitation après avoir terminé le niveau 7 (Japon) pour obtenir un bonus de 10 000 XP !\nCode d’invitation :「%@」\nAttrape tous les Chats !
+iosver_error	Merci de mettre ta version iOS à jour.
+limited_function	Indisponible actuellement
+model_conversion2	Transférer
+noapp_kakao	Tu dois installer l’appli de discussion Kakao.
+noapp_line	Tu dois installer l’appli de discussion LINE.
+store_url	https://itunes.apple.com/us/app/the-battle-cats/id850057092?l=en&ls=1&mt=8
+url_abbr	https://ponos.s3.amazonaws.com/iphone/en/battlecats.html
+img026.png	img026_fr.png
+img026.imgcut	img026_fr.imgcut
+img038.png	img038_fr.png
+img038.imgcut	img038_fr.imgcut
+ec000.png	ec000_fr.png
+ec000.imgcut	ec000_fr.imgcut
+ec001.png	ec001_fr.png
+ec001.imgcut	ec001_fr.imgcut
+ec002.png	ec002_fr.png
+ec002.imgcut	ec002_fr.imgcut
+ec003.png	ec003_fr.png
+ec003.imgcut	ec003_fr.imgcut
+ec004.png	ec004_fr.png
+ec004.imgcut	ec004_fr.imgcut
+ec005.png	ec005_fr.png
+ec005.imgcut	ec005_fr.imgcut
+ec006.png	ec006_fr.png
+ec006.imgcut	ec006_fr.imgcut
+ec007.png	ec007_fr.png
+ec007.imgcut	ec007_fr.imgcut
+ec008.png	ec008_fr.png
+ec008.imgcut	ec008_fr.imgcut
+ec009.png	ec009_fr.png
+ec009.imgcut	ec009_fr.imgcut
+ec010.png	ec010_fr.png
+ec010.imgcut	ec010_fr.imgcut
+ec011.png	ec011_fr.png
+ec011.imgcut	ec011_fr.imgcut
+ec012.png	ec012_fr.png
+ec012.imgcut	ec012_fr.imgcut
+ec013.png	ec013_fr.png
+ec013.imgcut	ec013_fr.imgcut
+ec014.png	ec014_fr.png
+ec014.imgcut	ec014_fr.imgcut
+ec015.png	ec015_fr.png
+ec015.imgcut	ec015_fr.imgcut
+ec016.png	ec016_fr.png
+ec016.imgcut	ec016_fr.imgcut
+ec017.png	ec017_fr.png
+ec017.imgcut	ec017_fr.imgcut
+ec018.png	ec018_fr.png
+ec018.imgcut	ec018_fr.imgcut
+ec019.png	ec019_fr.png
+ec019.imgcut	ec019_fr.imgcut
+ec020.png	ec020_fr.png
+ec020.imgcut	ec020_fr.imgcut
+ec021.png	ec021_fr.png
+ec021.imgcut	ec021_fr.imgcut
+ec022.png	ec022_fr.png
+ec022.imgcut	ec022_fr.imgcut
+ec023.png	ec023_fr.png
+ec023.imgcut	ec023_fr.imgcut
+ec024.png	ec024_fr.png
+ec024.imgcut	ec024_fr.imgcut
+ec025.png	ec025_fr.png
+ec025.imgcut	ec025_fr.imgcut
+ec026.png	ec026_fr.png
+ec026.imgcut	ec026_fr.imgcut
+ec027.png	ec027_fr.png
+ec027.imgcut	ec027_fr.imgcut
+ec028.png	ec028_fr.png
+ec028.imgcut	ec028_fr.imgcut
+ec029.png	ec029_fr.png
+ec029.imgcut	ec029_fr.imgcut
+ec030.png	ec030_fr.png
+ec030.imgcut	ec030_fr.imgcut
+ec031.png	ec031_fr.png
+ec031.imgcut	ec031_fr.imgcut
+ec032.png	ec032_fr.png
+ec032.imgcut	ec032_fr.imgcut
+ec033.png	ec033_fr.png
+ec033.imgcut	ec033_fr.imgcut
+ec034.png	ec034_fr.png
+ec034.imgcut	ec034_fr.imgcut
+ec035.png	ec035_fr.png
+ec035.imgcut	ec035_fr.imgcut
+ec036.png	ec036_fr.png
+ec036.imgcut	ec036_fr.imgcut
+ec037.png	ec037_fr.png
+ec037.imgcut	ec037_fr.imgcut
+ec038.png	ec038_fr.png
+ec038.imgcut	ec038_fr.imgcut
+ec039.png	ec039_fr.png
+ec039.imgcut	ec039_fr.imgcut
+ec040.png	ec040_fr.png
+ec040.imgcut	ec040_fr.imgcut
+ec041.png	ec041_fr.png
+ec041.imgcut	ec041_fr.imgcut
+ec042.png	ec042_fr.png
+ec042.imgcut	ec042_fr.imgcut
+ec043.png	ec043_fr.png
+ec043.imgcut	ec043_fr.imgcut
+ec044.png	ec044_fr.png
+ec044.imgcut	ec044_fr.imgcut
+ec045.png	ec045_fr.png
+ec045.imgcut	ec045_fr.imgcut
+ec046.png	ec046_fr.png
+ec046.imgcut	ec046_fr.imgcut
+img007.png	img007_fr.png
+img007.imgcut	img007_fr.imgcut
+img009_3.png	img009_3_fr.png
+img009_3.imgcut	img009_3_fr.imgcut
+img009_4.png	img009_4_fr.png
+img009_4.imgcut	img009_4_fr.imgcut
+img009_5.png	img009_5_fr.png
+img009_5.imgcut	img009_5_fr.imgcut
+img009_6.png	img009_6_fr.png
+img009_6.imgcut	img009_6_fr.imgcut
+img013.png	img013_fr.png
+img013.imgcut	img013_fr.imgcut
+img017.png	img017_fr.png
+img017.imgcut	img017_fr.imgcut
+img018.png	img018_fr.png
+img018.imgcut	img018_fr.imgcut
+img030.png	img030_fr.png
+img030.imgcut	img030_fr.imgcut
+img035.png	img035_fr.png
+img035.imgcut	img035_fr.imgcut
+img036.png	img036_fr.png
+img036.imgcut	img036_fr.imgcut
+img050.png	img050_fr.png
+img050.imgcut	img050_fr.imgcut
+img101.png	img101_fr.png
+img101.imgcut	img101_fr.imgcut
+img102.png	img102_fr.png
+img102.imgcut	img102_fr.imgcut
+ot000_c.png	ot000_c_fr.png
+ot000_c.imgcut	ot000_c_fr.imgcut
+ot000_o.png	ot000_o_fr.png
+ot000_o.imgcut	ot000_o_fr.imgcut
+ot001_c.png	ot001_c_fr.png
+ot001_c.imgcut	ot001_c_fr.imgcut
+ot001_o.png	ot001_o_fr.png
+ot001_o.imgcut	ot001_o_fr.imgcut
+ot002_c.png	ot002_c_fr.png
+ot002_c.imgcut	ot002_c_fr.imgcut
+ot002_o.png	ot002_o_fr.png
+ot002_o.imgcut	ot002_o_fr.imgcut
+ot003_c.png	ot003_c_fr.png
+ot003_c.imgcut	ot003_c_fr.imgcut
+ot003_o.png	ot003_o_fr.png
+ot003_o.imgcut	ot003_o_fr.imgcut
+ot004_c.png	ot004_c_fr.png
+ot004_c.imgcut	ot004_c_fr.imgcut
+ot004_o.png	ot004_o_fr.png
+ot004_o.imgcut	ot004_o_fr.imgcut
+ot005_c.png	ot005_c_fr.png
+ot005_c.imgcut	ot005_c_fr.imgcut
+ot005_o.png	ot005_o_fr.png
+ot005_o.imgcut	ot005_o_fr.imgcut
+ot006_c.png	ot006_c_fr.png
+ot006_c.imgcut	ot006_c_fr.imgcut
+ot006_o.png	ot006_o_fr.png
+ot006_o.imgcut	ot006_o_fr.imgcut
+ot007_c.png	ot007_c_fr.png
+ot007_c.imgcut	ot007_c_fr.imgcut
+ot007_o.png	ot007_o_fr.png
+ot007_o.imgcut	ot007_o_fr.imgcut
+ot008_c.png	ot008_c_fr.png
+ot008_c.imgcut	ot008_c_fr.imgcut
+ot008_o.png	ot008_o_fr.png
+ot008_o.imgcut	ot008_o_fr.imgcut
+ot009_c.png	ot009_c_fr.png
+ot009_c.imgcut	ot009_c_fr.imgcut
+ot009_o.png	ot009_o_fr.png
+ot009_o.imgcut	ot009_o_fr.imgcut
+ot010_c.png	ot010_c_fr.png
+ot010_c.imgcut	ot010_c_fr.imgcut
+ot010_o.png	ot010_o_fr.png
+ot010_o.imgcut	ot010_o_fr.imgcut
+ot011_c.png	ot011_c_fr.png
+ot011_c.imgcut	ot011_c_fr.imgcut
+000_img013.imgcut	i000_img013_fr.imgcut
+terms_network_unavailable	Erreur de connexion.<br>Vérifie ta connexion Internet et réessaie.
+item_pack_name_21	Pack de remerciement
+item_pack_name_22	En ce moment, achète un ticket platine !
+zombie_sns	Mon armée de Chats a sauvé %@ d’une invasion de zombies !%s %s
+Invasion_sns	Mon armée de Chats a sauvé la galaxie d’une menace extrêmement puissante ! %s %s
+item_pack_name_23	Pack de démarrage
+item_pack_name_24	Super pack de démarrage
+item_pack_name_25	Maxi pack de démarrage
+item_pack_name_26	Promo du vainqueur
+talk_002_push	Psst ! Une bonne nouvelle t’attend à la base féline !
+equipment_unworn	L’orbe de talent en réserve sera équipé.
+equipment_confirm	Équiper ${equipmentName}<br>sur ${characterName} ?<br>${faultMessage}
+release_confirm	Utiliser des NP pour ôter <br>%@ ? (%d → <color=255,255,0>%d</color>)<br>Tu peux aussi écraser<br>le talent équipé actuellement.
+release_error	Pas assez de NP.<br>%d NP requis.
+composition_confirm	Fusionner avec %@ x%d pour<br>améliorer la qualité du talent ? (%@ → <color=255,255,0>%@</color>)
+composition_error	%d de cette orbe de talent<br>nécessaire pour fusionner.<br>Il t’en faut %d de plus !
+composition_finish	Fusion réussie !<br>Tu as reçu : %@ !
+composition_limit	Qualité maximum atteinte.<br>Plus de fusion possible dans la version actuelle.
+overwrite_confirm	Écraser l’orbe de talent équipé<br>pour équiper %@ ?<br><color=255,255,0>L’orbe actuel %@ sera détruit !</color>
+overwrite_remind	<color=255,255,0>L’orbe actuellement équipé %@<br>sera détruit. Confirmer ?</color>
+exchange_all_equip_np	Les orbes en réserve vont être<br>échangés contre des NP.<br>Confirmer ? (%d → <color=255,255,0>%d</color>)
+equipment_drop	${rewardName}<br><color=255,255,0>Orbe de talent :</color> ${equipmentName} +${equipmentNum}<br>${itemPossession}
+equipment_limit	La réserve d’orbes est pleine.<br>Fusionne ou échange des orbes contre des NP<br>pour faire de la place aux nouveaux orbes.<br>
+potential_name	Talent 
+potential_storge	%d orbes actuellement en réserve.
+slotunlock_medal_txt1	Débloque des conditions inédites !<br>Débloque : %d médailles Miaou
+item_pack_name_27	Unité limitée : Chachapsule
+unlock_popup_message_79	<flash>Filtre de recommandation débloqué</flash><br>Touche le bouton qui s'affiche dans<br>les niveaux Histoires légendaires/spéciaux pour voir<br>les niveaux non terminés qui correspondent<br>à ton niveau actuel !
+filterstage_txt1	Filtre de recommandation<br>Active ce bouton pour afficher uniquement<br>les niveaux non terminés recommandés pour toi.
+slotunlock_number_txt1	Emplacement de formation %d débloqué !
+scheme_popup_77	<flash>Merci pour tes réponses au sondage !<br>Profite %@%@ !</flash>
+zombie_talk_0	Invasion zombie en cours :<br><flash>%s</flash> !
+zombie_talk_1	Invasion zombie :<br><flash>%s</flash> !
+chapter_name_0	L’empire des Chats ch. 1.
+chapter_name_1	L’empire des Chats ch. 2.
+chapter_name_2	L’empire des Chats ch. 3.
+chapter_name_4	Vers le futur ch. 1.
+chapter_name_5	Vers le futur ch. 2.
+chapter_name_6	Vers le futur ch. 3.
+chapter_name_7	Les Chats du cosmos ch. 1.
+unlock_popup_message_80	<flash>Niveau vichamine : "Clionel ascendant" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_81	<flash>Niveau vichamine : "Fleuve Styx" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_82	<flash>Niveau vichamine : "Couronnement de la reine" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_83	<flash>Niveau vichamine : "Mort pour sa première" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_84	<flash>Niveau vichamine : "Revanche du Roi Wahwah" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_85	<flash>Niveau vichamine : "Profonde rêverie" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_86	<flash>Niveau vichamine : "Catastrophe écarlate" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_87	<flash>Niveau vichamine : "Paradis des ténèbres" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_88	<flash>Niveau vichamine : "Sans égal" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_89	<flash>Niveau vichamine : "Colère des cieux" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_90	<flash>Niveau vichamine : "Douce ironie" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_91	<flash>Niveau vichamine : "Dimension désespoir" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_92	<flash>Niveau vichamine : "Chat maboul" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_93	<flash>Niveau vichamine : "Chat tank maboul" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_94	<flash>Niveau vichamine : "Chat borgne maboul" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_95	<flash>Niveau vichamine : "Grand Chat maboul" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_96	<flash>Niveau vichamine : "Chat vache maboul" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_97	<flash>Niveau vichamine : "Chat oiseau maboul" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_98	<flash>Niveau vichamine : "Chat poisson maboul" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_99	<flash>Niveau vichamine : "Chat lézard maboul" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_100	<flash>Niveau vichamine : "Chat titan maboul" débloqué !</flash><br>※ Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlockpopup_Guide_1	Consulte l’aide pour en savoir plus !
+jinja_saisen00	Offrir 100 000 XP pour recevoir<br>des matériaux de construction de base ?
+jinja_saisen01	Offrir 1 million d’XP pour recevoir<br>des Chagrumes ?
+jinja_saisen02	Offrir 3 millions d’XP pour recevoir<br>des œils-de-chat ?
+jinja_saisen03	Offrir 5 millions d’XP pour recevoir<br>une formidable et mystérieuse récompense ?
+jinja_lock00	Pas assez d’XP...<br>* Pour en obtenir, termine des niveaux<br>ou achète des packs d’XP à la boutique.
+jinja_lock01	La réserve de récompenses est épuisée...
+jinja_lock02	Le sanctuaire a disparu dans la brume...
+jinja_itemget	Tu as reçu : %@ !
+legend_warning	<color=255,255,0>Conditions du défi<br>Termine tous les niveaux couronne de tous les niveaux Histoires légendaires</color>
+item_pack_name_28	Acheter l’unité ponctuelle : Œuf de Chat P’tit Clops
+jinja_levelup_popup	<flash>Niveau supérieur !</flash><br>Le sanctuaire félin a atteint le niveau %d !<br>
+gamatotoReward_1_2	Grande fortune obtenue !
+talk_003_push	
+jinja_omikuji00	Offrir 5 XP pour une prédiction ?
+omikuji_lock00	Pas assez d’XP...<br>* Pour en obtenir, termine des niveaux<br>ou achètes-en à la boutique d’objets.
+omikuji_lock01	La boîte à prédictions est vide...
+gama_jinja_00_popup	<flash>Gagne des bonus grâce aux prédictions !</flash><br>Le messager de Dieu "Inari" rejoint l'exp. de Gamatoto !<br>Le temps d’une expédition, le butin sera plus important.<br>※ Ne s’applique pas aux récompenses en Miam.
+gama_jinja_00_name	Inari
+gama_jinja_00_charatext	Sert Dieu fidèlement et aide Gamatoto pour<br>une expédition. Augmente le nombre d’objets récupérés.<br>* Ne s’applique pas aux récompenses en Miam.
+item_pack_name_29	Offre limitée : promo Ticket légendaire
+omikuji_fortune00	Souhaits : 
+omikuji_fortune01	Carrière : 
+omikuji_fortune02	Visiteur : 
+omikuji_fortune03	Affaires : 
+omikuji_fortune04	Objet perdu : 
+omikuji_fortune05	Argent : 
+omikuji_fortune06	Voyage : 
+omikuji_fortune07	Rivalité : 
+omikuji_fortune08	Santé : 
+omikuji_fortune09	Amour : 
+omikuji_outlook	<color=255,255,0>Perspectives : </color>
+gatyadata_error_popup	Chapsules non disponibles
+htmldata_error_popup	Impossible d’afficher cette page
+gama_jinja_00_gohome	L'Inari est revenu au royaume de Dieu.
+gama_collabo_03_popup	<flash>Hatsune Miku Collab!</flash><br>Snow Miku's loyal pet "Rabbit Yukine"<br>appears to help the Gamatoto crew!<br>While they are here, Gamatoto rewards increase!<br>※ Cat Food excluded.
+gama_collabo_03_name	Rabbit Yukine
+gama_collabo_03_charatext	Snow Miku's loyal pet "Rabbit Yukine"<br>appears to help the Gamatoto crew!<br>While they are here, Gamatoto rewards increase!<br>※ Cat Food excluded.
+gamestop_device	Ces données de sauvegarde sont actives ailleurs\n et ne sont plus accessibles sur cet appareil. \n Si tu souhaites utiliser cet appareil, réinstalle\n l'appli et recommence le jeu depuis le début.
+item_pack_name_32	Offre d'aide : 3 h de Chats fortunés illimités !
+item_pack_name_33	Offre d'aide : 3 h de Chats numériques illimités !
+item_pack_name_34	Offre d'aide : 3 h de Chats tireurs illimités !
+otasuke_sale2	Chats fortunés illimités pendant 3 h !<br>
+otasuke_sale3	Chats numériques illimités pendant 3 h !<br>
+otasuke_sale5	Chats tireurs illimités pendant 3 h !<br>
+GiftMessage_019	<flash>Récompense de niveau terminé 8</flash><br>Termine le dernier niveau de Labyrinthe de l'ancienne forêt<br>pour une petite chance de débloquer<br>l’unité spéciale Doron masque ancestral !
+save_failed1	Pas assez d'espace de stockage. Sauvegarde impossible.
+save_failed2	Pas assez d'espace de stockage. Sauvegarde impossible.
+comeback_stamp_push01	As-tu reçu ton tampon de retour pour aujourd'hui ? Obtiens des tonnes d'XP bonus !
+comeback_stamp_push02	Obtiens 3 tickets Chapsule chaque jour avec ta récompense de tampon de retour !
+comeback_stamp_push03	As-tu reçu ton tampon de retour pour aujourd'hui ? Obtiens 2 tickets rares avec ton 7e tampon !
+item_pack_name_36	Promo d'amélioration : Miam et pack d'objets bronze !
+item_pack_name_37	Promo d'amélioration : Miam et pack d'objets argent !
+item_pack_name_38	Promo d'amélioration : Miam et pack d'objets or !
+item_conversion	%d éclats platine échangés<br>contre <flash>ticket platine x%d</flash>
+fragment_message	Échange 10 éclats platine<br>contre 1 ticket platine.<br>Éclats actuels : %d
+fragment_bonus	Obtiens un cadeau éclat platine<br>à chaque ouverture de ${gatyaNumber} Chapsules !<br>Échange 10 éclats platine<br>contre un <flash>ticket platine</flash> !
+applang	en
+equipment_error	Ce talent ne peut être utilisé que si l'unité<br>a déjà la capacité « %@ : %@ ».
+scratch_message	Tu as reçu %s x%d !
+scratch_SNS_000	J'ai gagné %d Miam dans #BattleCatsScratcher !<br>Essaie une fois par semaine pour tenter de remporter un super prix !<br><br>#TheBattleCats
+item_pack_name_39	Pack festif
+potential_skill_name57	Cible Aku
+assault_skip	【Tu te sens un peu mieux...】<br><flash>Une chance récupérée !</flash><br>Retour à l’écran de choix du niveau.<br><color=255,255,0>Chances disponibles : 1/${countNum} ${assaultWord}</color>
+assault_word	(Récupération totale dans ${minutes2} min.)
+potential_skill_name58	Perforation de bouclier
+potential_skill_name59	Impact spirituel
+potential_skill_name60	Malédiction
+demon_error_popup	<color=255,255,0>Tu ne peux pas encore accéder à ce niveau.</color>
+demon_timelimit	Temps restant : %d:%02d:%02d
+sealed_announce	Scellé par le pouvoir de l’Autel Aku<br>Blocage actuel : %d
+sealed_release	L’Autel Aku a été détruit et certains niveaux ont été restaurés !<br><flash>Maximum actuel : niveau %d</flash>
+sealed_information	Tu ressens le pouvoir de l’Autel Aku<br><color=255,255,0>Maximum actuel : niveau %d</color>
+unlock_popup_message_101	<flash>Des Autels Akus apparaissent !</flash><br>Ta recherche d’Akus est terminée et le portail du Royame Aku est ouvert !<br>Depuis L’empire des Chats, pénètre dans ce sombre royaume...
+unlock_popup_message_102	<flash>Le prêtre Mamon a été vaincu par l’armée de Chats !</flash><br>Mais cela n’a pas empêché le retour du Seigneur Ruine...
+unlock_popup_message_103	<flash>Bonus de niveaux terminés !</flash><br>L'unité spéciale « %@ » a été débloquée !<br>À activer dans le menu Améliorer.
+unlock_popup_message_104	<flash>Autel Aku détruit !</flash><br>Tes unités de niveau + ont été restaurées !
+demon_return_title	Récompenses non récupérées disponibles !<br>Récupère tes récompenses dans la base féline.<br>En route vers l’écran titre...
+demon_return_select	Récompenses non récupérées disponibles !<br>Récupère tes récompenses dans la base féline.<br>En route vers la base féline...
+stage_restriction_charagroup_5	Unités de la Chacadémie du cœur
+stage_restriction_charagroup_6	Unités insectes « Chats de vacances d’été »
+scheme_item_param_87	nyanko9_en1
+scheme_popup_87	Battle Cats Quest<br>Collab Mission Reward 1<br><flash>You got %@ x%@!</flash>
+scheme_item_param_88	nyanko9_en2
+scheme_popup_88	Battle Cats Quest<br>Collab Mission Reward 2<br><flash>You got %@ x%@!</flash>
+scheme_item_param_89	nyanko9_en3
+scheme_popup_89	Battle Cats Quest<br>Collab Mission Reward 3<br><flash>You got %@ x%@!</flash>
+scheme_item_param_90	nyanko9_en4
+scheme_popup_90	Battle Cats Quest<br>Collab Mission Reward 4<br><flash>You got %@ x%@!</flash>
+scheme_item_param_91	nyanko9_en5
+scheme_popup_91	Battle Cats Quest<br>Collab Mission Reward 5<br><flash>You got %@ x%@!</flash>
+settlement_error	Le paiement n'est pas terminé.\nL'objet sera livré une fois le paiement terminé.
+tower_sns_006	Mon armée de Chats a envahi l'étage %@ de la Tour infernale !%s %s
+scheme_item_param_96	
+scheme_popup_96	<flash>Merci pour tes réponses au sondage !<br>Profite %@%@ !</flash>
+skip_description	Le ${stageName1} à été terminé précédemment, ce qui te permet<br>de commencer ton aventure à partir du <flash>${stageName2}</flash> !
+stageskip_message_0	Tu as terminé le ${stageName1} de la Tour céleste !<br>Commence ta prochaine aventure à partir du : <flash>${stageName2}</flash> !
+stageskip_message_1	Tu as terminé le ${stageName1} de la Tour infernale !<br>Commence ta prochaine aventure à partir du : <flash>${stageName2}</flash> !
+unlock_popup_message_106	<flash>Bonus de fin de Chats du cosmos !</flash><br>Tu as vaincu le Dieu des Chats, bien joué !</flash><br>Pour te récompenser, Super félin est désormais disponible dans les Chapsules+.
+unlock_popup_message_107	<flash>Chapsules+ débloquées !</flash><br>La réserve de Chats passe de 64 à <color=255,255,0>128 unités</color>.<br>L'échange d'unités normales passe de 1 NP à <color=255,255,0>2 NP</color>.
+scratch_SNS_001	
+gama_jinja_01_popup	<flash>Bénédiction du sanctuaire félin !</flash><br>Reçu : ${itemName} x${itemNum} !
+scratch_SNS_002	J'ai reçu %d Miam du griffoir pour Chat de la Chacadémie du cœur !<br>Tente ta chance une fois par semaine durant l'événement pour des Miam gratuits !<br><br>#TheBattleCats #GriffoirPourChatBattleCats
+view_unavailable	Aucun média disponible
+view_limit_reached	Voir limite atteinte aujourd'hui.
+data_download_error_hash_mismatch	There is a problem with the save data. (Error Code TE01)<br>When sending an inquiry, please be sure to give your inquiry code and error code along with your request.
+data_download_error_could_not_load	There is a problem with the save data. (Error Code TE02)<br>When sending an inquiry, please be sure to give your inquiry code and error code along with your request.
+data_download_error_could_not_read_local_backup	There is a problem with the save data. (Error Code TE03)<br>When sending an inquiry, please be sure to give your inquiry code and error code along with your request.
+data_download_error_could_not_load_local_backup	There is a problem with the save data. (Error Code TE04)<br>When sending an inquiry, please be sure to give your inquiry code and error code along with your request.
+GiftMessage_020	<flash>Récompense de niveau terminé 9</flash><br>Termine le dernier niveau du Pic de Béhémoth<br>pour une petite chance de débloquer<br>l’unité spéciale Bête ancestrale Naala !
+unlock_popup_message_108	<flash>Niveau vichamine : Impact bleu débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+scratch_SNS_003	J'ai reçu %d Miam du P'tit griffoir pour Chat ! <br>Participe dès maintenant et obtiens tes Miam ! <br><br>#TheBattleCats #LilCatScratcher
+unlock_popup_message_109	<flash>Niveau vichamine : « Moneko maboule attaque » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_110	<flash>Niveau vichamine : « Rouge levant » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_111	<flash>Niveau vichamine : « La mort qui roule » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_112	<flash>Niveau vichamine : « Ouragan Némo » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_113	<flash>Niveau vichamine : « Le Grand diablo » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_114	<flash>Niveau vichamine : « Au fond du marais » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_115	<flash>Niveau vichamine : « Chat dément » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_116	<flash>Niveau vichamine : « Chat tank dément » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_117	<flash>Niveau vichamine : « Chat borgne dément » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_118	<flash>Niveau vichamine : « Grand Chat dément » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_119	<flash>Niveau vichamine : « Chat vache dément » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_120	<flash>Niveau vichamine : « Chat oiseau dément » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_121	<flash>Niveau vichamine : « Chat poisson dément » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_122	<flash>Niveau vichamine : « Chat lézard dément » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_123	<flash>Niveau vichamine : « Chat titan dément » débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+unlock_popup_message_124	<flash>Niveau vichamine : « 2e dimension» débloqué !</flash><br>* Utilise la vichamine quand tu le souhaites pour accéder à ce niveau !
+drop_info_single	<color=0,0,0>Le butin unique pour ce niveau est :</color><br><color=255,0,0>${dropContents}</color><color=0,0,0><br>${statusWord}</color>
+drop_info_multi	<color=0,0,0>Le butin unique pour ce niveau est :</color><br><color=255,0,0>${dropContents}</color><color=0,0,0><br>${statusWord}</color>
+drop_contents1	${itemName} +${itemNum}
+drop_contents2	Unité ${charaName}
+drop_contents3	Forme ultime de : ${charaName}
+status_acquire	Tu as déjà ça.
+status_unacquired	Tu n'as pas encore ça.
+scheme_item_param_77	
+AccountDelete_error01	Impossible de générer le code.<br>Vérifie ta connexion Internet.
+AccountDelete_error02	Impossible de supprimer le compte.<br>Vérifie ta connexion Internet.
+AccountDelete_error03	Le code a expiré.<br>Recommence depuis le début.
+boost_message	<color=255,0,255>Accélération</color><br><color=0,0,0>Utilise cet objet pour activer un boost de vitesse<br>Touche l'icône d'objet pendant la bataille pour sélectionner<br>le mode Désactivé, Vitesse x2 ou Vitesse x3.</color>
+item_possession	<color=178,178,178>(En possession : ${itemNum1} → ${itemNum2})</color>
+stage_restriction_charagroup_7	World Trigger Collab Unit
+slot_remove	Toutes les unités seront retirées de la formation de combat.
+remove_error	<color=255,255,0>Cette unité ne peut pas être retirée de la formation.</color>
+receive_honor_popup	<flash>%s</flash>
+labyrinth_SNS	Dans le Labyrinthe souterrain, mon armée de Chats a pillé : %@ ! %s %s
+unusable_info	${unusableNum} Chats ont été pris au piège !<br>Ces unités ne pourront pas servir<br>pour la prochaine bataille.
+change_info	${unusableNum} Chats ont été pris au piège !<br><color=255,255,0>Choisis ${usableNum} unités piégées <br>à secourir !</color>
+change_limit	<color=255,255,0>Aucun autre Chat ne peut être secouru.</color>
+change_lack	Choisis <color=255,255,0>${usableNum} autres Chats</color> à secourir !
+change_confirmation	Les Chats piégés <br>ne peuvent pas être déployés pour la prochaine bataille.<br>Confirmer ?
+labyrinth_start	Le Labyrinthe souterrain est désormais disponible ! <br>(Du ${startDate} au ${endDate}) <br>Affronte les autres joueurs pour atteindre des profondeurs inégalées !<br>Gagne des récompenses basées sur ta profondeur !
+labyrinth_announce1	Résultats du Labyrinthe souterrain<br>(Du ${startDate} au ${endDate}) <br>Dernier rang : ${rankingNum}％！<br>Les récompenses se récupèrent dans le courrier<br>(Les récompenses non récupérées expirent au bout d’un mois)
+labyrinth_announce2	Résultats du Labyrinthe souterrain<br>(Du ${startDate} au ${endDate}) <br>Dernier rang : ${rankingNum}％！<br>Malheureusement, tu n’as pas décroché de récompense.<br>Ce sera pour la prochaine fois !
+labyrinth_announce3	L’événement Labyrinthe souterrain a pris fin !<br>Bonne chance pour ta prochaine aventure spéléo !
+labyrinth_challenge_item	Dans le Labyrinthe souterrain,<br>les accélérations et les Chats numériques peuvent être utilisés à volonté !<br>*Quand une accélération est activée, l’objet est consommé.
+labyrinth_play_error1	<color=255,255,0>Les niveaux terminés du Labyrinthe souterrain ne peuvent pas être rejoués.</color>
+labyrinth_play_error2	<color=255,255,0>Une unité requise n'est pas équipée dans ta formation de bataille.<br>Équipe 10 unités disponibles.</color>
+labyrinth_slot_error	<color=255,255,0>Les formations utilisées précédemment ne peuvent pas être réutilisées dans le Labyrinthe souterrain.</color>
+labyrinth_slot_name	Équipe
+labyrinth_combo_error	<color=255,255,0>La malédiction du Labyrinthe souterrain<br>t’empêche de préparer des Combos félins.</color>
+labyrinth_cancel	Quitter la bataille ?<br><color=255,0,0>Certaines de tes unités ont été piégées !</color><br><color=178,178,178>* Les unités piégées ne peuvent pas rejoindre la formation de la prochaine bataille.</color>
+labyrinth_result	${stageName} terminé !<br>Tu as atteint le top ${rankingNum} ％ des Équipes d'enquête !
+cube_growup_1	${itemName} x${Num} seront utilisées<br>pour créer une gemme Béhémoth.
+unlock_popup_message_125	<flash>Bonus de niveau terminé !</flash><br>Déblocage de la forme ultime de l’unité spéciale Toutoumaru !<br>Après avoir atteint le niv. 30,<br>utilise ton XP et tes matériaux pour évoluer !
+unlock_popup_message_126	<flash>Bonus de niveau terminé !</flash><br>Déblocage de la forme ultime de l’unité spéciale Urs et Fenrir !<br>Après avoir atteint le niv. 30,<br>utilise ton XP et tes matériaux pour évoluer !
+unlock_popup_message_127	<flash>Bonus de niveau terminé !</flash><br>Déblocage de la forme ultime de l’unité spéciale Doron masque ancestral !<br>Après avoir atteint le niv. 30,<br>utilise ton XP et tes matériaux pour évoluer !
+unlock_popup_message_128	<flash>Bonus de niveau terminé !</flash><br>Déblocage de la forme ultime de l’unité spéciale Bête ancestrale Naala !<br>Après avoir atteint le niv. 30,<br>utilise ton XP et tes matériaux pour évoluer !
+unlock_popup_message_129	<flash>Augm. tes niv. max !</flash><br>Les œils-de-chat perm. aux Chats d'atteindre<br>des niv. plus hauts avant leur max. !<br>(œils-de-chat oblig. pour rang joueur 1 600)
+unlock_popup_message_130	<flash>Le niveau légendaire 0 a fait son apparition.</flash><br>Tu peux relever ce défi depuis les Niveaux légendaires.
+unlock_popup_message_131	<flash>Bonus de niveau terminé !</flash><br>Déblocage de la forme ultime de l’unité spéciale Chat flibustier X !<br>Après avoir atteint le niv. 30,<br>utilise ton XP et tes matériaux pour évoluer !
+unlock_popup_message_132	<flash>Le Labyrinthe souterrain a été débloqué !</flash><br>Il apparaîtra à l’écran titre pendant l’événement.<br>Sélectionne Labyrinthe souterrain pour y jouer !
+item_pack_name_71	Pack d’XP chabuleux
+item_pack_name_72	Pack œils-de-chat et objets de combat
+item_pack_name_73	Pack œils-de-chat et tickets rares
+item_pack_name_8	Pack de Miam monte-en-grade
+item_pack_name_9	Pack d'XP monte-en-grade
+item_pack_name_10	Pack d'objets monte-en-grade
+item_pack_name_47	Pack de Miam monte-en-grade
+item_pack_name_48	Pack d'XP monte-en-grade
+item_pack_name_49	Pack d'objets monte-en-grade
+item_pack_name_67	Pack de Miam monte-en-grade
+item_pack_name_68	Pack d'XP monte-en-grade
+item_pack_name_74	Pack de Miam monte-en-grade
+potential_skill_warning01	Ultra talent déblocable au <flash>niv. ${level}</flash><br>*Le niveau total comprend les niveaux max. +
+potential_skill_warning02	Deuxième emplacement d’orbe de talent déblocable au <flash>niv. ${level}</flash><br>*Le niveau total comprend les niveaux max. +
+potential_skill_option00	<flash>${charaName}</flash> a<br>gagné un ultra talent !
+potential_skill_option01	<flash>${charaName}</flash> a<br>gagné un nouvel emplacement d’orbe de talent !
+potential_skill_option02	<flash>${charaName}</flash> a<br>gagné un ultra talent et un emplacement d’orbe de talent !
+potential_name1	Ultra talent 
+potential_skill_name61	Fréquence d’attaque ↑
+item_pack_name_75	Pack Progression
+Castle_dev_finish03	<flash>Amélioration terminée : ${partsName} pour ${recipeName} !</flash>
+Castle_dev_finish04	<flash>Fusion de matériaux terminée !</flash><br>${itemName}　${value1} → <color=255,255,0>${value2}</color>
+Castle_lock06	Matériaux manquants !<br>* Fusionne des matériaux pour obtenir<br>des matériaux extradimensionnels.
+Castle_dev_start03	Commence à améliorer 1 ${partsName} pour ${recipeName}.
+Castle_dev_start04	Lance la fusion de matériaux.
+Castle_UnlockDataId_9	Construis le Chanon lent<br>et termine le niveau légendaire Labo des reliques
+Castle_UnlockDataId_10	Construis le Mur d'acier<br>et termine le niveau légendaire Labo des reliques
+Castle_UnlockDataId_11	Construis l'Éclair<br>et termine le niveau légendaire Labo des reliques
+Castle_UnlockDataId_12	Construis le Jet d'eau<br>et termine le niveau légendaire Labo des reliques
+Castle_UnlockDataId_13	Construis le Purificateur<br>et termine le niveau légendaire Labo des reliques
+Castle_UnlockDataId_14	Construis le Briseur<br>et termine le niveau légendaire Labo des reliques
+Castle_UnlockDataId_15	Construis la Malédiction<br>et termine le niveau légendaire Labo des reliques
+Castle_mixitem00	Fusionne les matériaux pour améliorer ou renforcer<br>la fondation et le style du Chanon.
+stage_restriction_charagroup_8	
+potential_skill_name62	Mini-vague
+filter_option_description2	<color=0,0,0>Changer le mode de recherche de cible/capacité<br>OU : personnages remplissant au moins un critère<br>ET : personnages remplissant tous les critères</color>
+unlock_popup_message_133	<flash>Amélioration de fondation/style et fusion de matériaux<br></flash>débloquées pour la Brigade Ototo ! <br>Touche l'onglet Gamatoto de la base féline pour commencer !
+unlock_popup_message_134	<flash>+ Niv. max augmenté !</flash><br>Cette victoire passe le<br>niveau max des P'tits Chats à 45 !
+unlock_popup_message_135	<flash>+ Niv. max augmenté !</flash><br>Cette victoire passe le<br>niveau max des P'tits Chats à 50 !
+unlock_popup_message_136	<flash>+ Niv. max augmenté !</flash><br>Cette victoire passe le<br>niveau max des P'tits Chats à 55 !
+unlock_popup_message_137	<flash>+ Niv. max augmenté !</flash><br>Cette victoire passe le<br>niveau max des P'tits Chats à 60 !
+potential_skill_name63	Fléau des colosses
+potential_skill_name64	Fléau des Béhémoths
+stage_restriction_charagroup_9	Chat
+potential_skill_name65	Mini-réplique
+slot_SNS_002	J’ai gagné %d Miams aux Machines à sous Chat sauvage de #TheBattleCats !<br><br>#BattleCats #9Ans
+stageskip_message_2	Attaque du Baron phoque terminée  - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_3	Éléphunèbre frappe terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_4	Méga menace terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_5	Hippoporreur terminé - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_6	Attaque de l’Archange divin terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_7	Attaque de Grand Peng Z terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_8	Attaque des présages terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+unlock_popup_message_138	<flash>Passe des batailles avec les Chats numériques !</flash><br>Pour passer les batailles de niveaux déjà finis et recevoir les récompenses, touche l’icône qui apparaît lors du choix d’objets.<br>Remarque : cette fonction n’est pas disponible pour certains niveaux.
+ScatCPU_info1	Utiliser <flash>${itemNum1}</flash>x ${itemName1} pour passer la bataille ?<br>Tu peux encore en passer ${itemNum2}aujourd’hui.
+ScatCPU_info2	<flash>Chats numériques illimités pour tous !</flash><br>Veux-tu passer la bataille ?<br>Tu peux encore en passer ${itemNum} aujourd’hui.
+ScatCPU_XPdrop	<color=255,255,0>Victoire totale !</color><br>Tu as <flash>obtenu</flash> de l’XP en terminant le niveau !<br>${itemName} +${itemNum}
+ScatCPU_message	<color=255,0,255>Le Chat numérique</color><color=0,0,0> est en chemin.<br>Il n’est pas parfait étant programmé par des Chats,<br>mais il peut gérer les niveaux que tu as déjà terminés<br>quand tu touches l’icône !</color>
+ScatCPU_error1	Tu ne peux pas passer plus de batailles.<br>Cette limite reviendra à zéro à minuit.
+ScatCPU_error2	Il se peut que l’horaire de l’appareil ait été modifié.<br>Tu ne pourras plus passer de batailles pendant quelque temps.
+ScatCPU_error3	Pas assez de Chats numériques.<br>Aller à la boutique d’objets ?
+ScatCPU_error4	Utiliser <flash>${itemNum1}</flash>x ${itemName1} pour passer la bataille ?<br><color=255,255,0>Tu ne recevras pas les récompenses de score chrono.</color><br>Tu peux encore passer ${itemNum2} bataille(s) aujourd’hui.
+ScatCPU_error5	Chats numériques illimités pour tous !<br>Veux-tu passer la bataille ?<br><color=255,255,0>Tu ne recevras pas les récompenses de score chrono des niveaux qui en proposent.</color><br>Tu peux encore passer ${itemNum2} bataille(s) aujourd’hui.
+ScatCPU_error6	Utiliser <flash>${itemNum1}</flash>x ${itemName1} pour passer la bataille ?<br><color=255,255,0>Les niveaux suites n’apparaîtront pas après avoir passé une bataille.</color><br>Tu peux encore en passer ${itemNum2} aujourd’hui.
+ScatCPU_error7	Chats numériques illimités pour tous !<br>Passer la bataille ?<br><color=255,255,0>Les niveaux suites n’apparaîtront pas après avoir passé une bataille.</color><br>Tu peux encore en passer ${itemNum2} aujourd’hui.
+ScatCPU_error8	Tu ne peux pas passer les batailles que tu n’as pas réussies.
+ScatCPU_error9	Pas moyen de passer les batailles de ce niveau !<br>Combats de toutes tes forces !
+filter_option_description3	<color=0,0,0>Afficher uniquement les Chats avec un bouton Évolution actif.</color>
+filter_option_description4	<color=0,0,0>Afficher uniquement les Chats avec un bouton Talent actif.</color>
+chapter_name_8	Les Chats du cosmos ch. 2
+labyrinth_autoslot	Les unités seront remplacées automatiquement si possible.
+push_permission	Active le paramètre Alertes et rappels pour<br>recevoir des alertes au moment voulu. <br><color=255,255,0>Ouvrir tes paramètres Android ?</color>
+purchase_unavailable_android	Ne peut pas être acheté sur Google Play.<br>Veuillez vérifier votre connexion Internet<br>ainsi que votre connexion à Google Play.
+purchase_unable_ios	L'achat via l'App Store a échoué. Merci de vérifier ta connexion au réseau et à l'App Store.
+purchase_unable_android	L'achat via Google Play a échoué. Merci de vérifier ta connexion au réseau et à Google Play.
+drop_contents4	Ultra forme pour ${charaName}
+drop_popup_chara_third_evolve2	%@<br>%@ « %@ » :<br>ultra forme révélée !<br><flash>Débloque-la après avoir atteint le niveau 50 !</flash>
+mission_receive_item_chara_evolve2	<color=255,255,0>Récompense d'ultra forme : ${charaName}</color>
+receive_item_popup_chara_evolve2	Ultra forme : %s
+GiftMessage_021	<flash>Bonus de niveau 10 terminé</flash><br>Termine le dernier niveau du Jardin des songes flétris<br>pour avoir une petite chance de<br>recevoir Soracte, mentor mental !
+potential_skill_name66	Fléau des Sages
+item_pack_name_76	Pack de Chats numériques
+stage_SPChara_warning	Cette unité ne peut pas être déjà déployée !
+item_pack_name_77	Achète l’unité limitée Chat proviseur
+enemy_info_unknown	<color=255,255,0>Ennemi disponible dans le Guide ennemis<br>après victoire, défaite ou 10 s de combat.</color>
+enemy_info_not_found	<color=255,255,0>Cet ennemi non rencontré n’a pas<br>encore été ajouté au Guide ennemis.</color>
+comeback_push_01	Tu sens ça ? Tu manques aux Chats...
+equipment_fault	* Ceci n'appliquera aucun effet à la forme actuelle.
+equipment_fault_equip	<color=255,255,0>${errorMessage}</color>
+gamatotoReward_4	${itemName} + ${itemNum}
+item_pack_name_78	Achète l’unité limitée Dotty Cat
+item_pack_name_80	Offre spéciale : achète un ticket rare !
+stageskip_message_9	Tu as terminé Attaque de Gigahaniwan ! ${stageName1} !<br>La prochaine fois, tu pourras reprendre au <flash>${stageName2}</flash> !
+clear_adreward_1	Chance d'XP boostée ! <br>Visionner une pub pour obtenir <flash>XP ${xp} x2</flash> ?
+reward_freegatya	Visionne une pub pour lancer les<br>Chapsules chance (une seule fois par jour).
+Itemshop_ad_popup1	Regarder une pub pour gagner XP +${xp} ?
+clear_adreward_2	Tu as gagné <flash>XP +${xp}</flash> !
+lose_retry_ad	Argent MAX, Chanon CHARGÉ !
+Itemshop_ad_popup2	Tu as gagné XP +${xp} !
+stage_restriction_limit_6	${rarity} : ${value} ou moins
+SpecialRuleName000	Fonds fiduciaire
+SpecialRuleName001	Égalité de recharge
+SpecialRuleExplanation000	【Fonds fiduciaire】<br>Tu as plein d’argent au début de la bataille,<br>mais tu n’en gagnes pas au fil du temps<br>ni en battant les ennemis.
+SpecialRuleExplanation001	【Égalité de recharge】<br>Toutes les unités alliées partagent<br>la même fréquence de déploiement.
+treasure_get	Touche deux fois une icône pour te rendre à un niveau qui propose cette récompense.
+treasure_geterror	Tu ne peux pas accéder à un niveau non débloqué.
+treasure_popup1	<color=255,255,0> ${treasureRank} ${treasureName}</color> ${text} ${stageName}
+treasure_popup2	 ${treasureRank} ${text} ${stageName}
+treasure_popup3	 ${treasureName}
+item_pack_name_81	Offre de challenger : Pack XP et tickets rares !
+Account_iOS13_error	La connexion avec Apple ne fonctionne pas sur les appareils utilisant iOS 12 ou une version antérieure.
+gamatoto_shortcut	Aller à l'écran Gamatoto ?
+item_pack_name_82	
+mission_receive_bulk	Toutes les récompenses de mission reçues.
+mission_receive_bulk_item	${itemName} x ${itemNum}
+mission_receive_bulk_item_chara	Unité : "${charaName}"
+mission_receive_bulk_item_chara_evolve	Unité : "${charaName}" forme ultime
+mission_receive_bulk_item_chara_evolve2	Unité : "${charaName}" ultra forme
+mission_receive_bulk_item_xp	${itemName} + ${itemNum}
+mission_receive_bulk_not_all	<color=255,255,0>Tu possèdes trop d'objets<br>pour récupérer toutes les récompenses de mission.</color>
+mission_txt	${missionNum} mission(s) accomplie(s) !
+scratch_SNS_004	
+slot_SNS_003	J’ai gagné %d Miams aux Machines à sous Chat sauvage de #TheBattleCats !<br><br>#BattleCats #10Ans
+SpecialRuleExplanation004	【Vente super rare]  <br>Les unités super rares peuvent être déployées<br>pour la moitié du coût et avec un délai de récupération divisé par deux.
+SpecialRuleName004	Vente super rare
+stage_restriction_limit_7	Unités déployables de chaque rareté : <color=255,255,0>%@</color>
+stage_restriction_limit_8	${rarity} x${value}
+stage_shortcut	Accéder à l'écran de choix<br>du niveau "${stageName}" ?<br>${specialText}
+stage_shortcut_nekovitan	Accéder à l'écran de choix<br>du niveau pour le niveau<br>vichamine "${stageName}"<br>${specialText}
+stage_shortcut_no_interval_times	<color=255,255,0>Impossible d'accéder à ce niveau<br>(aucune tentative de niveau restante).</color>
+stage_shortcut_not_found	<color=255,255,0>Impossible d'accéder à ce niveau<br>(il n'a pas été débloqué).</color>
+stage_shortcut_out_of_term	<color=255,255,0>Impossible d'accéder à ce niveau<br>(il n'est pas encore disponible).</color>
+talk_005_push	Continuons notre discussion féline !
+cube_guide	Des niveaux de l'Abattage de Béhémoths sont disponibles<br>chaque jour en tant qu'événements Guerrilla. Consulte le<br>calendrier des événements pour en savoir plus !
+cube_guide_common1	* S'obtient le plus facilement dans le niveau<br>Forêt cachée de Gapra de l'Abattage de Béhémoths.
+cube_guide_common2	* S'obtient le plus facilement dans le niveau<br>Désert d'Ashvini de l'Abattage de Béhémoths.
+cube_guide_common3	* S'obtient le plus facilement dans le niveau<br>Volcan de Jinfore de l'Abattage de Béhémoths.
+gamatoto_error_popup1	Tu ne peux pas explorer à nouveau sans avoir<br>participé à une expédition une première fois !
+gamatoto_error_popup2	Tu ne peux pas explorer à nouveau car<br>l'expédition précédente n'est plus disponible.
+gamatoto_popup1	${areaName}<br>Explorer à nouveau ${timeText}<br>${bonuspop}
+gamatoto_popup2	Tu as atteint la limite de <br>Chats auxiliaires et d'ingénieurs Ototo.<br>Veux-tu retirer<br>${gamatotoName} 【${gamatotoRarity}】 ?
+gamatoto_popup3	Tes Chats auxiliaires<br>sont trop nombreux.<br>Assigner<br>${gamatotoName} 【${gamatotoRarity}】en tant qu'ingénieur ?
+gamatoto_popup4	Tes Chats auxiliaires<br>sont trop nombreux.<br>Retirer<br>${gamatotoName} 【${gamatotoRarity}】en tant qu'auxiliaire ?
+gamatotoBonus	La perception de Gamatoto s'est améliorée !
+gamatotoBonus_popup1	<flash>Gamatoto est en état de Concentration !</flash><br>Un objet d'aura garanti !<br>Expéditions en état de Concentration restantes : ${expeditionNum}
+gamatotoBonus_popup2	Gamatoto n'est plus en état de Concentration...
+gamatotoBonus_popup3	Au moins 1 objet d'aura est garanti à chaque expédition !<br><color=255,255,0>Expéditions en état de Concentration restantes : ${expeditionNum}</color>
+gamatotoBonus_popup4	<color=255,0,255>Un objet garanti en état de Concentration !</color>
+gamatotoBonus_popup5	<color=255,255,0>Expéditions en état de Concentration restantes : ${expeditionNum}</color>
+GiftMessage_022	<flash>Un mystérieux ennemi dans la Forêt sacrée niv. 4 est apparu !</flash>
+item_pack_name_83	Acheter Promo rang joueur 300
+legend_warning_01	<color=255,255,0>Pour accéder à ce niveau,<br>termine tous les niveaux Légende mystérieuse.</color>
+matatabi_guide_common	* Les niveaux vichamine sont disponibles chaque jour.
+matatabi_guide_guerrilla	${stageName} est disponible<br>chaque jour en tant que niveau Guerrilla. Consulte le<br>calendrier des événements pour en savoir plus !
+matatabi_guide_special	* Des Chagrumes épiques apparaîtront à un rythme fixe.
+matatabi_guide1	${stageName} est <br>disponible tous les lundis<br>${commonText}
+matatabi_guide2	${stageName} est <br>disponible tous les mardis<br>${commonText}
+matatabi_guide3	${stageName} est <br>disponible tous les mercredis<br>${commonText}
+matatabi_guide4	${stageName} est <br>disponible tous les jeudis<br>${commonText}
+matatabi_guide5	${stageName} est <br>disponible tous les vendredis<br>${commonText}
+matatabi_transition	Requis : ${itemName}<br>Choisir une destination ?
+medama_complete	Objets vedettes TERMINÉ !
+medama_rennsuu	Gagne un objet vedette après avoir utilisé des Chapsules ${value} fois !
+SpecialRuleExplanation002	【1 rareté seulement】<br>Une seule unité de chaque rareté peut être déployée à la fois.<br>Votre armée de Chats peut être configurée à votre guise.
+SpecialRuleExplanation003	【Travail bon marché】<br>Toutes les unités alliées peuvent être déployées<br>pour 500 ￠.
+SpecialRuleName002	1 rareté seulement
+SpecialRuleName003	Travail bon marché
+stage_challenge_conditions	${mapName}<br>${stagelimitText1}<br>${stagelimitText2}<br>${stagelimitText3}
+stage_restriction_limit_9	Unités déployables : <color=255,255,0> x${value}</color>
+unlock_popup_message_139	<flash>Une mystérieuse forme de vie est apparue<br>dans le Labyrinthe de l'ancienne forêt !</flash>
+unlock_popup_message_140	<flash>Bonus de fin de niveau !</flash><br>Forme ultime de<br>Idi:N débloquée. Atteins le niv. 30 et<br>obtiens de l'XP et des objets pour évoluer !
+cert_tutorial1	<color=255,255,0>Niveaux avec formations fixes</color><br>Comprend des niveaux avec des unités, des Chanons<br>et des trésors prédéfinis.<br>Touche le bouton ci-dessous pour consulter tes unités !
+cert_tutorial2	Affiche un conseil avant la bataille<br>pour les niveaux avec formations fixes !<br>Touche le bouton du niveau pour le voir !
+cert_tutorial3	Touche l'icône pour afficher plus d'infos !<br>Consulte les ennemis, les récompenses<br>uniques et autres infos importantes !
+fixed_formation_popup	Ce niveau a une formation fixe.<br>La formation ne peut être modifiée.<br>* Détails dans le menu Pause de la bataille.
+fixed_formation_slot_name	Fixe
+hint_popup000	<color=0,0,0>Il existe plusieurs types d'ennemis,<br>notamment les rouges, noirs et aliens.<br>Concernant les rouges, <color=0,0,255>Chat borgne<color=0,0,0> et<br><color=0,0,255>Chat poisson<color=0,0,0> sont efficaces.</color>
+hint_popup001	<color=0,0,0>Pour les attaques à longue portée de <color=0,0,255>Professeur Ours<color=0,0,0>,<br>utilise des unités à longue portée comme <color=0,0,255>Chat lézard<color=0,0,0>.<br>Pour les puissants assaillants comme <color=0,0,255>Élèfe<color=0,0,0>,<br>des unités robustes comme <color=0,0,255>Chat titan<color=0,0,0> sont la solution.<br>Tire parti des atouts d'une unité féline pour gagner !</color>
+hint_popup002	<color=0,0,0>Les ennemis métal de type mécanique<br>subissent très peu de dégâts.<br>Pour en venir à bout, déploie des unités dotées de<br>la capacité <color=0,0,255>Critique<color=0,0,0>.</color>.
+hint_popup003	<color=0,0,0>Les zombies violets<br>peuvent revivre même après avoir été vaincus.<br>Les unités <color=0,0,255>Tueur de zombies<color=0,0,0> peuvent les vaincre<br>et les empêcher de ressusciter.</color>
+hint_popup004	<color=0,0,0>Les ennemis rapides et acharnés<br>peuvent être maîtrisés en déployant<br>des unités peu coûteuses<br>et dotées de beaucoup de santé.</color>
+hint_popup005	<color=0,0,0>Certains boss n'apparaissent que<br>lorsque la base ennemie est attaquée.<br>Assure-toi de faire des réserves d'argent<br>avant de perforer les rangs ennemis.</color>
+hint_popup006	<color=0,0,0>Les debuffs comme <color=0,0,255>Immobilisation et Ralentissement<color=0,0,0><br>sont efficaces contre<br>les ennemis à caractéristiques.<br>Utilise des unités avec des debuffs<br>qui contrent ces ennemis pour gagner !</color>
+hint_popup007	<color=0,0,0>Certains ennemis ont des barrières qui<br>annulent les dégâts. Elles peuvent être détruites<br>par une attaque puissante ou par<br>une unité ayant la capacité <color=0,0,255>Brise-barrière<color=0,0,0>.</color>
+hint_popup008	<color=0,0,0>Les zombies creusent sous terre<br>à proximité d'une unité féline.<br>Contrecarre cette manœuvre en organisant<br>en conséquence le déploiement des unités.</color>
+mission_receive_bulk_item_map	Permis de défi ${mapName}
+mission_receive_item_map	<color=255,255,0>Récompense : permis de défi ${mapName}</color>
+SpecialRuleExplanation005	【Limite déploiement】<br>60 unités maximum<br>peuvent être déployées.
+SpecialRuleName005	Limite déploiement
+unlock_popup_message_141	<flash>Tu as atteint le ★ rang 1 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 1<br>sont indiqués par des ★ roses.
+unlock_popup_message_142	<flash>Tu as atteint le ★ rang 2 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 2<br>sont indiqués par des ★ roses.
+unlock_popup_message_143	<flash>Tu as atteint le ★ rang 3 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 3<br>sont indiqués par des ★ roses.
+unlock_popup_message_144	<flash>Tu as atteint le ★ rang 4 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 4<br>sont indiqués par des ★ roses.
+unlock_popup_message_145	<flash>Tu as atteint le ★ rang 5 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 5<br>sont indiqués par des ★ roses.
+unlock_popup_message_146	<flash>Tu as atteint le ★ rang 6 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 6<br>sont indiqués par des ★ roses.
+unlock_popup_message_147	<flash>Tu as atteint le ★ rang 7 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 7<br>sont indiqués par des ★ roses.
+unlock_popup_message_148	<flash>Tu as atteint le ★ rang 8 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 8<br>sont indiqués par des ★ roses.
+unlock_popup_message_149	<flash>Tu as atteint le ★ rang 9 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 9<br>sont indiqués par des ★ roses.
+unlock_popup_message_150	<flash>Tu as atteint le ★ rang 10 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 10<br>sont indiqués par des ★ roses.
+unlock_popup_message_151	<flash>Tu as atteint le ★ rang 11 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 11<br>sont indiqués par des ★ roses.
+unlock_popup_message_152	<flash>Tu as atteint le ★ rang 12 !</flash><br>Ton nouveau rang figure sur ta carte Club des officiers.<br>Les niveaux accessibles au rang 12<br>sont indiqués par des ★ roses.
+autoSave_txt7	Afficher le code
+item_pack_name_85	Rabe de soldes
+item_pack_name_86	Promo du vainqueur
+mission_receive_bulk_not_part	<color=255,255,0>Limite d’objets atteinte.</color><br>Les objets dépassant la limite ne seront pas récupérés.<br>Obtenir les récompenses et terminer la mission ?
+SpecialRuleExplanation006	【Promotion spéciale】<br>Les unités de rareté spéciale peuvent être déployées<br>à 30 % du coût avec 30 % de vitesse de récupération.
+SpecialRuleName006	Promotion spéciale
+equipment_attribute_common	Ennemis à caractéristiques
+equipment_filteringMiss	<color=255,255,0>Aucun orbe de talent répondant<br>à ces conditions n’a pu être trouvé.</color>
+gamatoto_shortcut_error	<color=255,255,0>Pour débloquer les expéditions Gamatoto,<br>tu dois d’abord terminer <br>le niveau "Grèce" de L’empire des Chats ch. 1.</color>
+item_pack_name_87	Acheter un pack Ticket des 100M de téléchargements
+item_pack_name_88	
+potential_skill_name67	Explosion
+slot_SNS_006	J’ai gagné %d Miams aux Machines à sous Chat sauvageⅡ de #TheBattleCats !<br><br>#BattleCats
+SpecialRuleExplanation007	[Plus un ultra rare]<br>Déploie la même unité ultra rare<br>deux à la fois.
+SpecialRuleName007	Plus un ultra rare
+unlock_popup_message_153	<flash>Talents de Chalkyrie sacrée débloqués !</flash><br>Terminer l’épreuve a éveillé un nouveau pouvoir.<br>Évolue en forme ultime et atteins le niv. 30 pour<br>débloquer/renforcer les capacités dans le menu Améliorer.
+unlock_popup_message_154	<flash>Talents de Chat Bahamut éveillé débloqués !</flash><br>Terminer l’épreuve a éveillé un nouveau pouvoir.<br>Évolue en forme ultime et atteins le niv. 30 pour<br>débloquer/renforcer les capacités dans le menu Améliorer.
+assault_skip_battle_result	【Tu te sens un peu mieux...】<br><flash>Une chance récupérée !</flash><br>Retour à l’écran de choix du niveau.<br>
+assault_skip_battle_skip	【Tu te sens un peu mieux...】<br><flash>Une chance récupérée !</flash><br>Reviens tenter le niveau quand tu veux !<br>
+BonusExplanationLabel000	【Bonus de score : Affaiblissement】<br> Inflige Affaiblissement aux ennemis<br>* Améliore ton score grâce aux Chats avec moins de types de cible.<br> Consulte « Qu’est-ce que l’Arène du destin ? » en bas à gauche du menu pour en savoir plus.
+BonusNameLabel000	Affaiblissement
+gama_collabo_04_charatext	
+gama_collabo_04_name	
+gama_collabo_04_popup	
+item_pack_name_89	Achat : Promo double platine, 1re partie
+item_pack_name_90	Achat : Promo double platine, 2e partie
+leadershipreturn_pop1	Fuir la bataille ?<br><color=255,255,0>Le Charburant dépensé te sera remboursé.</color>
+leadershipreturn_pop2	L’option Continuer n’est pas disponible dans ce niveau.<br>Le Charburant dépensé te sera remboursé.
+leadershipreturn_pop3	Le Charburant dépensé dans ce niveau te sera<br>remboursé après une défaite ou une fuite.<color=255,255,0>Le Charburant dépensé dans les niveaux spéciaux ne sera pas remboursé.</color>
+leadershipreturn_pop4	Le Charburant dépensé dans ce niveau te sera<br>remboursé après une défaite ou une fuite.
+map_minutes_empty	【Charburant épuisé... Impossible de continuer...】<br>Utiliser ${itemNum} vichamine(s) [A] ?<br>Une chance sera récupérée.<br><color=255,255,0>Chances disponibles : 0/${countNum}(Nouvelle chance dans ${minutes1} min.)</color>
+receive_item_popup_annotation_1	* Les coffres au trésor sont envoyés dans la réserve d’orbes de talent.
+SpecialRuleExplanation008	【Méga Chanon】 <br>La puissance du Chanon est multipliée par 100 !<br>* N’affecte pas la puissance d’attaque des effets du Chanon spécial comme Éclair.
+SpecialRuleName008	Méga Chanon
+SpecialRuleReset000	<color=255,255,0>Réinitialisation des fonds de guerre !</color><br>L’argent réservé pour le déploiement<br>des Chats a été réinitialisé !
+treasure_box_error_1	Il te manque ${itemNum} Miam.<br>Visiter la boutique Miam ?
+treasure_box_get_confirm	Récupérer<br>« ${itemName} » ?
+treasure_box_item	<color=255,255,0>${itemName}</color>
+treasure_box_last_one	Utilise ${itemNum} Miam<br>pour tenter de gagner les objets ci-dessous.
+treasure_box_open	Tire un des objets ci-dessous au hasard.
+treasure_box_probability	* Tous les objets ont autant de chances d’être tirés.<br>* Touche une icône pour en savoir plus.
+treasure_box_redraw	* Tirer à nouveau pour ${itemNum} Miam ?
+treasure_box_redrow_probability	* Tous les objets ont autant de chances d’être tirés.<br>* Les objets déjà tirés ne réapparaîtront pas.
+treasure_box_result	<color=255,255,0>Tu as tiré : ${itemName} !</color><br>Tu peux utiliser des Miam pour tirer à nouveau.
+treasure_box_result_2	* L’objet actuel ne peut pas être reçu après un nouveau tirage.
+treasure_box_result_last_one	<color=255,255,0>Tu as tiré : ${itemName} !</color><br>Aucun autre tirage disponible.
+gama_collabo_05_popup	
+gama_collabo_05_name	
+gama_collabo_05_charatext	
+GiftMessage_023	<flash>Bonus de fin de niveau 11</flash><br>Termine le dernier niveau de<br>Dévoreuse de vérité pour<br>une chance de recevoir Maître de la Logique Newton.
+slot_SNS_005	J’ai gagné %d Miams aux Machines à sous Chat sauvageⅡ de #TheBattleCats !<br><br>#BattleCats
+SpecialRuleExplanation009	【Déplacement uniforme】<br>Toutes les unités alliées et ennemies<br>se déplacent à la même vitesse.
+SpecialRuleExplanation010	【Plus un : Spécial】<br>Les unités spéciales sont automatiquement<br>déployées deux par deux.
+SpecialRuleName009	Déplacement uniforme
+SpecialRuleName010	Plus un : Spécial
+talk_008_push	Reprenons notre discussion sur les renforts.

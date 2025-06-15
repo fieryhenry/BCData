@@ -1,0 +1,179 @@
+			0	22	900	300	1
+		Lo siento. Me ha surgido algo,<br>ya te pediré ayuda en otro momento.<br>¡Quédate con esto por las molestias!	0	22	300	
+1	0	<flash>¡El Ultraconcurso de The Battle Cats!</flash><br>¡Ya ha empezado el Concurso Q3<br>de la base gatuna!	2	
+2	0	¡Este concurso Q3 tiene 10 preguntas!<br>Si las aciertas todas, ¡te llevarás<br>un premio que no te vas a creer!	3	
+3	0	¿Te has traído tu tarjeta<br>y tu pasaporte para participar?<br>¡Venga, que se enfrían las preguntas!	4	
+4	0	Pregunta 1.<br>Este juego se llama<br>The Battle Cats.	5	50
+5	0	¿Seguro que quieres responder ○?<br>¡A ver si<br>has acertado!	6	
+6	0	La respuesta es...	7	
+7	0	...	8	
+8	0	...	9	
+9	0	¡〇!<flash>¡Correcto!</flash><br>¡Sí, se llama The Battle Cats!	10	
+10	0	¡Habría sido una sinvergozonería,<br>digna de borrar el juego,<br>si no hubieras acertado esta!	11	
+11	0	¡A ver, pregunta 2!	12	
+12	0	Pregunta 2.<br>La unidad felina básica puede<br>desplegarse por un coste muy bajo.	13	60
+13	0	¿Has respondido 〇?<br>¡Si respondes al azar tendrás un 50 %<br>de probabilidad de acertar!	14	
+14	0	Que me enrollo. La respuesta es...	15	
+15	0	...	16	
+16	0	¡〇! <flash>¡Correcto!</flash><br>¡La unidad felina básica es una<br>unidad estándar que se puede<br>desplegar por un coste muy bajo!	17	
+17	0	Sin la unidad felina básica,<br>nunca se podría entender del todo<br>la profundidad de The Battle Cats.	18	
+18	0	Es casi un requisito para avanzar.<br>¡Nunca olvidemos lo más básico!	19	
+19	0	¡No te líes!<br>Presta atención. ¡Se viene ya<br>la siguiente pregunta!	20	
+20	0	Pregunta 3.<br>Siempre hablas de The Battle Cats<br>con todo el mundo.	21	70
+21	0	Has elegido 〇, ¿eh?	22	
+22	0	¡No dudes de tu respuesta,<br>que vamos a ver si es correcta!<br>Es...	23	
+23	0	...	24	
+24	0	¡〇!<flash>¡Correcto!</flash><br> ¡Qué bonito que quieras hablar<br>de nosotros con todos tus amigos!	25	
+25	0	¡Uy, que me va a cerrar el súper<br>y yo aquí de cháchara!	26	
+26	0	¡Creo que por hoy ya llega!<br>¡Continuaremos mañana!	27	
+27	16	¡Qué de gangas he encontrado hoy,<br>estoy de tan buen humor que<br>voy a preparar más preguntas!<br>¡Nos vemos!	100	
+50	0	¡Aiiiisss, casi!<br>Respuesta incorrecta.<br>Dale un poco más al coco.	51	
+51	0	La respuesta está literalmente<br>en la pantalla de título.	52	
+52	0	¿Qué clase de juego sería no tendría<br>su nombre escrito bien grande<br>en alguna parte? ¡Prueba otra vez!	4	
+60	0	¿Vas a responder「×」?	61	
+61	0	La unidad felina básica es el<br>primer personaje que se obtiene<br>en The Battle Cats.	62	
+62	0	Cuando uno está empezando en esto<br>de dominar el mundo,<br>es imposible tener muchos ahorros.	63	
+63	0	La unidad felina es asequible<br>y muy útil. No te saldrá<br>por un ojo de la cara.	64	
+64	0	¿Qué te parece? Y lo mejor de todo<br>es que te la puedes desgravar<br>en la declaración de la renta.	65	
+65	0	¡Responde a la pregunta 2 otra vez!	12	
+70	0	¡Siempre hay que levantarse<br>después de un tropezón!<br>¡Prueba otra vez!	71	
+71	0	Las lecciones de la vida adulta...<br>Cuenta con los gatos para enseñarte<br>todo lo que necesitas saber.	72	
+72	0	Piénsate otra vez la respuesta<br>de la pregunta 3 y...	73	
+73	0	da el paso hacia la madurez.	20	
+100	0	Qué siesta me he pegado...<br>¡Regresa el Ultra Concurso de<br>The Battle Cats:<br>«Concurso ○× de la base gatuna»!	101	
+101	0	Ayer nos quedamos en la pregunta 3,<br>así que ahora toca...	102	
+102	0	...	103	
+103	0	¡La pregunta 4! ¡Drama!<br>¡Tanto que no podrás<br>despegar los ojos de la pantalla!	104	
+104	0	¡Prepárate para la pregunta 4!	105	
+105	0	Pregunta 4.<br>Al abrir las puertas correderas de la<br>base gatuna se oye ladrar a un perro.	150	106
+106	0	¿Has pulsado<br>el botón「×」?	107	
+107	0	Aquí a los niños que responden mal<br>no les hacemos repetir curso,<br>no te preocupes.	108	
+108	0	...	109	
+109	0	<flash>¡¡La respuesta es </flash>×!!<br>Como te hayas equivocado en esta,<br>te voy a dejar sin Friskas un mes.	110	
+110	0	Al abrir la puerta de la base<br>se oye maullar a un gato.	111	
+111	0	¡Escuchar tal grito de guerra<br>aumentará las ansias de dominación<br>de tu ejército!	112	
+112	0	¡Nuestra recién adquirida moral nos<br>ayudará con la siguiente pregunta!	113	
+113	0	Pregunta 5. Al activar las<br>notificaciones de The Battle<br>Cats, pasa algo muy bueno.	114	160
+114	0	¿○?<br>¿Vas a responder eso?	115	
+115	0	¿No quieres cambiar la respuesta?	116	
+116	0	Pues que sepas que esta será tu única<br>oportunidad de ganar el premio de<br>1 millón de gatólares.	117	
+117	0	...	118	
+118	0	...	119	
+119	0	...	120	
+120	0	<flash>¡Correcto!</flash>	121	
+121	0	Si te has sabido la respuesta de una<br>pregunta así, ¡está claro que no va a<br>haber premio que se te resista!	122	
+122	0	¡Vamos a motivarnos a tope para<br>la siguiente pregunta! ¡Pregunta 6!	123	
+123	0	¡Pregunta 6! Animar a un amigo<br>para que se descargue The Battle Cats<br>es bueno para la salud.	124	170
+124	0	¿○? Este es un espacio libre<br>de prejuicios, así que si te<br>equivocas no te preocupes.	125	
+125	0	La respuesta es...	126	
+126	0	...	127	
+127	0	¡○! ¡Te llevas la puntuación máxima<br>¡La respuesta más clara<br>y divina posible!	128	
+128	0	Una vez comprobada tu respuesta,<br>tengo que irme a clase de kabaddi.<br>Hace la tira que no voy.	129	
+129	0	Llevo sin salir de casa<br>una buena temporada, así que no sé<br>si no habré perdido algo de fuerza...	130	
+130	0	¡Seguimos mañana! Ya sé que el<br>ejercicio diario es fundamental.<br>Soy consciente de ello.	131	
+131	0	Y, aún así, me cuesta horrores reunir<br>la energía necesaria. Por qué será...<br>Imposible saber la respuesta.	132	
+132	0	El concurso continúa mañana,<br>así que hoy me toca hacer ejercicio<br>para desestresar cuerpo y mente.	133	
+133	16	¡El concurso está ya en un punto<br>de no retorno! ¡Mañana tienes que<br>darlo todo!	200	
+150	0	¿En serio crees que es ○?<br>A ver, una pista...<br>Es la base gatuna,<br>no la base perruna.	151	
+151	0	Toca la manilla de la<br>puerta corredera izquierda.<br>Deslízala a la derecha.	152	
+152	0	¡...!	153	
+153	0	...	154	
+154	0	¿Sabes ya<br>la respuesta a la<br>pregunta 4?	105	
+160	0	Si activas las notificaciones,<br>significa que podrás<br>recibir mensajes nuestros.	161	
+161	0	Algo que te ayudará en<br>tus próximas batallas.	162	
+162	0	No quería que lo supiera<br>nadie, pero supongo que a ti<br>sí puedo contártelo.	163	
+163	0	¿Sabes ya la respuesta<br>a la pregunta 5?	164	
+164	0	A ver si tienes más suerte<br>con otra respuesta.	113	
+170	0	¿Ein? ¿Va en serio?	171	
+171	0	A ver, mira fijamente<br>esta monedita que tengo aquí.	172	
+172	0	Mírala moverse<br>de izquierda a derecha.	173	
+173	0	...	174	
+174	0	¡Quiero que todos tus amigos<br>que no se han descargado<br>The Battle Cats lo prueben!	175	
+175	0	¿Piensas eso?	176	
+176	0	¡Así es como deberías sentirte!<br>¡Y no de ninguna otra manera!	177	
+177	0	¡Intenta responder a la pregunta 6<br>sin que tus sentimientos cambien!	123	
+200	0	Demasiado tiempo sin moverme,<br>qué agujetas... ¡Demos paso al<br>Ultra Concurso de The Battle Cats:<br>«Concurso ○× de la base gatuna»!	201	
+201	0	¡Esta pregunta va a ser más dura que<br>los músculos que tengo ahora<br>mismo! Vamos con la... ¡pregunta 7!	202	
+202	0	Pregunta 7:<br>Todos los que juegan a este juego<br>quieren un tique de platino.	203	250
+203	0	¿○?<br>Así que no eran solo sospechas mías.<br>La respuesta es...	204	
+204	0	...	205	
+205	0	¡○!<br>Llegamos a esta respuesta durante<br>una reunión de la Cumbre Felina.<br>No se admiten objeciones.	206	
+206	0	¡Los tiques de platino<br>garantizan la obtención de<br>una unidad megarrara!	207	
+207	0	Tener unidades más y más fuertes<br>en tu ejército felino te ayudará<br>en tus próximas batallas.	208	
+208	0	¡Y por tiempo limitado, si superas<br>las misiones de aniversario de tiempo<br>limitado obtendrás un tique<br>de platino como recompensa!	209	
+209	0	Ahora sería buen momento para<br>superar Imperio de los Gatos (cap. 1)<br>si es que no lo has hecho ya... 	210	
+210	0	Comprueba tus notificaciones pulsando<br>el botón i que hay en la esquina<br>superior derecha de la base gatuna.	211	
+211	0	¡Ahora va la pregunta 8!	212	
+212	0	Pregunta 8:<br>El Gato Defensor es fuerte contra<br>la guerra psicológica.	260	213
+213	0	¿Has respondido ×?<br>La respuesta es...	214	
+214	0	...	215	
+215	0	¡×!<br>El Gato Defensor tiene defensa alta,<br>por lo que puedes usarlo como escudo.	216	
+216	0	Es como un muro protector,<br>así que tus otros personajes<br>se librarán de los ataques enemigos.	217	
+217	0	¡Los Gatos Defensores también son<br>útiles en el combate directo!<br>¡Son la repanocha!	218	
+218	0	Vamos con la pregunta 9.<br>Si aciertas las próximas preguntas,<br>recibirás un gran premio...	219	
+219	0	Esta es de las difíciles,<br>así que presta atención.	220	
+220	0	Pregunta 9. Me gustaría que<br>algún amigo tuyo probara<br>The Battle Cats. ¿Sería posible?	221	270
+221	0	¿Ein?<br>¿Cómo que no vale como pregunta?<br>A ver, no te lo tomes todo<br>tan en serio...	222	
+222	0	Pero oye, ¿vas a hacer<br>lo que te he pedido?	223	
+223	0	Me gustaría que algún<br>amigo tuyo probara The Battle Cats.	224	
+224	0	Seguro que tienes amigos<br>que nunca han probado el juego o que<br>dejaron de jugar hace tiempo.	228	
+225	0		226	
+226	0		227	
+227	0		228	
+228	0	¡Y por fin estamos en la pregunta 10!	229	
+229	0	...	230	
+230	0	¿Y dónde he metido yo la pregunta?	231	
+231	0	Se me ha debido de extraviar...	232	
+232	0	Es la pregunta más importante,<br>la dejé al lado de mi cama para<br>acordarme de ella antes de salir.	233	
+233	0	Luego la metí en un sobre,<br>y luego en una cajita, y luego<br>la cajita en una bolsa de papel...	234	
+234	0	... y puse la bolsa en mi escritorio.	235	
+235	0	¡Aaaaah! ¡Mecachis!<br>La traigo mañana,<br>¿podrás esperar hasta entonces?	236	
+236	0	Tranqui, que no me olvidaré de traer<br>el premio por responder a todas las<br>preguntas correctamente.	237	
+237	0	¡Nos vemos mañana!<br>¡Y acuérdate de pedirle a un amigo<br>que juegue a The Battle Cats!	238	
+238	0	¡Ya me dirás qué le parece<br>cuando lo haya probado!	239	
+239	16	¡Me lo has prometido, eh!<br>¡Bueno, venga, hasta mañana!	300	
+250	0	¿Eh? ¿Cómo que tú no quieres?	251	
+251	0	Cuando hablé con el Gato Defensor,<br>me dijo que él sí quería.	252	
+252	0	Es más, el Gato Defensor dijo que<br>todo el mundo quería uno.	253	
+253	0	Y lo que dice el Gato Defensor<br>va a misa.<br>La pregunta 7 estaba chupada.	202	
+260	0	Ya, ya sé que por qué piensas<br>que es muy fuerte.	261	
+261	0	La palabra «defensor» de su nombre<br>te hace pensar que es así, ¿verdad?<br>Era una pregunta trampa.	268	
+262	0		263	
+263	0		264	
+264	0		265	
+265	0		266	
+266	0		267	
+267	0		268	
+268	0	Pero de los errores se aprende.<br>¡Ahí va la pregunta 8 otra vez!	212	
+270	0	¡Es la humilde petición de un gato<br>que lleva dando el callo<br>desde hace 9 años!	271	
+271	0	¡Si haces lo que te pido, te daré<br><flash>900 Friskas!</flash><br>¡Así que piénsatelo<br>un poco más, porfaplís!	220	
+300	0	¡Por fin tengo la última pregunta!<br>¡Continúa el Ultra Concurso<br>de The Battle Cats:<br>«Concurso ○× de la base gatuna»!	301	
+301	0	Pero antes de eso, me gustaría<br>preguntarte algo: ¿tus amigos<br>han jugado a The Battle Cats?	302	350
+302	0	¿Te han dicho que les parece<br>un juego muy divertido?	303	351
+303	0	¿Va en serio?	304	352
+304	0	Como sea una broma...	305	353
+305	0	¿Me estás diciendo en serio que<br>han dicho que es muy divertido?	354	306
+306	0	¡Qué chachi!<br>¡Cuánto me alegro de<br>conocer a alguien con<br>tan buenos amigos!	307	
+307	0	¡La pregunta 10 es el<br>culmen de todas las<br>preguntas que he hecho<br>en este examen!	308	
+308	0	Independientemente de que acabe<br>en sonrisas o lágrimas, ¡es el final!<br>Piensa bien antes de<br>responder.	309	
+309	0	Pregunta 10.<br>Los gatos siempre serán<br>bienvenidos en tu corazón.	310	360
+310	0	¡La respuesta final!<br>¡Puedo sentir cómo se te pone<br>la piel de gallina!	311	
+311	0	Esta pregunta decidirá tu sino.<br>La respuesta es...	312	
+312	0		313	
+313	0	○¡<flash>Correcta</flash>!<br>¡Los gatos siempre serán parte<br>de los corazones de todos!	314	
+314	0	¡Felicidades por responder<br>correctamente las preguntas del<br>«Concurso ○× de la base gatuna»!	315	
+315	0	Estoy muy feliz de que te<br>hayas pasado por aquí estos días,<br>que hayas participado en el concurso<br>y que hayas oído mis peticiones.	316	
+316	0	Es genial que tanta<br>gente juegue a The Battle Cats<br>en todo el mundo.	317	
+317	0	Y ahora, para mostrarte mi gratitud<br>por tu gran logro...	318	
+318	0	¡Aquí tienes!<br>¡Un regalito de <flash>900 Friskas</flash>!	319	
+319	0	Aún quedan otros ultraconcursos<br>de Battle Cats.<br>Echa un vistazo a la pestaña<br>de misiones para saber más.	320	
+320	0	¡Si se te dan tan bien<br>puedes conseguir más<br>premios valiosos!	-2	
+350	0	¡Me lo dicen mis bigotes!<br>¡Seguro que juegas<br>otra vez mañana!	355	
+351	0	¡Creo que no me has oído bien!<br>¡Va a ser MUY divertido!	306	
+352	0	¡Creo que no me has oído bien!<br>¡Va a ser MUY divertido!	306	
+353	0	¡Creo que no me has oído bien!<br>¡Va a ser MUY divertido!	306	
+354	0	¡Oye!<br>¡Habla claro!	0	
+355	0	¡Me encanta poder contar<br>con tu maravillosa amistad!	307	
+360	0	Cierra los ojos y<br>despeja tu mente.	361	
+361	0	Cuando lo hago, siento<br>ALGO blanco y redondo<br>en la cabeza.	362	
+362	0	Ponte la mano<br>en el pecho<br>y respira hondo.	309	

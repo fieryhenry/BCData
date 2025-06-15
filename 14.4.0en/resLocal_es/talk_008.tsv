@@ -1,0 +1,84 @@
+			0	22	777	300	0
+		Lo siento. Me ha surgido algo,<br>ya hablaremos otro día.<br>¡Toma un detallito por las molestias!	0	22	300		
+1	0	<flash>¡Solicitud de refuerzos</flash><br>en Rumbo a la Unificación!<br>¡Ya empieza!	2				
+2	0	¿Me harías un favorcillo? <br>¡Te regalaré un botín<br>de <flash>Friskas</flash> a cambio!	3	50			
+3	0	¡¿De verdad?! ¡Gracias!	4				
+4	0	¡El ejército felino está preparándose<br>para la unificación total!	5				
+5	0	Pero nuestra fuerza armada<br>no es suficiente.	6				
+6	0	¡Así que necesitamos<br>que reclutes a tus amigos!	7				
+7	0	Sean o no aficionados al juego,<br>¡los acogeremos<br>con las patas abiertas!	10				
+8	0	The Battle Cats<br>tiene diversión para rato,<br>¡compártela con tus amigos!	9				
+9	0	¿Te has quedado con todo eso?	10	51			
+10	0	¡Espero que se lo cuentes<br>a todos tus amigos!	12				
+11	0	O, mejor aún, ¡invítalos a jugar!	12				
+12	0	¡Reunamos al mejor ejército felino!<br>Pero juntos, ¿eh?<br>Hiciste una promesa gatuna.	13				
+13	0	Tendré preparado tu premio<br>de Friskas para cuando vuelvas.	14				
+14	16	¡Mañana nos vemos!	100				
+50	0	¡Disculpa por ser tan cansino!<br>Vale, ya lo dejo,<br>pero ¡cumple tu promesa!	4				
+51	0	¡Te lo vuelvo a explicar todo!	8				
+100	0	¡Has vuelto!<br>¿Has invitado a tus amigos<br>a unirse al ejército felino?	101	150			
+101	0	¡Qué bien!<br>Sabía que podía contar contigo.	102				
+102	0	¡Sigue con esa chispa<br>e invita a más amigos!	103				
+103	0	¡Te regalaré más Friskas<br>por mantener tu promesa!	104				
+104	0	¡Mira, aquí tienes...!	105				
+105	0	...	106				
+106	0	...	107				
+107	0	¿Eh?... Anda, si no son Friskas.<br>Es un saco de arroz.	108				
+108	0	¡Qué cabeza la mía!<br>¡Cogí sin querer las raciones<br>de arroz del ejército felino!	109				
+109	0	¡Perdona! Me dejé<br>los Friskas en casa.	110				
+110	0	No te pongas triste.<br>Los traigo mañana, ¿vale?	111				
+111	0	¡Me repetiré el recado de camino<br>a casa para no olvidarme!	112				
+112	0	¡No te preocupes!<br>¡Con este trucazo me acordaré seguro!	113				
+113	0	¡Tendré que hacer rollitos<br>de sushi para todos con el arroz!	114				
+114	0	¡Seguro que tienen hambre!<br>¡Vuelvo en un plis plas!	115				
+115	0	¡Aprovecha este ratito<br>para invitar a más amigos!	116				
+116	16	¡Mañana nos vemos!	200				
+150	0	¿Se lo has dicho a tus amigos?	151				
+151	0	¿Me lo prometes otra vez?	152	170			
+152	0	¡Gracias! ¡Cuento contigo!	153				
+153	0	¡Te regalaré más Friskas<br>por mantener tu promesa!	104				
+170	0	¡Y me juego lo que sea<br>a que has llamado a más amigos!	171				
+171	0	Para demostrarte mi confianza en ti,<br>te regalaré más Friskas.	104				
+200	0	¡Gracias por pasarte hoy!	201				
+201	0	¿Has invitado a tus amigos<br>a unirse al ejército felino?	202	250			
+202	0	¡Genial! ¡Amigos como tú hay pocos!	203				
+203	0	¿Qué te han dicho?<br>¿Les ha parecido un planazo?	204	270			
+204	0	¡¿Sí?! ¡Qué emoción!<br>¡Me alegro un montón!	205				
+205	0	¡Siempre estás al pie del cañón<br>cuando te necesitan!	206				
+206	0	Oye,<br>sobre la recompensa de Friskas...	207				
+207	0	...Te los voy a regalar,<br>pero antes necesito otro favorcillo.	208				
+208	0	¿Podrías reclutar a otro amigo?	209				
+209	0	¡Así sería mi amigo número 100!	210				
+210	0	¡Mi sueño es juntar a 100 amigos<br>y atiborrarlos de rollitos de sushi!	211				
+211	0	¡Solo me falta un amigo<br>para cumplir mi sueño!	212				
+212	0	¡Es lo último que te pido!<br>¡Y mañana te regalaré más Friskas!	213				
+213	16	¡Cuento contigo! ¡Mañana nos vemos!	300				
+250	0	Oye, ¿no te habrás olvidado<br>de tu promesa?	251				
+251	0	Dijiste que invitarías a tus amigos<br>a unirse al ejército felino<br>para dominar el mundo.	252				
+252	0	¿De verdad te has olvidado?	260	253			
+253	0	¿Es que solo me estabas<br>siguiendo la corriente?	260	254			
+254	0	Ahora en serio,<br>¿has olvidado tu promesa?	255	260			
+255	0	¡Ah, menos mal!<br>¡Pero vuelve mañana con tu amigo!	256				
+256	0	¡Si unimos fuerzas,<br>el mundo será nuestro!	257				
+257	0	¡Venga, una recompensa de Friskas<br>por invitar a tu amigo!	207				
+260	0	¡Tú! ¡Atiende, que te estoy hablando!	0				
+270	0	...	271				
+271	0	Estoy de bajón,<br>pero no dejaré que me arruine el día.	272				
+272	0	¡The Battle Cats es como comer pipas!	273				
+273	0	¡Una vez que empiezas,<br>ya no puedes parar!	274				
+274	0	¡Espero que le digas a tus amigos<br>lo chulo que es este juego!	275				
+275	0	¡Estoy contentísimo<br>de que hayas invitado a tu amigo!	206				
+300	0	¡Lo prometido es deuda!<br>¡Aquí tienes tus Friskas!	301				
+301	0	¡Es tu recompensa<br>por invitar a tu amigo! ¡Mil gracias!	302				
+302	0	¡El ejército felino está<br>más vivo que nunca!<br>¡Lo da todo noche y día!	303				
+303	0	¡Y he hecho un montón de amigos!	304				
+304	0	¡Estamos a un zarpazo<br>de dominar el mundo!	305				
+305	0	¡No me creo que tengamos el mundo<br>casi en nuestras garras!<br>¡He soñado tanto con ese momento!	306				
+306	0	Nos seguirás hasta el final, ¿verdad?	307	350			
+307	0	¡Genial! ¡Eres mi mejor amigo!<br>¡Dominaremos el mundo juntos!	308				
+308	0	¡Qué bien que me hayas echado<br>un cable estos últimos días!	309				
+309	0	¡Gracias a ti, se ha animado<br>a jugar un montón de gente!	310				
+310	0	¡Y aquí están los Friskas<br>que te prometí!	311				
+311	0	¡Esta vez va en serio!	312				
+312	0	¡Aquí están!<br><flash>¡777 Friskas!</flash><br>¡Toditos para ti!	-2				
+350	0	¿Eh?<br>No sé qué dices.<br>Habla más alto.	306

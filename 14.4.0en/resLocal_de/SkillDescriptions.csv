@@ -1,0 +1,96 @@
+textID|テキスト内容
+1|Erhalte die Fähigkeit: Schwächen<br>Verbesserung gewährt längere Schwächung!
+2|Erhalte die Fähigkeit: Einfrieren<br>Verbesserung gewährt noch längeres Einfrieren!
+3|Erhalte die Fähigkeit: Verlangsamen<br>Verbesserung gewährt noch längere Verlangsamung!
+4|Erhalte die Fähigkeit: Angriff nur gegen
+5|Erhalte die Fähigkeit: Stark
+6|Erhalte die Fähigkeit: Robust gegen
+7|Erhalte die Fähigkeit: Heftiger Schaden
+8|Erhalte die Fähigkeit: Rückstoß<br>Verbesserung gewährt eine höhere Chance auf Rückstoß!
+9|Erhalte die Fähigkeit: Teleport
+10|Erhalte die Fähigkeit: Willensstärke<br>Verbesserung gewährt bei Aktivierung mehr Angriffskraft!
+11|Erhalte die Fähigkeit: Überlebenswille<br>Verbesserung gewährt höhere Chance auf Überlebenswille!
+12|Erhalte die Fähigkeit: Basiszerstörer
+13|Erhalte die Fähigkeit: Haudrauf<br>Verbesserung gewährt höhere Chance auf Haudrauf-Angriffe!
+14|Erhalte die Fähigkeit: Zombietöter
+15|Erhalte die Fähigkeit: Abwehrbrecher<br>Verbesserung erhöht Chance auf Zerstörung von Barrieren.
+16|Erhalte die Fähigkeit: Bonuszahlung
+17|Erhalte die Fähigkeit: Wellenangriff<br>Verbesserung gewährt eine höhere Chance auf Wellenangriff!
+18|Erhalte die Fähigkeit: Schwächen-Resistenz<br>Verbesserung gewährt mehr Widerstandskraft!
+19|Erhalte die Fähigkeit: Einfrieren-Resistenz<br>Verbesserung gewährt mehr Widerstandskraft!
+20|Erhalte die Fähigkeit: Verlangsamen-Resistenz<br>Verbesserung gewährt mehr Widerstandskraft!
+21|Erhalte die Fähigkeit: Rückstoß-Resistenz<br>Verbesserung gewährt mehr Widerstandskraft!
+22|Erhalte die Fähigkeit: Wellen-Resistenz<br>Verbesserung gewährt mehr Widerstandskraft!
+23|Erhalte die Fähigkeit: Immun gegen Wellen
+24|Erhalte die Fähigkeit: Teleport-Resistenz<br>Verbesserung gewährt mehr Widerstandskraft!
+25|Erhalte die Fähigkeit: Immun gegen Flüche
+26|Erhalte die Fähigkeit: Fluch-Resistenz<br>Verbesserung gewährt mehr Widerstandskraft!
+27|Verteidigungskraft der Einheit wird erhöht.<br>Verbesserung gewährt stärkere Verteidigung!
+28|Angriffskraft der Einheit wird erhöht.<br>Verbesserung gewährt stärkeren Angriff!
+29|Tempo der Einheit wird erhöht.<br>Verbesserung gewährt mehr Geschwindigkeit!
+30|Rückstoßchance der Einheit wird erhöht.<br>Verbesserung gewährt höhere Rückstoßchance!
+31|Kosten der Einheit sinken.<br>Verbesserung gewährt weitere Kostensenkungen!
+32|Erholungszeit der Einheit wird verkürzt.<br>Verbesserung gewährt schnellere Erholung!
+33|Feindliches Ziel: Rot wird hinzugefügt.
+34|Feindliches Ziel: Fliegend wird hinzugefügt.
+35|Feindliches Ziel: Schwarz wird hinzugefügt.
+36|Feindliches Ziel: Eisern wird hinzugefügt.
+37|Feindliches Ziel: Engel wird hinzugefügt.
+38|Feindliches Ziel: Alien wird hinzugefügt.
+39|Feindliches Ziel: Zombie wird hinzugefügt.
+40|Feindliches Ziel: Relikt wird hinzugefügt.
+41|Feindliches Ziel: Wertelos wird hinzugefügt.
+42|Verbessere die Fähigkeit: Schwächen<br>Verbesserung gewährt längere Schwächung!
+43|Verbessere die Fähigkeit: Einfrieren<br>Verbesserung gewährt noch längeres Einfrieren!
+44|Verbessere die Fähigkeit: Verlangsamen<br>Verbesserung gewährt noch längere Verlangsamung!
+45|Verbessere die Fähigkeit: Rückstoß<br>Verbesserung gewährt höhere Chance auf Rückstoß!
+46|Verbessere die Fähigkeit: Willensstärke<br>Verbesserung gewährt mehr Angriffskraft!
+47|Verbessere die Fähigkeit: Überlebenswille<br>Verbesserung gewährt höhere Chance auf Überlebenswille!
+48|Verbessere die Fähigkeit: Haudrauf<br>Verbesserung gewährt höhere Chance auf Haudrauf-Angriffe!
+49|Verbessere die Fähigkeit: Abwehrbrecher<br>Verbesserung erhöht Chance auf Zerstörung von Barrieren.
+50|Verbessere die Fähigkeit: Wellenangriff<br>Verbesserung gewährt höhere Chance auf Wellenangriff!
+51|Verbessere die Fähigkeit: Teleport<br>Verbesserung gewährt einen längeren Teleport!
+52|Erhalte die Fähigkeit: Haudrauf
+53|Erhalte die Fähigkeit: Immun gegen Schwächen
+54|Erhalte die Fähigkeit: Immun gegen Einfrieren
+55|Erhalte die Fähigkeit: Immun gegen Verlangsamen
+56|Erhalte die Fähigkeit: Immun gegen Rückstoß
+57|Erhalte die Fähigkeit: Immun gegen Wellen
+58|Erhalte die Fähigkeit: Immun gegen Teleport
+59|Freischaltung der Fähigkeit: Wilder Schlag<br>Verbesserung erhöht Chance auf Wilder-Schlag-Angriffe!
+60|Freischaltung der Fähigkeit: Angriff ausweichen<br>Verbesserung gewährt längere Ausweichen-Effekte!
+61|Verbesserung der Fähigkeit: Wilder Schlag<br>Verbesserung erhöht Chance auf Wilder-Schlag-Angriffe!
+62|Verbesserung der Fähigkeit: Angriff ausweichen<br>Verbesserung gewährt längere Ausweichen-Effekte!
+63|Verbessert die Fähigkeit: Verlangsamen<br>Verbesserung erhöht die Chance auf Verlangsamen!
+64|Freischaltung der Fähigkeit: Gift-Resistenz.<br>Verbesserung verringert Schaden durch Giftangriffe weiter!
+65|Erhalte die Fähigkeit: Immun gegen Gifte.
+66|Freischaltung der Fähigkeit: Zufallsangriff-Resistenz.<br>Verbesserung verringert Schaden d. Zufallsangriffe weiter!
+67|Erhalte die Fähigkeit: Immun gegen Zufallsangriffe.
+68|Freischaltung der Fähigkeit: Zufallsangriff.<br>Verbesserung erhöht Chance auf Zufallsangriffe!
+69|Freischaltung der Fähigkeit: Relikte verlangsamen<br>Verbesserung verlängert die Verlangsamungsdauer!
+70|Freischaltung der Fähigkeit: Reliktschwächung<br>Verbesserung verlängert die Schwächungsdauer!
+71|Freischaltung der Fähigkeit: Aliens schwächen<br>Verbesserung verlängert die Schwächungsdauer!
+72|Freischaltung der Fähigkeit: Eiserne verlangsamen<br>Verbesserung verlängert die Verlangsamungsdauer!
+73|Freischaltung der Fähigkeit: Zombies zurückstoßen<br>Verbesserung gewährt eine höhere Chance auf Rückstoß!
+74|Verbessere die Fähigkeit: Einfrieren<br>Verbesserung erhöht die Chance, Feinde einzufrieren!
+75|Freischaltung der Fähigkeit: Rückstoß (Alien)<br>Verbesserung erhöht Chance auf Rückstoß!
+76|Schaltet die Fähigkeit: „Eiserne Einfrieren“ frei.<br>Verbesserung gewährt noch längeres einfriefren!
+77|Feindliches Ziel: Aku wird hinzugefügt.
+78|Freischaltung der Fähigkeit: „Durchdringend“.<br>Verbesserung erhöht Chance auf durchdringen von Schilden!
+79|Erhalte die Fähigkeit: Seelenstoß
+80|Schaltet die Fähigkeit „Fluch“ frei.<br>Mit jeder Verbesserungen dauern Flüche länger an.
+81|Verstärkt „Angriff ausweichen“-Effekt.<br>Nach Stufenaufstieg wird der Effekt häufiger aktiviert.
+82|Angriffsfrequenz der Einheit wird erhöht.<br>Nach Stufenaufstieg werden Angriffe sogar noch häufiger.
+83|Freischaltung der Fähigkeit: „Mini-Welle“.<br>Stufenerhöhung erhöht Chance auf Mini-Welle!
+84|Freischaltung der Fähigkeit: „Immun gg. Zombies“.<br>Stufenerhöhung erhöht Immunitätszeit!
+85|Schaltet die Fähigkeit „Kolosstöter“ frei.
+86|Schaltet die Fähigkeit „Behemothtöter“ frei.
+87|Schaltet die Fähigkeit: „Wertelosen ausweichen“ frei.<br>Stufenerhöhung erhöht Ausweichzeit!
+88|Freischaltung der Fähigkeit: Angriff ausweichen<br>Verbesserung gewährt längere Ausweichen-Effekte!
+89|Freischaltung der Fähigkeit: „Mini-Zufallsangriff“.<br>Stufenerhöhung erhöht Chance auf Mini-Zufallsangriff!
+90|Freischaltung der Fähigkeit: „Angriff ausweichen (alle)“.<br>Stufenerhöhung erhöht Chance auf Effekt!
+91|Schaltet die Fähigkeit „Behemothtöter“ frei.
+92|Schaltet die Fähigkeit „Stark gegen Relikte“ frei.
+93|Verstärkt Flucheffekte.<br>Erhöhe die Stufe, um die Dauer von Flucheffekten zu erhöhen.
+94|Erhält die Fähigkeit „Explosion“.<br>Aufleveln, um die Chance auf explosive Wellen zu erhöhen!
+95|Freischaltung der Fähigkeit „Eisern ausweichen“.<br>Verbesserung erhöht die Chance auf Ausweichen.

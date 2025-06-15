@@ -1,0 +1,15 @@
+{
+  "MapID": {
+    "11030": {
+      "BonusNameLabel": "BonusNameLabel000",
+      "BonusExplanationLabel": "BonusExplanationLabel000",
+      "BonusType": {
+        "0": {
+          "Parameters": [
+            2500
+          ]
+        }
+      }
+    }
+  }
+}

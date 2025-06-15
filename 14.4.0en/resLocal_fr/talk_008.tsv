@@ -1,0 +1,84 @@
+			0	22	777	300	0
+		Pardon ! Il s’est passé un truc,<br>alors je te redemanderai !<br>Pour te remercier de ton aide,<br>je t’offre ça !	0	22	300		
+1	0	<flash>Demande de renforts</flash><br>sur la Route de l’Unification !<br>Commencement immédiat !	2				
+2	0	Tu veux bien écouter la requête<br>d’un Chat ? Si tu acceptes, tu auras<br>une grosse récompense<br>de <flash>Miam</flash> !	3	50			
+3	0	Vraiment ?<br>Merci !	4				
+4	0	L’Armée des Chats travaille<br>actuellement à une<br>unification totale !	5				
+5	0	Mais il n’y a pas assez<br>de troupes pour<br>que cela arrive.	6				
+6	0	Voilà pourquoi j’aimerais<br>que tu recrutes tes amis !	7				
+7	0	Si tu as des amis qui n’ont jamais<br>joué ou qui jouaient avant,<br>ils sont les bienvenus !	10				
+8	0	The Battle Cats sera là pendant<br>encore longtemps, alors profites-en<br>pour t’y amuser avec tes amis !	9				
+9	0	Tu as tout compris ?	10	51			
+10	0	J’espère que tu en<br>parleras à tous tes amis !	12				
+11	0	N'hésite pas à parler du jeu<br>à tes amis !	12				
+12	0	Ensemble, gonflons les rangs de<br>l’Armée des Chats ! Après tout,<br>tu as fait une promesse à un Chat !	13				
+13	0	J’aurai ta récompense de Miam<br>demain, alors reviens me voir !	14				
+14	16	À demain !	100				
+50	0	Désolé pour le ton hautain !<br>Je vais arrêter de parler de<br>façon aussi chic, alors<br>écoute ma requête !	4				
+51	0	Je vais t’expliquer tout ça<br>une fois de plus !	8				
+100	0	Tu es de retour !<br>Est-ce que tu as parlé à tes amis<br>de l’Armée des Chats ?	101	150			
+101	0	Vraiment ?!<br>Je suis content de pouvoir<br>compter sur toi !	102				
+102	0	J’aimerais que tu continues sur<br>ta lancée et que tu invites<br>encore plus d’amis !	103				
+103	0	Je te donnerai cette récompense<br>de Miam si tu tiens la promesse<br>que tu m’as faite !	104				
+104	0	Eh bien, tiens... !	105				
+105	0	...	106				
+106	0	...	107				
+107	0	Euh... Ce ne sont pas des Miam.<br>C’est un sac de riz.	108				
+108	0	Oh, mince alors !<br>J’ai dû malencontreusement<br>prendre les rations de riz<br>destinées à l’Armée des Chats !	109				
+109	0	Désolé ! J’ai oublié<br>les Miam à la maison !	110				
+110	0	Ne sois pas triste.<br>Je les amènerai demain,<br>promis juré. D’accord ?	111				
+111	0	Je me le murmurerai à moi-même<br>sur le chemin de la maison pour<br>être sûr de ne pas oublier !	112				
+112	0	Ne t’en fais pas !<br>Je n’oublie jamais rien quand<br>je fais ça, c’est infaillible !	113				
+113	0	Bon, je crois que je ferais mieux<br>de prendre ce riz et de préparer<br>des onigiri pour tout le monde !	114				
+114	0	Ils doivent avoir faim !<br>Je reviendrai vite !	115				
+115	0	Mais j’aimerais beaucoup que tu<br>parles à d’autres de tes amis,<br>en attendant !	116				
+116	16	Allez, à demain !	200				
+150	0	N’oublie pas de parler à tes amis !	151				
+151	0	Tu veux bien me le<br>promettre encore une fois ?	152	170			
+152	0	Merci !<br>Je te fais confiance !	153				
+153	0	Je te donnerai une récompense<br>de Miam pour avoir fait<br>cette promesse !	104				
+170	0	Et je parie que tu vas vraiment<br>ramener des amis aussi !	171				
+171	0	Je te fais confiance, et je te<br>donnerai des Miam pour te<br>le prouver !	104				
+200	0	Merci de ta présence aujourd’hui !	201				
+201	0	Est-ce que tu as invité<br>tes amis à rejoindre<br>l’Armée des Chats ?	202	250			
+202	0	C’est super, ça !<br>Tout le monde devrait avoir<br>des amis comme toi !	203				
+203	0	Est-ce qu’ils ont dit que<br>ce serait amusant ? Comment<br>ça s’est passé ?	204	270			
+204	0	Je suis ému !<br>Je suis content que<br>ça ait plu à tes amis !	205				
+205	0	Quand on te demande quelque<br>chose, tu assures toujours !	206				
+206	0	Maintenant, voyons voir<br>ta récompense de Miam...	207				
+207	0	... ou c’est ce que je veux<br>te donner, mais j’ai<br>quelque chose à te dire.	208				
+208	0	J’aimerais en fait que<br>tu invites un autre ami !	209				
+209	0	Si tu le fais, j’aurai<br>pile 100 amis !	210				
+210	0	Mon rêve, c’est de préparer<br>une montagne d’onigiri pour<br>un groupe de 100 amis !	211				
+211	0	Tout ce qu’il me faut,<br>c’est un autre ami pour faire<br>de ce rêve une réalité !	212				
+212	0	C’est ma dernière requête !<br>Je t’apporterai la récompense<br>de Miam demain après ça,<br>c’est promis !	213				
+213	16	Je compte sur toi !<br>Allez, à demain !	300				
+250	0	Oh... tu as oublié ta promesse... ?	251				
+251	0	Tu m’avais promis que tu enrôlerais<br>tes amis dans l’Armée des Chats<br>pour viser la domination mondiale.	252				
+252	0	Tu as vraiment oublié ?	260	253			
+253	0	Tu ne faisais que suivre le mouvement<br>jusqu’à présent ?	260	254			
+254	0	Tu te rappelles vraiment<br>ta promesse ?	255	260			
+255	0	Eh bien, je te crois !<br>Mais je veux te voir demain<br>ici avec ton ami !	256				
+256	0	La domination mondiale<br>n’est possible que si<br>nous travaillons ensemble !	257				
+257	0	J’espère bien que tu inviteras<br>ton ami, alors voici<br>ta récompense de Miam !	207				
+260	0	Hé, écoute ce que j’ai à dire !	0				
+270	0	...	271				
+271	0	Je suis triste... mais je ne compte<br>pas me laisser abattre !	272				
+272	0	The Battle Cats, c’est<br>comme la viande séchée.	273				
+273	0	Comme la viande séchée,<br>plus on mâche et plus ça<br>a du goût, et plus on joue,<br>meilleur est le jeu !	274				
+274	0	Alors j’espère que tu diras<br>à tes amis comme ce jeu<br>est amusant !	275				
+275	0	Mais je suis content que<br>tu aies invité un ami !	206				
+300	0	Tu as réussi !<br>Et j’ai ta récompense<br>de Miam juste ici !	301				
+301	0	C’est un cadeau pour<br>avoir invité ton ami.<br>Merci du fond du cœur !	302				
+302	0	L’Armée des Chats est tellement<br>pleine de vie en ce moment !<br>Active du matin au soir !	303				
+303	0	Et je me suis fait tant<br>de nouveaux amis !	304				
+304	0	Si on continue comme ça,<br>la domination mondiale<br>sera à notre portée !	305				
+305	0	Je n’arrive pas à croire que le monde<br>soit presque à nous ! J’ai<br>tant rêvé de ce moment !	306				
+306	0	Tu resteras avec nous<br>jusqu’à la fin, pas vrai ?	307	350			
+307	0	Super ! Tu es maintenant mon<br>meilleur ami ! Nous règnerons<br>ensemble sur le monde !	308				
+308	0	Je suis content que tu<br>aies écouté mes requêtes<br>ces derniers jours !	309				
+309	0	Tellement de gens ont commencé<br>à jouer parce que tu leur<br>as demandé !	310				
+310	0	Et maintenant, voici<br>ta récompense de Miam<br>tant attendue !	311				
+311	0	Je suis VRAIMENT<br>sérieux cette fois !	312				
+312	0	Et voilà !<br><flash>777 Miam !</flash><br>Rien que pour toi !	-2				
+350	0	Hm ?<br>Je n’ai rien entendu.<br>Je vais te redemander.	306
