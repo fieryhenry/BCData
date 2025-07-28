@@ -1,0 +1,98 @@
+【Red Enemy】|＠
+【Floating Enemy】|＠
+【Black Enemy】|＠
+【Metal Enemy】|＠
+【Angel Enemy】|＠
+【Alien Enemy】|＠
+【Zombie Enemy】|＠
+【Relic Enemy】|＠
+【Aku Enemy】|＠
+【Traitless Enemy】|＠
+【Colossus】|＠
+【Behemoth】|＠
+【Sage】|＠
+【Witch】|＠
+【Eva Angel】|＠
+【Weaken】|Targeted Cats will have their |attack power reduced for a set period.|＠
+【Strengthen】|After their health falls below a set amount,|this enemy's attacks grow much stronger.|＠
+【Freeze】|Targeted Cats become unable to move temporarily.|＠
+【Slow】|Movement speed of Targeted Cats is temporarily reduced.|＠
+【Survive】|After their health falls below zero, this|enemy may heal itself by a small amount.|＠
+【Base Destroyer】|This enemy's attack damage inflicted|on the Cat Base is greatly increased.|＠
+【Critical】|This enemy's attacks have a set chance to|inflict increased damage, and ignore Metal|Cats' protection against standard damage.|＠
+＠
+＠
+＠
+＠
+＠
+【Knockback】|Attacks have a chance to push back Cat units.|＠
+【Wave Attack】|Attacks strike all Cat units in range, with|wave energy delivering extra damage.|＠
+＠
+【Immune to Waves】|This enemy does not suffer|damage from Wave attacks.|＠
+【Area Attack】|All Cat Units within the enemy's set attack |field take damage from its strikes.|＠
+【Long Distance】|Enemy attacks strike Cat units at long|distance, but may miss units at closer range.|＠
+【Immune to Weaken】|Cat unit attacks will not Weaken|the attacks of this enemy.|＠
+【Immune to Freeze】|Cat unit attacks will not Freeze|the movement of this enemy.|＠
+【Immune to Slow】|Cat unit attacks will not Slow the|movement of this enemy.|＠
+【Immune to Knockback】|Cat unit attacks will not cause this|enemy to be Knocked back.|＠
+【Single Attack】|Only one Cat Unit within range|will be hit by this enemy's attacks.|＠
+＠
+＠
+＠
+＠
+【Immune to Warp】|Cat Unit Warp abilities do|not affect this enemy.|＠
+【Omni Strike】|Enemy attacks Cat Units both ahead|and behind Enemy in a wide area.|＠
+＠
+【Immune to Curse】|Cat Unit Curse abilities do|not affect this enemy.|＠
+【Warp】|Cat units struck by enemy attacks may be Warped.|＠|＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+【Savage Blow】|Set chance to increase attack damage greatly.|＠
+【Dodge Attack】|Temporarily avoids all damage from|attacks from the target Cat Unit type.|＠
+【Surge Attack】|Successful attacks deal extra damage|to random sections of their attack area.|＠
+＠
+【Curse】|Cat unit cannot inflict negative|status effects for a short time.|＠
+【Immune to Surge】|This enemy does not take damage|from Cat units' Surge attacks.|＠
+【Mini-Wave】|Successful attacks may deliver extra damage|to Cats within range as a small Wave strike.|＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+＠
+【Mini-Surge】|Successful attacks release a small Surge that|delivers extra damage to a random point.|＠
+【Counter-Surge】|When struck by Cat's Surge Attack, this enemy|strikes back with a Surge Attack of its own.|＠
+＠
+＠
+＠
+【Immune to Damage】|This enemy does not take attack damage.|＠
+【Toxic】|Deals damage to a Cat unit relative to its max health.|＠
+【Death Surge】|This enemy may unleash a|Surge attack upon death.|＠
+【Barrier】|Creates a Barrier preventing attack damage and|effects. Destroyed with Barrier Breaker or damage.|＠
+【Aku Shield】|Creates a Shield preventing attack|damage and effects. Destroyed with |Shield Piercing or damage.|＠
+【Explosion】|Unleashes a damaging explosion which spreads|to the left and right of a successful attack.|＠
+【Immune to Explosions】|Does not take damage from |the Explosion effect of attacks.|＠

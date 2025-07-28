@@ -1,0 +1,1208 @@
+{
+  "MapSet": {
+    "2008": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 24,
+      "FusumaOpenOffsetY": 509,
+      "FusumaImgPNG": "img009_C_008.png",
+      "FusumaImgIMGCUT": "img009_Event01.imgcut",
+      "BannerImgPNG": "event_bnr_C_008.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2013": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_013.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_013.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2021": {
+      "eventWeight": 2,
+      "priority": 1,
+      "FusumaOpenOffsetX": 24,
+      "FusumaOpenOffsetY": 509,
+      "FusumaImgPNG": "img009_C_021.png",
+      "FusumaImgIMGCUT": "img009_Event01.imgcut",
+      "BannerImgPNG": "event_bnr_C_021.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2024": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_024.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_024.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2029": {
+      "FusumaSE": [
+        56
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_029.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_029.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 100,
+      "NekoBageImg": "C_029"
+    },
+    "2173": {
+      "eventWeight": 1,
+      "priority": 2,
+      "FusumaSE": [
+        -1
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_031.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_031.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 100,
+      "NekoBageImg": "C_031",
+      "TitleImgBG": "_C_031",
+      "TitleImgLogo": "_C_031",
+      "PercentTitle": 50
+    },
+    "2038": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_038.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2041": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_041.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_041.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2049": {
+      "FusumaSE": [
+        63
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_049.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_049.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 100,
+      "NekoBageImg": "C_049"
+    },
+    "2052": {
+      "priority": 1,
+      "FusumaSE": [
+        -1
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_052.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_052.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 100,
+      "NekoBageImg": "C_052"
+    },
+    "1156": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_156.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_156",
+      "TitleImgLogo": "_S_156",
+      "PercentTitle": 100
+    },
+    "2058": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_058.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_058.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 100,
+      "NekoBageImg": "C_058"
+    },
+    "2064": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_064.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2069": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_069.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_069.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 100,
+      "NekoBageImg": "C_069"
+    },
+    "2079": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_079.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "1183": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_183.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_183",
+      "TitleImgLogo": "_S_183",
+      "PercentTitle": 100
+    },
+    "2088": {
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_011.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_011.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "C_088"
+    },
+    "2039": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_039.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2091": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_091.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2092": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_092.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_092.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "C_092"
+    },
+    "2166": {
+      "eventWeight": 2,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_013.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_013.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2169": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_013.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_013.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageBgm": 121
+    },
+    "2103": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_103.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "SelectStageImg": "C_103",
+      "SelectStageImgReverse": 1
+    },
+    "2104": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_103",
+      "SelectStageImgReverse": 1
+    },
+    "2105": {
+      "eventWeight": 1,
+      "priority": 2,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_105.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "1216": {
+      "eventWeight": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_216.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_216",
+      "TitleImgLogo": "_S_216",
+      "PercentTitle": 100
+    },
+    "24012": {
+      "FusumaSE": [
+        -1
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "NekoBageImg": "A_012"
+    },
+    "1225": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_225.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut"
+    },
+    "2126": {
+      "eventWeight": 2,
+      "priority": 2,
+      "PopUpGetSE": 116,
+      "FusumaSE": [
+        114,
+        114,
+        114,
+        114,
+        114,
+        114,
+        114,
+        114,
+        114,
+        115
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_126.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_126.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "C_126",
+      "NekoBageBgm": 113
+    },
+    "1244": {
+      "eventWeight": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_216.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_244",
+      "TitleImgLogo": "_S_244",
+      "PercentTitle": 100
+    },
+    "2135": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaSE": [
+        92,
+        93,
+        94,
+        95,
+        96
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_107.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_107.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "C_107",
+      "NekoBageBgm": 91,
+      "TitleImgBG": "_C_107",
+      "TitleImgLogo": "_C_107",
+      "PercentTitle": 50,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2136": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2137": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2138": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2139": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2140": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2141": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2142": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2143": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2144": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2145": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2146": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2147": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2148": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2149": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2150": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2151": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2152": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2153": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2154": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2155": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2156": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2157": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2158": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2159": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2160": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2161": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2162": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "11018": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BattleStartSE": 105,
+      "BattleFinishWinSE": [
+        57
+      ],
+      "BattleFinishLoseSE": [
+        57
+      ]
+    },
+    "2165": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458
+    },
+    "2164": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaSE": [
+        -1
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_164.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_164.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 100,
+      "NekoBageImg": "C_164"
+    },
+    "24019": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaSE": [
+        134
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "NekoBageImg": "A_019"
+    },
+    "1260": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_260.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_S_260.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "S_260"
+    },
+    "1282": {
+      "eventWeight": 2,
+      "priority": 2,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_282.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_282",
+      "TitleImgLogo": "_S_282",
+      "PercentTitle": 100,
+      "SelectStageImg": "S_282",
+      "SelectStageImgReverse": 1
+    },
+    "1283": {
+      "eventWeight": 2,
+      "priority": 2,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_282.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_282",
+      "TitleImgLogo": "_S_282",
+      "PercentTitle": 100,
+      "SelectStageImg": "S_282",
+      "SelectStageImgReverse": 1
+    },
+    "2183": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_183.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2184": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_183.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "24041": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_A_041.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "A_041"
+    },
+    "24048": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_A_048.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_A_048.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "A_048"
+    },
+    "24052": {
+      "eventWeight": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_A_052.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "A_052"
+    },
+    "1293": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_293.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut"
+    },
+    "1320": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_320.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_320"
+    },
+    "2186": {
+      "eventWeight": 2,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_186.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_186.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 40,
+      "NekoBageImg": "C_186"
+    },
+    "2189": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2190": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2191": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2192": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2193": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "C_107",
+      "SelectStageImgReverse": 1,
+      "BattleStartSE": 105,
+      "BattleFinishWinSEtype": 1,
+      "BattleFinishWinSE": [
+        106,
+        8
+      ],
+      "BattleFinishLoseSEtype": 1,
+      "BattleFinishLoseSE": [
+        106,
+        9
+      ]
+    },
+    "2187": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_186.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_186.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 40
+    },
+    "1324": {
+      "eventWeight": 1,
+      "priority": 2,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_324.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_324",
+      "TitleImgLogo": "_S_324",
+      "PercentTitle": 100,
+      "SelectStageImg": "S_324",
+      "SelectStageImgReverse": 1
+    },
+    "24057": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "S_324",
+      "SelectStageImgReverse": 1
+    },
+    "1322": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "S_324",
+      "SelectStageImgReverse": 1
+    },
+    "1323": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "SelectStageImg": "S_324",
+      "SelectStageImgReverse": 1
+    },
+    "1303": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_A_048.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_A_048.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "A_048"
+    },
+    "1129": {
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_129.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_129"
+    },
+    "1154": {
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_154.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut"
+    },
+    "2001": {
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "BannerImgPNG": "event_bnr_C_001.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50
+    },
+    "2214": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaSE": [
+        -1
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_214.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_214.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 100,
+      "NekoBageImg": "C_214"
+    },
+    "2216": {
+      "priority": 1,
+      "FusumaSE": [
+        -1
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_216.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_216.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "C_216"
+    },
+    "2174": {
+      "eventWeight": 1,
+      "priority": 2,
+      "FusumaSE": [
+        -1
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_031.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "TitleImgBG": "_C_031",
+      "TitleImgLogo": "_C_031",
+      "PercentTitle": 50
+    },
+    "1396": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_396.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_396",
+      "TitleImgBG": "_",
+      "TitleImgLogo": "_"
+    },
+    "2223": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaSE": [
+        -1
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_223.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_223.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "C_223"
+    },
+    "2224": {
+      "eventWeight": 1,
+      "priority": 1,
+      "FusumaSE": [
+        -1
+      ],
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_C_224.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "BannerImgPNG": "event_bnr_C_224.png",
+      "BannerImgIMGCUT": "event_bnr00.imgcut",
+      "PercentBanner": 50,
+      "NekoBageImg": "C_224",
+      "TitleImgBG": "_",
+      "TitleImgLogo": "_"
+    }
+  }
+}

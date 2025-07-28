@@ -1,0 +1,1641 @@
+item_pack_name_0	購買了 應援優惠活動！超值貓罐頭禮包
+item_pack_name_1	購買了 應援優惠活動！超划算貓罐頭禮包
+item_pack_name_2	購買了 應援優惠活動！無敵划算貓罐頭禮包
+item_pack_name_3	購買了 限定優惠組！貓罐頭禮包(梅)
+item_pack_name_4	購買了 限定優惠組！貓罐頭禮包(竹)
+item_pack_name_5	購買了 限定優惠組！貓罐頭禮包(松)
+item_pack_name_6	購買了 期間限定！稀有券
+item_pack_name_7	購買了 期間限定！白金券
+item_pack_name_11	購買了 新手應援白金券禮包！
+item_pack_name_12	
+item_pack_name_13	「戽斗獅子」貓罐頭禮包
+item_pack_name_14	「戽斗老虎」貓罐頭禮包
+item_pack_name_15	「戽斗熊貓」貓罐頭禮包
+item_pack_name_17	大感謝禮包
+item_pack_name_18	超限定特價！超梅貓罐頭禮包
+item_pack_name_19	超限定特價！超竹貓罐頭禮包
+item_pack_name_20	超限定特價！超松貓罐頭禮包
+item_pack_purchased_title	<flash>%@</flash><br>
+item_pack_purchased_item	%@ %d個 → <color=255,255,0>%d個</color><br>
+item_pack_purchased_xp	%@ %dXP → <color=255,255,0>%dXP</color><br>
+item_pack_purchased_ticket	%@ %d張 → <color=255,255,0>%d張</color><br>
+battle_result_first_clear_bonus	<color=255,255,0>初次過關獎勵</color><br>獲得貓罐頭<flash>30個！！</flash><br>同時再獲得<flash>首領旗1面！！</flash>
+user_rank_gift_1600_catseye_unlocked	<flash>等級上限解放！</flash><br>現在可以使用貓眼石<br>來解放角色的等級上限了
+user_rank_popup_title1	<color=255,255,0>等級排行任務</color><br>
+user_rank_popup_title2	<flash>到達等級排行%d</flash><br>
+user_rank_popup_title3	<color=255,255,0>到達等級排行${rankNum}！</color><br>要領取達成報酬嗎？
+user_rank_full_recovery_energy	同時再獲得<flash>首領旗1面！！</flash>
+data_upload_error_catfood_20000	偵測到數據異常無法保存紀錄！請您與客服中心聯絡。
+energy_connecting	資料更新中・・・
+energy_connection_failed1	統率力數據取得失敗
+energy_connection_failed2	請於連線環境良好處重新啟動遊戲。
+energy_fraud1	您的裝置時間可能有遭更改
+energy_fraud2	統率力會暫時停止回復
+gamatoto_connection	資料更新中・・・
+gamatoto_connection_failed	探險剩餘時間取得失敗。請於連線環境良好處重新啟動遊戲。
+gamatoto_fraud	您的裝置時間可能有遭更改，探險時間會暫時停止倒數。
+reset_item_reward	<color=255,255,0>重置獎勵！</color><br>獲得獎勵的記錄已重置。<br>可以重新取得。
+reset_tower_state	<color=255,255,0>重置獎勵與過關紀錄！</color><br>獲得獎勵與過關紀錄<br>的記錄已重置。
+reward_energy	統率力回復的大好機會！<br>要看影片回復%d統率力嗎？</flash>
+receive_energy	已回復%d統率力。
+receive_energy_full	統率力已全部回復。
+network_unavailable_energy	因連線錯誤\n無法回復統率力
+network_unavailable_gamatoto	因連線錯誤\n無法取得貓罐頭
+001_img044.png	i001_img044_tw.png
+001_img044.imgcut	i001_img044_tw.imgcut
+001_img045.png	i001_img045_tw.png
+001_img045.imgcut	i001_img045_tw.imgcut
+021_e.png	i021_e_tw.png
+021_e.imgcut	i021_e_tw.imgcut
+slot_copy_select	可以複製出陣列表%d<br>要複製，或者置換嗎？
+slot_copy	已經複製出陣列表%d<br>請移到欲置換的列表中<br>選擇「置換」
+slot_paste	置換為出陣列表%d<br>確定嗎？
+slot_remove	從出陣列表中移除多位角色
+remove_error	<color=255,255,0>無法從列表中移除此角色</color>
+instant_koyashi	到達等級上限即可<br>以５個藍色珠珠交換１張稀有券<br>確定使用藍色珠珠嗎？<br>（尚須%d個）
+storage_koyashi	使用全部已到達等級上限的<br>藍色珠珠<br>確定嗎？<br>
+have_koyashi	可以使用的藍色珠珠，現有%d個
+tutorial_favoriteUnit	只要點選「☆」<br>就可以在我的最愛角色和<br>全角色表示之間切換唷！
+tutorial_favoriteUnit_pictureBook1	<color=255,255,0>設定我的最愛 其1</color><br>點選想設定為我的最愛角色<br>最後再選擇「☆設定完畢」<br>就完成設定了唷！
+tutorial_favoriteUnit_pictureBook2	<color=255,255,0>設定我的最愛 其2</color><br>進入升級等畫面後選擇篩選<br>勾選我的最愛角色後<br>就會顯示勾選中的角色唷！
+everyplay_not_supported	不支援您的裝置
+everyplay_no_related_videos	無符合的相關影片
+cat_challenge01	<flash>歡迎來到貓咪道場！</flash><br>打倒敵人就可以獲得積分的挑戰關卡！<br>不斷挑戰，看看最高能得到幾分吧！<br>※即使打倒敵人也無法獲得金錢唷※
+data_download_error_catfood_20000	偵測到數據異常，無法繼承資料！請您與客服中心聯絡。
+cat_challenge_item	在貓咪道場中可以無限使用<br>「加速」跟「貓型電腦」喵！<br>※速度加強至3倍時需消費道具。
+zombie_clear00	<flash>從不死生物手中救回了${stageName}！</flash><br>恭喜獲得貓罐頭10個！
+zombie_clear01	<flash>從不死生物手中救回了一個區域！</flash><br>%@區域的寶物發掘效率提高中！
+zombie_clear02	<flash>從不死生物手中救回了世界全區域！</flash><br>統率力最大值提高${EnergyNum}！
+zombie_clear03	<flash>特定關卡的寶物發掘效率提高中！</flash><br>對象請確認寶物清單！
+zombie_clear04	<flash>從不死生物手中救回了未來全區域！</flash><br>統率力最大值提高${EnergyNum}！
+zombie_clear05	<flash>從不死生物手中救回了宇宙全區域！</flash><br>統率力最大值提高${EnergyNum}！
+zombie_area_00	台灣～日本
+zombie_area_01	澳大利亞～印度
+zombie_area_02	尼泊爾～馬達加斯加
+zombie_area_03	南非～希臘
+zombie_area_04	義大利～德國
+zombie_area_05	法國～丹麥
+zombie_area_06	挪威～格陵蘭島
+zombie_area_07	加拿大～阿根廷
+zombie_area_08	馬丘比丘～好萊塢
+zombie_area_09	阿拉斯加
+zombie_area_10	夏威夷・月球
+receivedBoxText	※發送日期已經超過30天的物品將被自動刪除。
+receive_version_error	更新APP至最新版<br>才可以領取。
+receive_network_error	通訊失敗<br>無法取得物品。
+receive_honor_popup	<flash>%s</flash>
+receive_item_popup	%s +%d
+receive_item_popup_xp	%s +%d
+receive_item_popup_chara	貓咪角色「%s」
+receive_item_popup_chara_evolve	角色「%s」的第3進化。
+receive_item_popup_last	已收取
+zombie_treasure	從不死生物手中救回了一個區域！<br>%@區域的寶物發掘效率提高中！
+zombie_treasure01	從不死生物手中救回了本畫面中的全關卡！<br>本畫面全關卡的寶物發掘效率提高中！
+receive_list_network_error	通訊失敗<br>無法顯示。
+receive_item_none_popup	貓咪信箱中<br>沒有任何物品。
+serial_error_popup	您無法取得物品。<br>請向客服中心聯絡。<br>
+ponos_games_url	https://ponos.s3.amazonaws.com/iphone/tw/battlecats.html
+zombie_comp	從不死生物手中救回了一個區域！<br>%@區域的寶物發掘效率提高中！<br>從不死生物手中救回了全世界！<br>統率力的最大值獲得提升！
+zombie_comp01	從不死生物手中救回了本畫面中的全關卡！<br>本畫面全關卡的寶物發掘效率提高中！<br>從不死生物手中救回了全世界！<br>統率力的最大值獲得提升！
+zombie_comp02	從不死生物手中救回了本畫面中的全關卡！<br>本畫面全關卡的寶物發掘效率提高中！<br>從不死生物手中救回了全宇宙！
+Space09_Invasion_stageclear_txt1	<flash>從謎之生命體手中救回了宇宙！</flash><br>恭喜獲得<br>EX角色「議事阻撓貓X」！<br>可以在升級畫面中取得。
+maxcollab_mg	現在非合作期間內，無法取得合作角色。
+maxcollab_popup	<flash>得到EX角色「%@」！</flash><br>可以在升級畫面中取得。
+slot_set_error	<color=255,255,0>請設定出陣列表的角色！</color>
+shop_category1	戰鬥道具
+shop_category2	經驗值
+shop_category3	加碼多多探險隊
+collabo_send_message	獲得可以在「%@」使用的特典。<br>確定要開啟「%@」嗎？
+collabo_send_title_0	
+collabo_send_scheme_0	
+collabo_send_url_0	
+collabo_send_url_android_0	
+collabo_send_title_1	
+collabo_send_scheme_1	
+collabo_send_url_1	
+collabo_send_url_android_1	
+collabo_send_title_2	
+collabo_send_scheme_2	
+collabo_send_url_2	
+collabo_send_url_android_2	
+collabo_send_title_3	
+collabo_send_scheme_3	
+collabo_send_url_3	
+collabo_send_url_android_3	
+collabo_send_title_4	
+collabo_send_scheme_4	
+collabo_send_url_4	
+collabo_send_url_android_4	
+collabo_send_title_5	
+collabo_send_scheme_5	
+collabo_send_url_5	
+collabo_send_url_android_5	
+collabo_send_title_14	
+collabo_send_scheme_14	
+collabo_send_url_14	
+collabo_send_url_android_14	
+collabo_send_title_17	
+collabo_send_scheme_17	
+collabo_send_url_17	
+collabo_send_url_android_17	
+collabo_send_title_23	
+collabo_send_scheme_23	
+collabo_send_url_23	
+collabo_send_url_android_23	
+collabo_send_title_24	
+collabo_send_scheme_24	
+collabo_send_url_24	
+collabo_send_url_android_24	
+collabo_send_title_25	
+collabo_send_scheme_25	
+collabo_send_url_25	
+collabo_send_url_android_25	
+collabo_send_title_26	
+collabo_send_scheme_26	
+collabo_send_url_26	
+collabo_send_url_android_26	
+collabo_send_title_27	
+collabo_send_scheme_27	
+collabo_send_url_27	
+collabo_send_url_android_27	
+collabo_send_title_6	
+collabo_send_scheme_6	
+collabo_send_url_6	
+collabo_send_url_android_6	
+collabo_send_title_15	
+collabo_send_scheme_15	
+collabo_send_url_15	
+collabo_send_url_android_15	
+collabo_send_title_16	
+collabo_send_scheme_16	
+collabo_send_url_16	
+collabo_send_url_android_16	
+collabo_send_title_18	
+collabo_send_scheme_18	
+collabo_send_url_18	
+collabo_send_url_android_18	
+collabo_send_title_19	
+collabo_send_scheme_19	
+collabo_send_url_19	
+collabo_send_url_android_19	
+collabo_send_title_20	
+collabo_send_scheme_20	
+collabo_send_url_20	
+collabo_send_url_android_20	
+collabo_send_title_7	
+collabo_send_scheme_7	
+collabo_send_url_7	
+collabo_send_url_android_7	
+collabo_send_title_8	
+collabo_send_scheme_8	
+collabo_send_url_8	
+collabo_send_url_android_8	
+collabo_send_title_9	
+collabo_send_scheme_9	
+collabo_send_url_9	
+collabo_send_url_android_9	
+collabo_send_title_10	
+collabo_send_scheme_10	
+collabo_send_url_10	
+collabo_send_url_android_10	
+collabo_send_title_11	
+collabo_send_scheme_11	
+collabo_send_url_11	
+collabo_send_url_android_11	
+collabo_send_title_12	Crash Fever
+collabo_send_scheme_12	tw.wonderplanet.crashfever://Nyanko?code=001
+collabo_send_url_12	https://itunes.apple.com/tw/app/crash-fever/id1112108921
+collabo_send_url_android_12	https://play.google.com/store/apps/details?id=tw.wonderplanet.CrashFever
+collabo_send_title_13	Crash Fever
+collabo_send_scheme_13	tw.wonderplanet.crashfever://Nyanko?code=002
+collabo_send_url_13	https://itunes.apple.com/tw/app/crash-fever/id1112108921
+collabo_send_url_android_13	https://play.google.com/store/apps/details?id=tw.wonderplanet.CrashFever
+collabo_send_title_21	
+collabo_send_scheme_21	
+collabo_send_url_21	
+collabo_send_url_android_21	
+collabo_send_title_22	
+collabo_send_scheme_22	
+collabo_send_url_22	
+collabo_send_url_android_22	
+scheme_item_param_3	
+scheme_popup_3	<flash>得到EX角色「%@」！</flash>
+scheme_popup_3_option	<flash>得到EX角色「%@」！</flash><br>可以在升級畫面中取得。
+scheme_popup_3_option_get	您已經取得特典<br>請至升級畫面確認
+scheme_item_param_57	
+scheme_popup_57	<flash>填問卷好禮！<br>獲得%@%@個！</flash>
+scheme_item_param_65	odorobo_tw1
+scheme_popup_65	<flash>得到EX角色「%@」！</flash><br>可以在升級畫面中取得。
+scheme_popup_browser	獲得活動獎勵！<br>可以在貓咪基地中確認。
+scheme_popup_browser_get	您已經取得活動特典
+rarity_name_1	基本角色
+rarity_name_2	EX
+rarity_name_3	稀有
+rarity_name_4	激稀有
+rarity_name_5	超激稀有
+rarity_name_6	傳說稀有
+unlock_popup_message_0	<flash>寶物功能解放！</flash><br>收集沈睡在各個地方的寶物<br>就能發動強力的特殊效果！<br>可以到選單裡的寶物清單中確認喔！
+unlock_popup_message_1	<flash>升級畫面出現！</flash><br>可以從主選單中<br>選擇前往！<br>可以參與戰鬥了。
+unlock_popup_message_2	<flash>敵人圖鑑功能解放了！</flash><br>可以閱覽目前為止已出現<br>敵人的詳細介紹。
+unlock_popup_message_3	<flash>「道具商店」功能解放了！</flash><br>可於商店內購買<br>對過關有利的各種道具。<br>
+unlock_popup_message_4	<flash>貓咪圖鑑功能解放了！</flash><br>可以閲覽已經取得的<br>貓咪的詳細介紹。
+unlock_popup_message_5	<flash>加碼多多探險隊功能解放了！</flash><br>只要讓加碼多多出發去探險<br>就有機會獲得各式各樣的道具
+unlock_popup_message_6	<flash>「道具商店」追加了新商品！</flash><br>現在可以買到在加碼多多探險隊<br>用得到的道具了
+unlock_popup_message_7	<flash>等級上限解放！</flash><br>現在可以使用貓眼石<br>來解放角色的等級上限了<br>等級到達30後才能使用
+unlock_popup_message_8	<flash>活動關卡開放！</flash><br>可以從標題畫面進入
+unlock_popup_message_9	<flash>世界篇出現新章！</flash><br>回標題畫面選擇世界篇<br>即可挑戰新章喔！
+unlock_popup_message_10	<flash>世界篇出現新章！</flash><br>回標題畫面選擇世界篇<br>即可挑戰新章喔！
+unlock_popup_message_11	<flash>挑戰賽開放了！</flash><br>可以從主選單進行挑戰<br>另外，新增了「切換按鈕」！<br>可以切換到轉職前的模樣！
+unlock_popup_message_12	<flash>轉蛋功能開放！</flash><br>貓咪基地出現轉蛋
+unlock_popup_message_13	<flash>新キャラメッセージ</flash>
+unlock_popup_message_14	<flash>過關獎勵！</flash><br>獲得EX角色「豌豆貓｣！<br>可以在升級畫面中免費取得。
+unlock_popup_message_15	<flash>全部關卡過關獎勵！</flash><br>獲得EX角色「萌貓｣！<br>可以在升級畫面中免費取得。
+unlock_popup_message_16	<flash>主選單出現「傳奇故事」模式！</flash><br>各種不定期舉辦的活動關卡<br>也能從「傳奇故事」模式進入挑戰
+unlock_popup_message_17	<flash>未來篇出現！</flash><br>回標題畫面選擇未來篇<br>來挑戰新的關卡！
+unlock_popup_message_18	<flash>新增「所有角色」一覽！</flash><br>可以顯示所有已經取得的角色<br>可以在升級畫面等進行選擇
+unlock_popup_message_19	<flash>隊伍編成功能登場！</flash><br>在編成畫面中選擇的角色<br>可以參與戰鬥。
+unlock_popup_message_20	<flash>追加出陣列表的數目！</flash><br>隊伍編成畫面已提升到<br>可保存三組角色！
+unlock_popup_message_21	<flash>等級排行已開放！</flash><br>達到一定等級後可獲得各種報酬！<br>角色等級總和即為等級排行
+unlock_popup_message_22	<flash>「貓咪聯組」功能解放！</flash><br>搭配角色來發動聯組技能！<br>可以在編成畫面的貓咪聯組圖鑑來確認角色
+unlock_popup_message_23	<flash>貓咪道場解放了！</flash><br>由主畫面選擇貓咪道場<br>發揮你的本事吧！
+unlock_popup_message_24	<flash>全破關獎勵！</flash><br>得到新的「貓咪聯組」！<br>可以在隊伍編成畫面的<br>貓咪聯組圖鑑進行確認。
+unlock_popup_message_25	<flash>未來篇中出現新章節！</flash><br>回到標題畫面選擇未來篇<br>挑戰新章節！
+unlock_popup_message_26	<flash>未來篇中出現新章節！</flash><br>回到標題畫面選擇未來篇<br>挑戰新章節！
+unlock_popup_message_27	<flash>全破關獎勵</flash><br>取得EX角色<br>「瓦爾基麗貓」第3進化！<br>合計等級20級以上即可進化
+unlock_popup_message_28	<flash>全破關獎勵！</flash><br>得到新的「貓咪聯組」！<br>可以在隊伍編成畫面的<br>貓咪聯組圖鑑進行確認。
+unlock_popup_message_29	<flash>全破關獎勵</flash><br>取得EX角色<br>「姆特貓」第3進化！<br>合計等級20級以上即可進化
+unlock_popup_message_30	<flash>全破關獎勵！</flash><br>得到新的「貓咪聯組」！<br>可以在隊伍編成畫面的<br>貓咪聯組圖鑑進行確認。
+unlock_popup_message_31	<flash>貓薄荷儲藏庫功能解放了！</flash><br>可以用來存放進化角色必需的貓薄荷！<br>在貓咪基地畫面的儲藏庫裡就可以找到
+unlock_popup_message_32	<flash>現在可以使用錄影功能了！！</flash><br>在遊戲標題畫面點選「選項」<br>自動錄影ON以後開始戰鬥時<br>則會自動錄影唷！戰鬥結束時則會自動停止。
+unlock_popup_message_33	<flash>現在可以前往觀看分享影片了！！</flash><br>從標題畫面中的選項、貓咪基地<br>的選單中可以確認。
+unlock_popup_message_34	<flash>等級上限解除！</flash><br>等級上限已解除<br>可以再次升級！
+unlock_popup_message_35	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_36	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_37	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_38	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_39	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_40	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_41	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_42	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_43	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_44	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_45	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_46	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_47	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_48	<flash>新的角色出現了！</flash><br>可以在升級畫面中取得
+unlock_popup_message_49	<flash>全部關卡過關獎勵！</flash><br>獲得EX角色「%@」！<br>可以在升級畫面中免費取得。
+unlock_popup_message_50	<flash>全部關卡過關獎勵！</flash><br>獲得EX角色「%@」！<br>可以在升級畫面中免費取得。
+unlock_popup_message_51	<flash>過關獎勵！</flash><br>獲得EX角色「%@」！<br>可以在升級畫面中免費取得。
+unlock_popup_message_52	<flash>過關獎勵！</flash><br>獲得EX角色「%@」！<br>可以在升級畫面中免費取得。
+unlock_popup_message_53	<flash>全部關卡過關獎勵！</flash><br>取得EX角色<br>「%@」的第3進化<br>合計等級20級以上即可進化
+unlock_popup_message_54	<flash>全部關卡過關獎勵！</flash><br>取得EX角色<br>「%@」的第3進化<br>合計等級20級以上即可進化
+unlock_popup_message_55	<flash>「城堡寶開發隊」解放了！</flash><br>可以自己設定貓咪城的<br>外觀與設定貓咪砲的性能。<br>可由加碼多多的畫面確認
+unlock_popup_message_56	<flash>「貓咪任務」解放了！</flash><br>只要完成各種課題<br>就可以獲得報酬。
+unlock_popup_message_57	<flash>宇宙篇出現！</flash><br>回標題畫面選擇宇宙篇<br>來挑戰新的關卡！
+unlock_popup_message_58	<flash>全破關獎勵！</flash><br>獲得了神的恩賜！<br>在世界篇・未來篇・宇宙篇使用<br>神的力量時，可以享受特別優惠！
+unlock_popup_message_59	<flash>恭喜你通過了宇宙篇！</flash><br>往後還會追加新的章節<br>敬請期待日後的更新！
+unlock_popup_message_60	<flash>全部關卡過關獎勵！</flash><br>取得EX角色「狼與少女」<br>第3進化！合計等級30級以上即可進化<br>使用XP、貓薄荷進化。
+unlock_popup_message_61	<flash>全部關卡過關獎勵！</flash><br>取得EX角色「小戰士貓彈」<br>第3進化！合計等級30級以上即可進化<br>使用XP、貓薄荷進化。
+unlock_popup_message_62	<flash>全部關卡過關獎勵！</flash><br>取得EX角色「貓紅帽咪娜」<br>第3進化！合計等級30級以上即可進化<br>使用XP、貓薄荷進化。
+unlock_popup_message_63	<flash>全部關卡過關獎勵！</flash><br>取得EX角色「宮木武藏」<br>第3進化！合計等級30級以上即可進化<br>使用XP、貓薄荷進化。
+unlock_popup_message_64	<flash>「傳奇故事」模式中出現「真傳奇故事」！</flash><br>可以從「傳奇故事」模式進入挑戰
+unlock_popup_message_65	<flash>等級上限解除！</flash><br>現在可以使用貓眼石<br>來解放角色的等級上限了<br>※等級排行需到達1600後才能使用。
+unlock_popup_message_66	<flash>過關獎勵！</flash><br>取得EX角色「噴噴貓騎士」<br>第3進化！合計等級30級以上即可進化<br>使用XP、貓薄荷進化。
+unlock_popup_message_67	<flash>過關獎勵！</flash><br>喵力達專用關卡開放了！<br>消費喵力達即可挑戰游擊等關卡
+unlock_popup_message_68	<flash>宇宙篇出現新章！</flash><br>回標題畫面選擇宇宙篇<br>即可挑戰新章喔！
+unlock_popup_message_69	<flash>恭喜你通過了宇宙篇第二章！</flash><br>往後還會追加新的章節<br>敬請期待日後的更新！
+unlock_popup_message_70	<flash>全部關卡過關獎勵！</flash><br>獲得EX角色「%@｣！<br>可以在升級畫面中免費取得。
+unlock_popup_message_71	<flash>「本能」解放了！</flash><br>從升級畫面中<br>可以解放或強化<br>部份已第3進化或更往上進化角色的能力
+unlock_popup_message_72	<flash>「貓咪俱樂部」解放了！</flash><br>從貓咪基地<br>的選單中可以確認。
+unlock_popup_message_73	<flash>宇宙篇出現新章！</flash><br>回標題畫面選擇宇宙篇<br>即可挑戰新章喔！
+unlock_popup_message_74	<flash>全部關卡過關獎勵！</flash><br>獲得道具<br>「%@+%d｣！！
+unlock_popup_message_75	<flash>回關卡選擇畫面功能解放了！</flash><br>只要過關後<br>就可回關卡選擇畫面。
+unlock_popup_message_76	<flash>「貓咪獎章」解放了！</flash><br>從標題畫面中的選項<br>貓咪基地的選單中可以確認。
+Castle_Tutorial00	<flash>歡迎來到城堡寶開發隊！</flash><br>在這裡可以開發不同的<br>貓咪城外觀與貓咪砲性能唷！
+Castle_Tutorial01	點選貓咪城開發隊長城堡寶<br>接著選擇開發設計圖吧！
+Castle_Tutorial02	點選變更裝備<br>幫貓咪城換換裝吧！
+Castle_part00	基座
+Castle_part01	裝飾
+Castle_part02	主砲
+Castle_dev_finish00	<flash>貓咪城強化完畢了！</flash><br>LEVEL ${level1} → <color=255,255,0>${level2}</color>
+Castle_dev_finish01	<flash>${recipeName}的${partsName}開發完畢了！</flash>
+Castle_dev_finish02	<flash>${recipeName}的${partsName}強化完畢了！</flash><br>LEVEL ${level1}→ <color=255,255,0>${level2}</color>
+Castle_lock00	開發貓咪城必須要將<br>貓咪砲攻擊力・貓咪砲射程・貓咪砲充電<br>都升級到等級10
+Castle_lock01	開發這個配件<br>必須達成以下條件<br>%@
+Castle_lock02	開發這個配件<br>必需要先開發%@的主砲
+Castle_lock03	必要素材不足<br>※有機會從傳奇故事關卡中獲得
+Castle_lock03a	開發時所需的助手不足<br>※可以從加碼多多探險區域發掘
+Castle_lock04	已經達到等級上限！<br>目前版本<br>已經無法再強化
+Castle_lock05	強化這個配件<br>必須達成以下條件<br>%@
+Castle_researcher	已經正式採用為城堡寶開發隊的助手<br>只會幫助開發貓咪城一次
+Castle_dev_suspend	要中止開發作業嗎？<br>※中止後，已使用的助手與素材將無法取回
+Castle_researcher_name00	助手 之%d
+Castle_researcher_name01	助手
+Castle_researcher_counter	助手數
+Castle_researcher_desc	幫助開發貓咪城的助手<br>※開發完畢後會返回老家
+Castle_dev_start00	開始強化貓咪城
+Castle_dev_start01	開始開發${recipeName}的${partsName}
+Castle_dev_start02	開始強化${recipeName}的${partsName}
+Castle_material_drop00	<flash>取得素材！</flash><br>
+Castle_material_drop01	×
+Castle_researcher_get	發現%@！
+Castle_UnlockDataId_1	低速砲的主砲開發完畢，等級排行600
+Castle_UnlockDataId_2	鐵壁砲主砲開發完畢，等級排行900
+Castle_UnlockDataId_3	閃雷砲的主砲開發完畢，等級排行900
+Castle_UnlockDataId_4	貓咪砲攻擊力合計等級30<br>貓咪砲充電合計等級30
+Castle_UnlockDataId_5	水喉砲的主砲開發完畢，等級排行900
+Castle_UnlockDataId_6	天使砲的主砲開發完畢，等級排行900
+Castle_UnlockDataId_7	斬盾砲的主砲開發完畢，<br>等級排行900
+local_notification_custom	城堡寶完成任務回來了喵～！
+Castle_AutoChange	<flash>已變更基座・裝飾・主砲</flash>
+Castle_shoter00	要使用%@嗎？,可以縮短作業時間%d小時
+Castle_shoter01	作業時間,縮短了%d小時！
+castle_connection_failed	開發剩餘時間取得失敗。請於連線環境良好處重新啟動遊戲。
+castle_fraud	您的裝置時間可能有遭更改。開發時間會暫時停止倒數。
+beacon_event_date	開催期間: %d年%d月%d日～%d年%d月%d日まで
+beacon_event_before	にゃんこビーコンのイベントは<br>現在、開催してないにゃ
+beacon_event_held	にゃんこビーコン電波を<br>検索してるにゃ～
+beacon_event_held2	イベント報酬を受け取ると<br>取得済マークがつくにゃ
+beacon_bluetooth_off	にゃんこビーコン受信するなら<br>Bluetoothをオンにして<br>ほしいにゃ～
+beacon_location_off	にゃんこビーコン受信するなら<br>位置情報の利用を許可して<br>ほしいにゃ～
+beacon_location_authorization	にゃんこビーコン受信するなら<br>位置情報の利用を許可して<br>ほしいにゃ～
+beacon_pushinfo_off	にゃんこビーコン受信するなら<br>プッシュ通知設定をオンにするにゃ
+beacon_wifi_off	にゃんこビーコン受信するなら<br>Wi-Fiをオンにするにゃ
+beacon_reward_before	にゃんこビーコン報酬はまだ取得していません
+beacon_reward_received	にゃんこビーコン報酬は受け取り済みです
+beacon_event_2017520	京都みやこめっせで記念キャラを取得しよう！<br>5/20～5/21に開催されるBitSummit2017会場の<br>にゃんこブースに訪問すれば<br>記念キャラ「ネコまねき」を取得可能！<br>※にゃんこビーコン受信設定が必要です<br>※詳細はバナーをタップ！
+beacon_unsupported_device	この端末/OSバージョンには対応していません
+not_enough_space_left_on_device	裝置容量不足下載失敗。
+ranking_description	<flash>排行關卡</flash><br>排名會依照得分而變動的關卡喵！<br>※登錄得分需要網路連線<br>※活動結束後將會重置分數與排行
+ranking_unauthorized	貓罐頭不足<br>挑戰此關卡需要消費貓罐頭
+ranking_suspend	要中止挑戰嗎？
+ranking_error01	排行結果讀取失敗。
+ranking_default	―
+ranking_title01	傳說
+ranking_title02	大宗師
+ranking_title03	掌門
+ranking_title04	大師兄
+ranking_title05	黑帶
+ranking_title06	白帶
+ranking_title07	入門者
+ranking_resultcomment	<flash>暫定排名 前%d％！</flash><br> 恭喜獲得%@稱號！
+ranking_start	<flash>貓咪道場排行活動舉辦中！</flash><br>(活動舉辦期間%d/%02d/%02d ～ %d/%02d/%02d）<br>挑戰排行關卡，和其他人比高下吧！！<br>期間結束後，依照排行可獲得各種獎勵。
+ranking_announce01	<flash>貓咪道場排行活動結果發表</flash><br>(活動舉辦期間%d/%02d/%02d ～ %d/%02d/%02d）<br>最終排行：前 %d％！<br>獎勵請由貓咪信箱領取<br>（領取期限為１個月）
+ranking_announce02	<flash>貓咪道場排行活動結果發表</flash><br>(活動舉辦期間%d/%02d/%02d ～ %d/%02d/%02d）<br>最終排行：前 %d％！<br>這次沒有獎勵可以拿喵<br>下次再加油吧～！
+ranking_no_reward	無
+urguerrilla_warning00	過關%d次後則無法再挑戰的關卡<br>過關前可不限次數挑戰
+mission_receive_achieved	<flash>任務達成！</flash>
+mission_receive_item	<color=255,255,0>獎勵：${itemName}×${itemNum}</color>
+mission_receive_item_xp	<color=255,255,0>獎勵：${itemName} +${itemNum}</color>
+mission_receive_item_chara	<color=255,255,0>獎勵：角色「${charaName}」</color>
+mission_receive_item_chara_evolve	<color=255,255,0>獎勵：角色「${charaName}」第3進化</color>
+everyplay_mapname_E	EX關卡
+everyplay_mapname_N	傳奇故事
+everyplay_mapname_S	特別關卡
+everyplay_mapname_C	期間限定合作關卡
+everyplay_mapname_T	貓咪道場
+everyplay_mapname_V	特別關卡
+everyplay_mapname_J	世界篇第%d章
+everyplay_mapname_W	未來篇第%d章
+everyplay_mapname_P	宇宙篇第%d章
+everyplay_mapname_Z	(不死化)
+lang	tw
+network_unavailable	無法連接至網路。
+connecting	連線中…
+error	發生錯誤。
+gamecenter_noauth	無法登入Game Center。
+purchase_unavailable	無法使用付費功能。請開啟在設定裡的應用程式內購買的功能。
+purchase_failed	購買失敗。
+purchase_verifying	進行購買處理中。
+disconnected	連線中斷。
+invalid_data_received	收到了無效的資料。
+nekokan_bonus_msg	<span class='kakoi2'>贈送%d個！！</span>
+Copied_txt	複製到了剪貼簿上。
+err_txt	讀取錯誤
+err_v_txt	由於遊戲為舊版本，\n所以無法進行\n資料繼承。\n請點選“更新”按鈕\n更新遊戲的\n最新版本。
+nyanko_url	https://ponosgames.com/dl/index_tw.html
+nyanko_update	更新
+catfoodbuy_txt	已成功購買。
+catfoodtapjoy_txt	獲得了<br>免費貓罐頭＋%d個！
+adreward_txt	獲得了<br>%@+%d個
+twitter_hash	#貓咪大戰爭
+yes_txt	是
+no_txt	否
+Rank_txt0	等級排行
+Rank_txt1	這裡是角色戰力與道具等
+Rank_txt2	升級數值的總合計
+Rank_txt3	達到一定等級排行後
+Rank_txt4	可依等級高低獲得各種不同的報酬
+downloading	下載中
+download_wrn_cellular	無法連接Wi-Fi，要使用行動網路嗎？\n※因應您的電信服務合約內容，有可能產生網路連線費用。
+download_err	下載失敗。\n請確認是否正確連線。
+download_retry	請重試
+warning_text1	注意使用時間，避免沉迷於遊戲。
+warning_text2	部份內容或商品需另外購買。
+warning_text3	本遊戲內容涉及性感與暴力情節（可愛人物打鬥）
+url_err	連結不支援目前使用的遊戲版本，或已失效。
+sign_in	登入
+sign_out	登出
+model_conversion	機種變更
+notice	PUSH通知
+push_on	ON
+push_off	OFF
+local_push	統率力通知
+local_notification	統率力已經全滿了喵～！
+local_notification_expedition	加碼多多探完險回來了喵～！
+google_1	下載中
+google_2	儲存中
+google_3	接收中
+nyanko_storage	已經傳送到%d儲藏庫
+settle_nyanko	現在持有%d個
+boss_hp	魔王體力
+clear_1	初回破關獎勵
+clear_2	貓罐頭＋３０個
+pause_1	尚有戰鬥中資料
+pause_2	要從戰鬥中復原嗎？
+ok_txt	OK
+evolveWarningText0	等級
+evolveWarningText1	XP
+evolveWarningText2	進化道具
+evolveWarningText3	不足
+evolveWarningText4	・
+gamatotoReward_1	找到能獲得1個貓罐頭的袋袋啦！
+gamatotoReward_1_1	找到袋袋啦！
+gamatotoReward_2	要觀看廣告影片將袋子挖出來嗎？
+gamatotoReward_3	※可隨機獲得以下道具
+gama_collabo_00_popup	<flash>實況野球合作活動進行中！</flash><br>實況野球的吉祥物狗狗「剛達」<br>暫時加入加碼多多探險隊！<br>活動期間中，獲得獎勵數量增加<br>※貓罐頭除外
+gama_collabo_00_name	剛達
+gama_collabo_00_charatext	來自實況野球的加碼多多探險隊臨時隊員<br>合作活動期間中，會讓獲得獎勵的數量增加<br>※貓罐頭除外
+gama_collabo_01_popup	<flash>消滅都市合作進行中！</flash><br>支援拓也的朋友「祖克柏」<br>臨時加入加碼多多探險隊！<br>合作活動期間中，獲得獎勵數量增加<br>※貓罐頭除外
+gama_collabo_01_name	祖克柏
+gama_collabo_01_charatext	來自消滅都市的加碼多多探險隊臨時隊員技術者<br>合作活動期間中，獲得獎勵數量增加<br>※貓罐頭除外
+gama_collabo_02_popup	<flash>梅露可物語合作活動進行中！</flash><br>你的好夥伴魔寵「圖圖」<br>暫時加入加碼多多探險隊！<br>活動期間中，獲得獎勵數量增加<br>※貓罐頭除外
+gama_collabo_02_name	圖圖
+gama_collabo_02_charatext	來自梅露可物語的加碼多多探險隊臨時魔寵隊員<br>合作活動期間中，會讓獲得獎勵的數量增加<br>※貓罐頭除外
+beginnerPack1_Title	購買 新手玩家應援禮包150元組
+beginnerPack2_Title	購買 新手玩家應援禮包360元組
+beginnerPack3_Title	購買 新手玩家應援禮包890元組
+beginnerPack1	貓罐頭 %d個 → 
+beginnerPack2	XP %d → 
+beginnerPack3	寶物雷達 %d個 → 
+beginnerPack4	土豪貓 %d個 → 
+beginnerPack5	洞悉先機 %d個 → 
+beginnerPack6	狙擊手 %d個 → 
+beginnerPack1_result	%d個
+beginnerPack2_result	%d
+beginnerPack3_result	%d個
+beginnerPack4_result	%d個
+beginnerPack5_result	%d個
+beginnerPack6_result	%d個
+tapjoy_video_error	影片播放失敗。請檢查連線狀況後再試試看。
+line_appli_url	https://itunes.apple.com/tw/app/line/id443904275?mt=8
+line_appli_url_android	https://play.google.com/store/apps/details?id=jp.naver.line.android&hl=zh_TW
+line_message	一起來玩貓咪大戰爭～！
+serial_txt1	已輸入序號！\n可以從標題畫面右下角的「貓咪信箱」中確認領取禮物
+serial_txt2	※「貓咪信箱」會在通過「日本」關卡後出現。
+serial_txt3	※登入Game Center後才可領取禮物。
+serial_txt4	※序號已遭取消。\n請確認輸入序號網頁的注意內容。
+warningtxt1	遊戲為初始狀態\n尚無遊戲紀錄。
+autoSave_txt1	詢問碼\n%@\n若您遺失此詢問碼將無法獲得技術支援。\n此詢問碼可隨時於遊戲標題或選項畫面中確認。
+autoSave_txt2	詢問碼
+autoSave_txt3	請牢記此詢問碼，並妥善保管。
+autoSave_txt4	若您遺失此詢問碼將無法獲得技術支援。
+autoSave_txt5	詢問碼
+autoSave_txt6	請牢記此詢問碼，並妥善保管。
+collaboration_txt1	獲得合作活動特典%d！
+collaboration_txt2	獲得合作活動特典！
+nyancombo_txt1	點擊顯示角色名
+nyancombo_txt2	<color=255,212,0>【基本】</color>
+nyancombo_txt3	<color=255,212,0>【EX】</color>
+nyancombo_txt4	<color=255,212,0>【稀有】</color>
+nyancombo_txt5	<color=255,212,0>【激稀有】</color>
+nyancombo_txt6	<color=255,212,0>【超激稀有】</color>
+nyancombo_txt7	<color=255,212,0>【傳說稀有】</color>
+nyancombo_txt8	???
+nyancombo_txt9	 ？？？？？
+nyancombo_txt10	只要把角色設定在出陣列表的第一行就會發動技能！
+nyancombo_txt11	點兩下貓咪聯組的名稱就能自動設定到隊伍裡
+nyancombo_pop0	將「%@」的角色
+nyancombo_pop1	設定到現在的位置。
+nyancombo_pop2	是否確定？
+pictureBook1	%@的貓咪聯組
+pictureBook2	以此當做提示發動新聯組攻勢吧！
+picBook_getCatFood	<flash>%@已解放！</flash><br>獲得貓罐頭５個！
+picBook_filteringMiss1	進行篩選的結果，找不到
+picBook_filteringMiss2	符合條件的角色。
+picBook_Rarity0	基本
+picBook_Rarity1	EX
+picBook_Rarity2	稀有
+picBook_Rarity3	激稀有
+picBook_Rarity4	超激稀有
+picBook_Rarity5	傳說稀有
+gamestop	系統檢測到異常的遊戲數據。\n依照利用規章的規定，\n本App將無法繼續使用。
+gamestop_base	帳號已被停用。<br>返回標題畫面。
+daily_login_date	第%d天
+filter_err1	進行篩選的結果，找不到
+filter_err2	符合條件的角色。
+exstage_text1	EX關卡「%@」出現！
+exstage_text2	確定要挑戰嗎？
+exstage_text3	使用加速以外的道具效果將不會持續。
+unit_evol_0	f
+unit_evol_1	c
+unit_evol_2	s
+unit_evol_3	u
+img001.png	img001_tw.png
+img001.imgcut	img001_tw.imgcut
+img002.png	img002_tw.png
+img002.imgcut	img002_tw.imgcut
+img004.png	img004_tw.png
+img004.imgcut	img004_tw.imgcut
+img006.png	img006_tw.png
+img006.imgcut	img006_tw.imgcut
+img008.png	img008_tw.png
+img008.imgcut	img008_tw.imgcut
+img009.png	img009_tw.png
+img009.imgcut	img009_tw.imgcut
+img010.png	img010_tw.png
+img010.imgcut	img010_tw.imgcut
+img011.png	img011_tw.png
+img011.imgcut	img011_tw.imgcut
+img012.png	img012_tw.png
+img012.imgcut	img012_tw.imgcut
+img019.png	img019_tw.png
+img019.imgcut	img019_tw.imgcut
+img022.png	img022_tw.png
+img022.imgcut	img022_tw.imgcut
+img023.png	img023_tw.png
+img023.imgcut	img023_tw.imgcut
+img024.png	img024_tw.png
+img024.imgcut	img024_tw.imgcut
+img027.png	img027_tw.png
+img027.imgcut	img027_tw.imgcut
+img028.png	img028_tw.png
+img028.imgcut	img028_tw.imgcut
+img029.png	img029_tw.png
+img029.imgcut	img029_tw.imgcut
+img031.png	img031_tw.png
+img031.imgcut	img031_tw.imgcut
+img033.png	img033_tw.png
+img033.imgcut	img033_tw.imgcut
+img037.png	img037_tw.png
+img037.imgcut	img037_tw.imgcut
+img041.png	img041_tw.png
+img041.imgcut	img041_tw.imgcut
+img100.png	img100_tw.png
+img100.imgcut	img100_tw.imgcut
+item000.png	item000_tw.png
+ec047.png	ec047_tw.png
+ec047.imgcut	ec047_tw.imgcut
+ec048.png	ec048_tw.png
+ec048.imgcut	ec048_tw.imgcut
+nyancombo_autoset1	將「%@」的角色<br>設定到現在的位置。<br>是否確定？
+nyancombo_autoset2	將「%@」的角色<br>設定到現在的位置。<br><color=255,0,0>現在設定的貓咪聯組將會被覆蓋<br>是否確定？</color>
+nyancombo_autoset3	因為有不符合進化狀態的角色存在<br>所以無法發動「%@」<br>※請先確認角色的進化狀態
+challenge_popup	歡迎進入挑戰賽！<br>通關時間越快可獲得越高分的關卡！<br>多次挑戰目標獲得高分吧！<br>※這個關卡無法使用道具
+everyplay_mapname_M	特別關卡
+everyplay_mapname_R	排行關卡
+stage_restriction_dot	・
+stage_restriction_cost_over	%d元以上
+stage_restriction_cost_under	%d元以下
+stage_restriction_cost_just	%d元
+stage_restriction_limit_1	稀有度：<color=255,255,0>%@</color>
+stage_restriction_limit_2	最多可出戰角色數量：<color=255,255,0>%d</color>
+stage_restriction_limit_3	出陣列表：<color=255,255,0>僅限第%d頁</color>
+stage_restriction_limit_4	生產成本：<color=255,255,0>%@</color>
+stage_restriction_limit_5	指定角色：<color=255,255,0>%@</color>
+stage_restriction_text_0	可出擊角色的條件
+stage_restriction_text_1	出陣列表未達以上條件
+stage_restriction_warning	這個角色無法出擊！
+stage_restriction_level_select	<color=255,255,0>有出擊限制</color>
+stage_restriction_charagroup_1	城與龍合作角色
+stage_restriction_charagroup_2	小小焰，曉美焰以外的角色
+stage_restriction_charagroup_3	蓓蓓（小渚＆貓咪）以外的角色
+initializing_adgeneration	讀取機能中。\n請稍候片刻。
+VAMPErrorCodeNotSupportedOsVersion	不支援此OS版本。
+VAMPErrorCodeUnknown	不明的錯誤
+VAMPErrorCodeServerError	伺服器通訊錯誤
+VAMPErrorCodeNoAdnetwork	通訊逾時
+VAMPErrorCodeNeedConnection	無法連接至網路
+VAMPErrorCodeMediationTimeout	通訊逾時
+VAMPErrorCodeUserCancel	動作取消
+VAMPErrorCodeNoAdStock	沒有更多廣告了
+VAMPErrorCodeAdnetworkError	通訊逾時
+VAMPIncentiveError	讀取錯誤<br>取得失敗
+everyplay_community_url	https://everyplay.com/the-battle-cats/home
+GiftMessage_000	<flash>☆★☆ 過關獎勵 ☆★☆</flash><br>第二章全部過關之後<br>就能得到超稀有的<br>「瓦爾基麗貓」唷！
+GiftMessage_001	<flash>☆★☆ 過關獎勵 ☆★☆</flash><br>第三章全部過關之後<br>就能得到超稀有的「姆特貓」唷！
+GiftMessage_002	<flash>☆★☆ 過關獎勵 ☆★☆</flash><br>未來篇第二章全部過關之後<br>可取得ＥＸ角色「瓦爾基麗貓」的第3進化。
+GiftMessage_003	<flash>☆★☆ 過關獎勵 ☆★☆</flash><br>世界篇第一章「希臘」過關之後<br>就能得到超稀有的「豌豆貓」唷！
+GiftMessage_004	<flash>☆★☆ 過關獎勵 ☆★☆</flash><br>世界篇第一章全部過關之後<br>就能得到超稀有的「萌貓」唷！
+GiftMessage_005	<flash>通關獎勵第一彈</flash><br>只要通過「越獄隧道」的最後關卡<br>就有機會獲得超稀有的角色「狼與少女」喔
+GiftMessage_006	<flash>通關獎勵第二彈</flash><br>只要通過「終焉宣告之夜」的最後關卡<br>就有機會獲得超稀有的角色「小戰士貓彈」喔
+GiftMessage_007	<flash>☆★☆ 過關獎勵 ☆★☆</flash><br>未來篇第三章全部過關之後<br>可取得ＥＸ角色「姆特貓」的第3進化。
+GiftMessage_008	<flash>通關獎勵第三彈</flash><br>只要通過「脆弱性和弱酸性」的最後關卡<br>就有機會獲得超稀有的角色「貓紅帽咪娜」喔
+GiftMessage_009	<flash>通關獎勵第四彈</flash><br>只要通過「豪來塢帝國」的最後關卡<br>就有機會獲得超稀有的角色「宮木武藏」喔
+GiftMessage_010	<flash>☆★☆ 過關獎勵 ☆★☆</flash><br>宇宙篇第一章全部過關之後<br>就可以獲得神秘禮物喔
+GiftMessage_011	<flash>☆★☆ 過關獎勵 ☆★☆</flash><br>未來篇第一章全部過關之後<br>就能得到新的「貓咪聯組」讓戰鬥時更有利唷！
+GiftMessage_012	<flash>通關獎勵第五彈</flash><br>只要通過「真・傳說的開始」的最後關卡<br>就可取得超稀有的角色「噴噴貓騎士」<br>的第3進化。
+GiftMessage_013	<flash>☆★☆ 過關獎勵 ☆★☆</flash><br>宇宙篇第二章全部過關之後<br>就可以獲得神秘禮物喔
+GiftMessage_014	<flash>☆★☆過關獎勵☆★☆</flash><br>宇宙篇第三章全部過關之後<br>就能得到<br>謎之獎勵唷！
+GiftMessage_015	<flash>☆★☆過關獎勵☆★☆</flash><br>只要擊倒宇宙篇第三章的謎之生命體<br>就能得到<br>謎之獎勵！
+GiftMessage_016	<flash>通關獎勵第六彈</flash><br>只要通過「打從魂魄的歸化」的最後關卡<br>就有機會獲得超稀有的角色「土偶喵丸」喔
+GiftMessage_017	<flash>通關獎勵第七彈</flash><br>只要通過「粉粿金礦」的最後關卡<br>就有機會獲得超稀有的角色「巨狼與烏爾斯」喔
+GiftMessage_018	<flash>「古代研究所」關卡等級4中謎之生命體出現！</flash>
+LvUpLimit_txt	已經達到可升級的等級上限！
+LvUpLimitMax_txt	已經達到目前版本的等級上限
+option_qrcode_title	「我的QR碼」
+option_qrcode_txt1	本QR碼會在特定活動上使用
+option_qrcode_txt2	本QR碼為重要資訊，除特定活動上以外請勿公開自己的資訊。
+option_qrcode_txt3	讀取時請將畫面保持明亮。
+matatabi_growup_1	用${Num}個${itemName}<br>來成長爲貓薄荷。<br>※有小機率成長爲彩虹貓薄荷。
+matatabi_growup_2	用${Num}個${itemName}<br>來成長爲貓薄荷。
+cube_growup_1	用${Num}個${itemName}<br>來成長爲獸結晶。
+drop_popup_item	${rewardName}<br><color=255,255,0>道具</color>「${itemName}+${itemNum}」<br>${itemPossession}
+drop_popup_xp	${rewardName}<br>「${itemName}+${itemNum}」
+drop_reward	破關獎勵<flash>入手啦！！</flash>
+score_reward	積分獎勵<flash>入手啦！！</flash>
+item_possession	<color=178,178,178>（持有數量：${itemNum1} → ${itemNum2}）</color>
+drop_popup_chara_first	%@<br>%@「%@」<br><flash>可以在升級畫面中取得。</flash>
+drop_popup_treasure	<color=255,255,0>寶物 </color>%@%@<br><flash>入手啦！！</flash>
+drop_popup_chara_third_evolve	%@<br>%@<br>「%@」的第3進化<br><flash>合計等級20級以上即可進化。</flash>
+drop_popup_chara_levelup1	%@<br>%@「%@」已取得！<br>等級%d → 等級%d+%d<br><flash>已升級！</flash>
+drop_popup_chara_levelup2	%@<br>%@獲得「%@」！<br>等級%d+%d → 等級%d+%d<br><flash>已升級！</flash>
+drop_popup_chara_levelmax1	%@<br>%@獲得「%@」！<br>等級%d → 等級%d+%d<br><flash>已到達最高等級！</flash>
+drop_popup_chara_levelmax2	%@<br>%@獲得「%@」！<br>等級%d+%d → 等級%d+%d<br><flash>已到達最高等級！</flash>
+drop_popup_chara_limit	%@<br>%@獲得「%@」！<br>目前已經<br>無法再升級！
+drop_rarity_1	EX角色
+drop_rarity_2	稀有角色
+drop_rarity_3	激稀有角色
+drop_rarity_4	超激稀有角色
+drop_rarity_5	傳說稀有角色
+nekovitan_Tutorial00	消費喵力達即可挑戰游擊等關卡<br>喵力達可由道具商店等入手
+nekovitan_battle00	要中止戰鬥嗎？<br>現在退出不會減少喵力達（10秒以內）
+rareGatya_omakeTicket	每使用一次稀有轉蛋<br>就可獲得1張<flash>%@</flash>！
+nekovitan_shop0	喵力達不夠了<br>要去道具商店購買嗎？
+nekovitan_shop1	需要前往道具商店<br>購買喵力達嗎？
+kill_application	要結束遊戲嗎？
+receive_item_none_BoxText	※貓咪信箱中沒有任何物品。
+nyanko_club_gift_txt_clubitemID0	<flash>貓咪俱樂部黃金會員<br>恭喜獲得稀有券1張！</flash><br>
+nyanko_club_gift_txt_clubitemID1	<flash>貓咪俱樂部黃金會員<br>30天加速道具無限使用！</flash><br>
+nyanko_club_expiration_date_txt1	貓咪俱樂部黃金會員<br>有效期限剩下%d天了<br>可以從貓咪俱樂部續約唷！
+nyanko_club_expiration_date_txt2	貓咪俱樂部黃金會員<br>有效期限即將到期<br>快來貓咪俱樂部續約吧！
+nyanko_club_error_time_manipulation_txt1	行動裝置產生時差。※修復完成最長需要2天。
+nyanko_club_error_already_gold_txt1	您已經是黃金會員！
+nyanko_club_error_gold_400_txt1	發生「錯誤」。
+nyanko_club_error_gold_500_txt1	發生錯誤。
+nyanko_club_error_out_of_term_txt1	現在無法購買。
+nyanko_club_error_gold_none_user_data_txt1	發生錯誤
+nyanko_club_error_normal_none_user_ID_txt1	發生「錯誤」
+nyanko_club_error_normal_400_txt1	發生「錯誤」．
+nyanko_club_error_normal_500_txt1	發生錯誤。
+nyanko_club_error_other_txt1	發生連線錯誤。
+nyanko_club_char_change_txt1	點選角色來變更圖像
+potential_exchange_np	換成NP<br>確定繼續嗎？（%d → <color=255,255,0>%d</color>）
+potential_exchange_np_set	%d個一起<br>換成NP<br>確定繼續嗎？（%d → <color=255,255,0>%d</color>）
+potential_exchange_all_item	一併交換<br>您要選擇換成哪一種？
+potential_exchange_all_item_np	是否要將儲藏庫裡<br>所有角色全部變換成NP<br>確定繼續嗎？（%d → <color=255,255,0>%d</color>）
+potential_exchange_gatya_result	要選NP/XP哪一種交換？
+potential_skill_acquisition	以消費NP解放能力，<br>確定繼續嗎？
+potential_skill_levelup	以消費NP強化能力，<br>確定繼續嗎？
+potential_skill_warning00	NP不夠
+potential_skill_lvmax	已經達到等級上限！<br>目前版本<br>已經無法再強化
+potential_exchange_error	目前已經無法<br>再交換NP！
+potential_skill_get	此能力已經解放
+potential_acquisition_result	<flash>＂%@＂已經解放了！<flash>
+potential_levelup_result	<flash>%@已經強化到等級%d了！<flash>
+potential_skill_name01	攻擊力下降
+potential_skill_name02	使動作停止
+potential_skill_name03	使動作變慢
+potential_skill_name04	只能攻擊
+potential_skill_name05	善於攻擊
+potential_skill_name06	很耐打
+potential_skill_name07	超大傷害
+potential_skill_name08	打飛敵人
+potential_skill_name09	傳送
+potential_skill_name10	攻擊力上升
+potential_skill_name11	死前存活
+potential_skill_name12	善於攻城
+potential_skill_name13	會心一擊
+potential_skill_name14	終結不死
+potential_skill_name15	破壞護盾
+potential_skill_name16	得到很多金錢
+potential_skill_name17	波動
+potential_skill_name18	抗擊耐性
+potential_skill_name19	動止耐性
+potential_skill_name20	動慢耐性
+potential_skill_name21	抗飛耐性
+potential_skill_name22	抗波耐性
+potential_skill_name23	波動滅止
+potential_skill_name24	抗傳耐性
+potential_skill_name25	成本減少
+potential_skill_name26	生產加快
+potential_skill_name27	移動加快
+potential_skill_name28	增加擊退
+potential_skill_name29	古代詛咒無效
+potential_skill_name30	抗古代詛咒耐性
+potential_skill_name31	基本攻擊力上升
+potential_skill_name32	基本體力上升
+potential_skill_name33	屬性  紅色敵人
+potential_skill_name34	屬性  飄浮敵人
+potential_skill_name35	屬性  黑色敵人
+potential_skill_name36	屬性  鋼鐵敵人
+potential_skill_name37	屬性  天使敵人
+potential_skill_name38	屬性  異星戰士
+potential_skill_name39	屬性  不死生物
+potential_skill_name40	屬性  古代種
+potential_skill_name41	無屬性敵人
+potential_skill_name44	攻擊力下降無效
+potential_skill_name45	使動作停止無效
+potential_skill_name46	使動作變慢無效
+potential_skill_name47	打飛敵人無效
+potential_skill_name48	波動傷害無效
+potential_skill_name49	傳送無效
+potential_skill_name50	渾身一擊
+potential_skill_name51	攻擊無效
+potential_skill_name52	抗毒擊耐性
+potential_skill_name53	毒擊傷害無效
+potential_skill_name54	抗烈波耐性
+potential_skill_name55	烈波傷害無效
+potential_skill_name56	烈波攻擊
+return_stageselect_error00	本活動已經結束！<br>回貓咪基地去！
+return_stageselect_error01	目前已經無法再挑戰本活動！<br>回貓咪基地去！
+return_stageselect_error02	尚有未領取的獎勵唷！<br>回貓咪基地去！
+h13_inquiry_button	聯絡客服
+h13_inquiry_error	無法確認連線\n請將網路功能開啟後\n嘗試再操作\n謝謝您的配合。
+filter_option_description0	<color=0,0,0>顯示貓咪圖鑑中<br>我的最愛角色<br>無設定我的最愛時則無法選擇</color>
+filter_option_description1	<color=0,0,0>在有出擊條件的關卡中<br>顯示可出撃的角色</color>
+sort_tutorial_txt1	<flash>篩選和排序功能解放了！</flash><br>可由畫面中央右邊的按鈕進入篩選，<br>畫面中央左邊的按鈕來調整排序方式。
+item_pack_purchased_chara	%@角色<color=255,255,0>「%@」</color><br>
+enemy_list_title	出現敵人
+enemy_name_question	？？？
+calendar_title	事先設定的活動通知開始啦！
+calendar_error	無法連接到伺服器或是<br>行動裝置產生時差。<br>請確認網路連線狀態和行動裝置的時間。
+calendar_99h	99小時以上
+legendquest_tutorial1	歡迎來到傳奇尋寶記！<br>在這裡的關卡跟編成內容<br>都是隨機選出的唷！
+legendquest_tutorial2	需要有王冠才可以挑戰！<br>王冠可在傳奇故事地圖的關卡等級1～4<br>中各通關後可以獲得！
+legendquest_tutorial3	在傳奇尋寶記中脫離戰鬥時<br>王冠、統率力、道具皆不會歸還<br>準備好後再開始挑戰吧！
+legendquest_Cancel	確定要脫離戰鬥嗎？<br><color=255,0,0>王冠、統率力、道具皆不會歸還</color>
+legendquest_warning	王冠不足<br>請挑戰傳奇故事中的關卡<br>通關來蒐集王冠吧！
+legendquest_popup	<flash>傳奇尋寶記</flash><br>以隨機選出的關卡與角色來出戰吧！<br>※可消費統率力與傳奇故事中獲得的王冠來挑戰<br>※所需的王冠數量會隨關卡增加<br>※脫離戰鬥時王冠、統率力、道具皆不會歸還
+score_sns	“貓咪軍團”在%@中，獲得了%d分！%s %s
+legend_sns	“貓咪軍團”入侵傳奇尋寶記%@了。%s %s
+nekodojo_sns	“貓咪軍團”在貓咪道場%@中，獲得了%d分！%s %s
+ranking_sns	“貓咪軍團”在排行關卡%@中，獲得了%d分！%s %s
+challenge_sns	“貓咪軍團”在挑戰賽%@中，獲得了%d分！%s %s
+tower_sns	“貓咪軍團”入侵了貓咪塔的%@了。%s %s
+sns_txt1	“貓咪軍團”入侵%@了。%s %s
+gpp_item_popup	已獲得道具！<br>立刻打開貓咪信箱領取吧。
+age_confirmation	由於商城使用政策變更<br>爲了顯示符合您的廣告<br>請進行年齡確認
+error_age_confirmation	發生了通訊錯誤<br>請確認通訊環境
+restart_item	<flash>購買"回歸禮包"<flash><br>取得世界篇3章為止已通關的遊戲狀態！<br>取得角色13隻！<br>取得貓咪券10張！<br>取得稀有券1張！
+restart_overwrite	要使用購買的"回歸禮包"嗎？<br><color=255,0,0>※開始使用後現有記錄將會消失<br>※如果不使用,購買的內容將會消失</color>
+restart_reflect	購買內容已反應<br>已取得世界篇已通關記錄！<br>已取得轉蛋券！
+slot_message	獲得「%s」<flash>%d個</flash>！
+slot_lastmessage	結果發表！
+slot_SNS_000	在 #貓咪拉霸 中獲得%s個貓罐頭啦！ #貓咪大戰爭
+medal_txt1	獲得%s！
+medal_txt2	獲得獎章%d個！
+medal_unknown	「？？？」<br>？？？
+line_Confirmation	尚未安裝LINE。<br>要移動至商城嗎？
+talk_Reward	獲得「%s」<flash>%d個！</flash>
+talk_000_push	拜託請繼續聽我說心願呀～！
+DL_permission	下載最新遊戲檔案。<br>建議在Wi-Fi連線良好環境下載。<br>檔案容量：%s MB
+map_minutes	【貓咪休息中】<br>要使用${itemNum}個喵力達A嗎？<br>通關次數可回復1次<br><color=255,255,0>可通關次數0/${countNum}（離回復1次還需${minutes1}分鐘）</color>
+assault_warning	通過關卡%d次後<br>距離下次可挑戰還需等待一段時間
+talk_001_push	都超過1天惹～快回來貓咪基地吧～
+slot_clearteam_txt_0	要使用前次通關時的編成嗎？
+slot_clearteam_txt_1	目前使用前次通關時的編成。
+slot_clearteam_txt_2	<flash>已置換為前次通關時的編成！</flash>
+slot_clearteam_txt_3	不要在編成畫面中顯示「使用前次通關時的編成」
+slot_clearteam_error	<color=255,255,0>本關卡尚未有前次通關時的編成</color>
+slot_copy_clearteam	已複製前次通關時的編成<br>已將複製移動到了出陣列表<br>請選擇「置換」
+slot_paste_clearteam	置換前次通關時的編成<br>確定嗎？
+hidden_rarity_0	粗劣的地圖
+hidden_rarity_1	普通的地圖
+hidden_rarity_2	最棒的地圖
+drop_popup_hidden	<flash>發掘！</flash>「%@」了！<br>將在貓咪基地進行鑑定！
+hidden_hour	還有%d小時%d分將可鑑定完畢！
+hidden_minutes	還有%d分將可鑑定完畢！
+unlock_popup_message_77	<flash>開始可以發掘「地圖」了！</flash><br>在「傳奇故事」模式中<br>*有機會*可以入手
+unlock_popup_message_78	<flash>Level Up！</flash><br>發掘地圖的等級提高至<color=255,255,0>%d</color>了！<br>開始可以發掘稀有度更高的地圖了！
+enemy_name_unknown	未確認敵人角色
+nyancombo_overwrite_popup_title	要安排此貓咪聯組嗎？
+nyancombo_overwrite_popup_description	點選聯組名顯示能力
+000_gatya_rare.png	i000_gatya_rare_tw.png
+000_gatya_rare.imgcut	000_gatya_rare_tw.imgcut
+000_gatya.png	i000_gatya_tw.png
+000_gatya.imgcut	000_gatya_tw.imgcut
+003_gatya_tuika01.png	003_gatya_tuika01_tw.png
+003_gatya_tuika01.imgcut	003_gatya_tuika01_tw.imgcut
+002_bank.png	i002_bank_tw.png
+002_bank.imgcut	002_bank_tw.imgcut
+nekodojo_twitter	我們「貓咪軍團」在貓咪道場%@中，獲得了%d分！%@
+nekodojo_facebook	我們「貓咪軍團」在貓咪道場%@中，獲得了%d分。\n %@
+tower_twitter	「貓咪軍團」侵略風雲貓咪塔%@了
+tower_facebook	「貓咪軍團」侵略風雲貓咪塔%@了\n%@
+facebook_txt1	我們“貓咪軍團”入侵%@了。\n%@
+twitter_txt1	我們“貓咪軍團”入侵%@了！
+picBook_getCatFood1	%@已解放！
+picBook_getCatFood2	獲得貓罐頭５個！
+challenge_twitter	我們「貓咪軍團」在挑戰賽的%@中，獲得了%d分！
+challenge_facebook	我們「貓咪軍團」在挑戰賽的%@中，獲得了%d分！\n %@
+ranking_twitter	我們「貓咪軍團」在排行關卡%@中，獲得了%d分！%@
+ranking_facebook	我們「貓咪軍團」在排行關卡%@中，獲得了%d分！\n %@
+app_name	貓咪大戰爭
+review1	如果喜歡“貓咪大戰爭”的話\n請給我們評價♩
+review2	進行評價
+review3	之後評價
+review4	不評價
+appLovin_error0_txt	找不到該影片
+appLovin_error1_txt	請再試一次
+appLovin_error2_txt	請確認您的網路是否正常連線並且再試一次。
+appLovin_error3_txt	請確認您的記憶體容量是否足夠並且再試一次。
+facebook_txt2	貓咪大戰爭創舉達成☆挑戰模式過關！
+facebook_txt3	超推薦♪噁心又可愛的貓咪們大爆走啦！“貓咪大戰爭”☆輸入邀請碼可獲得10,000經驗值！\\n萌貓邀請碼「%@」\\n※日本破關後，即可輸入。\\n%@
+facebook_txt4	超推薦♪噁心又可愛的貓咪們大爆走啦！“貓咪大戰爭”☆輸入邀請碼可獲得10,000經驗值！\\n豌豆貓邀請號「%@」\\n※日本破關後，即可輸入。\\n%@
+twitter_txt2	貓咪大戰爭創舉達成☆挑戰模式過關！
+twitter_txt3	超推薦♪噁心又可愛的手遊APP“貓咪大戰爭”☆輸入邀請碼可獲得10,000經驗值！\n萌貓邀請碼「%@」※日本破關後，即可輸入。
+twitter_txt4	超推薦♪噁心又可愛的手遊APP“貓咪大戰爭”☆輸入邀請碼可獲得10,000經驗值！\n豌豆貓邀請號「%@」※日本破關後，即可輸入。
+line_txt1	超入迷～！熱衷於噁心又可愛的貓咪大戰爭中！\\n萌貓邀請碼「%@」\\n※日本破關後，即可輸入。\\n%@
+line_txt2	超入迷～！熱衷於噁心又可愛的貓咪大戰爭中！\n萌貓邀請碼「%@」\n※日本破關後，即可輸入。\n%@
+line_txt3	超入迷～！熱衷於噁心又可愛的貓咪大戰爭中！\\n豌豆貓邀請號「%@」\\n※日本破關後，即可輸入。\\n%@
+line_txt4	超入迷～！熱衷於噁心又可愛的貓咪大戰爭中！\n豌豆貓邀請號「%@」\n※日本破關後，即可輸入。\n%@
+kakao_txt1	超入迷～！熱衷於噁心又可愛的貓咪大戰爭中！\\n萌貓邀請碼「%@」\\n※在日本過關之後即可輸入\\n
+kakao_txt2	超入迷～！熱衷於噁心又可愛的貓咪大戰爭中！\n萌貓邀請碼「%@」\n※在日本過關之後即可輸入\n
+kakao_txt3	我們“貓咪軍團”入侵%@了。
+err_txt1	系統檢測到異常A發生。
+err_txt2	系統檢測到異常B發生。
+err_txt3	系統檢測到異常C發生。
+err_txt4	系統檢測到異常D發生。
+err_txt5	系統檢測到異常E發生。
+err_txt6	系統檢測到異常F發生。
+kerihime_txt1	\n\n
+kerihime_txt2	\n\n\n\n
+kerihime_txt3	\n\n
+kerihime_txt4	\n\n
+kerihime_txt5	\n\n
+kerihime_txt6	\n\n
+kerihime_txt7	\n\n
+kerihime_txt8	%@
+kerihime_txt9	\n\n
+kerihime_txt11	\n\n
+kerihime_txt12	\n\n\n\n\n
+kerihime_txt13	\n\n
+kerihime_txt21	\n\n
+kerihime_txt22	\n\n\n\n\n
+kerihime_txt23	\n\n
+kerihime_tw49	\n\n
+kerihime_tw50	\n\n
+kerihime_fa49	\n\n
+kerihime_fa50	\n\n
+manbo_scheme	jp.selectbutton.manbotheworld://collaboration/nyanko1
+manbo_url	https://itunes.apple.com/kr/app/survive!-mola-mola!/id915222954?l=ko&ls=1&mt=8
+manbo_txt11	取得於「活下去！曼波魚！」\n中可用特典，\n您現在要啟動\n活下去！曼波魚！\n遊戲嗎？
+manbo_txt12	確定要\n取消獲得特典\n的機會嗎？\n※取消後欲再次獲取特典者，\n需要再次\n挑戰本關卡。
+manbo_txt13	裝置內無此遊戲。\n確定移動至下載\n「活下去！曼波魚！」頁面嗎？
+manbo_txt14	恭喜獲得「活下去！曼波魚！」的合作特典！
+manbo_txt15	確定要開啟「活下去！曼波魚！」嗎？
+manbo_txt16	尚未安裝者會移至遊戲下載點。
+appstore_txt1	噁心又可愛☆貓咪們超可愛的～！遊戲操作簡單，誰都能馬上得心應手，超推薦！\n在日本過關之後只要輸入邀請碼，就可以獲得10,000特別獎勵經驗值。\n邀請碼「%@」\n讓我們一起瘋狂愛上“貓咪大戰爭”吧♪
+iosver_error	請更新您的iOS版本。
+limited_function	現在無法使用
+model_conversion2	
+noapp_kakao	欲使用本功能，請安裝Kakao Talk。
+noapp_line	欲使用本功能，請安裝Line。
+store_url	https://itunes.apple.com/tw/app/mao-mi-da-zhan-zheng/id971601423?l=zh&ls=1&mt=8
+url_abbr	https://ponos.s3.amazonaws.com/iphone/tw/battlecats.html
+img026.png	img026_tw.png
+img026.imgcut	img026_tw.imgcut
+img038.png	img038_tw.png
+img038.imgcut	img038_tw.imgcut
+ec000.png	ec000_tw.png
+ec000.imgcut	ec000_tw.imgcut
+ec001.png	ec001_tw.png
+ec001.imgcut	ec001_tw.imgcut
+ec002.png	ec002_tw.png
+ec002.imgcut	ec002_tw.imgcut
+ec003.png	ec003_tw.png
+ec003.imgcut	ec003_tw.imgcut
+ec004.png	ec004_tw.png
+ec004.imgcut	ec004_tw.imgcut
+ec005.png	ec005_tw.png
+ec005.imgcut	ec005_tw.imgcut
+ec006.png	ec006_tw.png
+ec006.imgcut	ec006_tw.imgcut
+ec007.png	ec007_tw.png
+ec007.imgcut	ec007_tw.imgcut
+ec008.png	ec008_tw.png
+ec008.imgcut	ec008_tw.imgcut
+ec009.png	ec009_tw.png
+ec009.imgcut	ec009_tw.imgcut
+ec010.png	ec010_tw.png
+ec010.imgcut	ec010_tw.imgcut
+ec011.png	ec011_tw.png
+ec011.imgcut	ec011_tw.imgcut
+ec012.png	ec012_tw.png
+ec012.imgcut	ec012_tw.imgcut
+ec013.png	ec013_tw.png
+ec013.imgcut	ec013_tw.imgcut
+ec014.png	ec014_tw.png
+ec014.imgcut	ec014_tw.imgcut
+ec015.png	ec015_tw.png
+ec015.imgcut	ec015_tw.imgcut
+ec016.png	ec016_tw.png
+ec016.imgcut	ec016_tw.imgcut
+ec017.png	ec017_tw.png
+ec017.imgcut	ec017_tw.imgcut
+ec018.png	ec018_tw.png
+ec018.imgcut	ec018_tw.imgcut
+ec019.png	ec019_tw.png
+ec019.imgcut	ec019_tw.imgcut
+ec020.png	ec020_tw.png
+ec020.imgcut	ec020_tw.imgcut
+ec021.png	ec021_tw.png
+ec021.imgcut	ec021_tw.imgcut
+ec022.png	ec022_tw.png
+ec022.imgcut	ec022_tw.imgcut
+ec023.png	ec023_tw.png
+ec023.imgcut	ec023_tw.imgcut
+ec024.png	ec024_tw.png
+ec024.imgcut	ec024_tw.imgcut
+ec025.png	ec025_tw.png
+ec025.imgcut	ec025_tw.imgcut
+ec026.png	ec026_tw.png
+ec026.imgcut	ec026_tw.imgcut
+ec027.png	ec027_tw.png
+ec027.imgcut	ec027_tw.imgcut
+ec028.png	ec028_tw.png
+ec028.imgcut	ec028_tw.imgcut
+ec029.png	ec029_tw.png
+ec029.imgcut	ec029_tw.imgcut
+ec030.png	ec030_tw.png
+ec030.imgcut	ec030_tw.imgcut
+ec031.png	ec031_tw.png
+ec031.imgcut	ec031_tw.imgcut
+ec032.png	ec032_tw.png
+ec032.imgcut	ec032_tw.imgcut
+ec033.png	ec033_tw.png
+ec033.imgcut	ec033_tw.imgcut
+ec034.png	ec034_tw.png
+ec034.imgcut	ec034_tw.imgcut
+ec035.png	ec035_tw.png
+ec035.imgcut	ec035_tw.imgcut
+ec036.png	ec036_tw.png
+ec036.imgcut	ec036_tw.imgcut
+ec037.png	ec037_tw.png
+ec037.imgcut	ec037_tw.imgcut
+ec038.png	ec038_tw.png
+ec038.imgcut	ec038_tw.imgcut
+ec039.png	ec039_tw.png
+ec039.imgcut	ec039_tw.imgcut
+ec040.png	ec040_tw.png
+ec040.imgcut	ec040_tw.imgcut
+ec041.png	ec041_tw.png
+ec041.imgcut	ec041_tw.imgcut
+ec042.png	ec042_tw.png
+ec042.imgcut	ec042_tw.imgcut
+ec043.png	ec043_tw.png
+ec043.imgcut	ec043_tw.imgcut
+ec044.png	ec044_tw.png
+ec044.imgcut	ec044_tw.imgcut
+ec045.png	ec045_tw.png
+ec045.imgcut	ec045_tw.imgcut
+ec046.png	ec046_tw.png
+ec046.imgcut	ec046_tw.imgcut
+img007.png	img007_tw.png
+img007.imgcut	img007_tw.imgcut
+img009_3.png	img009_3_tw.png
+img009_3.imgcut	img009_3_tw.imgcut
+img009_4.png	img009_4_tw.png
+img009_4.imgcut	img009_4_tw.imgcut
+img009_5.png	img009_5_tw.png
+img009_5.imgcut	img009_5_tw.imgcut
+img009_6.png	img009_6_tw.png
+img009_6.imgcut	img009_6_tw.imgcut
+img013.png	img013_tw.png
+img013.imgcut	img013_tw.imgcut
+img017.png	img017_tw.png
+img017.imgcut	img017_tw.imgcut
+img018.png	img018_tw.png
+img018.imgcut	img018_tw.imgcut
+img030.png	img030_tw.png
+img030.imgcut	img030_tw.imgcut
+img035.png	img035_tw.png
+img035.imgcut	img035_tw.imgcut
+img036.png	img036_tw.png
+img036.imgcut	img036_tw.imgcut
+img050.png	img050_tw.png
+img050.imgcut	img050_tw.imgcut
+img101.png	img101_tw.png
+img101.imgcut	img101_tw.imgcut
+img102.png	img102_tw.png
+img102.imgcut	img102_tw.imgcut
+ot000_c.png	ot000_c_tw.png
+ot000_c.imgcut	ot000_c_tw.imgcut
+ot000_o.png	ot000_o_tw.png
+ot000_o.imgcut	ot000_o_tw.imgcut
+ot001_c.png	ot001_c_tw.png
+ot001_c.imgcut	ot001_c_tw.imgcut
+ot001_o.png	ot001_o_tw.png
+ot001_o.imgcut	ot001_o_tw.imgcut
+ot002_c.png	ot002_c_tw.png
+ot002_c.imgcut	ot002_c_tw.imgcut
+ot002_o.png	ot002_o_tw.png
+ot002_o.imgcut	ot002_o_tw.imgcut
+ot003_c.png	ot003_c_tw.png
+ot003_c.imgcut	ot003_c_tw.imgcut
+ot003_o.png	ot003_o_tw.png
+ot003_o.imgcut	ot003_o_tw.imgcut
+ot004_c.png	ot004_c_tw.png
+ot004_c.imgcut	ot004_c_tw.imgcut
+ot004_o.png	ot004_o_tw.png
+ot004_o.imgcut	ot004_o_tw.imgcut
+ot005_c.png	ot005_c_tw.png
+ot005_c.imgcut	ot005_c_tw.imgcut
+ot005_o.png	ot005_o_tw.png
+ot005_o.imgcut	ot005_o_tw.imgcut
+ot006_c.png	ot006_c_tw.png
+ot006_c.imgcut	ot006_c_tw.imgcut
+ot006_o.png	ot006_o_tw.png
+ot006_o.imgcut	ot006_o_tw.imgcut
+ot007_c.png	ot007_c_tw.png
+ot007_c.imgcut	ot007_c_tw.imgcut
+ot007_o.png	ot007_o_tw.png
+ot007_o.imgcut	ot007_o_tw.imgcut
+ot008_c.png	ot008_c_tw.png
+ot008_c.imgcut	ot008_c_tw.imgcut
+ot008_o.png	ot008_o_tw.png
+ot008_o.imgcut	ot008_o_tw.imgcut
+ot009_c.png	ot009_c_tw.png
+ot009_c.imgcut	ot009_c_tw.imgcut
+ot009_o.png	ot009_o_tw.png
+ot009_o.imgcut	ot009_o_tw.imgcut
+ot010_c.png	ot010_c_tw.png
+ot010_c.imgcut	ot010_c_tw.imgcut
+ot010_o.png	ot010_o_tw.png
+ot010_o.imgcut	ot010_o_tw.imgcut
+ot011_c.png	ot011_c_tw.png
+ot011_c.imgcut	ot011_c_tw.imgcut
+000_img013.imgcut	i000_img013_tw.imgcut
+terms_network_unavailable	通訊失敗。<br>請確認網路連線是否正常。
+item_pack_name_21	購買大感謝禮包
+item_pack_name_22	期間限定！購買白金券
+kakao_txt4	超入迷～！熱衷於噁心又可愛的貓咪大戰爭中！\\n豌豆貓邀請號「%@」\\n※日本破關後，即可輸入。\\n%@
+kakao_txt5	超入迷～！熱衷於噁心又可愛的貓咪大戰爭中！\n豌豆貓邀請號「%@」\n※日本破關後，即可輸入。\n%@
+push_txt_leadership1	統率力回復了喵！
+push_txt_leadership2	統率力回復了喵～快點來玩呀～喵喵
+push_txt_leadership3	久等了喵～統率力回復喵～
+push_txt_leadership4	統率力已經回復了喵～你在幹嘛？～
+push_txt_leadership5	統率力回復～！大家都在等喵～
+push_txt_leadership6	統率力回復完畢！是作戰的時間了！
+push_txt_leadership7	準備出陣了！不要偷懶快點來集合！
+push_txt_leadership8	想你喵…我準備好了喵…不快點來嗎…？
+push_txt_treasure	寶物嘉年華活動！
+kerihime_txt31	abc06215\nabc06216\nabc06217
+kerihime_txt32	abc06219\nabc06220\nabc06221\nabc06222\nabc06223\nabc06224
+kerihime_txt33	abc06226\nabc06227\nabc06226
+merc_url	https://goo.gl/8C7t6L
+merc_txt11	已獲得在「梅露可物語」中\n可使用的合作特典。\n您確定要開啟\n「梅露可物語」\n並取得特典嗎？
+merc_txt12	您將取消\n獲得特典的機會。\n確定取消無誤嗎？\n※取消後欲再次獲得特典時、\n需要再次挑戰此關卡\n並過關才能再次取得。
+merc_txt13	未安裝該遊戲App\n立刻前往下載\n「梅露可物語」
+merc_txt14	恭喜您獲得「梅露可物語」的合作特典！
+merc_txt15	您要開啟「梅露可物語」嗎？
+merc_txt16	未安裝該App者則會跳至下載頁面。
+taiwan_txt11	恭喜您到達中文版 日本 關卡！\n\n為感謝您對「貓咪大戰爭」長久以來的支持，\n我們將在日文版中送您貓罐頭 150 罐！\n\n現在就啟動日文版「貓咪大戰爭」嗎？
+zombie_sns	我們「貓咪軍團」把%@從不死生物手中救回了！%s %s
+Invasion_sns	我們「貓咪軍團」從謎之生命體手中救回了宇宙！%s %s
+labyrinth_SNS	“貓咪軍團”入侵地底迷宮的%@了。%s %s
+item_pack_name_23	購買 新手應援禮包
+item_pack_name_24	購買 新手超應援禮包
+item_pack_name_25	購買 新手激應援禮包
+item_pack_name_26	購買 尊爵白金優惠  
+talk_002_push	快回來貓咪基地繼續聊聊呀～
+equipment_unworn	裝著儲藏庫的本能珠珠
+equipment_confirm	要把「${equipmentName}」<br>裝著「${characterName}」嗎？<br>${faultMessage}
+release_confirm	要消費NP<br>卸裝「%@」嗎？（%d → <color=255,255,0>%d</color>）<br>直接點擊本能珠珠圖示也可以執行。
+release_error	NP不足<br>需要NP：%d
+composition_confirm	要合成「%@」%d個<br>提高等級嗎？（%@ → <color=255,255,0>%@</color>）
+composition_error	合成需要同種本能珠珠%d個 <br>還差%d個
+composition_finish	合成完畢！<br>取得「%@」！
+composition_limit	已經達到等級上限<br>目前版本已經無法合成
+overwrite_confirm	要覆蓋現在的本能珠珠<br>新裝著上「%@」嗎？<br><color=255,255,0>現在的本能珠珠「%@」將會消失</color>
+overwrite_remind	<color=255,255,0>現在裝著中的「%@」將消失<br>確定沒問題嗎？</color>
+exchange_all_equip_np	將儲藏庫內的本能珠珠全部變換成NP<br>確定嗎？（%d → <color=255,255,0>%d</color>）
+equipment_drop	${rewardName}<br><color=255,255,0>本能珠珠</color>「${equipmentName}+${equipmentNum}」<br>${itemPossession}
+equipment_limit	儲藏庫的本能珠珠已滿<br>請選擇合成或變換NP<br>請減少儲藏庫內的本能珠珠<br>
+potential_name	本能
+potential_storge	現在儲藏庫中有%d個
+slotunlock_medal_txt1	未到達解放條件<br>解放條件：獲得貓咪獎章%d個以上
+collabo_send_message1	要開啟「%@」嗎？
+collabo_send_title_31	貓咪大怪盜
+collabo_send_scheme_31	ponos-odorobo://
+collabo_send_url_31	https://app.adjust.com/z53yc75
+collabo_send_url_android_31	https://app.adjust.com/z53yc75
+item_pack_name_27	購買限定角色「稀有轉蛋貓」
+unlock_popup_message_79	<flash>推薦篩選功能已解放！</flash><br>點擊顯示在<br>傳奇故事、特別關卡的開關鍵後<br>將會只顯示<br>尚未通過關卡與推薦關卡
+filterstage_txt1	【推薦篩選功能】<br>打開按鍵後將只會顯示<br>尚未通過關卡與推薦關卡
+collaboration_txt3	開啟貓咪大怪盜！
+slotunlock_number_txt1	出陣列表%d已解放了！
+scheme_item_param_77	
+scheme_popup_77	<flash>填問卷好禮！<br>獲得%@%@個！</flash>
+zombie_talk_0	<flash>%s</flash>中<br>不死生物來襲中！
+zombie_talk_1	<flash>%s</flash>中<br>不死生物來襲中！
+chapter_name_0	世界篇第1章
+chapter_name_1	世界篇第2章
+chapter_name_2	世界篇第3章
+chapter_name_4	未來篇第1章
+chapter_name_5	未來篇第2章
+chapter_name_6	未來篇第3章
+chapter_name_7	宇宙篇第1章
+unlock_popup_message_80	<flash>喵力達專用關卡「斷罪天使海蝶降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_81	<flash>喵力達專用關卡「地獄門」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_82	<flash>喵力達專用關卡「女帝飛來」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_83	<flash>喵力達專用關卡「亡者肥普降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_84	<flash>喵力達專用關卡「吉娃娃伯爵降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_85	<flash>喵力達專用關卡「春宵苦短，少女做夢吧！」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_86	<flash>喵力達專用關卡「紅色突變」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_87	<flash>喵力達專用關卡「黑暗天堂」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_88	<flash>喵力達專用關卡「國士無雙」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_89	<flash>喵力達專用關卡「天譴」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_90	<flash>喵力達專用關卡「鐵子的部屋」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_91	<flash>喵力達專用關卡「絕望異次元」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_92	<flash>喵力達專用關卡「狂亂貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_93	<flash>喵力達專用關卡「狂亂坦克貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_94	<flash>喵力達專用關卡「狂亂戰鬥貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_95	<flash>喵力達專用關卡「狂亂噁心貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_96	<flash>喵力達專用關卡「狂亂牛貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_97	<flash>喵力達專用關卡「狂亂鳥貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_98	<flash>喵力達專用關卡「狂亂魚貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_99	<flash>喵力達專用關卡「狂亂蜥蜴貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_100	<flash>喵力達專用關卡「狂亂巨神貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlockpopup_Guide_1	詳細請確認"幫助"吧！
+jinja_saisen00	祈求貓咪城開發素材<br>要添香油100,000XP嗎？
+jinja_saisen01	祈求貓薄荷<br>要添香油1,000,000XP嗎？
+jinja_saisen02	祈求貓眼石<br>要添香油3,000,000XP嗎？
+jinja_saisen03	祈求可以獲得某個有力的道具<br>要添香油5,000,000XP嗎？
+jinja_lock00	XP不足喔！<br>※可以通關來獲得<br>或由道具商店中購買。
+jinja_lock01	目前暫時沒辦法給予回饋喔！
+jinja_lock02	神社返回某處了。
+jinja_itemget	獲得了%@！
+legend_warning	<color=255,255,0>關卡挑戰條件<br>通過傳奇故事內所有關卡等級</color>
+item_pack_name_28	購買限定角色「小小獨眼藍貓蛋」
+jinja_levelup_popup	<flash>等級提升！</flash><br>貓咪神社的等級提升到%d了！<br>
+gamatotoReward_1_2	找到大袋啦！
+talk_003_push	
+jinja_omikuji00	要添香油5XP求貓咪籤嗎？
+omikuji_lock00	XP不足喔！<br>※可以通關來獲得<br>或由道具商店中購買。
+omikuji_lock01	目前暫時沒辦法求籤喔！
+gama_jinja_00_popup	<flash>貓咪籤有回饋啦！</flash><br>神的使者「伊奈利」臨時加入加碼多多探險隊！<br>獲得獎勵限一次數量增加<br>※貓罐頭除外
+gama_jinja_00_name	伊奈利
+gama_jinja_00_charatext	來自神的使者臨時加入加碼多多探險隊的狐狸<br>獲得獎勵限一次數量增加<br>※貓罐頭除外
+item_pack_name_29	期間限定！購買 傳說券
+omikuji_fortune00	願望：
+omikuji_fortune01	學業：
+omikuji_fortune02	貴人：
+omikuji_fortune03	經商：
+omikuji_fortune04	失物：
+omikuji_fortune05	求財：
+omikuji_fortune06	外出：
+omikuji_fortune07	爭紛：
+omikuji_fortune08	健康：
+omikuji_fortune09	戀愛：
+omikuji_outlook	<color=255,255,0>展望：</color>
+gatyadata_error_popup	尚未開放轉蛋
+htmldata_error_popup	無法顯示頁面
+gama_jinja_00_gohome	伊奈利返回神的地方了。
+gama_collabo_03_popup	<flash>初音未來合作進行中！</flash><br>「雪音兔」臨時加入加碼多多探險隊！<br>合作期間中將帶來更多量的獎勵<br>※貓罐頭除外
+gama_collabo_03_name	雪音兔
+gama_collabo_03_charatext	加碼多多探險隊中臨時加入的雪未來的寵物兔子<br>將在合作期間中帶來更多量的獎勵。<br>※貓罐頭除外
+gamestop_device	您使用的遊戲存檔\n已偵測到在其他裝置上開始使用，\n現在已無法於此裝置上使用。\n請刪除App後重新安裝\n則可從頭開始進行遊戲。
+item_pack_name_32	支援優惠！土豪貓3小時無限使用
+item_pack_name_33	支援優惠！貓型電腦3小時無限使用
+item_pack_name_34	支援優惠！狙擊手3小時無限使用
+otasuke_sale2	3小時無限使用土豪貓！<br>
+otasuke_sale3	3小時無限使用貓型電腦！<br>
+otasuke_sale5	3小時無限使用狙擊手！<br>
+GiftMessage_019	<flash>通關獎勵第八彈</flash><br>只要通過「古代樹迷宮」的最後關卡<br>就有機會獲得超稀有的角色「古神面多龍」喔
+save_failed1	由於裝置容量不足記錄存檔失敗。
+save_failed2	由於裝置容量不足記錄存檔失敗。
+comeback_stamp_push01	已經領取今天的回鍋獎勵章了嗎？ 還有大量XP等你來領喔～！
+comeback_stamp_push02	每天貓咪券3張！只要登入回鍋獎勵章就可領取～！
+comeback_stamp_push03	已經領取今天的回鍋獎勵章了嗎？ 目標登入7天可領稀有券2張喔～！
+item_pack_name_36	購買  強化優惠組！貓罐頭&道具禮包(梅)
+item_pack_name_37	購買  強化優惠組！貓罐頭&道具禮包(竹)
+item_pack_name_38	購買  強化優惠組！貓罐頭&道具禮包(松)
+item_conversion	消費白金券碎片%d片<br><flash>白金券%d張已入手！</flash>
+fragment_message	蒐集白金券碎片<br>10片即可兌換白金券1張<br>現在持有%d片
+fragment_bonus	只有現在使用${gatyaNumber}次連續轉蛋<br>就可獲得白金券碎片1片！<br>蒐集10片<flash>白金券</flash>1張即可入手喔
+equipment_error	這個本能珠珠只可裝著於有對<br>「%@ %@」效果的角色上
+scratch_message	「%s」%d個已入手！
+scratch_SNS_000	在 #貓咪刮刮樂 中獲得%d個貓罐頭啦！<br>期間中每週都可挑戰！每週來玩刮刮樂帶走更多貓罐頭吧～！<br><br>#貓咪大戰爭 #貓咪刮刮樂 #貓咪暑假2024
+item_pack_name_39	購買 感謝禮包
+potential_skill_name57	屬性　惡魔
+assault_skip	【貓咪稍微恢復精神了】<br><flash>可通關次數回復1次！</flash><br>將前往關卡選擇畫面<br><color=255,255,0>可通關次數 1/${countNum}${assaultWord}</color>
+assault_word	（離完全回復還需${minutes2}分鐘）
+potential_skill_name58	破壞惡魔盾
+potential_skill_name59	靈魂攻擊
+potential_skill_name60	詛咒
+demon_error_popup	<color=255,255,0>尚無法挑戰本關卡</color>
+demon_timelimit	還有 %d:%02d:%02d
+sealed_announce	受惡魔城效果影響等級封印中<br>現在角色解放Lv %d
+sealed_release	破壞惡魔城，部分等級已解放！<br>現在角色<flash>解放Lv %d</flash>
+sealed_information	惡魔城封印效果發動中<br>現在角色<color=255,255,0>解放Lv %d</color>
+unlock_popup_message_101	<flash>魔界篇出現！</flash><br>達成所有魔界調查通往魔界之門已開啟！<br>可由標題畫面的世界篇移動前往
+unlock_popup_message_102	<flash>打倒了貓咪軍團的大神官瑪魔！</flash><br>但是！未能阻止破壞神復活
+unlock_popup_message_103	<flash>全部關卡過關獎勵！</flash><br>獲得EX角色「%@」！<br>可以在升級畫面中取得。
+unlock_popup_message_104	<flash>惡魔城封印效果已無效化！</flash><br>角色等級的＋Lv數也已全數解放！
+demon_return_title	有尚未領取的獎勵！<br>進入貓咪基地後可領取。<br>移動至標題畫面！
+demon_return_select	有尚未領取的獎勵！<br>進入貓咪基地後可領取。<br>移動至貓咪基地畫面！
+stage_restriction_charagroup_5	心動時分貓咪學園角色
+stage_restriction_charagroup_6	貓咪的暑假活動昆蟲角色
+stage_restriction_charagroup_7	境界觸發者合作角色
+scheme_item_param_87	nyanko9_tw1
+scheme_popup_87	貓咪Quest<br>合作任務達成獎勵１<br><flash>%@%@個已入手！</flash>
+scheme_item_param_88	nyanko9_tw2
+scheme_popup_88	貓咪Quest<br>合作任務達成獎勵２<br><flash>%@%@個已入手！</flash>
+scheme_item_param_89	nyanko9_tw3
+scheme_popup_89	貓咪Quest<br>合作任務達成獎勵３<br><flash>%@%@個已入手！</flash>
+scheme_item_param_90	nyanko9_tw4
+scheme_popup_90	貓咪Quest<br>合作任務達成獎勵４<br><flash>%@%@個已入手！</flash>
+scheme_item_param_91	nyanko9_tw5
+scheme_popup_91	貓咪Quest<br>合作任務達成獎勵５<br><flash>%@%@張已入手！</flash>
+settlement_error	尚未完成付款。\n付款完成後將會發送商品。
+tower_sns_006	“貓咪軍團”入侵了異界貓咪塔的%@了。%s %s
+scheme_popup_96	<flash>填問卷好禮！<br>獲得%@%@個！</flash>
+skip_description	前次已通過${stageName1}所以<br>這次將可從<flash>${stageName2}</flash>開始
+stageskip_message_0	已通過風雲貓咪塔 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_1	已通過異界貓咪塔 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+unlock_popup_message_106	<flash>宇宙篇全部關卡過關獎勵！</flash><br>因為打倒了神所以「貓咪超人」出現了！</flash><br>可由貓咪轉蛋＋中獲得
+unlock_popup_message_107	<flash>「貓咪轉蛋+」解放了！</flash><br>貓咪儲藏庫可保存的角色64組 → <color=255,255,0>128組</color><br>基本角色的交換NP 1 → <color=255,255,0>2</color>
+scratch_SNS_001	
+gama_jinja_01_popup	<flash>貓咪籤有回饋啦！</flash><br>獲得${itemName}×${itemNum}！
+scratch_SNS_002	在 #貓咪學園福利社特製刮刮樂 中獲得%d個貓罐頭啦！<br>期間中每週都可挑戰！每週來玩刮刮樂帶走更多貓罐頭吧～！<br><br>#貓咪大戰爭 #貓咪刮刮樂 #心動時分貓咪學園
+view_unavailable	暫時無可觀看廣告
+view_limit_reached	觀看已達限制次數
+data_download_error_hash_mismatch	遊戲紀錄發生問題。（錯誤碼：TE01）<br>來信時請附上詢問碼、錯誤碼等相關資訊。
+data_download_error_could_not_load	遊戲紀錄發生問題。（錯誤碼：TE02）<br>來信時請附上詢問碼、錯誤碼等相關資訊。
+data_download_error_could_not_read_local_backup	遊戲紀錄發生問題。（錯誤碼：TE03）<br>來信時請附上詢問碼、錯誤碼等相關資訊。
+data_download_error_could_not_load_local_backup	遊戲紀錄發生問題。（錯誤碼：TE04）<br>來信時請附上詢問碼、錯誤碼等相關資訊。
+GiftMessage_020	<flash>通關獎勵第九彈</flash><br>只要通過「千年獸的靈峰」的最後關卡<br>就有機會獲得超稀有的角色「古獸納拉」喔
+unlock_popup_message_108	<flash>喵力達專用關卡「藍色衝擊」開放了！</flash><br>使用喵力達隨時都可以挑戰
+scratch_SNS_003	在 #迷你貓咪刮刮樂 中獲得%d個貓罐頭啦！<br>現在就來玩刮刮樂並帶走貓罐頭吧～！<br><br>#貓咪大戰爭 #迷你貓咪刮刮樂
+unlock_popup_message_109	<flash>喵力達專用關卡「狂亂萌貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_110	<flash>喵力達專用關卡「緊急暴風警報」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_111	<flash>喵力達專用關卡「滾死樂團」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_112	<flash>喵力達專用關卡「零號颱風」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_113	<flash>喵力達專用關卡「大魔王」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_114	<flash>喵力達專用關卡「暗沼幽靈」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_115	<flash>喵力達專用關卡「大狂亂貓咪降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_116	<flash>喵力達專用關卡「大狂亂坦克貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_117	<flash>喵力達專用關卡「大狂亂戰鬥貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_118	<flash>喵力達專用關卡「大狂亂噁心貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_119	<flash>喵力達專用關卡「大狂亂牛貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_120	<flash>喵力達專用關卡「大狂亂鳥貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_121	<flash>喵力達專用關卡「大狂亂魚貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_122	<flash>喵力達專用關卡「大狂亂蜥蜴貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_123	<flash>喵力達專用關卡「大狂亂巨神貓降臨」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_124	<flash>喵力達專用關卡「絕望新次元」開放了！</flash><br>使用喵力達隨時都可以挑戰
+unlock_popup_message_125	<flash>通關獎勵！</flash><br>取得EX角色「土偶喵丸」<br>第3進化！合計等級30級以上即可進化<br>使用XP、素材進化。
+unlock_popup_message_126	<flash>通關獎勵！</flash><br>取得EX角色「巨狼與烏爾斯」<br>第3進化！合計等級30級以上即可進化<br>使用XP、素材進化。
+unlock_popup_message_127	<flash>通關獎勵！</flash><br>取得EX角色「古神面多龍」<br>第3進化！合計等級30級以上即可進化<br>使用XP、素材進化。
+unlock_popup_message_128	<flash>通關獎勵！</flash><br>取得EX角色「古獸納拉」<br>第3進化！合計等級30級以上即可進化<br>使用XP、素材進化。
+unlock_popup_message_129	<flash>等級上限解除！</flash><br>現在可以使用貓眼石<br>來解放部分EX角色的等級上限了<br>※等級排行需到達1600後才能使用。
+unlock_popup_message_130	<flash>「傳奇故事」模式中出現「傳奇故事0」！</flash><br>可以從「傳奇故事」模式進入挑戰
+unlock_popup_message_131	<flash>通關獎勵！</flash><br>取得EX角色「議事阻撓貓X」<br>第3進化！合計等級30級以上即可進化<br>使用XP、素材進化。
+unlock_popup_message_132	<flash>地底迷宮解放了！</flash><br>在活動舉辦期間，選擇出現在<br>主畫面的地底迷宮即可挑戰！
+drop_info_single	<color=0,0,0>本關卡中<br>僅限掉落1次的獎勵</color><br><color=255,0,0>${dropContents}</color><color=0,0,0><br>${statusWord}</color>
+drop_info_multi	<color=0,0,0>本關卡中<br>僅限掉落1次的獎勵</color><br><color=255,0,0>${dropContents}</color><color=0,0,0>等<br>${statusWord}</color>
+drop_contents1	${itemName}+${itemNum}
+drop_contents2	角色「${charaName}」
+drop_contents3	「${charaName}」的第3進化
+status_acquire	已取得完畢
+status_unacquired	尚未取得
+AccountDelete_error01	刪除碼產生失敗。<br>請您確認裝置的連線狀態。
+AccountDelete_error02	帳號刪除失敗。<br>請您確認裝置的連線狀態。
+AccountDelete_error03	刪除碼已超過有效期限，<br>請從頭再試一次。
+scheme_item_param_47	nekohopper_tw1
+scheme_popup_47	GO!GO!貓咪大彈跳<br>合作任務達成獎勵１<br><flash>獲得%@%@個！</flash>
+scheme_item_param_48	nekohopper_tw2
+scheme_popup_48	GO!GO!貓咪大彈跳<br>合作任務達成獎勵２<br><flash>獲得%@%@個！</flash>
+scheme_item_param_49	nekohopper_tw3
+scheme_popup_49	GO!GO!貓咪大彈跳<br>合作任務達成獎勵３<br><flash>獲得%@%@個！</flash>
+scheme_item_param_50	nekohopper_tw4
+scheme_popup_50	GO!GO!貓咪大彈跳<br>合作任務達成獎勵４<br><flash>獲得%@%@個！</flash>
+scheme_item_param_51	nekohopper_tw5
+scheme_popup_51	GO!GO!貓咪大彈跳<br>合作任務達成獎勵５<br><flash>獲得%@%@張！</flash>
+boost_message	<color=255,0,255>加速</color><br><color=0,0,0>消費道具就可加速至3倍<br>戰鬥中點選道具<br>可切換OFF・2倍・3倍</color>
+unusable_info	有${unusableNum}隻角色被陷阱困住了！<br>自下個關卡起將無法編入隊伍
+change_info	有${unusableNum}隻角色被陷阱困住了！<br><color=255,255,0>從受困的角色中選擇${usableNum}隻<br>來拯救其脫離陷阱</color>
+change_limit	<color=255,255,0>無法繼續拯救角色了</color>
+change_lack	還可選擇<color=255,255,0>${usableNum}隻</color>要拯救的角色
+change_confirmation	受困陷阱的角色<br>自下個關卡起將無法編入隊伍<br>確定用目前的選擇嗎？
+labyrinth_start	地底迷宮活動舉辦中！<br>（活動舉辦期間：${startDate} ～ ${endDate}）<br>努力前往迷宮深處，和其他人一較高下吧！<br>活動結束後，可依照排行獲得各種獎勵。
+labyrinth_announce1	地底迷宮活動結果發表<br>（活動舉辦期間：${startDate} ～ ${endDate}）<br>最終排行：前 ${rankingNum}％！<br>獎勵請由貓咪信箱領取<br>（領取期限為１個月）
+labyrinth_announce2	地底迷宮活動結果發表<br>（活動舉辦期間：${startDate} ～ ${endDate}）<br>最終排行：前 ${rankingNum}％！<br>這次沒有獎勵可以拿喵<br>下次再加油吧～！
+labyrinth_announce3	地底迷宮活動結束了！<br>下次再來挑戰喵～
+labyrinth_challenge_item	在地底迷宮裡可以無限使用<br>「加速」跟「貓型電腦」喵！<br>※速度加強至3倍時需消費道具。
+labyrinth_play_error1	<color=255,255,0>在地底迷宮裡無法挑戰已經通過的關卡</color>
+labyrinth_play_error2	<color=255,255,0>尚未編成好挑戰關卡所需的角色<br>請選擇10隻可編成的角色來組成隊伍</color>
+labyrinth_slot_error	<color=255,255,0>在地底迷宮裡無法使用前次通關時的編成</color>
+labyrinth_slot_name	調查團
+labyrinth_combo_error	<color=255,255,0>受到地底迷宮詛咒的影響<br>無法自動安排貓咪聯組</color>
+labyrinth_cancel	確定要脫離戰鬥嗎？<br><color=255,0,0>部分角色被陷阱困住了</color><br><color=178,178,178>※受困陷阱的角色將無法於下次挑戰時編入隊伍</color>
+labyrinth_result	通過${stageName}啦！目前是所有調查團中的前${rankingNum}%喵！
+item_pack_name_71	購買 超划算！經驗值禮包
+item_pack_name_72	購買 超划算！貓眼石＆戰力道具禮包
+item_pack_name_73	購買 貓眼石＆稀有券組合
+item_pack_name_8	購買 超值！貓罐頭禮包
+item_pack_name_9	購買 超值！經驗值禮包
+item_pack_name_10	購買 超值！戰力道具禮包
+item_pack_name_47	購買 超值！貓罐頭禮包
+item_pack_name_48	購買 超值！經驗值禮包
+item_pack_name_49	購買 超值！戰力道具禮包
+item_pack_name_67	購買 超值！貓罐頭禮包
+item_pack_name_68	購買 超值！經驗值禮包
+item_pack_name_74	購買 超值！貓罐頭禮包
+potential_skill_warning01	<flash>等級${level}</flash>就可解放超本能<br>※附加等級也包含在內
+potential_skill_warning02	<flash>等級${level}</flash>就可解放第2個本能珠珠列表<br>※附加等級也包含在內
+potential_skill_option00	<flash>${charaName}</flash>的<br>超本能解放了！
+potential_skill_option01	<flash>${charaName}</flash>的<br>追加的本能珠珠列表解放了！
+potential_skill_option02	<flash>${charaName}</flash>的<br>超本能和追加的本能珠珠列表解放了！
+potential_name1	超本能
+potential_skill_name61	攻擊間隔縮短
+item_pack_name_75	購買 攻略應援禮包
+Castle_dev_finish03	<flash>${recipeName}的${partsName}改造完畢了！</flash>
+Castle_dev_finish04	<flash>素材合成完畢了！</flash><br> ${itemName}　${value1} → <color=255,255,0>${value2}</color>
+Castle_lock06	必要素材不足<br>※可以透過素材合成來獲得異次元素材
+Castle_dev_start03	開始改造${recipeName}的${partsName}
+Castle_dev_start04	開始合成素材
+Castle_UnlockDataId_9	低速砲的主砲開發完畢，<br>傳奇故事「古代研究所」過關
+Castle_UnlockDataId_10	鐵壁砲主砲開發完畢，<br>傳奇故事「古代研究所」過關
+Castle_UnlockDataId_11	閃雷砲的主砲開發完畢，<br>傳奇故事「古代研究所」過關
+Castle_UnlockDataId_12	水喉砲的主砲開發完畢，<br>傳奇故事「古代研究所」過關
+Castle_UnlockDataId_13	天使砲的主砲開發完畢，<br>傳奇故事「古代研究所」過關
+Castle_UnlockDataId_14	斬盾砲的主砲開發完畢，<br>傳奇故事「古代研究所」過關
+Castle_UnlockDataId_15	詛咒砲的主砲開發完畢，<br>傳奇故事「古代研究所」過關
+Castle_mixitem00	合成在改造或強化貓咪砲<br>「基座」「裝飾」時所需要的素材
+stage_restriction_charagroup_8	
+potential_skill_name62	小波動
+filter_option_description2	<color=0,0,0>可以更換「攻擊對象」和「效果/能力」的篩選方式<br>OR：會顯示符合任一條件的所有角色<br>AND：只會顯示完全符合條件的角色</color>
+unlock_popup_message_133	城堡寶開發隊的<br><flash>「基座・裝飾改造」和「素材合成」解放了！</flash><br>貓咪基地的加碼多多中可以確認。
+unlock_popup_message_134	<flash>＋Lv的上限解放！</flash><br>因為通過了關卡，<br>「小小貓們」的＋Lv解放至45了！
+unlock_popup_message_135	<flash>＋Lv的上限解放！</flash><br>因為通過了關卡，<br>「小小貓們」的＋Lv解放至50了！
+unlock_popup_message_136	<flash>＋Lv的上限解放！</flash><br>因為通過了關卡，<br>「小小貓們」的＋Lv解放至55了！
+unlock_popup_message_137	<flash>＋Lv的上限解放！</flash><br>因為通過了關卡，<br>「小小貓們」的＋Lv解放至60了！
+potential_skill_name63	超生命體特效
+potential_skill_name64	超獸特效
+stage_restriction_charagroup_9	貓咪
+potential_skill_name65	小烈波
+stageskip_message_2	已通過巨大生物強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_3	已通過巨象黑藏強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_4	已通過巨蛾蛾蛾強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_5	已通過巨大河馬星人強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_6	已通過特大號大天使強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_7	已通過巨大企鵝大哥Z強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_8	已通過巨大三惡魔強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+unlock_popup_message_138	<flash>「貓型電腦」的跳過戰鬥功能開放了！</flash><br>在點選兩次貓型電腦的狀態下，<br>選擇已通關的關卡並出擊<br>就可跳過戰鬥並獲得獎勵。<br>※部分關卡不適用此功能。
+ScatCPU_info1	要使用<flash>${itemNum1}個</flash>${itemName1}來跳過戰鬥嗎？<br>（今天還可以使用：${itemNum2}次）
+ScatCPU_info2	<flash>貓型電腦無限使用期間，將不會消費貓型電腦！</flash><br>要跳過戰鬥嗎？<br>（今天還可以使用：${itemNum}次）
+ScatCPU_XPdrop	<color=255,255,0>大獲全勝！！</color><br>通關經驗值<flash>入手啦！！</flash><br>「${itemName}+${itemNum}」
+ScatCPU_message	<color=255,0,255>貓型電腦</color><br><color=0,0,0>貓型CPU會幫你進行戰鬥<br>因為是貓型所以不能抱持太大期望<br>點擊2次時可大幅加強其功能<br>能在標示「CLEAR!」的關卡跳過戰鬥</color>
+ScatCPU_error1	跳過戰鬥功能的使用次數已達上限<br>使用次數將於明天的0點重置
+ScatCPU_error2	由於行動裝置的時間有所更動<br>您暫時無法使用跳過戰鬥功能
+ScatCPU_error3	貓型電腦不足<br>要前往道具商店購買嗎？
+ScatCPU_error4	要使用<flash>${itemNum1}個</flash>${itemName1}來跳過戰鬥嗎？<br><color=255,255,0>將無法取得積分獎勵關卡的「積分獎勵」</color><br>（今天還可以使用：${itemNum2}次）
+ScatCPU_error5	<flash>貓型電腦無限使用期間，將不會消費貓型電腦！</flash><br>要跳過戰鬥嗎？<br><color=255,255,0>將無法取得積分獎勵關卡的「積分獎勵」</color><br>（今天還可以使用：${itemNum2}次）
+ScatCPU_error6	要使用<flash>${itemNum1}個</flash>${itemName1}來跳過戰鬥嗎？<br><color=255,255,0>使用跳過戰鬥時將不會進入EX關卡</color><br>（今天還可以使用：${itemNum2}次）
+ScatCPU_error7	<flash>貓型電腦無限使用期間，將不會消費貓型電腦！</flash><br>要跳過戰鬥嗎？<br><color=255,255,0>使用跳過戰鬥時將不會進入EX關卡</color><br>（今天還可以使用：${itemNum2}次）
+ScatCPU_error8	由於尚未通過此關卡，無法跳過戰鬥
+ScatCPU_error9	此關卡無法使用戰鬥跳過功能<br>靠自己的實力來過關吧！
+filter_option_description3	<color=0,0,0>會顯示有<br>「進化按鈕」的角色</color>
+filter_option_description4	<color=0,0,0>會顯示解放了<br>「本能按鈕」的角色</color>
+chapter_name_8	宇宙篇第2章
+labyrinth_autoslot	將可編成的角色自動編入隊伍
+push_permission	開啟行動裝置的「鬧鐘和提醒」權限，<br>就可以在正確的時間收到通知。<br><color=255,255,0>要開啟Android裝置的設定畫面嗎？</color>
+purchase_unavailable_android	無法在Google Play進行購買。請確認您的網路連線環境以及Google Play的登入狀態。
+purchase_unable_ios	無法在App Store進行購買。請確認您的App Store登入狀態以及網路連線環境。
+purchase_unable_android	無法在Google Play進行購買。請確認您的Google Play登入狀態以及網路連線環境。
+drop_contents4	「${charaName}」的第4進化
+drop_popup_chara_third_evolve2	%@<br>%@<br>「%@」的第4進化<br><flash>合計等級50級以上即可進化。</flash>
+mission_receive_item_chara_evolve2	<color=255,255,0>獎勵：角色「${charaName}」第4進化</color>
+receive_item_popup_chara_evolve2	角色「%s」的第4進化。
+GiftMessage_021	<flash>通關獎勵第十彈</flash><br>只要通過「枯萎的沉思庭院」的最後關卡<br>就有機會獲得超稀有的角色「論之賢者蘇拉格底」喔
+potential_skill_name66	超賢者特效
+item_pack_name_76	購買 貓型電腦禮包
+stage_SPChara_warning	還無法讓這個角色出擊！
+item_pack_name_77	購買限定角色「校長貓」
+enemy_info_unknown	<color=255,255,0>由於是尚未確認過的敵人<br>無法前往圖鑑<br>獲勝、戰敗或於10秒後才脫離戰鬥後就可以確認</color>
+enemy_info_not_found	<color=255,255,0>這是圖鑑中沒有相關資訊的敵人</color>
+comeback_push_01	看起來很寂寞的貓咪正在看著你！
+equipment_fault	※選擇中的型態無法發動此效果
+equipment_fault_equip	<color=255,255,0>${errorMessage}</color>
+gamatotoReward_4	${itemName} + ${itemNum}
+item_pack_name_78	購買限定角色「點點貓」
+item_pack_name_80	購買了 期間限定！稀有券
+slot_SNS_002	在 #貓咪拉霸 中獲得%s個貓罐頭啦！ #貓咪大戰爭 #9週年
+slot_SNS_003	在 #貓咪拉霸 中獲得%s個貓罐頭啦！ #貓咪大戰爭 #10週年
+stageskip_message_9	已通過大型陶器埴輪巨犬強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+talk_004_push	繼續來玩貓咪基地○×對決喔～
+clear_adreward_1	讓經驗值倍增的好機會！<br>要觀看影片來獲得<flash>「經驗值${xp}」×2</flash>嗎？
+reward_freegatya	每天都可以觀看一次影片<br>來免費轉招福轉蛋。<br>要觀看影片嗎？
+Itemshop_ad_popup1	觀看影片可以獲得「XP+${xp}」，<br>要觀看影片嗎？
+clear_adreward_2	獲得<flash>「XP+${xp}」</flash> 了！
+lose_retry_ad	在「金錢MAX」，「可發射貓咪砲」的狀態下復活了！
+Itemshop_ad_popup2	獲得「XP+${xp}」了！
+stage_restriction_limit_6	${rarity}${value}隻以下
+SpecialRuleName000	零用錢制度
+SpecialRuleName001	生產速度一致
+SpecialRuleExplanation000	【零用錢制度】<br>一開始就可以獲得大量金錢<br>但相反地，隨著時間經過或<br>打倒敵人時都無法增加金錢
+SpecialRuleExplanation001	【生產速度一致】<br>所有我方角色都會<br>固定成相同的生產速度
+treasure_get	點擊兩次就會移動至可獲得該寶物的關卡
+treasure_geterror	由於關卡尚未解放，目前還無法前往
+treasure_popup1	<color=255,255,0>${treasureRank}${treasureName}</color> ${stageName}${text}
+treasure_popup2	${treasureName} ${stageName}${text}
+treasure_popup3	${treasureName}
+Account_iOS13_error	iOS版本未滿13的裝置無法使用Apple登入功能
+gamatoto_shortcut	要前往加碼多多探險隊的畫面嗎？
+item_pack_name_82	購買 傳說的陷阱禮包
+mission_receive_bulk	已領取以下的任務獎勵！
+mission_receive_bulk_item	${itemName}×${itemNum}
+mission_receive_bulk_item_chara	角色「${charaName}」
+mission_receive_bulk_item_chara_evolve	角色「${charaName}」第3進化
+mission_receive_bulk_item_chara_evolve2	角色「${charaName}」第4進化
+mission_receive_bulk_item_xp	${itemName} +${itemNum}
+mission_receive_bulk_not_all	<color=255,255,0>持有數量已達上限<br>無法領取任務獎勵</color>
+mission_txt	達成任務${missionNum}個！
+scratch_SNS_004	在 #貓咪刮刮樂 中獲得%d個貓罐頭啦！<br>期間中每週都可挑戰！每週來玩刮刮樂帶走更多貓罐頭吧～！<br><br>#貓咪大戰爭 #貓咪刮刮樂 #貓咪暑假2025
+SpecialRuleExplanation004	【特賣活動　激稀有】<br>我方的激稀有角色的生產成本減半<br>生產速度變成2倍
+SpecialRuleName004	特賣活動　激稀有
+stage_restriction_limit_7	各稀有度的同時生產數量：<color=255,255,0>%@</color>
+stage_restriction_limit_8	${rarity}${value}隻
+stage_shortcut	要前往「${stageName}」的<br>關卡選擇畫面嗎？<br>${specialText}
+stage_shortcut_nekovitan	要前往喵力達專用關卡<br>「${stageName}」的<br>關卡選擇畫面嗎？<br>${specialText}
+stage_shortcut_no_interval_times	<color=255,255,0>由於目前的可通關次數為0次<br>因此無法前往關卡畫面</color>
+stage_shortcut_not_found	<color=255,255,0>由於尚未解放該關卡<br>因此無法前往關卡畫面</color>
+stage_shortcut_out_of_term	<color=255,255,0>由於目前沒有舉辦關卡<br>因此無法前往關卡畫面</color>
+cube_guide	游擊出現的「超獸討伐活動」<br>會於每天不定時舉辦<br>詳細可至活動日程確認！
+cube_guide_common1	※在超獸討伐關卡中的<br>「甲普拉密林」最容易獲得。
+cube_guide_common2	※在超獸討伐關卡中的<br>「亞蜥比沙漠」最容易獲得。
+cube_guide_common3	※在超獸討伐關卡中的<br>「將弗裂火山」最容易獲得。
+gamatoto_error_popup1	由於沒有前一次探險的區域資訊<br>因此無法重複探險
+gamatoto_error_popup2	由於前一次探險的區域目前沒有開放<br>因此無法重複探險
+gamatoto_popup1	再次出發前往${areaName}<br>${timeText}<br>${bonuspop}
+gamatoto_popup2	貓咪隊員和城堡寶開發隊的助手<br>已經額滿了，要跟隊員<br>${gamatotoName}【${gamatotoRarity}】<br>說再見嗎？
+gamatoto_popup3	貓咪隊員已經額滿了，要將<br>隊員${gamatotoName}【${gamatotoRarity}】<br>換作成為城堡寶開發隊的助手嗎？
+gamatoto_popup4	貓咪隊員已經額滿了，要跟<br>隊員${gamatotoName}【${gamatotoRarity}】<br>說再見嗎？
+gamatotoBonus	加碼多多覺得五官變得特別敏銳！
+gamatotoBonus_popup1	<flash>加碼多多進入心流狀態了！！</flash><br>圖示有發光的道具都能獲得1個以上！<br>還可在心流狀態下探險${expeditionNum}次
+gamatotoBonus_popup2	加碼多多已結束心流狀態
+gamatotoBonus_popup3	出發至任何區域探險<br>圖示有發光的道具都能獲得1個以上！<br><color=255,255,0>還可在心流狀態下探險${expeditionNum}次</color>
+gamatotoBonus_popup4	<color=255,0,255>心流狀態中保證能獲得1個！</color>
+gamatotoBonus_popup5	<color=255,255,0>還可在心流狀態下探險${expeditionNum}次</color>
+GiftMessage_022	<flash>「古代神木」關卡等級4出現了神秘的敵人！</flash>
+item_pack_name_83	購買 等級排行300達成優惠
+legend_warning_01	<color=255,255,0>關卡挑戰條件<br>通過真傳奇故事內所有關卡等級</color>
+matatabi_guide_common	※喵力達專用關卡每天都會舉辦。
+matatabi_guide_guerrilla	游擊出現的「${stageName}」<br>會不定時舉辦，<br>詳細可至活動日程確認！
+matatabi_guide_special	※有一定機率會掉落彩虹貓薄荷
+matatabi_guide1	「${stageName}」<br>會在每週一舉辦。<br>${commonText}
+matatabi_guide2	「${stageName}」<br>會在每週二舉辦。<br>${commonText}
+matatabi_guide3	「${stageName}」<br>會在每週三舉辦。<br>${commonText}
+matatabi_guide4	「${stageName}」<br>會在每週四舉辦。<br>${commonText}
+matatabi_guide5	「${stageName}」<br>會在每週五舉辦。<br>${commonText}
+matatabi_transition	「${itemName}」為必要素材。<br>要前往哪個畫面呢？
+medama_complete	主打道具已全部取得完畢！
+medama_rennsuu	再使用本轉蛋${value}次，就必定會出現1個主打道具！
+SpecialRuleExplanation002	【稀有度代表隊】<br>各稀有度皆只能同時出擊1隻<br>隊伍編成則沒有限制
+SpecialRuleExplanation003	【均一價五百】<br>所有我方角色的<br>生產成本都變成500元
+SpecialRuleName002	稀有度代表隊
+SpecialRuleName003	均一價五百
+stage_challenge_conditions	「${mapName}」的挑戰條件為<br>${stagelimitText1}<br>${stagelimitText2}<br>${stagelimitText3}
+stage_restriction_limit_9	可生產的角色數量：<color=255,255,0>${value}隻</color>
+unlock_popup_message_139	<flash>在「古代樹迷宮」關卡等級1發現了謎樣生命體！</flash>
+unlock_popup_message_140	<flash>過關獎勵！</flash><br>取得EX角色「異弟:N」<br>第3進化！合計等級30級以上即可進化<br>使用XP、素材進化。
+item_pack_name_84	購買 稀有券3張
+cert_tutorial1	<color=255,255,0>指定編成關卡</color><br>角色與貓咪砲的編成、寶物的取得狀況<br>角色與藍色珠珠的等級都是固定的！<br>點擊編成按鈕就可以確認出陣列表！
+cert_tutorial2	指定編成的關卡會出現提示<br>可以在挑戰前確認並作為攻略時的參考！<br>點擊關卡名稱來確認看看吧！
+cert_tutorial3	點擊各圖示就可以確認詳細內容！<br>出現的敵人和僅限掉落一次的獎勵等<br>有許多可以派上用場的資訊喔！
+fixed_formation_popup	這是指定編成的關卡<br>玩家無法變更編成<br>※可以在戰鬥中點選暫停按鈕來確認編成
+fixed_formation_slot_name	指定
+hint_popup000	<color=0,0,0>遊戲中有紅色敵人、黑色敵人、<br>異星戰士等各種屬性的敵人<br>對抗紅色敵人時使用<br><color=0,0,255>戰鬥貓<color=0,0,0>和<color=0,0,255>魚貓<color=0,0,0>會更有效</color>
+hint_popup001	<color=0,0,0>遇到射程長的<color=0,0,255>熊熊老師<color=0,0,0>就用<br>射程更長的<color=0,0,255>龍貓<color=0,0,0>來對抗<br>攻擊力高的<color=0,0,255>澎湃<color=0,0,0>則用<br>強壯的<color=0,0,255>巨人貓<color=0,0,0>來對抗<br>善用各貓咪的特色就能取得優勢</color>
+hint_popup002	<color=0,0,0>外表像是機器人的鋼鐵敵人<br>是很難給予傷害的<br>使用<color=0,0,255>會心一擊<color=0,0,0>的能力<br>就能對鋼鐵敵人造成正常傷害</color>
+hint_popup003	<color=0,0,0>紫色的不死生物<br>有著被打倒後還會重生的特徵<br>使用擁有<color=0,0,255>終結不死<color=0,0,0>能力的角色<br>來打倒不死生物就能阻止其重生</color>
+hint_popup004	<color=0,0,0>對抗快速地攻擊而來的敵人<br>不斷派出成本低<br>且能大量生產的角色 <br>就可以阻止敵人持續推進</color>
+hint_popup005	<color=0,0,0>有些關卡在敵方城堡<br>受攻擊前魔王都不會出現<br>故意不打倒敵人來賺取時間<br>累積足夠金錢再挑戰魔王</color>
+hint_popup006	<color=0,0,0>有些角色持有能讓<br>特定屬性的敵人<br><color=0,0,255>動作停止、變慢<color=0,0,0>等妨害效果<br>依照敵人屬性使用有妨礙效果的角色<br>來在戰鬥中取得優勢</color>
+hint_popup007	<color=0,0,0>有些敵人會張開不受傷害的護盾<br>用強力的攻擊來破壞它<br>或是用持有<color=0,0,255>破壞護盾<color=0,0,0>效果的角色<br>就有一定機率破壞護盾<br>選用合適的角色來戰鬥吧</color>
+hint_popup008	<color=0,0,0>不死生物會在我方角色靠近時<br>潛到地面下並偷偷鑽過來<br>為了對抗鑽過來的不死生物<br>要留意別生產太多角色</color>
+item_pack_name_81	購買 入門者優惠
+mission_receive_bulk_item_map	「${mapName}」的挑戰權利
+mission_receive_item_map	<color=255,255,0>獎勵：「${mapName}」的挑戰權利</color>
+SpecialRuleExplanation005	【生產角色數限制】<br>1次的戰鬥中最多只能<br>生產60隻角色
+SpecialRuleName005	生產角色數限制
+unlock_popup_message_141	<flash>貓咪道檢定 ★1段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用1段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_142	<flash>貓咪道檢定 ★2段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用2段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_143	<flash>貓咪道檢定 ★3段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用3段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_144	<flash>貓咪道檢定 ★4段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用4段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_145	<flash>貓咪道檢定 ★5段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用5段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_146	<flash>貓咪道檢定 ★6段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用6段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_147	<flash>貓咪道檢定 ★7段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用7段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_148	<flash>貓咪道檢定 ★8段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用8段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_149	<flash>貓咪道檢定 ★9段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用9段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_150	<flash>貓咪道檢定 ★10段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用10段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_151	<flash>貓咪道檢定 ★11段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用11段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+unlock_popup_message_152	<flash>貓咪道檢定 ★12段過關！</flash><br>貓咪俱樂部的會員卡上將追加認證<br>用12段的實力足以通過的關卡<br>其難度★將會變成粉紅色
+autoSave_txt7	點擊後顯示
+item_pack_name_85	再來一份尊爵白金優惠
+item_pack_name_86	限定復活尊爵白金優惠
+mission_receive_bulk_not_part	<color=255,255,0>持有的道具數量將超過上限</color><br>超過的部分將無法取得<br>確定要領取獎勵並達成任務嗎？
+scheme_popup_99	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_100	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_101	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_102	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_103	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_104	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_105	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_106	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_107	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_108	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_109	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_110	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_111	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_112	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+scheme_popup_113	<flash>狗罐頭已兌換成10倍的貓罐頭！<br>獲得%@%@個！</flash>
+SpecialRuleExplanation006	【超特賣活動　EX】<br>我方的EX角色的生產成本打3折<br>生產速度變成1.7倍
+SpecialRuleName006	超特賣活動　EX
+scheme_item_param_99	/2025inukan.html?v=lny01_pNxUJJ8D
+scheme_item_param_100	/2025inukan.html?v=lny02_Q4pKkdFB
+scheme_item_param_101	/2025inukan.html?v=lny03_nW4QsGSC
+scheme_item_param_102	/2025inukan.html?v=lny04_rf3DK0Fp
+scheme_item_param_103	/2025inukan.html?v=lny05_pWztXH79
+scheme_item_param_104	/2025inukan.html?v=lny06_pwwIsvU6
+scheme_item_param_105	/2025inukan.html?v=lny07_spvdgsh1
+scheme_item_param_106	/2025inukan.html?v=lny08_hNsYMNar
+scheme_item_param_107	/2025inukan.html?v=lny09_fpMCnKzb
+scheme_item_param_108	/2025inukan.html?v=lny10_OhkOyBvG
+scheme_item_param_109	/2025inukan.html?v=lny11_nqKqdw2N
+scheme_item_param_110	/2025inukan.html?v=lny12_7WGOSNiK
+scheme_item_param_111	/2025inukan.html?v=lny13_iH1JxuX7
+scheme_item_param_112	/2025inukan.html?v=lny14_mJMewgnZ
+scheme_item_param_113	/2025inukan.html?v=lny15_dpLMrAnZ
+equipment_attribute_common	特定屬性敵人
+equipment_filteringMiss	<color=255,255,0>進行篩選的結果，找不到<br>符合條件的本能珠珠。</color>
+gamatoto_shortcut_error	<color=255,255,0>因尚未解放加碼多多探險隊，因此無法前往<br>需要通過世界篇第1章的希臘<br>才能解放加碼多多探險隊功能</color>
+item_pack_name_87	購買 1億下載紀念轉蛋券組合
+item_pack_name_88	
+potential_skill_name67	爆波攻擊
+slot_SNS_006	在 #貓咪拉霸Ⅱ 中獲得%s個貓罐頭啦！ #貓咪大戰爭
+SpecialRuleExplanation007	【好事成雙　超激稀有】 <br>生產超激稀有角色時<br>出現的數量會變2隻
+SpecialRuleName007	好事成雙　超激稀有
+unlock_popup_message_153	<flash>「瓦爾基麗貓・聖」的本能解放了！</flash><br>通過試煉後喚醒了新的力量<br>進化至第3型態且到達Lv30後<br>就可以在升級畫面解放、強化能力
+unlock_popup_message_154	<flash>「覺醒姆特貓」的本能解放了！</flash><br>通過試煉後喚醒了新的力量<br>進化至第3型態且到達Lv30後<br>就可以在升級畫面解放、強化能力
+assault_skip_battle_result	【貓咪稍微恢復精神了】<br><flash>可通關次數回復1次！</flash><br>將回到關卡選擇畫面
+assault_skip_battle_skip	【貓咪稍微恢復精神了】<br><flash>可通關次數回復1次！</flash><br>可以立刻挑戰關卡
+BonusExplanationLabel000	【加分項目：攻擊力下降】<br>使敵人攻擊力下降<br>※角色的攻擊對象屬性越少，可以獲得的分數越高<br>詳細請參考畫面左下方的「什麼是極排行賽會場？」
+BonusNameLabel000	攻擊力下降
+gama_collabo_04_charatext	
+gama_collabo_04_name	
+gama_collabo_04_popup	
+item_pack_name_89	購買 白金券續購優惠第1件
+item_pack_name_90	購買 白金券續購優惠第2件
+leadershipreturn_pop1	要中止戰鬥嗎？<br><color=255,255,0>系統將只退還統率力</color>
+leadershipreturn_pop2	這個關卡無法接關<br>系統將只退還統率力
+leadershipreturn_pop3	這是戰敗或脫離戰鬥後<br>系統會退還統率力的關卡<br><color=255,255,0>挑戰EX關卡後系統將不會退還統率力</color>
+leadershipreturn_pop4	這是戰敗或脫離戰鬥後<br>系統會退還統率力的關卡
+map_minutes_empty	【貓咪精疲力盡無法再繼續挑戰了…】<br>要使用${itemNum}個喵力達A嗎？<br>通關次數可回復1次<br><color=255,255,0>可通關次數0/${countNum}（離回復1次還需${minutes1}分鐘）</color>
+receive_item_popup_annotation_1	※「神秘寶箱」將送至本能珠珠儲藏庫
+SpecialRuleExplanation008	【貓咪砲超強化】 <br>貓咪砲的攻擊力會變成100倍<br>※閃電砲等有特別效果的主砲，其攻擊力將不會改變
+SpecialRuleName008	貓咪砲超強化
+SpecialRuleReset000	<color=255,255,0>軍事費用重置！</color><br>目前持有的生產角色時<br>所需要的軍事費用已經重置
+treasure_box_error_1	缺少${itemNum}個貓罐頭。<br>要前往貓罐頭商店嗎？
+treasure_box_get_confirm	要取得<br>「${itemName}」嗎？
+treasure_box_item	<color=255,255,0>${itemName}</color>
+treasure_box_last_one	可以使用${itemNum}個貓罐頭<br>來取得以下道具。
+treasure_box_open	將隨機獲得以下其中一種道具
+treasure_box_probability	※各道具的出現機率都相同<br>※長按圖示即可確認詳細說明
+treasure_box_redraw	要使用${itemNum}個貓罐頭重試一次嗎？
+treasure_box_redrow_probability	※各道具的出現機率都相同<br>※已出現過的道具將不再出現
+treasure_box_result	<color=255,255,0>取得「${itemName}」了！</color><br>可以使用貓罐頭重試一次
+treasure_box_result_2	※重試之後將無法獲得此道具
+treasure_box_result_last_one	<color=255,255,0>取得「${itemName}」了！</color><br>已無法繼續重試
+gama_collabo_05_popup	<flash>索尼克合作進行中！</flash><br>「巧歐」臨時加入加碼多多探險隊！<br>合作期間中將帶來更多量的獎勵<br>※貓罐頭除外
+gama_collabo_05_name	巧歐
+gama_collabo_05_charatext	加碼多多探險隊中臨時加入的巧歐<br>將在合作期間中帶來更多量的獎勵。<br>※貓罐頭除外
+GiftMessage_023	<flash>通關獎勵第十一彈</flash><br>只要通過「引誘萬物真理的大渦」的最後關卡<br>就有機會獲得超稀有的角色「理之賢者扭頓」喔
+SpecialRuleExplanation009	【等速直線運動】<br>可移動的敵我方所有角色<br>都會變成相同的移動速度
+SpecialRuleExplanation010	【好事成雙　EX】 <br>生產EX角色時<br>出現的數量會變2隻
+SpecialRuleName009	等速直線運動
+SpecialRuleName010	好事成雙　EX
+talk_005_push	繼續來參加貓咪對談喔～
+BonusExplanationLabel001	【加分項目：打飛敵人】<br>將敵人打飛<br>※角色的攻擊對象屬性越少，可以獲得的分數越高<br>詳細請參考畫面左下方的「什麼是極排行賽會場？」
+BonusNameLabel001	打飛敵人
+hidden_rarity_3	奇幻的地圖
+nyancombo_error1	<color=255,255,0>因為列表有固定中的角色<br>無法將發動貓咪聯組<br>所需的角色設定到隊伍裡</color>
+SpecialRuleExplanation011	【限定超特賣　超激稀有】<br>場上我方的超激稀有角色只能有1隻<br>生產成本打0.5折，生產速度變成2倍
+SpecialRuleName011	限定超特賣　超激稀有
+slot_autoset_error_1	<color=255,255,0>這是還不能確認到出現敵人的關卡</color>
+slot_autoset_error_2	<color=255,255,0>沒有可以出擊的角色了</color>
+slot_autoset_error_3	<color=255,255,0>沒有可以更換角色的欄位</color>
+slot_tutorial_txt1	<color=255,255,0>自動編成功能</color><br>點擊這個按鈕，貓型CPU就會自動<br>編組應該適合這個關卡的角色！<br>在已可確認到出現敵人的關卡才能使用！
+slot_tutorial_txt2	<color=255,255,0>固定角色功能</color><br>點擊角色就能在自動編成時將他保留在隊伍中！<br>再次點擊角色就可以解除固定！

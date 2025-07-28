@@ -1,0 +1,1065 @@
+0|Fai salire di livello un gatto dal menu Potenzia!<br>(Tocca il pulsante Potenzia! sotto un gatto.)
+1|Attiva l'energy drink in "L'ascesa dei Battle Cats"!<br>(Ottieni abilità bonus raccogliendo i primi 7 tesori.)
+2|Alza il tuo Grado giocatore di %d!<br>(Potenzia gatti o abilità della Base: %d di %d.)
+3|Sorteggia una Miaocapsula alla Base felina! (Ottieni un<br>miaobiglietto gratis ogni giorno da usare una volta.)
+4|Recluta un assistente di Gamatoto! (Trovi gli assistenti<br>tra le ricompense delle Spedizioni di Gamatoto.)
+5|Supera un livello mentre usi una combo felina! (Schiera<br>un particolare insieme di gatti nella tua formazione!)
+6|Sfida il Dojo miciodiale!<br>(Affronta una volta un livello del Dojo.)
+7|Sblocca la Forma Reale di un gatto normale!<br>(Fai evolvere un gatto normale a livello 30.)
+8|Supera il Giappone in "L'ascesa dei Battle Cats"!<br>(Completa il 7° livello in Impero dei Gatti Cap. 1.)
+9|Supera l'India in "L'ascesa dei Battle Cats"!<br>(Completa l'11° livello in Impero dei Gatti Cap. 1.)
+10|Supera il Madagascar in "L'ascesa dei Battle Cats"!<br>(Completa il 16° livello in Impero dei Gatti Cap. 1.)
+11|Supera la Grecia in "L'ascesa dei Battle Cats"!<br>(Completa il 23° livello in Impero dei Gatti Cap. 1.)
+12|Supera la Groenlandia in "L'ascesa dei Battle Cats"!<br>(Completa il 32° livello in Impero dei Gatti Cap. 1.)
+13|Supera l'Argentina in "L'ascesa dei Battle Cats"!<br>(Completa il 39° livello in Impero dei Gatti Cap. 1.)
+14|Supera Hollywood in "L'ascesa dei Battle Cats"!<br>(Completa il 45° livello in Impero dei Gatti Cap. 1.)
+15|Supera la Luna in "L'ascesa dei Battle Cats"!<br>(Completa l'ultimo livello di Impero dei Gatti Cap. 1.)
+16|Supera ogni livello in "L'imperatore delle tenebre"!<br>(Completa l'ultimo livello di Impero dei Gatti Cap. 2.)
+17|Supera ogni livello in "Il risveglio di Gatto Bahamut"!<br>(Completa l'ultimo livello di Impero dei Gatti Cap. 3.)
+18|Supera ogni livello in "Abbastanza tempo per i Gatti"!<br>(Completa l'ultimo livello di Verso il futuro Cap. 1.)
+19|Supera ogni livello in "Intrigo alieno"!<br>(Completa l'ultimo livello di Verso il futuro Cap. 2.)
+20|Supera ogni livello in "Il ritorno degli Antichi"!<br>(Completa l'ultimo livello di Verso il futuro Cap. 3.)
+21|<br>
+22|Supera ogni livello in "Oltre l'esosfera"!<br>(Completa l'ultimo livello di Gatti del Cosmo Cap. 1.)
+23|Supera ogni livello in "La passione del Gatto Divino"!<br>(Completa l'ultimo livello di Gatti del Cosmo Cap. 2.)
+24|Missione del sesto anniversario<br>Supera Impero dei Gatti Cap. 1 durante questo evento!
+25|Supera ogni livello in "Anche le stelle si scottano"!<br>(Completa l'ultimo livello di Gatti del Cosmo Cap. 3.)
+26|Missione del settimo anniversario<br>Supera Impero dei Gatti Cap. 1 durante questo evento!
+27|Supera tutti i livelli 2 delle Saghe leggendarie<br>per completare questa missione.
+28|Supera tutti i livelli 3 delle Saghe leggendarie<br>per completare questa missione.
+29|Missione del 8° anniversario<br>Supera Impero dei Gatti Cap. 1 durante questo evento!
+8000|Supera livelli con in premio miaobiglietti %d volte!<br>(Controlla la validità nei dettagli delle missioni: %d su %d.)
+8001|Supera livelli con in premio XP %d volte!<br>(Controlla la validità nei dettagli delle missioni: %d su %d.)
+8002|Supera %d livelli delle Saghe leggendarie!<br>(Completa 5 livelli SL gialli: %d su %d)
+8003|Manda Gamatoto in %d spedizioni riuscite!<br>(Termina 7 spedizioni complete in un'area Gamatoto: %d su %d.)
+8004|Supera tutte le missioni settimanali! (Completa<br>tutte e %d le sfide settimanali disponibili: %d su %d.)
+8005|Supera livelli con in premio miaobiglietti %d volte!<br>(Controlla la validità nei dettagli delle missioni: %d su %d.)
+8006|Supera livelli con in premio XP %d volte!<br>(Controlla la validità nei dettagli delle missioni: %d su %d.)
+8007|Manda Gamatoto in %d spedizioni riuscite!<br>(Termina 10 spedizioni complete in un'area Gamatoto: %d su %d.)
+8008|Supera livelli con in premio miagrumi %d volte!<br>(Controlla la validità nei dettagli delle missioni: %d su %d.)
+8009|Supera %d livelli delle Saghe leggendarie!<br>(Completa 10 livelli SL gialli: %d su %d)
+8010|Supera tutte le missioni settimanali! (Completa<br>tutte e %d le sfide settimanali disponibili: %d su %d.)
+8011|Supera tutte le missioni settimanali! (Completa<br>tutte e %d le sfide settimanali disponibili: %d su %d.)
+9000|Supera il 30° piano della Torre celestiale.<br>(Questa ricompensa può essere riscattata una volta sola.)|Controlla le missioni speciali per accedere<br>a questa missione Torre celestiale!
+9001|Supera livelli di Lezione estiva %d volte!<br>(Completa livelli di Lezione estiva: %d su %d.)
+9002|Supera livelli di Lezione estiva %d volte!<br>(Completa livelli di Lezione estiva: %d su %d.)
+9003|Supera livelli di Lezione estiva %d volte!<br>(Completa livelli di Lezione estiva: %d su %d.)
+9004|Ottieni l'unità rara: Gatto Awa Odori!<br>(Disponibile nei livelli di Diario estivo.)
+9005|Supera ogni missione speciale!<br>(Completa tutte e %d le missioni evento estive: %d su %d.)
+9006|<br>
+9007|<br>
+9008|<br>
+9009|<br>
+9010|<br>
+9011|Supera livelli Silver Week %d volte.<br>Livelli Silver Week superati: %d su %d.|Le missioni Silver Week sono state aggiunte<br>alla sezione Missioni speciali!
+9012|Supera livelli Silver Week %d volte.<br>Livelli Silver Week superati: %d su %d.
+9013|Supera livelli Silver Week %d volte.<br>Livelli Silver Week superati: %d su %d.
+9014|Supera ogni missione Silver Week.<br>%d missioni Silver Week superate: %d su %d.
+9015|Score 5000 or more on "Immortal Allen O'Neill"!<br>Receive your score upon stage clear.|Check out the Metal Slug Defense missions<br>in the Special missions of Catnip Challenges!
+9016|Score 5000 or more on "Attack On Huge Hermit"!<br>Receive your score upon stage clear.
+9017|Score 5000 or more on "Jupiter King Convoy"!<br>Receive your score upon stage clear.
+9018|Score 3000 or more on "Devils on the Doorstep"!<br>Receive your score upon stage clear.
+9019|Supera "5 anni di divertimento!" %d volte!<br>Livelli e premi si azzerano ogni giorno! Superato: %d su %d.|Le missioni speciali 5° anniversario sono state aggiunte<br>alle Sfide Erba gatta!
+9020|Ottieni 5555 punti in "Piano quinquennale"!<br>Cerca questo livello classificato nel Dojo miciodiale!|Missione classificata 5° anniversario<br>aggiunta come missione speciale alle Sfide Erba gatta!
+9021|Fai evolvere Gatto moneta!<br>(Deve evolvere prima che finisca l'evento!)
+9022|Score 4000 or more on "Schoolyard Clash"!<br>Receive your score upon stage clear.|Check the Special Missions to access<br>Fate/stay night [HF] collab challenges!
+9023|Score 3500 or more on "Midnight Interception"!<br>Receive your score upon stage clear.
+9024|Score 3000 or more on "Manor Ruins"!<br>Receive your score upon stage clear.
+9025|Score 2500 or more on "Inconspicuous Trap"!<br>Receive your score upon stage clear.
+9026|Score 1500 or more on "Beginning of the End"!<br>Receive your score upon stage clear.
+9027|Supera livelli collaborazione Blitz giornalieri %d volte!<br>Supera livelli di Guerra santa: %d su %d.
+9028|Supera il 40° piano della Torre celestiale!<br>* Le ricompense possono essere riscattate una volta sola.|Controlla le missioni speciali per accedere<br>a una missione Torre celestiale!
+9029|Ottieni più di 2500 punti quando<br>superi il livello "Arriva in città!"!|Controlla le missioni speciali per accedere<br>a una missione limitata Festività!
+9030|Ottieni più di 2000 punti nel<br>livello "Renne monelle"!
+9031|Ottieni più di 2000 punti nel<br>livello "Frustare a neve"!
+9032|Ottieni più di 2000 punti nel<br>livello "Golpe tra gli elfi"!
+9033|Ottieni più di 1500 punti nel<br>livello "Guerra a Natale"!
+9034|Supera "Gatti sulla neve" %d volte!<br>Supera livelli di Gatti sulla neve: %d su %d.|Controlla le missioni speciali per accedere<br>a una missione Festival della neve!
+9035|Supera "Gatti sulla neve" %d volte!<br>Supera livelli di Gatti sulla neve: %d su %d.
+9036|Supera "Gatti sulla neve" %d volte!<br>Supera livelli di Gatti sulla neve: %d su %d.
+9037|Score more than 3000 points on the<br>PowerPro collab stage "Round 1 (Easy)"!|Check the Special Missions to access<br>limited PowerPro Baseball challenges!
+9038|Score more than 6000 points on the<br>PowerPro collab stage "Round 2 (Normal)"!
+9039|Score more than 6500 points on the<br>PowerPro collab stage "Final Round (Hard)"!
+9040|Ottieni più di 2000 punti nel<br>livello limitato "Marzomellow"!|Controlla le missioni speciali per accedere<br>alle sfide limitate Dolce Dolore!
+9041|Ottieni più di 5000 punti nel<br>livello limitato "Marzipena"!
+9042|Ottieni più di 6000 punti nel<br>livello limitato "Carie in agguato"!
+9043|Supera "Viva i diplomandi" %d volte!<br>Supera livelli di Viva i diplomandi: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide Viva i diplomandi!
+9044|Supera "Viva i diplomandi" %d volte!<br>Supera livelli di Viva i diplomandi: %d su %d.
+9045|Supera "Viva i diplomandi" %d volte!<br>Supera livelli di Viva i diplomandi: %d su %d.
+9046|Ottieni più di 2000 punti nel<br>livello speciale "Marzomellow"!|Controlla le missioni speciali per accedere<br>alle sfide limitate Dolce Dolore!
+9047|Ottieni più di 5000 punti nel<br>livello speciale "Marzipena"!
+9048|Ottieni più di 6000 punti nel<br>livello speciale "Carie in agguato"!
+9049|Potenzia Gattuovo a livello 10!<br>(Deve evolvere prima che finisca l'evento!)|Controlla le missioni speciali per accedere<br>alle sfide limitate Primavera!
+9050|Upgrade Shinji & Cat to Level 10!<br>(You must evolve the Cat before the event ends!)|Check the Special Missions to access<br>limited Evangelion collab challenges!
+9051||
+9052|
+9053|
+9054||Check the Special Missions to access<br>Evangelion Collab missions!
+9055|Destroy the 4th Angel<br>Encounter this enemy at "State of Emergency"
+9056|Destroy the 6th Angel<br>Encounter this enemy at "Futagoyama Fortress"
+9057|Destroy the 9th Angel<br>Encounter this enemy at "Asuka On Board (Easy)"
+9058|Destroy the 10th Angel<br>Encounter this enemy at "Refusal Type (Hard)"|Check the Special Missions to access<br>Evangelion Collab missions!
+9059|Destroy all Angels<br>Complete %d Destroy Angel missions: %d of %d complete.
+9060|Evolve Pokota at Level 10!<br>This mission can only be completed during the LINE Pokopang! collab event!|Check the Special Missions to access<br>limited LINE Pokopang! challenges!
+9061|Evolve Ovis at Level 10!<br>This mission can only be completed during the LINE Pokopang! collab event!
+9062|Evolve Coco at Level 10!<br>This mission can only be completed during the LINE Pokopang! collab event!
+9063|Clear "Trio from the Woods" %d times!<br>Clear any Trio from the Woods stage: %d of %d
+9064|Clear "Trio from the Woods" %d times!<br>Clear any Trio from the Woods stage: %d of %d
+9065|Clear "Trio from the Woods" %d times!<br>Clear any Trio from the Woods stage: %d of %d
+9066||
+9067|
+9068|
+9069|
+9070|
+9071|
+9072|Supera "Il tocco di Mida" %d volte!<br>Supera livelli di Il tocco di Mida: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Il tocco di Mida!
+9073|Supera "Il tocco di Mida" %d volte!<br>Supera livelli di Il tocco di Mida: %d su %d.
+9074|Supera "Il tocco di Mida" %d volte!<br>Supera livelli di Il tocco di Mida: %d su %d.
+9075|Clear "City of Souls" %d times!<br>Clear any City of Souls stage: %d of %d|Check the Special Missions to access<br>Shoumetsu Toshi collab challenges!
+9076|Clear "City of Souls" %d times!<br>Clear any City of the Soul stage: %d of %d
+9077|Clear "City of Souls" %d times!<br>Clear any City of the Soul stage: %d of %d
+9078|Upgrade Yuki Cat to Level 10!<br>(You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9079|Upgrade Takuya ＆ Yuki to Level 10!<br>(You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9080|Upgrade Redhead Yuki Cat to Level 10!<br>(You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9081||
+9082|
+9083|
+9084||
+9085|Supera "Sbavare per vincere" %d volte!<br>Supera livelli di Sbavare per vincere: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Viscidi stalloni!
+9086|Supera "Sbavare per vincere" %d volte!<br>Supera livelli di Sbavare per vincere: %d su %d.
+9087|Supera "Sbavare per vincere" %d volte!<br>Supera livelli di Sbavare per vincere: %d su %d.
+9088|Fai evolvere Gatto fantino al livello 10!<br>Completabile solo durante l'evento Viscidi stalloni!
+9089|Supera "La sposa proibita II" %d volte!<br>Supera livelli di La sposa proibita II: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate La sposa proibita!
+9090|Supera "La sposa proibita II" %d volte!<br>Supera livelli di La sposa proibita II: %d su %d.
+9091|Supera "La sposa proibita II" %d volte!<br>Supera livelli di La sposa proibita II: %d su %d.
+9092|Fai evolvere Sposa comare al livello 10!<br>Completabile solo durante l'evento mensile di giugno!|Controlla le missioni speciali per accedere<br>alle sfide limitate dell'evento mensile di giugno!
+9093|Supera "The Battle Cats POP!" %d volte!<br>Supera livelli di The Battle Cats POP!: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate The Battle Cats POP!
+9094|Supera "The Battle Cats POP!" %d volte!<br>Supera livelli di The Battle Cats POP!: %d su %d.
+9095|Supera "The Battle Cats POP!" %d volte!<br>Supera livelli di The Battle Cats POP!: %d su %d.
+9096|Supera "The Battle Cats POP!" %d volte!<br>Supera livelli di The Battle Cats POP!: %d su %d.
+9097|Fai evolvere Betakkuma al livello 10!<br>Completabile solo durante l'evento collaborazione Betakkuma!|Controlla le missioni speciali per accedere<br>alle sfide limitate Betakkuma!
+9098|Supera "Mai no estate!" %d volte!<br>Supera livelli di Mai no estate!: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Mai no estate!
+9099|Supera "Mai no estate!" %d volte!<br>Supera livelli di Mai no estate!: %d su %d.
+9100|Supera "Mai no estate!" %d volte!<br>Supera livelli di Mai no estate!: %d su %d.
+9101|Fai evolvere Regina Vacanziera al livello 10!<br>Completabile solo durante l'evento mensile di luglio!|Controlla le missioni speciali per accedere<br>alle sfide limitate dell'evento mensile di luglio!
+9102||
+9103|
+9104|
+9105||
+9106|
+9107|
+9108|
+9109|
+9110|
+9111|Supera "Estranei Spettrali" %d volte!<br>Supera livelli di Estranei Spettrali: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Estranei Spettrali!
+9112|Supera "Estranei Spettrali" %d volte!<br>Supera livelli di Estranei Spettrali: %d su %d.
+9113|Supera "Estranei Spettrali" %d volte!<br>Supera livelli di Estranei Spettrali: %d su %d.
+9114|Fai evolvere Gatta vendicativa al livello 10!<br>Completabile solo in presenza di livelli Spettrali!|Controlla le missioni speciali per accedere<br>alle sfide limitate Spettrali!
+9115|Supera "Vegliardi in centro" %d volte!<br>Supera i livelli di Vegliardi in centro: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Vegliardi in centro!
+9116|Supera "Vegliardi in centro" %d volte!<br>Supera i livelli di Vegliardi in centro: %d su %d.
+9117|Supera "Vegliardi in centro" %d volte!<br>Supera i livelli di Vegliardi in centro: %d su %d.
+9118|Fai evolvere Gatto Kung Fu X al livello 10!<br>Completabile solo in presenza di livelli Vegliardi!|Controlla le missioni speciali per accedere<br>alle sfide limitate Vegliardi!
+9119|Supera "Lezione estiva" %d volte!<br>Supera livelli di Lezione estiva: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Lezione estiva!
+9120|Supera "Lezione estiva" %d volte!<br>Supera livelli di Lezione estiva: %d su %d.
+9121|Supera "Lezione estiva" %d volte!<br>Supera livelli di Lezione estiva: %d su %d.
+9122|Fai evolvere Gatto Awa Odori al livello 10!<br>Completabile solo in presenza di livelli Diario estivo!|Controlla le missioni speciali per accedere<br>alle sfide limitate Diario estivo!
+9123|Defeat the Rose Garden Witch<br>Find this enemy at the "The Rose Garden Witch (Easy)" stage.|Check the Special Missions to access<br>Madoka Magica collab challenges!
+9124|Defeat the Dessert Witch<br>Find this enemy at the "The Dessert Witch (Normal)" stage.
+9125|Defeat the Box Witch<br>Find this enemy at the "The Box Witch (Hard)" stage.
+9126|Defeat the Stagebuilding Witch<br>Find this enemy at the "The Stagebuilding Witch (Deadly)" stage.
+9127|Defeat the Nutcracker Witch<br>Find this enemy at the "The Nutcracker Witch (Veteran)" stage.
+9128|Destroy all Witches<br>Complete %d Destroy Witch missions: %d of %d complete.
+9129|Evolve Li'l Madoka at Level 10!<br>This mission can only be completed while the Puella Magi Madoka Magica collab is available!
+9130|Evolve Kyubey Cat Level 10!<br>This mission can only be completed while the Puella Magi Madoka Magica collab is available!
+9131|Clear "Queen Rampant" %d times!<br>Clear any Queen Rampant stage: %d of %d|Check the Special Missions to access<br>limited Crash Fever challenges!
+9132|Clear "Queen Rampant" %d times!<br>Clear any Queen Rampant stage: %d of %d
+9133|Clear "Queen Rampant" %d times!<br>Clear any Queen Rampant stage: %d of %d
+9134|Supera "Notte sportiva" %d volte!<br>Supera livelli di Notte sportiva: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide Notte sportiva limitate!
+9135|Supera "Notte sportiva" %d volte!<br>Supera livelli di Notte sportiva: %d su %d.
+9136|Supera "Notte sportiva" %d volte!<br>Supera livelli di Notte sportiva: %d su %d.
+9137|Fai evolvere Gatto sportivo al livello 10!<br>Completabile solo con i livelli "Autunno = Giorno sportivo"!|Controlla le missioni speciali per accedere<br>alle sfide limitate "Autunno = Giorno sportivo"!
+9138|Supera "Rivoluzione al lavoro" %d volte!<br>Supera livelli di Rivoluzione al lavoro: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Rivoluzione al lavoro!
+9139|Supera "Rivoluzione al lavoro" %d volte!<br>Supera livelli di Rivoluzione al lavoro: %d su %d.
+9140|Supera "Rivoluzione al lavoro" %d volte!<br>Supera livelli di Rivoluzione al lavoro: %d su %d.
+9141|Fai evolvere Gatto dipendente al livello 10!<br>Completabile solo in presenza di livelli "Viva il lavoro"!|Controlla le missioni speciali per accedere<br>alle sfide limitate Viva il lavoro!
+9142|Clear "Merc Storia: Attack" stages %d times!<br>Clear any Merc Storia: Attack stage: %d of %d|Check the Special Missions to access<br>limited Merc Storia challenges!
+9143|Clear "Merc Storia: Attack" stages %d times!<br>Clear any Merc Storia: Attack stage: %d of %d
+9144|Clear "Merc Storia: Attack" stages %d times!<br>Clear any Merc Storia: Attack stage: %d of %d
+9145|Challenge the Ranking Stage "Weak of Spirit"!<br> Select this stage at the Catclaw Dojo!
+9146|Evolve Healer at Level 10!<br>This mission can only be completed during the Merc Storia Collab Event!
+9147|Supera "Festival gourmet" %d volte!<br>Supera livelli di Festival gourmet: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Festival gourmet!
+9148|Supera "Festival gourmet" %d volte!<br>Supera livelli di Festival gourmet: %d su %d.
+9149|Supera "Festival gourmet" %d volte!<br>Supera livelli di Festival gourmet: %d su %d.
+9150|Fai evolvere Street food miao al livello 10!<br>Completabile solo in presenza di livelli "Festival gourmet"!|
+9151|Supera "Natale spaziale" %d volte!<br>Supera livelli di Natale spaziale: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Natale spaziale!
+9152|Supera "Natale spaziale" %d volte!<br>Supera livelli di Natale spaziale: %d su %d.
+9153|Supera "Natale spaziale" %d volte!<br>Supera livelli di Natale spaziale: %d su %d.
+9154|Fai evolvere Pescegatto Renna al livello 10!<br>Completabile solo in presenza dei livelli di dicembre!|Controlla le missioni speciali per accedere<br>alle sfide limitate mensili di dicembre!
+9155|Fai evolvere Zuccatto al livello 10!<br>Completabile solo in presenza di livelli Arriva Halloween!|Controlla le missioni speciali per accedere<br>alle sfide limitate Arriva Halloween!
+9156|Fai evolvere Gatto regalo al livello 10!<br>Completabile solo in presenza di livelli Buon S. Nicola!|Controlla le missioni speciali per accedere<br>alle sfide limitate Buon S. Nicola!
+9157|Supera livelli "Un altro anno nuovo" %d volte!<br>Supera livelli di Un altro anno nuovo: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Un altro anno nuovo!
+9158|Supera livelli "Un altro anno nuovo" %d volte!<br>Supera livelli di Un altro anno nuovo: %d su %d.
+9159|Supera livelli "Un altro anno nuovo" %d volte!<br>Supera livelli di Un altro anno nuovo: %d su %d.
+9160|Fai evolvere Gattadulto al livello 10!<br>Completabile solo in presenza dei livelli di gennaio!|Controlla le missioni speciali per accedere<br>alle sfide limitate mensili di gennaio!
+9161|Missioni d'invasione Festival limitato<br>Supera il livello "Clionel Ascendente"!|Controlla le sfide speciali per<br>le missioni dell'evento d'invasione!
+9162|Missioni d'invasione Festival limitato<br>Supera il livello "Fiume Stige"!
+9163|Missioni d'invasione Festival limitato<br>Supera il livello "Incoronazione regale"!
+9164|Missioni d'invasione Festival limitato<br>Supera il livello "Debutto da morti"!
+9165|Missioni d'invasione Festival limitato<br>Supera il livello "Vendetta di re Wahwah"!
+9166|Missioni d'invasione Festival limitato<br>Supera il livello "Sogno profondo"!
+9167|Supera una volta tutti i livelli Festival limitato!<br>Supera tutte le %d missioni di Festival limitato: %d su %d.
+9168|Supera livelli "Sei anni" %d volte!<br>Supera qualsiasi livello di Sei anni: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate mensili di Sei anni!
+9169|Ottieni 6666 punti in "Forti da sei anni"!<br>Cerca questo livello classificato nel Dojo miciodiale!|Controlla le missioni speciali per accedere<br>alle sfide limitate del Dojo di Sei anni!
+9170|Supera livelli "Confusione rituale" %d volte!<br>Supera livelli di Confusione rituale: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Confusione rituale!
+9171|Supera livelli "Confusione rituale" %d volte!<br>Supera livelli di Confusione rituale: %d su %d.
+9172|Supera livelli "Confusione rituale" %d volte!<br>Supera livelli di Confusione rituale: %d su %d.
+9173|Fai evolvere Gattivo al livello 10!<br>Completabile solo in presenza dei livelli di febbraio!|Controlla le missioni speciali per accedere<br>alle sfide limitate mensili di febbraio!
+9174|Supera livelli "Orsi e ri-rimorsi" %d volte!<br>Supera livelli di Orsi e ri-rimorsi: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Orsi e ri-rimorsi!
+9175|Supera livelli "Orsi e ri-rimorsi" %d volte!<br>Supera livelli di Orsi e ri-rimorsi: %d su %d.
+9176|Supera livelli "Orsi e ri-rimorsi" %d volte!<br>Supera livelli di Orsi e ri-rimorsi: %d su %d.
+9177|Fai evolvere Miambole al livello 10!<br>Completabile solo in presenza dei livelli di marzo!|Controlla le missioni speciali per accedere<br>alle sfide limitate mensili di marzo!
+9178|Evolve Shirou the Cat Level 10!<br>This mission can only be completed during the Fate/stay night [HF] event!|Check the Special Missions to access<br>Fate/stay night [HF] collab challenges!
+9179|Supera livelli "La primavera del Sensei" %d volte!<br>Supera livelli di La primavera del Sensei: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate "La primavera del Sensei"!
+9180|Supera livelli "La primavera del Sensei" %d volte!<br>Supera livelli di La primavera del Sensei: %d su %d.
+9181|Supera livelli "La primavera del Sensei" %d volte!<br>Supera livelli di La primavera del Sensei: %d su %d.
+9182|Fai evolvere Lady Gatto al livello 10!<br>Completabile solo durante l'evento mensile di aprile!|Controlla le missioni speciali per accedere<br>alle sfide limitate mensili di aprile!
+9183|Evolve Meowla Meowla at Level 10!<br>This mission can only be completed during the Survive! Mola Mola event!|Check the Special Missions to access<br>limited "Survive! Mola Mola" challenges!
+9184|Supera livelli "Malato d'amore" %d volte!<br>Supera livelli di Malato d'amore: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide limitate Malato d'amore!
+9185|Supera livelli "Malato d'amore" %d volte!<br>Supera livelli di Malato d'amore: %d su %d.
+9186|Supera livelli "Malato d'amore" %d volte!<br>Supera livelli di Malato d'amore: %d su %d.
+9187|Fai evolvere Gatto koi al livello 10!<br>Completabile solo durante l'evento mensile di maggio!|Controlla le missioni speciali per accedere<br>alle sfide limitate mensili di maggio!
+9188||
+9189|
+9190|
+9191|Upgrade Prince Yamato to Level 10!<br>(You must evolve the Cat before the Bikkuriman collab ends!)|Check the Special Missions to access<br>limited "Bikkuriman" challenges!
+9192|Upgrade Rosary Angel to Level 10!<br>(You must evolve the Cat before the Bikkuriman collab ends!)
+9193|Clear the first "Devilish Illusion" stage!<br>You must earn a victory on "A Tower Piercing the Sky (Hard)"
+9194|Clear the first "Yamato Awakens!" stage!<br>You must earn a victory on "Inherited Ambition (Veteran)"
+9195|Clear "Bikkuriman Choco" stages %d times!<br>Clear any Bikkuriman Choco stage: %d of %d
+9196|Clear "Bikkuriman Choco" stages %d times!<br>Clear any Bikkuriman Choco stage: %d of %d
+9197|Clear "Bikkuriman Choco" stages %d times!<br>Clear any Bikkuriman Choco stage: %d of %d
+9198|Upgrade Kano ＆ Souma to Level 10!<br>(You must evolve the Cat before the Shoumetsu Toshi collab ends!)
+9199|Supera "Shakurel Planet" %d volte!<br>Supera livelli di Shakurel Planet: %d su %d.|Controlla le missioni speciali per accedere<br>alle sfide collaborazione limitate Shakurel Planet!
+9200|Supera "Shakurel Planet" %d volte!<br>Supera livelli di Shakurel Planet: %d su %d.|
+9201|Supera "Shakurel Planet" %d volte!<br>Supera livelli di Shakurel Planet: %d su %d.|
+9202|Potenzia Gatto Shakurel a livello 10!<br>(Deve evolvere prima che finisca l'evento!)|
+9203||
+17001|Supera tutte le missioni mensili!<br>(Completa tutte le %d sfide mensili disponibili: %d su %d.)
+17002|Supera tutte le missioni mensili!<br>(Completa tutte le %d sfide mensili disponibili: %d su %d.)
+17003|Supera tutte le missioni mensili!<br>(Completa tutte le %d sfide mensili disponibili: %d su %d.)
+17004|Supera tutte le missioni mensili!<br>(Completa tutte le %d sfide mensili disponibili: %d su %d.)
+17005|Supera tutte le missioni mensili!<br>(Completa tutte le %d sfide mensili disponibili: %d su %d.)
+17006|Supera tutte le missioni mensili!<br>(Completa tutte le %d sfide mensili disponibili: %d su %d.)
+17007|Supera tutte le missioni mensili!<br>(Completa tutte le %d sfide mensili disponibili: %d su %d.)
+17008|Supera tutte le missioni mensili!<br>(Completa tutte le %d sfide mensili disponibili: %d su %d.)
+1000|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1001|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1002|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1003|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1004|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1005|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1006|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1007|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1008|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1009|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1010|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1011|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1012|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1013|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1014|Sconfiggi %@ in Impero dei Gatti Cap. 2<br>(Una volta in un livello di Impero dei Gatti Cap. 2.)
+1100|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1101|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1102|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1103|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1104|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1105|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1106|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1107|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1108|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1109|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1110|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1111|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1112|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1113|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1114|Sconfiggi %@ in Impero dei Gatti Cap. 3<br>(Una volta in un livello di Impero dei Gatti Cap. 3.)
+1200|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1201|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1202|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1203|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1204|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1205|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1206|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1207|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1208|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1209|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1210|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1211|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1212|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1213|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1214|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1215|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1216|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1217|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1218|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1219|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1220|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1221|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1222|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1223|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1224|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1225|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1226|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1227|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1228|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1229|Sconfiggi %@ in Verso il futuro Cap. 1<br>(Una volta in un livello di Verso il futuro Cap. 1.)
+1300|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1301|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1302|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1303|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1304|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1305|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1306|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1307|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1308|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1309|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1310|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1311|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1312|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1313|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1314|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1315|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1316|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1317|Sconfiggi %@ in Verso il futuro Cap. 2<br>(Una volta in un livello di Verso il futuro Cap. 2.)
+1318|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1319|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1320|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1321|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1322|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1323|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1324|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1325|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1326|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1327|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1328|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1329|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1330|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1331|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1332|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1333|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1334|Sconfiggi %@ in Catastrofe cremisi<br>(Una volta in un livello di Catastrofe cremisi.)
+1335|Sconfiggi %@ in Paradiso delle tenebre<br>(Una volta in un livello di Paradiso delle tenebre.)
+1400|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1401|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1402|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1403|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1404|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1405|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1406|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1407|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1408|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1409|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1410|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1411|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1412|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1413|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1414|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1415|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1416|Sconfiggi %@ in Verso il futuro Cap. 3<br>(Una volta in un livello di Verso il futuro Cap. 3.)
+1417|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1418|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1419|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1420|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1421|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1422|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1423|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1424|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1425|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1426|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1427|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1428|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1429|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1430|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1431|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1432|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1433|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1434|Sconfiggi %@ in Ineguagliabile<br>(Una volta in un livello di Ineguagliabile.)
+1435|Sconfiggi %@ in Ira del paradiso<br>(Una volta in ogni livello di Ira del paradiso.)
+1500|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1501|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1502|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1503|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1504|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1505|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1506|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1507|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1508|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1509|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1510|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1511|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1512|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1513|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1514|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1515|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1516|Sconfiggi %@ in Gatti del Cosmo Cap. 1<br>(Una volta in un livello di Gatti del Cosmo Cap. 1.)
+1517|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1518|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1519|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1520|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1521|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1522|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1523|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1524|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1525|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1526|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1527|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1528|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1529|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1530|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1531|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1532|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1533|Sconfiggi %@ a<br>un livello 2 delle Saghe leggendarie!
+1534|Sconfiggi %@ in Dolce ironia<br>(Una volta in un livello di Dolce ironia.)
+1535|Sconfiggi %@ in Dimensione disperata<br>(Una volta in un livello di Dimensione disperata.)
+1600|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1601|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1602|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1603|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1604|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1605|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1606|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1607|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1608|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1609|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1610|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1611|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1612|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1613|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1614|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1615|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1616|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1617|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1618|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1619|Sconfiggi %@ in Gatti del Cosmo Cap. 2<br>(Una volta in un livello di Gatti del Cosmo Cap. 2.)
+1620|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1621|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1622|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1623|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1624|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1625|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1626|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1627|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1628|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1629|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1630|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1631|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1632|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1633|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1634|Sconfiggi %@ in Rosso di mattina<br>(Una volta in un livello di Rosso di mattina.)
+1635|Sconfiggi %@ in Morti rotolanti<br>(Una volta in un livello di Morti rotolanti.)
+1700|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1701|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1702|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1703|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1704|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1705|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1706|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1707|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1708|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1709|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1710|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1711|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1712|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1713|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1714|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1715|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1716|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1717|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1718|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1719|Sconfiggi %@ in Gatti del Cosmo Cap. 3<br>(Una volta in un livello di Gatti del Cosmo Cap. 3.)
+1720|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1721|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1722|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1723|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1724|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1725|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1726|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1727|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1728|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1729|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1730|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1731|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1732|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1733|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1734|Sconfiggi %@ a<br>un livello 1 delle Saghe leggendarie!
+1735|Sconfiggi %@ in La seconda dimensione<br>(Una volta in un livello di La seconda dimensione.)
+1800|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1801|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1802|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1803|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1804|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1805|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1806|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1807|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1808|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1809|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1810|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1811|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1812|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1813|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1814|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1815|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1816|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1817|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1818|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1819|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1820|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1821|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1822|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1823|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1824|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1825|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1826|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1827|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1828|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1829|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1830|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1831|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1832|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1833|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1834|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1835|Sconfiggi %@ a<br>un livello 3 delle Saghe leggendarie!
+1900|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1901|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1902|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1903|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1904|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1905|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1906|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1907|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1908|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1909|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1910|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1911|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1912|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1913|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1914|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1915|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1916|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1917|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1918|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1919|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1920|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1921|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1922|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1923|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1924|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1925|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1926|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1927|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1928|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1929|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1930|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1931|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1932|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1933|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1934|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+1935|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2000|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2001|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2002|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2003|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2004|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2005|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2006|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2007|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2008|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2009|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2010|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2011|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2012|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2013|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2014|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2015|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2016|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2017|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2018|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2019|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2020|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2021|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2022|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2023|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2024|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2025|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2026|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2027|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2028|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2029|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2030|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2031|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2032|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2033|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2034|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+2035|Sconfiggi %@ a<br>un livello 4 delle Saghe leggendarie!
+9204|
+9205|Upgrade Akuma Giraffe to Level 10!<br>(You must evolve the Cat before the Street Fighter V collab ends!)|Check the Special Missions to access<br>limited Street Fighter V challenges!
+9206|Upgrade Ryu Cat to Level 10!<br>(You must evolve the Cat before the Street Fighter V collab ends!)
+9207|Upgrade Chun-Li Cat to Level 10!<br>(You must evolve the Cat before the Street Fighter V collab ends!)
+9208|Clear "7 Years of Fun!!" stages %d times!<br>Clear any 7 Years stage: %d of %d|Check the Special Missions to access<br>limited 7 Years challenges!
+9209|Score 7777 pts in "Lucky Number 7"!<br>Find this Ranking Stage at the Catclaw Dojo!|Check the Special Missions to access<br>limited 7 Years dojo challenges!
+9210|
+9211|Missioni d'invasione Festival limitato<br>Supera il livello "Impatto blu"!
+9212|Supera le %d missioni d'invasione Festival limitato!<br>Livelli superati: %d di %d
+9213|Upgrade Miku Cat to Level 10!<br>(You must evolve the Cat before the Hatsune Miku collab ends!)
+9214|Clear "MIKU EXPO" %d times!<br>Clear any MIKU EXPO stage: %d of %d|Check the Special Missions to access<br>Hatsune Miku collab challenges!
+9215|Clear "MIKU EXPO" %d times!<br>Clear any MIKU EXPO stage: %d of %d
+9216|Clear "MIKU EXPO" %d times!<br>Clear any MIKU EXPO stage: %d of %d
+9217||
+9218|
+9219|
+9220||
+9221|Complete %d Gamatoto Expeditions during <br>the Shoumetsu Toshi collab: %d of %d times|Check the Special Missions to access<br>Shoumetsu Toshi collab challenges!
+9222|Supera il 50° piano della Torre celestiale!<br>* Le ricompense possono essere riscattate una volta sola.|Controlla le missioni speciali per accedere<br>a una missione Torre celestiale!
+9223|Upgrade Heavenly Jack to Level 10!<br>(You must evolve the Cat before the Bikkuriman collab ends!)
+9224|Supera i livelli "8 anni di divertimento"! %d volte!<br>Supera i livelli di 8 anni: %d su %d|Controlla le missioni speciali per accedere<br>alle sfide limitate di 8 anni!
+9225|Ottieni più di 8888 punti in "8 non bastano"!<br>Cerca questo livello classificato nel Dojo miciodiale!|Controlla le missioni speciali per accedere<br>alle sfide limitate del Dojo di 8 anni!
+9226|Upgrade Ranma Cat (M) to Level 10!<br>(You must evolve the Cat before the Ranma 1/2 collab ends!)|Check Special Missions to access<br>Ranma 1/2 collab challenges!
+9227|Upgrade Panda Cat to Level 10!<br>(You must evolve the Cat before the Ranma 1/2 collab ends!)
+9228|Clear "The Cursed Springs" %d times!<br>Clear any The Cursed Springs stage: %d of %d
+9229|Clear "The Cursed Springs" %d times!<br>Clear any The Cursed Springs stage: %d of %d
+9230|Clear "The Cursed Springs" %d times!<br>Clear any The Cursed Springs stage: %d of %d
+30|Prendi ogni tesoro superiore in Impero dei Gatti Cap. 1
+31|Prendi ogni tesoro superiore in Impero dei Gatti Cap. 2
+32|Prendi ogni tesoro superiore in Impero dei Gatti Cap. 3
+33|Prendi ogni tesoro superiore in Verso il futuro Cap. 1
+34|Prendi ogni tesoro superiore in Verso il futuro Cap. 2
+35|Prendi ogni tesoro superiore in Verso il futuro Cap. 3
+36|Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 1
+37|Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 2
+38|Prendi ogni tesoro superiore in Gatti del Cosmo Cap. 3
+9231|【Invasione】Supera il livello "Fiume Stige"<br>%d volte usando 8 o più Gatti normali.
+9232|【Invasione】Supera il livello "Debutto da morti"<br>%d volte usando 8 o più Gatti speciali.
+9233|【Invasione】Supera il livello "Vendetta di re Wahwah"<br>%d volte usando 9 Gatti normali.
+9234|【Invasione】Supera il livello "Impatto blu"<br>%d volte usando solamente seconde forme
+9235|【Invasione】Supera il livello "Sogno profondo"<br>%d volte usando solamente prime forme
+9236|Supera le %d missioni d'invasione Festival limitato!<br>Livelli superati: %d di %d
+9237|【Invasione】Supera il livello "L'angelo e il demone"!<br>Devi anche superare il livello di continuazione associato.
+9238|【Invasione】Supera il livello "La regina e il morto"!<br>Devi anche superare il livello di continuazione associato.
+9239|【Invasione】Supera il livello "Il re e la fanciulla"!<br>Devi anche superare il livello di continuazione associato.
+9240|Compito per le vacanze ①: Scegli un argomento per il diario<br>Supera %d livelli di Gatti estivi (%d/%d superati)|Controlla le missioni speciali per accedere<br>alle sfide limitate Compiti per le vacanze!
+9241|Compito per le vacanze ②: Scegli il 2° argomento<br>Supera %d livelli di Gatti estivi (%d/%d superati)
+9242|Compiti per le vacanze ①: Trova un bel tema su cui scrivere<br> Supera %d livelli di Gatti estivi (%d/%d superati)
+9243|Compito per le vacanze ④: Scrivi il diario.<br>Supera Nascondiglio fatiscente %d volte (superato: %d/%d)
+9244|Compito per le vacanze ⑤: Riscrivi il diario con stile.<br>Supera Nascondiglio stiloso %d volte (superato: %d/%d)
+9245|Compito per le vacanze ⑥: Riscrivi il diario alla perfezione.<br>Supera Nascondiglio perfetto %d volte (superato: %d/%d)
+9246|Crediti extra ①: Cattura esemplari di insetti<br>Potenzia Gatto Kabuto al livello 10|Controlla le missioni speciali per accedere<br>alle sfide Crediti extra!
+9247|Crediti extra ②: Cattura esemplari di insetti<br>Potenzia Gatto Kuwagata al livello 10
+9248|Crediti extra ③: Osserva esemplari di insetti<br>Potenzia Gatto Kabuto al livello 20
+9249|Crediti extra ④: Osserva esemplari di insetti<br>Potenzia Gatto Kuwagata al livello 20
+9364|Crediti extra extra ①: Osservazione approfondita<br>Supera il livello 1 di Diario estivo con Gatto Kabuto|Controlla le missioni speciali per accedere<br>alle sfide Crediti extra extra!
+9251|Crediti extra extra ②: Osservazione approfondita<br>Supera il livello 2 di Diario estivo con Gatto Kuwagata
+9252|Crediti extra extra ③: Osservazione approfondita<br>Supera il livello 4 di Diario estivo con Gatto Kabuto
+9253|Crediti extra extra ④: Osservazione approfondita<br>Supera il livello 6 di Diario estivo con Gatto Kuwagata
+9254|Scuola estiva ①: Letteratura<br>Supera %d livelli di Lezione estiva (%d/%d superati)|Controlla le missioni speciali per accedere<br>alle sfide limitate Scuola estiva!
+9255|Scuola estiva ②: Algebra<br>Supera %d livelli di Lezione estiva (%d/%d superati)
+9256|Scuola estiva ③: Educazione civica<br>Supera %d livelli di Lezione estiva (%d/%d superati)
+9257|Scuola estiva ④: Assemblea scolastica<br>Supera %d livelli di Lezione estiva (%d/%d superati)
+9258|Crediti super extra ①: Ricerca sulla fauna marina<br>Supera il liv. 1 di Survive! Mola Mola! con Gatto Kabuto|Controlla le missioni speciali per accedere<br>alle sfide Crediti super extra!
+9259|Crediti super extra ②: Ricerca sulla fauna marina<br>Supera il liv. 3 di Survive! Mola Mola! con Gatto Kuwagata
+9260|Crediti super extra ③: Ricerca approfondita. Supera<br>300 Million Dead Molas %d volte con Gatto Kabuto (%d/%d)
+9261|Crediti super extra ④: Ricerca approfondita. Supera<br>300 Million Dead Molas %d volte con Gatto Kuwagata (%d/%d)
+39|Ricerca dell'imperatrice 1: Incantesimi eretici<br>Supera "Confluenza arcana" e "Gatto malvagio"!|Le missioni Ricerca dell'imperatrice sono state aggiunte<br>alla sezione Missioni principali!
+40|Ricerca dell'imperatrice 2: Agenti Aku<br>Supera "Servo delle tenebre" e "Panzer malvagio"
+9262|Clear "River City Ball-Rolling" %d times!<br>Clear any River City Ball-Rolling stage: %d of %d|Check the Special Missions to access<br>limited "River City Cat Clash" challenges!
+9263|Clear "River City Ball-Rolling" %d times!<br>Clear any River City Ball-Rolling stage: %d of %d
+9264|Clear "River City Challenge Course" %d times!<br>Clear any River City Challenge Course stage: %d of %d
+9265|Clear stages from "River City Challenge Course"<br>%d times using only 9 Normal Cats! (%d of %d)
+9266|Defeat %@ at River City Three-Leg Race<br>(Once at any River City Three-Leg Race stage)
+9267|Defeat %@ at River City Three-Leg Race<br>(Once at any River City Three-Leg Race stage)
+9268|Clear all %d River City Cat Clash Limited  Missions!<br>Stages Cleared: %d of %d
+9269|Witch Culling Mission 1: Defeat Rose Garden Witch.<br>Appears in the stage Witch's Labyrinth: The Rose Garden Witch.|Madoka Magica Collab Missions<br>added to the Special Missions!
+9270|Witch Culling Mission 2: Defeat Dessert Witch.<br>Appears in the stage Witch's Labyrinth: Dessert Witch.
+9271|Witch Culling Mission 3: Defeat Box Witch.<br>Appears in the stage Witch's Labyrinth - Box Witch.
+9272|Witch Culling Mission 5: Defeat Nutcracker Witch.<br>Appears in the stage Nutcracker Witch.|Madoka Magica Collab Missions<br>added to the Special Missions!
+9273|Defeat all of the Witches.<br>Clear Witch Culling Missions 1-5.
+9274|Upgrade Li'l Madoka to Level 10!<br>(You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
+9275|Upgrade Kyubey Cat to Level 10!<br>(You must evolve the hero before the Puella Magi Madoka Magica collab ends!)
+41|Ricerca dell'imperatrice 3: Il prezzo della stregoneria<br>Supera "Parco del demone" e "Ascia malvagia"
+42|Completa tutte le %d missioni di<br>Ricerca dell'imperatrice 1-3! (%d di %d)
+43|Chiamata alle armi dell'imperatrice!<br>Supera Liberare i Gatti (I cancelli si aprono...)
+44|Supera "I regni Aku"<br>Completa superando tutti i livelli di I regni Aku.
+45|Supera "I regni Aku"<br>Completa superando tutti i livelli di I regni Aku.
+9276||
+9277|
+9278|
+9279|
+9280|
+9281|
+9282|
+9283|【D1. Cosa c'è nella scatola?】 Indovina unità nascosta<br>della capsula ev.! Sugg.: medaglia piena di ringraziamenti.|Controlla le missioni speciali per accedere<br>a questa missione【D1. Cosa c'è nella scatola?】
+9284|【D1. Cosa c'è nella scatola?】 Indovina unità nascosta<br>della capsula ev.! Sugg.: un Gatto che porta fortuna.
+9285|【D1. Cosa c'è nella scatola?】 Indovina unità nascosta<br>della capsula ev.! Sugg.: un ninja che sfreccia tra pianeti.
+9286|
+9287|
+9288|【D2. Luoghi】 Quale paese è famoso per il sushi?<br>Supera questo livello in Impero dei Gatti per rispondere!|Controlla le missioni speciali per accedere<br>a questa missione【D2. Luoghi】
+9289|【D2. Luoghi】Qual è il deserto più famoso dell'Africa?<br>Supera questo livello in Impero dei Gatti per rispondere!
+9290|【D2. Luoghi】 Dov'è nato Salvador Dalí?<br>Supera questo livello in Impero dei Gatti per rispondere!
+9291|【D2. Luoghi】 Dov'è il triangolo dove spariscono gli aerei?<br>Supera questo livello in Impero dei Gatti per rispondere!
+9292|【D2. Luoghi】 Qual è lo stato più grande dell'America?<br>Supera questo livello in Impero dei Gatti per rispondere!
+9293|【D2. Luoghi】 Viaggia attorno al mondo<br>e rispondi a tutte le %d domande del quiz! (%d su %d)
+9294|【D3. Base felina】<br>Rispondi a tutte le domande che il Gatto ha per te!|Controlla le missioni speciali per accedere<br>a questa missione【D3. Base felina】
+9295|【D4. Selezione】 Quale nemico entra all'università<br>ogni anno? Sconfiggilo in Impero dei Gatti per rispondere!|Controlla le missioni speciali per accedere<br>a questa missione【D4. Selezione】
+9296|【D4. Selezione】 Quale nemico va a scuola di recitazione?<br>Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9297|【D4. Selezione】 Quale nemico colleziona riviste?<br>Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9298|【D4. Selezione】 Quale nemico lavora dai pompieri?<br>Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9299|【D4. Selezione】 Quale nemico ha trovato una testona?<br>Sconfiggi questo nemico in Impero dei Gatti per rispondere!
+9300|【D4. Selezione】 Viaggia attorno al mondo<br>e rispondi a tutte le %d domande del quiz! (%d su %d)
+9301|【D5. Tempo e fortuna】 Supera il livello, porta fortuna e<br>apri la porta! Supera %d livelli Paradiso! (%d su %d)|Controlla le missioni speciali per accedere<br>a questa missione【D5. Tempo e fortuna】
+9302|【D5. Tempo e fortuna】 Supera il livello, porta fortuna e<br>apri la porta! Supera %d livelli Paradiso! (%d su %d)
+9303|【D5. Tempo e fortuna】 Supera il livello, porta fortuna e<br>apri la porta! Supera %d livelli Paradiso! (%d su %d)
+9304|
+46|Missione del nono anniversario<br>Supera Impero dei Gatti Cap. 1 durante questo evento!
+9305|Supera il 30° piano della Torre infernale<br>* Puoi ricevere la ricompensa solo una volta.|Missioni Torre infernale aggiunte alle Missioni speciali!
+47|Resoconto dell'imperatrice: Ricerca di Aku<br>Resoconto dell'imperatrice: supera ogni liv. %d volte. (%d/%d).|Missioni della Ricerca dell'imperatrice aggiunte<br>alla sezione Missioni principali!
+9306||
+9307|
+9308|
+9309|
+9310|
+9311|
+9312|
+9313|
+9314|
+9315|
+9316||
+9317|
+9318|
+9319|
+9320|
+9321|【Invasione】Supera il livello "Clionel Ascendente"<br>%d volte usando 7 o più Gatti speciali.
+9322|【Invasione】Supera il livello "Incoronazione regale"<br>%d volte usando 7 o più Gatti normali.
+9323|【Invasione】Supera il livello "Il morto e il gonfio"!<br>Devi anche superare il livello di continuazione associato.
+9324|【Invasione】Supera il livello "La regina e la fanciulla"!<br>Devi anche superare il livello di continuazione associato.
+9325|【Invasione】Supera il livello "Il re e l'angelo"!<br>Devi anche superare il livello di continuazione associato.
+48|Supera %d livelli "Selezione Behemoth" per la prima volta.<br>Vedi "Info sulle sfide" per verificare i livelli. (%d di %d)|Missioni della "Selezione Behemoth" aggiunte<br>alla sezione Missioni principali!
+49|Supera %d livelli "Selezione Behemoth" per la prima volta.<br>Vedi "Info sulle sfide" per verificare i livelli. (%d di %d)
+9326|Missioni del Festival del Ciclone<br>Supera il livello "Catastrofe cremisi"!|Controlla le missioni speciali per accedere<br>alle missioni del Festival del Ciclone!
+9327|Missioni del Festival del Ciclone<br>Supera il livello "Paradiso delle tenebre"!
+9328|Missioni del Festival del Ciclone<br>Supera il livello "Ineguagliabile"!
+9329|Missioni del Festival del Ciclone<br>Supera il livello "Dolce ironia"!
+9330|Missioni del Festival del Ciclone<br>Supera il livello "Ira del paradiso"!
+9331|Missioni del Festival del Ciclone<br>Supera il livello "Dimensione disperata"!
+9332|Missioni del Festival del Ciclone<br>Supera il livello "Rosso di mattina"!
+9333|Missioni del Festival del Ciclone<br>Supera il livello "Morti rotolanti"!
+9334|Missioni del Festival del Ciclone<br>Supera il livello "La seconda dimensione"!
+9335|Missioni del Festival del Ciclone<br>Supera il livello "Tifone Nemo"!
+9336|Missioni del Festival del Ciclone<br>Supera Catastrofe cremisi %d volte con 8 o più Gatti normali
+9337|Missioni del Festival del Ciclone<br>Supera Paradiso delle tenebre %d volte con 8 o più Gatti nor.
+9338|Missioni del Festival del Ciclone<br>Supera Ineguagliabile %d volte con 8 o più Gatti rari
+9339|Missioni del Festival del Ciclone<br>Supera Dolce ironia %d volte con 8 o più Gatti rari
+9340|Missioni del Festival del Ciclone<br>Supera Ira del paradiso %d volte con 8 o più Gatti rari
+9341|Missioni del Festival del Ciclone<br>Supera Dimensione disperata %d volte con 8 o più Gatti nor.
+9342|Missioni del Festival del Ciclone<br>Supera Rosso di mattina %d volte con solo prime forme
+9343|Missioni del Festival del Ciclone<br>Supera Morti rotolanti %d volte con solo prime forme
+9344|Missioni del Festival del Ciclone<br>Supera La seconda dimensione %d volte con solo prime forme
+9345|Supera %d livello/i di "Città annientata" con Yuki.<br>Tutti i livelli contano per la missione. (%d su%d)|Shoumetsu Toshi Collab<br>Missions available!
+9346|Supera %d livello/i di "Città annientata" con Takuya e Yuki.<br>Tutti i livelli contano per la missione. (%d su%d)
+9347|Supera %d livello/i di "Città annientata" con Yuki la rossa.<br>Tutti i livelli contano per la missione. (%d su%d)
+9348|Supera %d livello/i di "Città annientata" con Kano e Souma.<br>Tutti i livelli contano per la missione. (%d su%d)
+9349|Clear %d  Shoumetsu Toshi collab stages.<br>All "Annihilated City" stages count towards this mission. (%d of %d)|
+9350|Clear %d  Shoumetsu Toshi collab stages.<br>All "Annihilated City" stages count towards this mission. (%d of %d)
+9351|Clear %d  Shoumetsu Toshi collab stages.<br>All "Annihilated City" stages count towards this mission. (%d of %d)
+9352|Complete %d Gamatoto expeditions! Send Gamatoto to any<br>area 5 times during the Shoumetsu Toshi collab event (%d of %d Expeditions.)
+50|Supera %d livelli "Selezione Behemoth" per la prima volta.<br>Vedi "Info sulle sfide" per verificare i livelli. (%d di %d)
+51|Supera %d livelli "Selezione Behemoth" per la prima volta.<br>Vedi "Info sulle sfide" per verificare i livelli. (%d di %d)
+9353|Ottieni un Uovo antico N201 dalle <br>capsule Sposa di giugno del diavolo!|Controlla le missioni speciali per accedere<br>alle sfide "Sposa di giugno del diavolo"!
+9354|Supera un qualsiasi livello di "01: La cappella fantasma"<br>%d volte! (%d di %d)
+9355|Supera un qualsiasi livello di "01: La cappella fantasma"<br>%d volte! (%d di %d)
+9356|Supera un qualsiasi livello di "01: La cappella fantasma"<br>%d volte! (%d di %d)
+9357|Supera un qualsiasi livello di "01: La cappella fantasma"<br>%d volte! (%d di %d)
+9358|Supera un qualsiasi livello di "03: ??? 13"<br>%d volte! (%d di %d)|Controlla le missioni speciali per accedere<br>alle sfide "Sposa di giugno del diavolo"!
+9359|Supera un qualsiasi livello di "03: ??? 13"<br>%d volte! (%d di %d)
+9360|Supera il livello di continuazione dei livelli "03: ??? 13"<br>%d volte! (%d di %d)
+9361|Supera un qualsiasi livello di "04: Villaggio ululante"<br>%d volte! (%d di %d)|Controlla le missioni speciali per accedere<br>alle sfide "Sposa di giugno del diavolo"!
+9362|Supera un qualsiasi livello di "04: Villaggio ululante"<br>%d volte! (%d di %d)
+9363|Supera un qualsiasi livello di "04: Villaggio ululante"<br>%d volte! (%d di %d)
+9250|Compiti per le vacanze Parte 1 ①: Studia gli insetti<br> Ottieni 1 Gatto Kabuto dall'evento Gacha!|Compiti per le vacanze Parte 1<br> è stato aggiunto alle missioni speciali!
+9365|Compiti per le vacanze Parte 1 ②: Studia gli insetti<br> Ottieni 1 Gatto Kuwagata dall'evento Gacha!
+9366|Compiti per le vacanze Parte 1 ③: Studia gli insetti<br> Ottieni 1 Uovo antico N202 dall'evento Gacha!
+9367|Compiti per le vacanze Parte 1 ④: Studia gli insetti<br> Ottieni 3 Gatti Kabuto dall'evento Gacha!
+9368|Compiti per le vacanze Parte 1 ⑤: Studia gli insetti<br> Ottieni 3 Gatti Kuwagata dall'evento Gacha!
+9369|Compiti per le vacanze Parte 1 ⑥: Studia gli insetti<br> Ottieni 3 unità Uovo antico N202 dall'evento Gacha!
+9370|Compiti per le vacanze Parte 1 ⑦: Studia gli insetti<br> Ottieni 5 Gatti Kabuto dall'evento Gacha!
+9371|Compiti per le vacanze Parte 1 ⑧: Studia gli insetti<br> Ottieni 5 Gatti Kuwagata dall'evento Gacha!
+9372|Compiti per le vacanze Parte 1 ⑨: Studia gli insetti<br> Ottieni 5 unità Uovo antico N202 dall'evento Gacha!
+9373|Clear %d  "Ranma 1/2" collab stages.<br>All "Test of Might" stages count towards this mission. (%d of %d)|"Ranma 1/2" Collab<br>Missions available!
+9374|Clear %d  "Ranma 1/2" collab stages.<br>All "Test of Might" stages count towards this mission. (%d of %d)
+9375|Clear %d  "Ranma 1/2" collab stages.<br>All "Test of Might" stages count towards this mission. (%d of %d)
+52|Supera %d livelli "Selezione Behemoth" per la prima volta.<br>Vedi "Info sulle sfide" per verificare i livelli. (%d di %d)
+53|Supera %d livelli "Selezione Behemoth" per la prima volta.<br>Vedi "Info sulle sfide" per verificare i livelli. (%d di %d)
+9376|Clear stages from "Merc Storia Collab"<br>%d times! (Any collab stage) (%d of %d)|Check the Special Missions for<br>Merc Storia challenges!
+9377|Clear stages from "Merc Storia Collab"<br>%d times! (Any collab stage) (%d of %d)
+9378|Clear stages from "Merc Storia Collab"<br>%d times! (Any collab stage) (%d of %d)
+9379|Supera il 40° piano della Torre infernale<br>* Puoi ricevere la ricompensa solo una volta.|Missioni Torre infernale aggiunte alle Missioni speciali!
+54|Supera "Valanga di XP"<br>Completa superando tutti i livelli di Valanga di XP.|Missioni Valanga di XP! aggiunte alle Missioni principali!
+9380|Clear stages from "River City Cat Clash"<br>%d times! (Any "River City Cat Clash" stage) (%d of %d)|Check the Special Missions for<br>River City Cat Clash challenges!
+9381|Clear stages from "River City Cat Clash"<br>%d times! (Any "River City Cat Clash" stage) (%d of %d)
+9382|Clear stages from "River City Cat Clash"<br>%d times! (Any "River City Cat Clash" stage) (%d of %d)
+9383|Clear stages from "River City Three-Leg Race"<br>%d times using only 2 Rare Cats! (%d of %d)
+9384|Clear stages from "River City Three-Leg Race"<br>%d times using only 2 Special Cats! (%d of %d)
+9385|Clear stages from "Street Fighter V CE Collab"<br>%d times! (Any collab stage) (%d of %d)|Check the Special Missions to access<br>limited "Street Fighter V CE" challenges!
+9386|Clear stages from "Street Fighter V CE Collab"<br>%d times! (Any collab stage) (%d of %d)
+9387|Clear stages from "Street Fighter V CE Collab"<br>%d times! (Any collab stage) (%d of %d)
+9388|【Pt. 1: Dieci anni di ricordi】1. Ottieni un'unità anniv.<br>dalle capsule evento! Sugg.: medaglia del 5° anniversario.|Controlla le missioni speciali per affrontare<br>la parte 1 delle missioni dei 10 anni!
+9389|【Pt. 1: Dieci anni di ricordi】2. Ottieni un'unità anniv.<br>dalle capsule evento! Sugg.: Gatto portafortuna agli eventi.
+9390|
+9391|【Pt. 1: Dieci anni di ricordi】4. Ottieni un'unità anniv.<br>dalle capsule evento! Sugg.: Gatto ricompensa del 9º anniv.
+9392|【Pt. 1: Dieci anni di ricordi】5. Ottieni un'unità anniv.<br>dalle capsule evento! Sugg.: Gatto pensatore del 10º anniv.
+9393|
+9394|【Pt. 1: Dieci anni di ricordi】Supera i livelli collab.<br>di Dieci anni di ricordi %d volte! Supera dei liv.: %d su %d
+9395|【Pt. 1: Dieci anni di ricordi】Supera i livelli collab.<br>di Dieci anni di ricordi %d volte! Supera dei liv.: %d su %d
+9396|【Pt. 1: Dieci anni di ricordi】Supera i livelli collab.<br>di Dieci anni di ricordi %d volte! Supera dei liv.: %d su %d
+9397|【Pt. 2: Manovre nemiche】Supera i livelli di<br>Manovre nemiche %d volte! Supera qualsiasi livello: %d su %d|Controlla le missioni speciali per accedere<br>alla parte 2 delle missioni dei 10 anni.
+9398|【Pt. 3: Chiacchiere tra gatti 】Parla con un Gatto alla Base felina<br> per 4 gg. e scopri la storia di The Battle Cats!|Controlla le missioni speciali per accedere<br>alla parte 3 delle missioni dei 10 anni.
+9399|【Pt. 4: Caccia ai Gatti】1. Trova il Gatto nascosto in<br>Impero dei Gatti! Sugg: capitale con il nome + lungo al mondo.|Controlla le missioni speciali per accedere<br>alla parte 4 delle missioni dei 10 anni.
+9400|【Pt. 4: Caccia ai Gatti】2. Trova il Gatto nascosto in<br>Impero dei Gatti! Sugg: grande deserto senza nuvole.
+9401|【Pt. 4: Caccia ai Gatti】3. Trova il Gatto nascosto in<br>Impero dei Gatti! Sugg: il suo simbolo è la foglia di acero.
+9402|【Pt. 4: Caccia ai Gatti】4. Trova il Gatto nascosto in<br>Impero dei Gatti! Sugg: da qui partì la missione sulla Luna.
+9403|【Pt. 4: Caccia ai Gatti】5. Trova il Gatto nascosto in<br>Impero dei Gatti! Sugg: aspettativa di vita + lunga in USA.
+9404|【Pt. 4: Caccia ai Gatti】Viaggia per il mondo<br>e trova tutti i Gatti nascosti!
+9405|【Pt. 5: Parata musicale】Supera i livelli di<br>Parata musicale %d volte! Supera qualsiasi livello: %d su %d|Controlla le missioni speciali per accedere<br>alle missioni del 10º anniversario
+9406|
+55|Missione 10º anniversario<br>Supera Impero dei Gatti Cap. 1 durante l'evento
+9407|Supera livelli "Capodanno lunare" %d volte!<br>Supera qualsiasi livello di Capodanno lunare: %d di %d|Controlla le missioni speciali per accedere<br>alle sfide Capodanno lunare!
+9408|Supera livelli "Capodanno lunare" %d volte!<br>Supera qualsiasi livello di Capodanno lunare: %d di %d
+9409|Supera livelli "Capodanno lunare" %d volte!<br>Supera qualsiasi livello di Capodanno lunare: %d di %d
+9410|Supera livelli "Capodanno lunare" %d volte!<br>Supera qualsiasi livello di Capodanno lunare: %d di %d
+9411|Supera livelli "Capodanno lunare" %d volte!<br>Supera qualsiasi livello di Capodanno lunare: %d di %d
+56|Supera %d livelli "Selezione Behemoth" per la prima volta.<br>Vedi "Info sulle sfide" per verificare i livelli. (%d di %d)
+9412|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count towards this mission. (%d of %d)|"Fate/stay night [HF]" Collab<br>Missions available!
+9413|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count towards this mission. (%d of %d)
+9414|Clear %d Fate/stay night [HF] collab stages.<br>All Fate/stay night [HF] stages count towards this mission. (%d of %d)
+9415|【80M】Manda Gamatoto in %d spedizioni riuscite!<br>(Completa 1 spedizione in un'area Gamatoto: %d su %d.)|Controlla le missioni speciali per accedere<br>alle sfide 80M!
+9416|【80M】Manda Gamatoto in %d spedizioni riuscite!<br>(Completa 5 spedizioni in un'area Gamatoto: %d su %d.)
+9417|【80M】Supera Buon regalo di Festeggiamenti 80M %d volte!<br>(%d su %d)
+9418|【80M】Supera Buon regalo di Festeggiamenti 80M %d volte!<br>(%d su %d)
+9419|【80M】Supera Buon regalo di Festeggiamenti 80M %d volte!<br>(%d su %d)
+9420|【80M】Supera liv. di "Evento All-Star mensile" %d volte!<br>Supera dei livelli di Evento All-Star mensile: %d su %d
+9421|【80M】Supera liv. di "Evento All-Star mensile" %d volte!<br>Supera dei livelli di Evento All-Star mensile: %d su %d
+9422|【80M】Supera liv. di "Evento All-Star mensile" %d volte!<br>Supera dei livelli di Evento All-Star mensile: %d su %d
+9423|【80M DL】Supera tutte le missioni evento<br>e ottieni 1 pezzo di platino!
+57|Supera %d livelli "Selezione Behemoth" per la prima volta.<br>Vedi "Info sulle sfide" per verificare i livelli. (%d di %d)
+58|Supera %d livelli "Selezione Behemoth" per la prima volta.<br>Vedi "Info sulle sfide" per verificare i livelli. (%d di %d)
+59|Supera tutti i Livelli Leggende misteriose di livello 2<br>per completare questa missione.
+9424|Missioni del Festival Ciclone<br>Supera il livello "Il grande diablo"!
+9425|Ottieni un Uovo antico N203 dalle <br>capsule Sposa di giugno del diavolo!
+9426|Ottieni più di 8200 punti nel <br>livello 1 di 02: Nozze da incubo!
+9427|Ottieni più di 7200 punti nel <br>livello 2 di 02: Nozze da incubo!
+9428|Ottieni più di 7100 punti nel <br>livello 3 di 02: Nozze da incubo!
+9429|Ottieni più di 6200 punti nel <br>livello 4 di 02: Nozze da incubo!
+9430|Ottieni più di 4500 punti nel <br>livello 5 di 02: Nozze da incubo!
+9431|Ottieni una pietra B. superando il punteggio <br>richiesto nei livelli 1-5 di 02: Nozze da incubo!
+9432|【D1. Cosa c'è nella scatola?】 Ottieni tutte le unità<br>misteriose dalle capsule evento! (%d su %d)
+9433|【Super Quiz】 Supera le missioni D1~5 e riscatta<br>un premio del valore di 1 milione di $ (secondo Gatto CPU)!
+60|Supera %d livelli "Selezione Behemoth" per la prima volta!<br>(Controlla la validità nei dettagli missioni: %d su %d.)
+61|Supera %d livelli "Selezione Behemoth" per la prima volta!<br>(Controlla la validità nei dettagli missioni: %d su %d.)
+9434|Clear Princess Punt Sweets collab stages %d times!<br>Clear any Princess Punt Sweets stage: %d of %d|Check the Special Missions to access<br>Princess Punt Sweets challenges!
+9435|Clear Princess Punt Sweets collab stages %d times!<br>Clear any Princess Punt Sweets stage: %d of %d
+9436|Clear Princess Punt Sweets collab stages %d times!<br>Clear any Princess Punt Sweets stage: %d of %d
+9437||
+9438|
+9439|
+62|Supera tutti i Livelli Leggende misteriose di livello 3<br>per completare questa missione.
+63|Supera tutti i %d liv. "Selezione Behemoth"!<br>(Controlla la validità nei dettagli: %d su %d)
+9440|Clear Hatsune Miku collab stages %d times!<br>Clear any Hatsune Miku stage: %d of %d|"Hatsune Miku" Collab<br>Missions available!
+9441|Clear Hatsune Miku collab stages %d times!<br>Clear any Hatsune Miku stage: %d of %d
+9442|Clear Hatsune Miku collab stages %d times!<br>Clear any Hatsune Miku stage: %d of %d
+9443||
+9444|
+9445|
+9446|
+9447|
+9449|
+9450|
+9451|
+9452||
+9455||
+9456||
+9457|
+9458|
+9459|
+9460|
+9461|
+9462||
+9465|
+64|
+9466|
+9467|Supera il 50° piano della Torre celestiale.<br>(Questa ricompensa può essere riscattata una volta sola.)|Controlla le missioni speciali per accedere<br>a questa missione Torre celestiale!
+9468|Clear stages from "Metal Slug Collab"<br>%d times! (Any collab stage) (%d of %d)|Check the Special Missions to access<br>limited "Metal Slug" challenges!
+9469|Clear stages from "Metal Slug Collab"<br>%d times! (Any collab stage) (%d of %d)
+9470|Clear stages from "Metal Slug Collab"<br>%d times! (Any collab stage) (%d of %d)
+9471|【90M DL】Supera tutte le missioni evento<br>e ottieni 1 pezzo di platino!|Le missioni per i 90M DL<br>sono disponibili!
+9472|【90M DL】Manda Gamatoto in %d spedizioni riuscite!<br>(Completa 1 spedizione in un'area Gamatoto: %d su %d.)
+9473|【90M DL】Manda Gamatoto in %d spedizioni riuscite! <br>(Completa 3 spedizioni in un'area Gamatoto: %d su %d.)
+9474|【90M DL】Manda Gamatoto in %d spedizioni riuscite!<br>(Completa 5 spedizioni in un'area Gamatoto: %d su %d.)
+9475|【90M DL】Supera Buon regalo di Festeggiamenti 90M %d volte!<br>(%d su %d)
+9476|【90M DL】Supera Buon regalo di Festeggiamenti 90M %d volte!<br>(%d su %d)
+9477|【90M DL】Supera Buon regalo di Festeggiamenti 90M %d volte!<br>(%d su %d)
+9478|【90M DL】Supera %d livelli di "The Battle Cats"<br>Supera qualunque livello di The Battle Cats: %d su %d.
+9479|【90M DL】Supera %d livelli di "The Battle Cats"<br>Supera qualunque livello di The Battle Cats: %d su %d.
+9480||
+9481|
+9482|
+9483|Clear Tower of Saviors collab stages %d times!<br>Clear any Tower of Saviors stage: %d of %d|Check the Special Missions to access<br>Tower of Saviors challenges!
+9484|Clear Tower of Saviors collab stages %d times!<br>Clear any Tower of Saviors stage: %d of %d
+9485|Clear Tower of Saviors collab stages %d times!<br>Clear any Tower of Saviors stage: %d of %d
+9486|【88,88M DL】<br>Supera il livello "Pack misterioso"!|Controlla le missioni speciali per accedere<br> alle sfide 88,88M!
+9487|【88,88M DL】Potenzia Gatto spazzatura a livello 10.<br>Deve essere fatto durante l'evento 88,88M.
+9488|【88,88M DL】Potenzia Gatto spazzatura a livello 20.<br>Completa durante l'evento 88,88M.
+9489|Clear %d Rurouni Kenshin collab stages.<br>All Rurouni Kenshin collab stages count toward the total. (%d of %d)|Rurouni Kenshin missions have<br>been added to Special Missions!
+9490|Clear %d Rurouni Kenshin collab stages.<br>All Rurouni Kenshin collab stages count toward the total. (%d of %d)
+9491|Clear %d Rurouni Kenshin collab stages.<br>All Rurouni Kenshin collab stages count toward the total. (%d of %d)|
+9492|Ottieni 1 Uovo antico N205 dalle capsule Sposa di giugno!
+9493|[Colosseo ultraterreno] Missione evento limitato<br>Supera Colosseo ultraterreno livello 1 Round 3.|Le missioni Colosseo ultraterreno sono<br>state aggiunte alle missioni speciali!
+9494|[Colosseo ultraterreno] Missione evento limitato<br>Supera Colosseo ultraterreno livello 1 Round 5.
+9495|[Colosseo ultraterreno] Missione evento limitato<br>Supera Colosseo ultraterreno livello 2 Round 3.
+9496|[Colosseo ultraterreno] Missione evento limitato<br>Supera Colosseo ultraterreno livello 2 Round 5.
+9497|[Parte 1: Dieci anni di ricordi] Ottieni %d unità<br>anniversario dalle capsule evento! (%d di %d)
+9498|[Parata in onore dei dieci anni] Supera tutte le missioni<br>di tutte le parti per riscattare un Biglietto leggendario.
+9499|[Livello di invasione] Missione evento limitato<br>Supera Tribunale del Tormento
+9500|[Livello di invasione] Missione evento limitato<br>Supera Prima faccenda
+9501|[Livello di invasione] Missione evento limitato<br>Supera Gloria di Wanwan
+9502|[Livello di invasione] Missione evento limitato<br>Supera Il ritorno di Z-Onel!
+9503|[Livello di invasione] Missione evento limitato<br>Supera Vecchia regina
+9504|[Livello di invasione] Missione evento limitato<br>Supera Paradiso di Papuu
+9505|[Livello di invasione] Supera La tartaruga e il bebè<br>Supera tutti i livelli e i livelli EX per completare
+9506|[Livello di invasione] Supera Il principe e il fantasma<br>Supera tutti i livelli e i livelli EX per completare
+9507|[Livello di invasione] Supera La regina e il santo<br>Supera tutti i livelli e i livelli EX per completare
+9508|Compiti per le vacanze ④: Scrivi un tema perfetto<br> Supera %d livelli di Gatti estivi (%d/%d superati)
+9509|Compiti per le vacanze Parte 2 ⑤: Osservare gli insetti<br>Supera il liv. 1 di Sera estiva, verso casa con Gatto Kabuto
+9510|Compiti per le vacanze Parte 2 ⑥: Osservare gli insetti<br>Supera il liv. 2 di Sera estiva, verso casa con Gatto Kuwagata
+9511|Compiti per le vacanze Parte 2 ⑦: Osservare gli insetti<br>Vinci il liv. 3 di Sera estiva, verso casa con Uovo antico N202
+9512||
+9513|
+9514|
+9515|
+9516|
+9517|
+9518|[Fuga del naufrago Parte 1] ①: Sopravvivenza selvaggia<br>Supera %d livelli Naufrago! (%d di %d)|Controlla le missioni speciali per accedere<br>alle sfide di Fuga del naufrago Parte 1!
+9519|[Fuga del naufrago Parte 1] ②: Sopravvivenza selvaggia<br>Supera %d livelli Naufrago! (%d di %d)
+9520|[Fuga del naufrago Parte 1] ③: Sopravvivenza selvaggia<br>Supera %d livelli Naufrago! (%d di %d)
+9521|
+9522|
+9523|
+9524|[Fuga del naufrago Parte 2] ①: Battaglia contro la natura<br>Supera il livello 1 di Vita nella giungla!|Controlla le missioni speciali per accedere<br>alle sfide di Fuga del naufrago Parte 2!
+9525|[Fuga del naufrago Parte 2] ②: Battaglia contro la natura<br>Supera il livello 4 di Vita nella giungla!
+65|[Collega account] Vai a Impostazioni→<br>Cambia account/dispositivo per collegarlo.|Controlla le Missioni principali per accedere alle sfide<br>Collega account!
+9526|Supera i livelli dell'evento Halloween<br>%d volte! (Qualsiasi livello evento) (%d di %d)|Controlla le missioni speciali per accedere alle<br>sfide limitate dell'evento Halloween!
+9527|Supera i livelli dell'evento Halloween<br>%d volte! (Qualsiasi livello evento) (%d di %d)
+9528|Supera i livelli dell'evento Halloween<br>%d volte! (Qualsiasi livello evento) (%d di %d)
+9529|Acquista un oggetto in evidenza dalle<br>capsule dell'evento Festa di Halloween!
+9530|Supera tutte le missioni dell'evento Halloween<br>e ottieni 1 biglietto raro!
+9531|[Campagna Vantaggio iniziale] Supera qualsiasi livello<br>di Impero dei Gatti %d volte! (%d di %d)|Controlla le missioni speciali per accedere<br>alle sfide limitate "Vantaggio iniziale"!
+9532|[Campagna Vantaggio iniziale] Supera qualsiasi livello<br>di Impero dei Gatti %d volte! (%d di %d)
+9533|[Campagna Vantaggio iniziale] Supera qualsiasi livello<br>di Impero dei Gatti %d volte! (%d di %d)
+9534|[Campagna Vantaggio iniziale] Supera il livello Giappone<br>di Impero dei Gatti e ottieni un biglietto raro!
+9535|[Campagna Vantaggio iniziale] Supera il livello Giappone<br>di Impero dei Gatti e ottieni una Leadership!
+66|Sconfiggi la forma di vita nel Labirinto antica foresta<br>Liv.1 fase 6.
+67|[Campionati miciodiali] Supera %d livelli di Campionati miciodiali Grado 1.<br>Accedi al Dojo miciodiale per affrontare questo livello (%d di %d)|Le missioni Campionati miciodiali<br>sono state aggiunte alle missioni principali!
+68|[Campionati miciodiali] Ottieni %d Gatti leggendari. Vai avanti nei livelli<br>leggendari per raccoglierli nei livelli speciali (%d di %d)|Le missioni Campionati miciodiali<br>sono state aggiunte alle missioni principali!
+69|[Campionati miciodiali] Ottieni %d Gatti leggendari. Vai avanti nei livelli<br>leggendari per raccoglierli nei livelli speciali (%d di %d)|Le missioni Campionati miciodiali<br>sono state aggiunte alle missioni principali!
+70|[Campionati miciodiali] Ottieni %d Gatti leggendari. Vai avanti nei livelli<br>leggendari per raccoglierli nei livelli speciali (%d di %d)|Le missioni Campionati miciodiali<br>sono state aggiunte alle missioni principali!
+71|[Campionati miciodiali] Ottieni %d Gatti leggendari. Vai avanti nei livelli<br>leggendari per raccoglierli nei livelli speciali (%d di %d)|Le missioni Campionati miciodiali<br>sono state aggiunte alle missioni principali!
+9536|Supera tutte le missioni La via dell'unificazione<br>e ottieni un biglietto platino!|Missioni La via dell'unificazione aggiunte<br>alle Missioni speciali!
+9537|Supera le missioni La via dell'unificazione ① - ④<br>e ottieni Gatto tenente!
+9538|La via dell'unificazione ①:<br>Supera tutti e 5 i livelli La via dell'unificazione!
+9539|La via dell'unificazione ②: supera "Cane ribelle p.1"<br>%d volte! *Appare dopo aver superato LvU p.1.
+9540|La via dell'unificazione ③:<br>Supera il livello 1 di "All'attacco! Comandante Nyandam"!|Missioni La via dell'unificazione ③ aggiunte<br>alle Missioni speciali!
+9541|La via dell'unificazione ④: parla con il Gatto<br>nella Base felina per 3 giorni e recluta nuovi combattenti!|Missioni La via dell'unificazione ④ aggiunte<br>alle Missioni speciali!
+9542|La via dell'unificazione ⑤: <br>supera "La via dell'unificazione p.2", livello 1!|Missioni La via dell'unificazione ⑤ aggiunte<br>alle Missioni speciali!
+9543|La via dell'unificazione ⑥：<br>Supera il livello 1 di "Battaglia finale! Il re ribelle"!|Missioni La via dell'unificazione ⑥ aggiunte<br>alle Missioni speciali!
+72|Missione La via dell'unificazione: supera<br>Impero dei Gatti Cap. 1 durante l'evento per completare.
+9544|Missione La via dell'unificazione: supera "Anime primitive"<br>da Leggende misteriose con Gatti che costano ¢1000 o più!|Missioni La via dell'unificazione aggiunte<br>alle Missioni speciali!
+9545|Missione La via dell'unificazione: supera "Pala di<br>salvataggio" da Leggende misteriose con 9 o più Gatti base!|Missioni La via dell'unificazione aggiunte<br>alle Missioni speciali!
+9546|Missione La via dell'unificazione: supera "Il volto divino"<br>da Leggende misteriose con 8 o più Gatti super rari!|Missioni La via dell'unificazione aggiunte<br>alle Missioni speciali!
+9547|Missione La via dell'unificazione: supera "Zenit Immortale"<br>da Leggende misteriose con Gatti che costano ¢2000 o meno!|Missioni La via dell'unificazione aggiunte<br>alle Missioni speciali!
+9548|Missione La via dell'unificazione: supera "Il ritorno<br>dell'origine" da Leggende misteriose con 5 Gatti o meno!|Missioni La via dell'unificazione aggiunte<br>alle Missioni speciali!
+9549|Missione La via dell'unificazione: supera "Un mondo nuovo"<br>da Leggende zero con 9 o più Gatti rari!
+73|Tocca 2 volte un Tesoro nella Lista per saltare al livello.<br>Apri la Lista tesori dalla Base felina.
+74|Tocca l'icona nemico nella schermata di sel. liv. e apri la<br>Guida ai nemici. Tocca nome liv. sup. per mostrare i nemici.
+75|Usa Vitamiao A per ripristinare i tentativi di un livello.<br>Usa Vitamiao A in un livello leggendario.
+76|Tocca 2 volte Gatto CPU per saltare il livello.<br>I livelli superati nella schermata di selezione livello possono essere saltati.
+77|Tieni premuto il puls. Equipaggia nella schermata sel. liv.<br>Tieni premuto per equip. la form. con cui hai sup. liv.
+78|Salta a un livello dalla schermata di evoluzione.<br>Tocca un materiale evol. dalla schermata dal menu Potenzia.
+79|Controlla il Codice di richiesta.<br>Tocca in alto a sin. menu titolo o in basso a sin. menu Opzioni.
+9550|Clear %d Madoka Magica collab stages.<br>All Madoka Magica collab stages count toward the total. (%d of %d)
+9551|Clear %d Madoka Magica collab stages.<br>All Madoka Magica collab stages count toward the total. (%d of %d)
+9552|Clear %d Madoka Magica collab stages.<br>All Madoka Magica collab stages count toward the total. (%d of %d)
+9553|Witch Culling Mission 4: Defeat Stagebuilder Witch.<br>Appears in the stage Walpurgisnacht.|Madoka Magica Collab Missions<br>added to the Special Missions!
+9554|Supera il 30° piano della Torre dorata.<br>(Questa ricompensa può essere riscattata una volta sola).|Le missioni Torre dorata sono state aggiunte<br>alla sezione Missioni speciali!
+9555|Supera il 40° piano della Torre dorata.<br>(Questa ricompensa può essere riscattata una volta sola).|Le missioni Torre dorata sono state aggiunte<br>alla sezione Missioni speciali!
+9556|Supera il 50° piano della Torre dorata.<br>(Questa ricompensa può essere riscattata una volta sola).|Le missioni Torre dorata sono state aggiunte<br>alla sezione Missioni speciali!
+9557|【100M DL】Supera tutte le missioni dell'evento<br>e ottieni un pezzo di platino.|Le missioni 100M DL sono state aggiunte<br>alla sezione Missioni speciali!
+9558|【100M DL】Manda Gamatoto in %d spedizioni riuscite!<br>(Completa 1 spedizione in un'area Gamatoto: %d su %d)
+9559|【100M DL】Manda Gamatoto in %d spedizioni riuscite!<br>(Completa 3 spedizioni in un'area Gamatoto: %d su %d)
+9560|【100M DL】Manda Gamatoto in %d spedizioni riuscite!<br>(Completa 5 spedizioni in un'area Gamatoto: %d su %d)
+9561|【100M DL】Supera Regali a fiumi Festa 100M DL!<br>%d volte! (%d su %d)
+9562|【100M DL】Supera Regali a fiumi Festa 100M DL!<br>%d volte! (%d su %d)
+9563|【100M DL】Supera Regali a fiumi Festa 100M DL!<br>%d volte! (%d su %d)
+9564|【100M DL】Supera %d liv. di "The Battle Cats".<br>Qualunque liv. vale ai fini del conteggio totale. (%d su %d)
+9565|【100M DL】Supera %d liv. di "The Battle Cats".<br>Qualunque liv. vale ai fini del conteggio totale. (%d su %d)
+9566|Supera %d liv. di "Stagione 1: Giorni di scuola".<br>Qualunque liv. vale ai fini del conteggio totale. (%d su %d)|Le missioni Miaoccademia Batticuore sono state aggiunte<br>alla sezione Missioni speciali!
+9567|Supera %d liv. di "Stagione 2: Festival del Batticuore".<br>Qualunque liv. vale ai fini del conteggio totale. (%d su %d)|Le missioni Miaoccademia Batticuore sono state aggiunte<br>alla sezione Missioni speciali!
+9568|Supera %d liv. di "Stagione 3: Gita".<br>Qualunque liv. vale ai fini del conteggio totale. (%d su %d)|Le missioni Miaoccademia Batticuore sono state aggiunte<br>alla sezione Missioni speciali!
+9569|Supera %d liv. di "Stagione 4: Diploma".<br>Qualunque liv. vale ai fini del conteggio totale. (%d su %d)|Le missioni Miaoccademia Batticuore sono state aggiunte<br>alla sezione Missioni speciali!
+9570|Supera %d liv. di "Weekend: Dichiarazione".<br>Qualunque liv. vale ai fini del conteggio totale. (%d su %d)|Le missioni Miaoccademia Batticuore sono state aggiunte<br>alla sezione Missioni speciali!
+80|Sblocca i talenti per la Gatta Valchiria Sacra.<br>Supera la Prova della Gatta Valchiria per sbloccare.|Le missioni Prova della Gatta Valchiria sono state aggiunte<br>alla sezione Missioni speciali!
+81|Sblocca i talenti per il Gatto Bahamut risvegliato.<br>Supera la Prova del Gatto Bahamut risvegliato per sbloccare.|Le missioni Gatto Bahamut risvegliato sono state aggiunte<br>alla sezione Missioni speciali!
+9571|Clear %d Baki Hanma collab stages.<br>Any Baki Hanma collab stage counts toward the total (%d of %d)|Baki Hanma Collab Missions added<br>to the Special Missions!
+9572|Clear %d Baki Hanma collab stages.<br>Any Baki Hanma collab stage counts toward the total (%d of %d)
+9573|Clear %d Baki Hanma collab stages.<br>Any Baki Hanma collab stage counts toward the total (%d of %d)
+9574|Clear %d Baki Hanma collab stages.<br>Any Baki Hanma collab stage counts toward the total (%d of %d)
+9575|Clear %d Baki Hanma collab stages.<br>Any Baki Hanma collab stage counts toward the total (%d of %d)
+9576|
+9577||
+9578|
+9579|
+9580||
+9581||
+9582|[Fiera premium] Supera tutte le missioni<br>per ottenere un biglietto raro!|Missioni Fiera premium aggiunte<br>alle Missioni speciali!
+9583|[Fiera premium] Sorteggia Miaocapsule %d volte.<br>Ogni set Miaocapsule vale per il conteggio totale (%d di %d)
+9584|[Fiera premium] Completa %d Spedizioni di Gamatoto.<br>Esplora 2 aree qualsiasi per completare (%d di %d)
+9585|[Fiera premium] Completa %d Spedizioni di Gamatoto.<br>Esplora un'area qualsiasi per completare (%d di %d)
+9586|[Fiera premium] Supera %d livelli evento.<br>Ogni liv. Fiera premium vale per il conteggio tot. (%d di %d)
+9587|[Fiera premium] Ottieni un oggetto dalle<br>capsule evento della Fiera premium!
+9588||
+9589|
+9590|
+9591||
+9592|
+9593|
+9594|Clear any "Sonic the Hedgehog" collab<br>stage %d times! (%d of %d)|Sonic the Hedgehog Collab Missions<br>added to the Special Missions!
+9595|Clear any "Sonic the Hedgehog" collab<br>stage %d times! (%d of %d)
+9596|Clear any "Sonic the Hedgehog" collab<br>stage %d times! (%d of %d)
+9597|Clear any "Sonic the Hedgehog" collab<br>stage %d times! (%d of %d)
+9598|Complete %d Gamatoto Expeditions during <br>the collab: %d of %d times!
+9599|Missione di bentornato①:<br>Supera qualsiasi livello %d volte (%d di %d)|Che bello rivederti!<br>Missioni di bentornato aggiunte<br>alle missioni speciali!
+9600|Missione di bentornato②:<br>Supera qualsiasi livello %d volte (%d di %d)
+9601|Missione di bentornato③:<br>Supera qualsiasi livello %d volte (%d di %d)
+9602|Missione di bentornato④:<br>Supera qualsiasi livello %d volte (%d di %d)
+9603|Missione di bentornato⑤:<br>Supera qualsiasi livello %d volte (%d di %d)
+9604|Missione di bentornato⑥:<br>Supera qualsiasi livello %d volte (%d di %d)
+9605|Missione di bentornato⑦:<br>Supera qualsiasi livello %d volte (%d di %d)
+9606|Missione di bentornato⑧:<br>Supera qualsiasi livello %d volte (%d di %d)
+9607|[Fuga del naufrago Parte 1] ④: Sopravvivenza selvaggia<br>Supera %d livelli Naufrago! (%d di %d)
+9608|[Fuga del naufrago Parte 1] ①: Alla ricerca di cibo<br>Supera %d livelli collaborazione di Survive! Mola Mola! (%d di %d)
+9609|[Fuga del naufrago Parte 1] ②: Alla ricerca di cibo<br>Supera %d livelli collaborazione di Survive! Mola Mola! (%d di %d)
+9610|[Fuga del naufrago Parte 1] ③: Alla ricerca di cibo<br>Supera %d livelli collaborazione di Survive! Mola Mola! (%d di %d)
+9611|[Fuga del naufrago Parte 1] ④: Alla ricerca di cibo<br>Raccogli 3 Sardine dalle capsule evento!
+9612|[Fuga del naufrago Parte 1] ⑤: Alla ricerca di cibo<br>Raccogli 3 Calamari dalle capsule evento!
+9613|[Fuga del naufrago Parte 1] ⑥: Alla ricerca di cibo<br>Raccogli 3 Granchi giganti della Tasmania dalle capsule ev.!
+9614|[Fuga del naufrago Parte 1] ⑦: Alla ricerca di cibo<br>Ottieni 3 Uovo antico N206 dalle capsule evento!
+9615|[Fuga del naufrago Parte 1]⑤: Bufera<br>Supera il livello Previsioni senza precedenti %d volte (%d di %d)
+9616|[Fuga del naufrago Parte 1]②: Bufera<br>Supera il livello Previsioni senza precedenti %d volte (%d di %d)
+9617|[Fuga del naufrago Parte 1]③: Bufera<br>Supera il livello Previsioni senza precedenti %d volte (%d di %d)
+9618|[Fuga del naufrago Parte 1]④: Bufera<br>Supera il livello Previsioni senza precedenti %d volte (%d di %d)
+9619|[Fuga del naufrago Parte 3]: Isola delle ombre<br>Supera il livello 1 Difensori dell'isola!|Missioni Fuga del naufrago Parte 3 aggiunte<br>alle missioni speciali!
