@@ -1,0 +1,30 @@
+gatyaID	seed	group	sort	require	guidetext	text	growup
+30	1	0	0	5	matatabi_guide2	matatabi_growup_1	97	35	3	40
+31	1	1	1	5	matatabi_guide3	matatabi_growup_1	97	36	3	40
+32	1	2	2	5	matatabi_guide4	matatabi_growup_1	97	37	3	40
+33	1	3	3	5	matatabi_guide1	matatabi_growup_1	97	38	3	40
+34	1	4	4	5	matatabi_guide5	matatabi_growup_1	97	39	3	40
+35	0	0	100	-1	matatabi_guide2
+36	0	1	101	-1	matatabi_guide3
+37	0	2	102	-1	matatabi_guide4
+38	0	3	103	-1	matatabi_guide1
+39	0	4	104	-1	matatabi_guide5
+40	0	5	105	-1	matatabi_guide_guerrilla
+41	1	6	7	5	matatabi_guide_guerrilla	matatabi_growup_2	1	42
+42	0	6	107	-1	matatabi_guide_guerrilla
+43	1	5	5	5	matatabi_guide_guerrilla	matatabi_growup_2	1	40
+44	0	7	108	-1	stage_shortcut_out_of_term
+160	1	8	6	5	matatabi_guide_guerrilla	matatabi_growup_2	1	161
+161	0	8	106	-1	matatabi_guide_guerrilla
+164	1	7	8	5	stage_shortcut_out_of_term	matatabi_growup_2	1	44
+167	1	9	200	10	cube_guide	cube_growup_1	1	179
+168	1	9	201	10	cube_guide	cube_growup_1	1	180
+169	1	9	202	10	cube_guide	cube_growup_1	1	181
+170	1	9	203	10	cube_guide	cube_growup_1	1	182
+171	1	9	204	10	cube_guide_yellow	cube_growup_1	1	183
+179	0	9	300	-1	cube_guide
+180	0	9	301	-1	cube_guide
+181	0	9	302	-1	cube_guide
+182	0	9	303	-1	cube_guide
+183	0	9	304	-1	cube_guide_yellow
+184	0	9	205	-1	matatabi_guide_guerrilla

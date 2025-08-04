@@ -1,0 +1,114 @@
+{
+  "ID": {
+    "0": {
+      "Rarity": [
+        2
+      ],
+      "Series": [
+        13
+      ],
+      "Item": [
+        {
+          "Type": 2,
+          "ItemID": 157
+        },
+        {
+          "Type": 2,
+          "ItemID": 21
+        },
+        {
+          "Type": 2,
+          "ItemID": 197
+        }
+      ]
+    },
+    "1": {
+      "Rarity": [
+        2
+      ],
+      "Series": [
+        12
+      ],
+      "Item": [
+        {
+          "Type": 0,
+          "ItemID": 767
+        }
+      ]
+    },
+    "2": {
+      "Rarity": [
+        0
+      ],
+      "Series": [
+        19
+      ],
+      "Item": [
+        {
+          "Type": 0,
+          "ItemID": 37
+        }
+      ]
+    },
+    "3": {
+      "Rarity": [
+        1
+      ],
+      "Series": [
+        0
+      ],
+      "Item": [
+        {
+          "Type": 0,
+          "ItemID": 0
+        }
+      ]
+    },
+    "4": {
+      "Rarity": [
+        1
+      ],
+      "Series": [
+        0
+      ],
+      "Item": [
+        {
+          "Type": 1,
+          "ItemID": 0
+        }
+      ]
+    },
+    "5": {
+      "Rarity": [
+        1
+      ],
+      "Series": [
+        3
+      ],
+      "Item": [
+        {
+          "Type": 2,
+          "ItemID": 0
+        }
+      ]
+    },
+    "6": {
+      "Rarity": [
+        2
+      ],
+      "Series": [
+        14
+      ],
+      "Item": [
+        {
+          "Type": 2,
+          "ItemID": 20
+        },
+        {
+          "Type": 2,
+          "ItemID": 21
+        }
+      ]
+    }
+  }
+}
