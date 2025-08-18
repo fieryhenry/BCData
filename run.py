@@ -1,7 +1,7 @@
 import tbcml
 
-# https://github.com/fieryhenry/tbcml
-# currently working as of commit https://github.com/fieryhenry/tbcml/commit/e716282adcbed53c1bac034fe7a5d66ff396e1c4
+# https://codeberg.org/fieryhenry/tbcml
+# currently working as of commit https://codeberg.org/fieryhenry/tbcml/commit/e716282adcbed53c1bac034fe7a5d66ff396e1c4
 
 
 def do(cc: tbcml.CountryCode):
