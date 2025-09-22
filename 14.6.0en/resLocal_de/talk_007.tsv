@@ -1,0 +1,74 @@
+			0	22	777	300	0
+		Entschuldige! Etwas ist dazwischen-<br>gekommen, also frage ich später!<br>Als Dank für deine Treue<br>gebe ich dir das hier!	0	22	300	
+1	0	The Battle Cats 11. Jubiläum<br> <flash>Teil 3: Katzenhochzeit</flash> <br>beginnt jetzt!	2		
+2	0	Ich werde heiraten und möchte,<br>dass du auch<br>dabei bist.	3	50	
+3	0	Danke!<br>Das freut mich!	4	
+4	0	Was?<br>Wen ich heirate?	5	
+5	0	Zwei Katzen haben mir ihre Liebe<br>gestanden und ich weiß nicht,<br>welche ich wählen soll.	6	
+6	0	Die eine ist meine Jugendfreundin,<br>die andere ist eine vornehme Dame.<br>Beide meinten,<br>dass sie mich mögen.	7	
+7	0	Ich würde gern darüber reden,<br>aber ich muss einen Ort finden,<br>an dem die Zeremonie<br>stattfinden kann.	8	
+8	0	Ich will, dass<br>diese Hochzeit unvergesslich wird,<br>deshalb sollst du<br>viele Freunde einladen.	9	
+9	0	Ich möchte<br>von vielen guten Freunden<br>umgeben sein ...	10	
+10	0	und nicht nur von<br>Hochzeitsgeschenken und<br>Katzenbatzen.	11	
+11	0	Daher würde ich mich freuen,<br>wenn du jede Menge Freunde<br>mitbringst!	12	
+12	0	Du bist der Einzige,<br>den ich um diesen Gefallen<br>bitten kann!	13	
+13	0	Ich will dich morgen wieder<br>hier sehen, damit du dir<br>meine Bitte anhören kannst.	14	
+14	16	Vergiss nicht,<br>ganz viele Freunde mitzubringen!	100	
+50	0	Ich glaube, ich habe ein „nein“<br>gehört, aber ich tu mal so,<br>als wärs ein „ja“ gewesen!	3	
+100	0	Es ist nicht einfach,<br>einen Veranstaltungsort zu wählen.<br>11. Jubiläum <flash>Teil 3:<br>Katzenhochzeit</flash> ist wieder da!	101	
+101	0	Hast du deinen Freunden<br>davon erzählt?	102	150	
+102	0	Danke! Ich dachte mir,<br>dass du das tun würdest!	103	
+103	0	Wie gestern erwähnt,<br>haben mir zwei Mädchen<br>ihre Liebe gestanden.	104	
+104	0	Lass mich dir zuerst<br>von meiner Jugendfreundin<br>erzählen.	105	
+105	0	Sie hat sich<br>einer kleinen Katze angenommen,<br>die gemobbt wurde.	106	
+106	0	Sie ist wirklich<br>eine gute Katze.	107	
+107	0	Sie hat mich auch<br>in der Schule immer geweckt,<br>wenn ich eingenickt bin.	108	
+108	0	Sie ist wirklich<br>eine gute Katze.	109	
+109	0	Sie hat auch meine ganze<br>Valentinstagsschokolade gegessen,<br>damit ich nicht<br>zu dick werde.	110	
+110	0	Sie ist wirklich<br>eine gute Katze.	111	
+111	0	Sie war immer bei mir<br>und hat auf mich<br>aufgepasst.	112	
+112	0	Vielleicht sollte ich sie<br>zu meiner Frau machen.<br>Was meinst du?	113	160	
+113	0	Oder vielleicht bin ich<br>bei der Entscheidung<br>zu vorschnell.	114	
+114	0	Was? Wie die andere<br>potenzielle Braut so ist?<br>Na ja ...	115	
+115	0	Ich habe heute<br>einen Termin beim Kosmetiker,<br>weißt du?	116	
+116	0	Ich werde ganz sicher<br>die allerschönste Katze<br>auf der Hochzeit sein!	117	
+117	16	Komm doch bitte morgen wieder,<br>dann erzähl ich dir<br>den Rest der Geschichte.	200	
+150	0	Hochzeiten ohne Gäste sind<br>traurig, also lad<br>jede Menge Freunde ein!	103	
+160	0	Ich weiß nicht,<br>ob man solche Entscheidungen<br>mit Bestimmtheit treffen sollte.	114	
+200	0	Ich fühle mich<br>noch schöner als gestern.<br>11. Jubiläum <flash>Teil 3:<br>Katzenhochzeit</flash> ist wieder da!	201	
+201	0	Ich werde dir<br>von der anderen<br>potenziellen Braut erzählen:<br>der vornehmen Dame.	202	
+202	0	Sie spricht Englisch, Mandarin,<br>Koreanisch, sogar Hundesprache<br>und bringt mir all das bei.	203	
+203	0	Sie ist wirklich<br>eine gute Katze.	204	
+204	0	Ihrem Vater gehört<br>eine Katzenbatzen-Fabrik<br>und sie schenkt mir<br>häufig Katzenbatzen.	205	
+205	0	Sie ist wirklich<br>eine gute Katze.	206	
+206	0	Ihr Großvater leitet<br>eine Katzamin-Fabrik<br>und sie schenkt mir<br>häufig Katzamin.	207	
+207	0	Sie ist wirklich<br>eine gute Katze.	208	
+208	0	Wenn ich sie wähle,<br>bekomme ich neue Möbel,<br>ein neues Auto<br>und Feuer- und Wasser-Eheringe.	209	
+209	0	Sie ist wirklich<br>eine gute Katze.	210	
+210	0	Außerdem wäre sie immer bereit,<br>mir auszuhelfen,<br>wenn ich das brauche.	211	
+211	0	Wenn ich sie wähle,<br>hätte ich eine<br>gesicherte Zukunft.<br>Was meinst du?	212	250	
+212	0	Durch unser Gespräch<br>sind mir ein paar Dinge<br>klar geworden.	213	
+213	0	Ich muss<br>bei der Wahl meiner Braut<br>auf mein Herz hören.	214	
+214	0	Bitte komm morgen wieder<br>und hör dir meine<br>Entscheidung an.	215	
+215	16	Vergiss nicht,<br>ein paar Gäste zur Hochzeit<br>einzuladen!	300	
+250	0	Danke für deinen Rat.<br>Ich brauche etwas Zeit,<br>um darüber nachzudenken.	212	
+300	0	Tut mir leid, dass du<br>warten musstest!<br>11. Jubiläum <flash>Teil 3:<br>Katzenhochzeit</flash> ist wieder da!	301	
+301	0	Hast du<br>die Hochzeitsgäste<br>eingeladen?	302	350	
+302	0	Ich bin froh,<br>einen so tollen Freund<br>wie dich zu haben!	303	
+303	0	Mir wurde<br>eine Wahrheit offenbart<br>und sie ist unglaublich!	304	
+304	0	Also, wegen<br>der Hochzeit ...	305	
+305	0	...	306	
+306	0	Ich ... habe mich<br>da wohl verhört!	307	
+307	0	Keine von beiden hat<br>„Ich lieb dich“ gesagt.	308	
+308	0	Sie haben gesagt „Fisch lieb ich“.<br>Vielleicht, weil in der Nähe<br>eine Fischzucht<br>aufgemacht hat.	309	
+309	0	„Ich lieb dich.“<br>„Fisch lieb ich.“<br>Das kann man schon mal<br>verwechseln.	310	
+310	0	Sie haben nicht mir<br>ihre Liebe gestanden,<br>sondern ihre Liebe<br>zu Fisch kundgetan!	311	
+311	0	Es gab also kein<br>Liebesgeständnis, sondern nur<br>ein Missverständnis<br>meinerseits.	312	
+312	0	Und du hast dir hier<br>all meine<br>Probleme angehört ...<br>Es tut mir leid.	313	
+313	0	Na ja, ich habe<br>ein paar Katzenbatzen<br>als Dankesgeschenk für dich.	314	
+314	0	Hier sind<br><flash>777 Katzenbatzen!</flash><br>Nur für dich!	315	
+315	0	Es gibt noch weitere Missionen<br>zum 11. Jubiläum!<br>Mehr über die Missionen<br>erfährst du in der Katzenbasis!	316	
+316	0	Schließe alle Missionen<br>in jedem Kapitel ab<br>und verdiene ein <flash>Platinticket</flash>!	-2	
+350	0	Ich mag ehrliche Leute.	351	
+351	0	Aber warum<br>fühle ich mich<br>ein kleines bisschen einsam?	303	
+0		303	

@@ -1,0 +1,74 @@
+			0	22	777	300	0
+		Pardon ! Il s’est passé un truc,<br>alors je te redemanderai !<br>Pour te remercier de ton aide,<br>je t’offre ça !	0	22	300	
+1	0	Le 11e anniv. de The Battle Cats<br> <flash>Partie 3 : Mariage félin</flash> <br>commence maintenant !	2		
+2	0	Je suis sur le point de me marier<br>et j’aimerais beaucoup que<br>tu sois là.	3	50	
+3	0	Merci !<br>Ça me fait tant plaisir !	4	
+4	0	Hein ? Tu veux savoir<br>qui je vais épouser ?	5	
+5	0	Deux chattes m’ont fait leur<br>déclaration et je ne sais pas<br>laquelle des deux choisir...	6	
+6	0	L’une est une amie d’enfance<br>et l’autre est une femme fortunée.<br>Les deux m’ont dit qu’elles<br>étaient amoureuses de moi.	7	
+7	0	J’aimerais en parler davantage<br>mais je dois chercher un endroit<br>où organiser la cérémonie.	8	
+8	0	Ce mariage doit être un moment<br>inoubliable, alors il faut que<br>tu appelles un tas d’amis.	9	
+9	0	Je veux être entouré par<br>beaucoup d’amis...	10	
+10	0	et pas seulement par des Miam<br>reçus en cadeau de mariage.	11	
+11	0	Alors ça me ferait vraiment<br>plaisir que tu invites<br>des tas d’amis !	12	
+12	0	Il n’y a qu’à toi que je peux<br>demander ça !	13	
+13	0	Je veux que tu reviennes<br>ici demain pour écouter<br>ma demande.	14	
+14	16	N’oublie pas d’amener<br>un tas d’amis !	100	
+50	0	Je crois avoir entendu<br>un "non" mais je choisis<br>d’entendre un "oui" !	3	
+100	0	C’est dur de décider où<br>fêter le 11e anniv.<br> <flash>Partie 3 : Mariage félin</flash> <br>est de retour !	101	
+101	0	Alors, tu en as parlé à tes amis ?	102	150	
+102	0	Merci ! Je savais que je<br>pouvais compter sur toi !	103	
+103	0	Je t’ai raconté hier<br>que deux filles m’avaient<br>fait leur déclaration.	104	
+104	0	D’abord, je vais te parler<br>de mon amie d’enfance.	105	
+105	0	Elle avait recueilli un petit<br>Chat qui avait eu une vie<br>bien malheureuse.	106	
+106	0	C’est vraiment une bonne<br>compagne féline.	107	
+107	0	Aussi, quand je m’assoupissais<br>en cours, elle me giflait<br>toujours pour me réveiller.	108	
+108	0	C’est vraiment une bonne<br>compagne féline.	109	
+109	0	Elle mangeait aussi tout le chocolat<br>que je recevais à la St-Valentin<br>pour que je ne grossisse pas.	110	
+110	0	C’est vraiment une bonne<br>compagne féline.	111	
+111	0	Elle était toujours à mes côtés,<br>à prendre soin de moi.	112	
+112	0	C’est peut-être elle que<br>je devrais épouser.<br>Tu en penses quoi ?	113	160	
+113	0	Ou peut-être que je devrais<br>prendre plus de temps<br>pour décider...	114	
+114	0	Hm ? Quel genre de personne<br>est l’autre prétendante ?<br>Eh bien...	115	
+115	0	Excuse-moi, mais j’ai rendez-vous<br>au salon de toilettage aujourd’hui.	116	
+116	0	Je compte bien être le plus<br>beau Chat à mon mariage !	117	
+117	16	J’espère que tu reviendras<br>demain pour entendre le reste<br>de mon histoire.	200	
+150	0	Les mariages sans invités,<br>c’est vraiment la déprime,<br>alors invite un tas d’amis !	103	
+160	0	Je ne suis pas sûr que ce soit<br>le genre de choix à prendre<br>à la va-vite.	114	
+200	0	Je me sens encore plus beau qu’hier.<br> Le 11e anniv. <flash>Partie 3 : Mariage félin</flash><br> est de retour !	201	
+201	0	Je vais te parler de<br>mon autre prétendante :<br>la chatte fortunée.	202	
+202	0	Elle parle anglais, mandarin,<br>coréen... elle parle même toutou,<br>et elle m’apprend quelques mots.	203	
+203	0	C’est vraiment une bonne<br>compagne féline.	204	
+204	0	Son père est propriétaire<br>d’une usine de Miam,<br>et elle m’offre souvent<br>des Miam en cadeau.	205	
+205	0	C’est vraiment une bonne<br>compagne féline.	206	
+206	0	Son grand-père est propriétaire<br>d’une usine de vichamines,<br>et elle m’offre souvent<br>des vichamines en cadeau.	207	
+207	0	C’est vraiment une bonne<br>compagne féline.	208	
+208	0	J’aurai de nouveaux meubles,<br>une nouvelle voiture, et des anneaux<br>de mariage de feu et d’eau<br>si je la choisis.	209	
+209	0	C’est vraiment une bonne<br>compagne féline.	210	
+210	0	En plus, elle est toujours<br>là pour me soutenir quand<br>j’en ai besoin.	211	
+211	0	En la choisissant, j’aurai<br>l’assurance d’avoir un avenir<br>stable. Qu’en penses-tu ?	212	250	
+212	0	Discuter avec toi m’a aidé<br>à y voir un peu plus clair.	213	
+213	0	Je dois écouter mon cœur pour<br>prendre la bonne décision.	214	
+214	0	J’aimerais que tu sois là demain,<br>quand j’annoncerai ma décision.	215	
+215	16	N’oublie pas d’appeler<br>des invités pour le mariage !	300	
+250	0	Merci pour le conseil.<br>Je vais prendre le temps<br>d’y réfléchir.	212	
+300	0	Désolé de t’avoir fait attendre !<br>Le 11e anniv. <flash>Partie 3 : Mariage félin</flash><br> est de retour !	301	
+301	0	Est-ce que tu as appelé<br>les invités pour le mariage ?	302	350	
+302	0	C’est tellement chouette d’avoir<br>de bons amis comme toi !	303	
+303	0	Bon, il y a du nouveau,<br>et j’espère que tu as<br>les chaussettes bien accrochées !	304	
+304	0	Alors, en ce qui concerne<br>le mariage...	305	
+305	0	...	306	
+306	0	En fait... J’ai dû mal comprendre !	307	
+307	0	Elles ne disaient pas<br>"Je veux t’épouser."	308	
+308	0	Elle disaient "Je veux<br>t’épousseter." Parce que je devais<br>avoir de la poussière sur moi.	309	
+309	0	C’est fou, non ?<br>Ça sonne presque pareil.	310	
+310	0	Donc elles ne me déclaraient pas<br>leur flamme, elles voulaient<br>juste me brosser un peu.	311	
+311	0	Bref, il ne s’agissait pas d’une<br>déclaration d’amour, c’est juste<br>moi qui avais mal entendu.	312	
+312	0	Quand je pense qu’en plus tu étais<br>là à écouter mes problèmes...<br>Je suis désolé.	313	
+313	0	Enfin, j’ai quand même des Miam<br>à t’offrir pour te remercier.	314	
+314	0	Tiens, voilà<br><flash>777 Miam !</flash><br>C’est pour toi !	315	
+315	0	Il y a d’autres missions du 11e<br>anniv. ! Consulte l’onglet Missions<br>dans la base féline pour<br>en savoir plus !	316	
+316	0	Termine toutes les missions<br>de tous les chapitres pour<br>gagner <flash>un ticket platine</flash>!	-2	
+350	0	J’aime les gens honnêtes.	351	
+351	0	Mais pourquoi est-ce que<br>je me sens juste un peu seul ?	303	
+0		303	

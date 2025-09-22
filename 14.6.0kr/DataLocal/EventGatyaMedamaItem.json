@@ -1,0 +1,67 @@
+{
+  "GatyaID": {
+    "34": {
+      "minCount": 30,
+      "data": [
+        {
+          "type": 2,
+          "id": 157,
+          "value": 1,
+          "weight": 1
+        },
+        {
+          "type": 2,
+          "id": 21,
+          "value": 1,
+          "weight": 1
+        },
+        {
+          "type": 2,
+          "id": 197,
+          "value": 3,
+          "weight": 4
+        }
+      ]
+    },
+    "38": {
+      "minCount": 30,
+      "data": [
+        {
+          "type": 2,
+          "id": 21,
+          "value": 1,
+          "weight": 1
+        },
+        {
+          "type": 2,
+          "id": 20,
+          "value": 5,
+          "weight": 9
+        }
+      ]
+    },
+    "42": {
+      "minCount": 30,
+      "data": [
+        {
+          "type": 2,
+          "id": 20,
+          "value": 3,
+          "weight": 5
+        },
+        {
+          "type": 2,
+          "id": 21,
+          "value": 1,
+          "weight": 1
+        },
+        {
+          "type": 2,
+          "id": 157,
+          "value": 1,
+          "weight": 1
+        }
+      ]
+    }
+  }
+}

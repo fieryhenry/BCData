@@ -1,0 +1,74 @@
+			0	22	777	300	0
+		Lo siento. Me ha surgido algo,<br>ya hablaremos otro día.<br>¡Toma un detallito por las molestias!	0	22	300	
+1	0	¡El 11.º aniversario<br>de The Battle Cats<br> <flash>Parte 3: Ceremonia Minina</flash> <br>empieza ya!	2		
+2	0	Voy a casarme y me encantaría<br>que vinieras a la boda.	3	50	
+3	0	¡Gracias! ¡Qué alegría!	4	
+4	0	¿Eh? ¿Que quién es la afortunada?	5	
+5	0	Se me han declarado dos mininas,<br>pero no sé a cuál elegir.	6	
+6	0	Una es mi amiga de la infancia<br>y la otra una gatita bien.<br>Las dos están loquitas<br>por mis bigotes.	7	
+7	0	Te daría más detalles,<br>pero tengo que buscar<br>un lugar para celebrar el convite.	8	
+8	0	Quiero que la boda sea inolvidable,<br>así que invita a todos tus amigos.	9	
+9	0	Me gustaría estar acompañado<br>de muchos amigos	10	
+10	0	y no solo de regalos<br>de boda de Friskas.	11	
+11	0	¡Así que sería genial<br>que trajeras a todos a tus amigos!	12	
+12	0	¡Eres la única persona<br>en la que puedo confiar!	13	
+13	0	Pásate mañana por aquí<br>y ya te cuento.	14	
+14	16	¡Acuérdate de traer muchos amigos!	100	
+50	0	Ah, que «Ya veremos...»<br>¡Me lo tomaré como un «sí»!	3	
+100	0	Elegir el lugar<br>de la boda es una odisea.<br>¡El 11.º aniversario<br><flash>Parte 3: Ceremonia Minina</flash> está aquí!	101	
+101	0	¿Se lo has dicho a tus amigos?	102	150	
+102	0	¡Gracias! ¡Ya sabía yo<br>que podía contar contigo!	103	
+103	0	Ayer te conté<br>que se me declararon<br>dos preciosas mininas.	104	
+104	0	Primero te hablaré<br>de mi amiga de la infancia.	105	
+105	0	Mi amiga adoptó a un gatito<br>que habían maltratado.	106	
+106	0	Es una minina de buen corazón.	107	
+107	0	También le gustaba<br>arrearme un sopapo<br>cuando me dormía en clase.	108	
+108	0	Es una minina de buen corazón.	109	
+109	0	Y se zampaba todos los bombones<br>que me regalaban en San Valentín<br>para que yo no engordara.	110	
+110	0	Es una minina de buen corazón.	111	
+111	0	Ha estado siempre ahí, cuidándome.	112	
+112	0	Tal vez debería casarme<br>con ella. ¿Tú qué dices?	113	160	
+113	0	O quizás debería pensármelo mejor.	114	
+114	0	¿Eh? ¿Que quieres saber cómo es<br>la otra candidata? Pues...	115	
+115	0	Va a ser que no.<br>Hoy tengo cita con la esteticista.	116	
+116	0	¡Seré el gato más guapo de la boda!	117	
+117	16	Espero que vuelvas mañana<br>para que te cuente<br>el resto de la historia.	200	
+150	0	Una boda sin invitados es un peñazo,<br>¡trae a todos tus amigos!	103	
+160	0	Esta no es una decisión<br>que pueda tomarse a la ligera.	114	
+200	0	Estoy hecho todo un bombón.<br>¡El 11.º aniversario<br><flash>Parte 3: Ceremonia Minina</flash> está aquí!	201	
+201	0	Me refiero a la otra candidata<br>a esposa: la gatita bien.	202	
+202	0	Habla inglés, chino,<br>coreano y chucho,<br>y me da clases de idiomas.	203	
+203	0	Es una minina de buen corazón.	204	
+204	0	Su padre tiene<br>una fábrica de Friskas,<br>así que me las regala a montones.	205	
+205	0	Es una minina de buen corazón.	206	
+206	0	Su abuelo tiene<br>una fábrica de gataminas,<br>así que me las regala a montones.	207	
+207	0	Es una minina de buen corazón.	208	
+208	0	Si me caso con ella,<br>me regalarán muebles,<br>un coche nuevo<br>y alianzas de fuego y agua.	209	
+209	0	Es una minina de buen corazón.	210	
+210	0	Y siempre está ahí para consolarme<br>cuando lo necesito.	211	
+211	0	Si la elijo, me aseguraría<br>un futuro estable. ¿Tú qué opinas?	212	250	
+212	0	Gracias por la charla,<br>me ha ayudado a aclarar las ideas.	213	
+213	0	Para decidirme,<br>debo guiarme por el corazón.	214	
+214	0	Pásate mañana y te cuento<br>lo que he decidido.	215	
+215	16	¡No te olvides de invitar<br>a tus amigos a la boda!	300	
+250	0	Gracias por el consejo.<br>Le daré unas vueltas<br>antes de decidirme.	212	
+300	0	¡Siento el retraso!<br>¡El 11.º aniversario<br> <flash>Parte 3: Ceremonia Minina</flash> está aquí!	301	
+301	0	¿Has llamado a tus amigos<br>para que vengan a la boda?	302	350	
+302	0	¡Amigos como tú hay pocos!	303	
+303	0	He descubierto la verdad,<br>¡y no te la vas a creer!	304	
+304	0	Bueno, como te iba diciendo...	305	
+305	0	...	306	
+306	0	Creo que no me enteré<br>bien de la cosa.	307	
+307	0	No dijeron «Me gustas mucho»,	308	
+308	0	sino «Me gusta Chucho».<br>Parece ser que es todo un galán.	309	
+309	0	«Me gustas mucho»<br>y «Me gusta Chucho» suenan igual.	310	
+310	0	¡No se me declararon a mí,<br>sino a Chucho!	311	
+311	0	¡Y yo loco de alegría creyendo<br>que me confesaban su amor!	312	
+312	0	Y tú has estado ahí<br>aguantando la chapa. Lo siento.	313	
+313	0	La buena noticia es que tengo<br>un montón de Friskas<br>como agradecimiento por tu apoyo.	314	
+314	0	¡Aquí tienes<br><flash>777 Friskas!</flash><br>¡Toditos para ti!	315	
+315	0	¡Tenemos otras misiones<br>del 11.º aniversario!<br>¡Para saber más, mira en la pestaña<br>«Misiones» en la base gatuna!	316	
+316	0	¡Supera todas las misiones<br>de cada capítulo<br>y llévate un <flash>tique de platino</flash>!	-2	
+350	0	Me gusta la gente sincera.	351	
+351	0	Pero ¿por qué será<br>que me siento un poco solito?	303	
+0		303	

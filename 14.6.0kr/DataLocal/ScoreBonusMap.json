@@ -1,0 +1,37 @@
+{
+  "MapID": {
+    "11030": {
+      "BonusNameLabel": "BonusNameLabel000",
+      "BonusExplanationLabel": "BonusExplanationLabel000",
+      "BonusType": {
+        "0": {
+          "Parameters": [
+            2500
+          ]
+        }
+      }
+    },
+    "11033": {
+      "BonusNameLabel": "BonusNameLabel001",
+      "BonusExplanationLabel": "BonusExplanationLabel001",
+      "BonusType": {
+        "3": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    },
+    "11035": {
+      "BonusNameLabel": "BonusNameLabel002",
+      "BonusExplanationLabel": "BonusExplanationLabel002",
+      "BonusType": {
+        "13": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    }
+  }
+}
