@@ -1,0 +1,750 @@
+%s|Ein netter Shiba Inu und Rivale der Kampfkatzen.|Versucht, sich dieses Jahr an der Uni einzuschreiben.|Sehr aufmerksam und sendet der Katze|jedes Jahr Geburtstagsgeschenke.|
+%s|Benutzt Wasserfarben als Körperbemalung.|... Ist also natürlich gegen Wasser anfällig.|Diese Information hat überhaupt nichts|mit dem Spielinhalt zu tun.|
+%s|Mehrere Feiglinge, die gerne zusammen losziehen.|Sie haben sich übers Internet kennengelernt.|Überraschenderweise|sind sie alle ziemlich reich.|
+%s|Dieses gefährliche Nilpferd vertraut auf|seine Ausdauer und seine Kraft.|Es kann mehrfach angreifen.|Wir wissen nicht, ob es ein er oder eine sie ist.|
+%s|Liebt es, ins Solarium zu gehen,|daher ist seine Haut so rot.|Wurde auf einer Biofarm mit Freilauf geboren.|Wusstest du, dass sich Schweine gerne putzen?|
+%s|Schaut sich unglaublich gerne Kung-Fu-Filme an|und will gerne in Hollywood groß rauskommen.|Setzt Kung-Fu ein, das er sich selbst beigebracht hat.||
+%s|Wurde aus dem Zoo geworfen, weil|sein Gesicht zu furchteinflößend war.|Hat weder Arbeit noch Bildung, also hat er sich dem|Alkohol und den Glücksspielen zugewandt.|
+%s|Abgedroschener Name. Abgedroschenes Aussehen.|Hat Komplexe, weil es Angst hat, zu normal zu sein.|Versucht, sie mithilfe von Stand-up-Comedy-Stunden|an der Theaterschule zu überwinden.|
+%s|Kam von der ruhigen Küste|in die große Stadt.|Wollte mehr Aufmerksamkeit, also hat er|seinen Körper rot gefärbt.|
+%s|Verfügt über äußerst hohe Reichweite.|Mag Frauen mit Kurven. Mit großen Kurven.|Sammelt viele Zeitschriften.|... Du willst nicht wissen, welcher Art.|
+%s|Hat immer davon geträumt, ein Boxer zu sein.|Hat es aber nie geschafft,|weil es ... nun ja, eben ein Känguru ist.|Traurig aber wahr.|
+%s|Hilft gern anderen.|Arbeitet in Teilzeit bei der Feuerwehr.|Es ist jedoch so langsam auf den Beinen,|dass es nie rechtzeitig am Feuer ankommt.|
+%s|Ein Erzieher im Kindergarten. Er LIEBT Kinder.|Seine scharfen Klauen sind nicht für diese Arbeit geeignet.|Hat nichts mit einem bekannten anderen Bären zu tun.|Niemand kennt seinen wahren Namen.|
+%s|Wurde von Dundee gerettet.|Ist Feuer und Flamme für Fernunterricht.|Hat sich mehrere Abschlüsse angeeignet.|Arbeiten mit Word, Zertifikat für Fortgeschrittene.|
+%s|Hat bei einem wichtigen Unternehmen gekündigt|und führt jetzt 4 Unternehmen selbst.|Will eines Tages Bürgermeister werden.||
+%s|Es spricht in einem altenglischen Dialekt?|Nein, im Ernst, es klingt wie Englisch, aber|es ist einfach unverständlich, was es sagt.|Arbeitet bei der Englischschule neben der Tankstelle.|
+%s|Hat die Lizenz zum Töten.|Die weltweite Finanzkrise arbeitet allerdings nicht gerade|für ihn. Bitte lies dir seine Flyer durch.|Er bietet mittlerweile 1 Million pro Kill an.|
+%s|Äußerst schüchtern.|Er liebt es, zu singen, aber|hat noch nie in jemandes Gegenwart gesungen.|... Zählt vorm Spiegel? Oder Solo-Karaoke?|
+%s|Eine zu strikte Ernährung führte zu akutem Körperverlust.|Keiner weiß, warum er fliegt.|Irgendwelche Ideen?|(Nicht zuhause nachmachen)|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Ihre ideale Familiensituation ist|Vater, Mutter, Bruder und ein „Papa“.|Will unbedingt so schnell wie möglich heiraten.|Sie kommt, wenn du zu lange brauchst.|
+%s|Hat davon geträumt, dass er ein|wunderschöner Schmetterling werden wird.|Hat mittlerweile die Wahrheit erfahren und|kämpft nun gegen seine Natur an.|
+%s|Wütend, weil er keinen Alkohol|trinken darf.|Gibt an, indem er so tut, als würde er trinken.|Im Glas ist tatsächlich Kaffeegelee.|
+%s|Der alte Lehrmeister des Lehrerbären.|Seine körperliche Strafe besteht aus Liebe.|Denk nicht – FÜHLE!||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Kennt alle schmutzigen Geschichten.|Seine Freunde in der Realschule|sehen zu ihm auf und nennen ihn den „Meister“.|Dating-Erfahrung: Null.|
+%s|Hat in letzter Zeit viel Haar verloren und ist besorgt.|Ja, er heißt wirklich „Strauß“ mit Nachnamen.|Sein Vorname lautet „Rich“.|Haudrauf-Angriffe möglich.|
+%s|Hat seinen Spitznamen dadurch verdient, indem er|sein Ziel buchstäblich einfach verkloppt hat.|Bewahrt das Erinnerungsstück früherer Generationen auf:|Bloß ein gewöhnlicher Stein.|
+%s|Ein richtig exzentrischer Koalabär.|Er wurde aus dem Zoo geworfen, weil seine Essensrechnung|zu hoch war. Jetzt schmarotzt er sich beim Gorilla durch.|Und der Gorilla wird ihn auch bald rauswerfen.|
+%s|Wurde in Arabien geboren und liebt es, in die Sauna zu gehen.|Seine Spezialfähigkeit ist es, seine Nasenlöcher zu|verschließen. Er weiß nicht, dass alle Kamele das können,|weil er keine Freunde hat.|
+%s|Hat sich dem Journalismus verschrieben.|Schreibt viele Artikel, die aber aus irgendeinem|Grund niemand ernst nimmt.|Bitte gib ihr eine Chance.|
+%s|Man sieht ihr ihr Alter nicht an. Sie ist 78 Jahre alt.|Der Arzt hat ihr geraten, mehr zu laufen.|Sie beschwert sich oft, weil sie wie ein fliegender Feind|behandelt wird, wenn sie doch eigentlich zu Fuß geht.|
+%s|Dachte immer, dass sein Name tatsächlich|so geschrieben wird.|Ist richtig rot geworden, nachdem er es bemerkt hat.|Ist tatsächlich weder ein Bär noch elektronisch.|
+%s|Das furchteinflößendste Tier von allen|schafft es, vom Baum herabzusteigen ...|Leider war die Bewegung zu viel,|also möchte er jetzt lieber nach Hause gehen.|
+%s|Wird richtig depressiv, wenn Weihnachten naht.|Hasst alles Rote.|Frag nicht, wieso.|Lass den armen Kerl in Ruhe.|
+%s|Gibt sein Bestes, menschlich zu erscheinen.|Jetzt muss er nur noch seine Arme nach vorne halten,|sich im Kreis drehen und sprechen.|Bitte gib ihm etwas zu Essen, wenn er das tut.|
+%s|Eine Hochschulstudentin, die|am liebsten jeden Nachmittag mit ihren|Mädels in angesagten Cafés plaudert.|Ihre Freunde hassen sie insgeheim.|
+%s|Ihr Vorname lautet „Hü-ä“.|Sagt immer: „Nein“.|Bleibt ewig allein. Sagt Nein zu allen.|Jeder bleibt ihr fern.|
+%s|Wellenangriffe möglich.|Hat sich kürzlich vom Polizeidienst zur Ruhe gesetzt.|(Wurde tatsächlich von einem Deutschen Schäferhund ersetzt.)|Wurde in der Gegenwart von Promi-Pudel gesehen ... oft.|
+%s|Sag es nicht weiter, aber ich habe gehört, dass sie aus der|Vorstadt stammt. Sie wollte einen Streuner aus dem Tierheim|adoptieren ... Sie fand einen ungewöhnlichen Mischling!||
+%s|Der Hund hat eines Tages einen Flyer gefunden und|Arbeit als Teilzeit-Killer gefunden.|Ist täglich fleißig bei der Arbeit, um das Geld zu verdienen,|sich eine Weiterbildung leisten zu können.|
+%s|Eine gewisse Organisation hat sich entschieden,|den Körper des Nilpferds durch Metall auszutauschen.|Haudrauf-Angriffe scheinen seine Schwäche zu sein.||
+%s|Vorfahrin des Schweins.|Zweite Königin des Schweinekönigreichs.|Wird in ein paar Tagen als Bio-Schinken|verkauft (Sie weiß davon allerdings noch nichts).|
+%s|Ein berühmter Autor. Hat großen Einfluss auf|Lehrer Bun Bun. Seine wichtigsten Werke sind|Strafe und Vorurteil (1868)|Les Pénitents (1875)|
+%s|LIEBE BRINGT DICH IN DEN HIMMEL #LIEBE|Das sagt er, wenn er Leute verprügelt. Manche sagen, dass|man das Himmelreich sieht, wenn man einen seiner|Treffer einsteckt – leider gibt es keine Erfahrungsberichte.|
+%s|Der Gorilla hat endlich eine Stelle gefunden!|Er lässt sein altes Leben hinter sich und|freut sich darauf, seine Familie wiederzusehen,|wenn sie wieder einzieht.|
+%s|Du bist bereits tot – S. K.|Wirft ständig mit abgedroschenen Phrasen um sich.|Man hat etwas Mitleid mit dem armen Knirps, der|das im Beutel einfach ertragen muss.|
+%s|Ein gescheiterter Regisseur, der dafür bekannt ist,|einen berühmteren Filmregisseur nachzuahmen.|Seine gesamten Werke sind gefloppt, aber|er ist für seine anzüglichen Szenen berühmt.|
+%s|Das eiserne Nilpferd hat sich zu großzügig an|Freeware bedient und sich dabei einen fiesen|Trojaner eingefangen, jetzt ist es außer Kontrolle.|Haudrauf-Angriffe scheinen seine Schwäche zu sein.|
+%s|仮1|仮2|仮3|仮4|
+%s|Das Einhorn ließ sich kybernetisch verbessern.|Er kann jetzt Radiowellen abfangen|und ist praktisch ohne Verzögerung einsatzbereit.|Kommt trotzdem stets zu spät.|
+%s|Der Lehrerbär hat ein paar experimentelle kybernetische|Implantate erhalten, um besser und effizienter zu|unterrichten. Seine Stunden sind nun zu anstrengend für|die Kinder und er musste auf die Berufsschule wechseln.|
+%s|Ein Relikt aus dem letzten Krieg der Menschheit. Dieser|Cyborg zermalmt alle mit seinem verstärkten Kiefer.|Scheint zu schweben, aber huscht tatsächlich auf Duzenden|Plasmabeinen, die mit bloßem Auge unsichtbar sind, umher.|
+%s|Eine Robbe, die in die Stadt gereist ist|und davon geträumt hat, ein Star zu sein.|Wollte mehr Aufmerksamkeit, also hat sie|sich völlig in einen Cyborg verwandelt.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|Das unerbittliche Andrängen des Windes|hält nervöse Zuschauer fern.|Wenn man es doch nur aufhalten oder|betäuben könnte – um einen Konter auszuführen?|
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|Greift kontinuierlich an, während es sich bewegt,|also kann niemand seine Zyklonenkraft stoppen.|Scheint einige Aufmerksamkeit auf sich zu ziehen,|wahrscheinlich durch bestimmte Vakuen.|
+%s|Greift kontinuierlich an, während es sich bewegt,|also kann niemand seine Zyklonenkraft stoppen.|Verfügt über hohe Schubkraft.|... Oder ist es Saugkraft?|
+%s|Greift kontinuierlich an, während es sich bewegt,|also kann niemand seine Zyklonenkraft stoppen.|Ein Mahlstrom fliegender Metallsplitter.|Sein schwerer Körper hindert es am Fliegen.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|Ein zorniges Wesen, das das Böse|mit der Kraft eines Taifuns läutert.|Obacht: Engel erleiden keinen Schaden durch|Angriffe gegen fliegende Feinde!|
+%s|Ein Nilpferd, das sich nach einem Heiligenschein sehnt.|Hat seine Haare in Form von Flügeln frisiert.|Dadurch wird es quasi zu einem Pegasus.|Stimmt’s?|
+%s|Der Großgroßpapa des Hundeklans.|Sorgt dafür, dass seine Nachfahren in den|Lehrstunden aufpassen: Wer im Unterricht einschläft,|wird vom alten Mann gebissen!|
+%s|Wegen seiner hässlichen Fratze wurde dieser Kerl|aus dem Himmel verjagt.|Ein gefallener Engel im alten Stil, der seine Brötchen|verdient, indem er bei Spielautomaten abhängt.|
+%s|Hat seine Ersparnisse für Engel-Zubehör ausgegeben.|Hat herausgefunden, dass Engel tatsächlich|keine fliegenden Feinde sind, nachdem er fanatisch|seltene Katzenkapseln gesammelt hatte.|
+%s|Ein Hund, der die Masche der Wallkatze geklaut hat|und sich selbst in eine Mauer verwandelt hat.|Konnte nicht ahnen, dass die anderen Hunde ihn|nutzen würden, um fehlende Dominos zu ersetzen.|
+%s|Seine schicken roten Locken waren Anlass für eine|Masterarbeit zum Thema „Haarpflege für Reptilien“.|Die Haarfarbe besteht immer noch aus Wasserfarbe und|dieser Hinweis ist immer noch unwichtig.|
+%s|Ein Mondfisch namens Jones. Ja, und?|Hat die Form eines Tarnbombers und|bleibt daher vor Radarsystemen verborgen.|So hat er es übrigens in den Himmel geschafft.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Schreckt nie davor zurück, den Kampf zu führen,|um ihre pazifistischen Ideale zu verteidigen.|Verkloppt Katzeninvasoren mit Freude|und mit ihrem scharfen Schnabel der Diplomatie.|
+%s|Trägt die ultimative Familienwaffe:|Der gewöhnliche Stein, Schrecken aller Muscheln.|Es ist eigentlich ein Pflaumenkern, aber sag besser nichts,|sonst rastet er aus.|
+%s|Das achtbeinige Götterpferd aus der nordischen Mythologie.|Der größte Teil seines Gehalts geht für schicke Hufeisen|drauf, also verbringt es seine Wochenenden|zu Hause und im Garten.|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Hat auf seinem persönlichen Blog „Die reine Wahrheit“|über seine Freunde abgelästert.|War zu beliebt und jetzt ruft ihn niemand mehr|an – das Internet vergisst nie!|
+%s|Auf dem Heimweg von der Grundschule erschien|eine riesige silberne Scheibe am Himmel.|Er weiß nicht, was als Nächstes geschah, aber jetzt|scheint er nur noch silberne Overalls zu tragen ...?|
+%s|Durch eine Quantenverschiebung wurde er wieder zum Kind.|Die Leute wissen nicht, was sie davon halten sollen, wenn|dieses ledrige Gesicht wegen Süßigkeiten weint, aber er|muss trotzdem den vollen Preis fürs Kino zahlen.|
+%s|Dieser tintenschwarze Moppel ist ein manischer Sammler|von Herrenfilmen. Er hat Angst, dass|sein Hobby ans Tageslicht kommen könnte, also|haut er alle um, die seiner Sammlung zu nahe kommen.|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s||||
+%s||||
+%s|Ein quietschfideler Neuling. Heute ist ihr zweiter|Tag in ihrem himmlischen Job. Ihre Freundin Ente|hat langsam die Nase gestrichen voll, davon zu hören,|wie toll die neue Wohnung im Paradies ist.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|Ein liebenswürdiger Hund, der von den Invasoren genetisch|verändert wurde, um der perfekte Infanterist zu sein!|Sagt immer „Wir denken“, aber ist äußerst egoistisch.|Deshalb streitet er mit seinen Mitbewohnern.|
+%s|Hat seine Sehprobleme überwunden, um einen Abschluss|in Innenarchitektur zu machen. Seine Philosophie ist „Einfach|ist Trumpf“. Wie sich herausstellt, streicht er einfach alles|blau und nimmt sich den Rest der Woche frei.|
+%s|Dieses Nilpferd wird jeden Monat von Aliens entführt.|Es trug ein Trauma von dem Ding, das auf seinem Kopf wächst,|davon und seine Haut wurde so blau wie sein Herz.|Und es hat seinen Namen geändert.|
+%s|Ein Walross-Kriegsherr, der aus dem Weltraum kam, um|gegen die roten Robben der Erde zu kämpfen. Hat keine Hände,|aber versucht trotzdem den Handschlag, um höflich zu sein.|Über einen Herrn mit so viel Klasse würde ich nie lügen.|
+%s|Ein Popidol von einem Käferplaneten, das für stilvolle,|sexy und auffällige Outfits bekannt ist. Viele Fans kamen|für seine Tour auf der Erde, aber nicht ein Mensch hat|überlebt. Kann Katzeneinheiten einfrieren.|
+%s|Seine Augen sind groß genug, um zwei Lichtjahre|weit zu sehen. Das Tageslicht ist aber zu hell, also muss|er bis zur Dämmerung drinnen warten. Trägt Spezial-|kontaktlinsen, die Angriffe von Katzeneinheiten schwächen.|
+%s|Hat einen Kredit mit einer 45-jährigen Laufzeit aufgenommen,|um ein stabiles Haus zu kaufen, das DAS DING hinten|überdeckt. Verbringt trotzdem jedes Wochenende mit|Hausbesichtigungen. Überlebt einen tödlichen Schlag.|
+%s|Ein Überraschungsgast der Hitshow „Face Force 5“.|Kam auf die Erde, um sie zu schützen, aber hat sich|abgewandt, nachdem Leute mit Smartphones ihn beim|Abendessen ignoriert hatten. Kann Katzen einfrieren.|
+%s|Hat die Erde auf einer Kreuzfahrt kennengelernt, aber die|Tourgruppe verlassen und wurde zurückgelassen. Arbeitet|für die NASA und hofft, sich an Bord einer Rakete schleichen|zu können. Wird durch erlittenen Schaden stärker.|
+%s|Ihre Mission: Die Apokalypse einleiten und jegliches|menschliche Leben ausradieren. Ist aus Versehen auf dem|Mond gelandet. Hinterlässt jetzt Krater aus reiner|Langeweile. Schwächt Katzenangriffe.|
+%s|Seine Topffrisur hilft ihm, die Kraft seines Verstandes|unter Kontrolle zu halten. Sucht nach einem schneidigen|Raumschiffkapitän, der ihm die Welt der Gefühle näher|bringen kann. Bahnt sich mit Logik und Stoßzähnen einen Weg.|
+%s|Liz ist ein Abkömmling des Cyber-Schweinestalls und wäre|fast gestorben, nachdem sie sich an einem Pilz verschluckt|hatte. Sie ist auch heute immer noch blau.|Setzt mächtige Wellenangriffe ein.|
+%s|Ein stürmischer Sternnebel, der aus einem Schwarzen Loch|entstand. Er zerreißt alles, was zu nahe kommt.|Blocke besser und greif ihn aus der Deckung an!|Greift stärker an, nachdem er Schaden erlitten hat.|
+%s|Verfügt über die albtraumhafte Kraft, in Zukunft all deine|E-Mails an eine zufällige Adresse weiterzuleiten. Du wirst|nie erfahren, warum dich all deine Freunde vergessen haben.|Angriffe können die Bewegung verlangsamen.|
+%s|Hat die Hundelanze „Wuffnir“ als albernes Geschenk zum|Junggesellinnenabschied bekommen. Ihr Geist ist jetzt von|Zorn gegen alles Katzenhafte vernebelt ...|Wird stärker, nachdem sie Schaden erlitten hat.|
+%s|Früherer Weltergewichtschampion von Gliese 832c.|Ihr wurde der Titel aberkannt, nachdem die Schiedsrichter|bemerkten, dass sie in Runde 4 unzulässige Handschuhe trug.|Die Handschuhe verhelfen ihr zu einem starken Rückstoß.|
+%s|Eine Killermaschine, die nur einen Zweck verfolgt:|verhindern, dass weitere Katzenbilder im Internet|veröffentlicht werden. Wollte schon in Kapitel 1 mitmachen,|aber war zu langsam und hat den Bus verpasst.|
+%s|Die einzige Tochter aus dem politisch einflussreichsten Hause|von Centauri im Jahr 1192. Schönheit, Klugheit, Gerissenheit.|Und trotzdem hat sie einen Chihuahua, der Reality-TV-„Star“|ist, geheiratet. Wird nach erlittenem Schaden stärker.|
+%s|Obwohl er noch zur Uni geht, ist seine Forschung in|schmuddeligen Dingen so weit vorangeschritten, dass|seine Freunde ihn Professor nennen.|Dating-Erfahrung hat er irgendwie immer noch keine.|
+%s
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Pelzige brasilianische Sportskanone. Geht zweimal täglich|ins Fitnessstudio und kaut ihr Essen stets gründlich.|Ihre Muskeln sind sehr schwer und sie ist langsamer als sie|aussieht, aber ihre Haudrauf-Angriffe tun ordentlich weh ...|
+%s|Eines Tages erwachte ich von einem Nickerchen und fand einen|Kory in meiner Küche, wo es Eintopf kochte. Nachdem ich ihn|für den Überfall auf meinen Kühlschrank rauswarf, erweckte|die Sonne auf seinem Rücken verborgene dunkle Mächte.|
+%s|KANNST DU ÜBERHAUPT PUMPEN??? Er lebt glutenfrei, aber|verpasst keine Chance, die Mädels mit seinen Krümeln von|der Bio-Bäckerei zu beeindrucken.|Gehirn der Größe einer Cashewnuss, aber wirkt anziehend.|
+%s|Notlandete mit ihrem Schiff beim berühmten Fischmarkt|in Tsukiji. Sie hat einen neuen transparenten Stil|eingeführt, der jetzt am Hafen äußerst angesagt ist.|Schwächt feindliche Angriffe deutlich.|
+%s|Camelle hat sich Baumwollbäusche angeklebt, um ein Alpaka|zu werden. Sie ist allergisch gegen die Fasern und muss daher|ständig husten und spucken, aber sie ist zu stolz,|um zuzugeben, dass sie einen Fehler begangen hat.|
+%s|Der Großvater des FAULTIERS hat einen lebenslang gültigen|Pass für das Thermalspa gekauft. Heilende Mineralien im|Wasser, in dem der all seine Zeit verbringt, haben ihm|Supertempo und mächtige Rückstoßkraft verliehen!|
+%s|Bun Buns DNS hat sich mit einem außerirdischen Wesen|gemischt. Auch Schüler wurden davon infiziert, nun ähnelt die|Schule einem Schwarmbewusstsein (Quelle: Nilpferd).|Feuert gelegentlich mächtige Energiewellen ab.|
+%s|Hat endlich den Reißverschluss seines Kostüms aufbekommen|und ist jetzt frei und unaufhaltsam! Kann die zerstörerischen|Impulse, die ihn zwingen, alles, was ihn umgibt,|ins Chaos zu stürzen, nicht kontrollieren!|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|Dieses mystische Wesen ist die Rettung der Menschheit ...|oder ihr Untergang. Aber im Moment ist es zu beschäftigt,|sich überfürsorglich um seinen Nachwuchs zu kümmern und|ihn mit Ultra-Distanzangriffen zu beschützen.|
+%s|||||
+%s|||||
+%s|„Ich suche einen würdigen Rivalen! #MaulwurfKampf“ ist der|einzige Tweet von diesem aufstrebenden Kampfkünstler.|Seine Geheimtechnik „Aufsteigende Maulwurffaust“ stößt|Feinde aus gewaltiger Distanz zurück.|
+%s|Ein Sturm der Stärke 5 ist gewaltig gewachsen, indem er|kleinere Zyklone in sich aufgenommen hat. Wehrt Bedrohungen|über äußerst große Distanz ab. Meteorologen sagen, dass|der Rückstoß aufhört, wenn man seinem Auge nahekommt.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|Treibt alle in seiner Nähe mit seinen selbstgefälligen|Ratschlägen in den Wahnsinn. Tu am besten so, als würdest|du zuhören, sonst haut er dir ordentlich eine rein:|Du wirst mir dafür eines Tages danken!|
+%s|Hat früher eine bekannte Spielshow moderiert.|Dieser rastlose Wanderer bereist nun die Welt und|spielt Golf. Er kehrt heim, um im Fernsehen aufzutreten, wenn|ihm das Geld ausgegangen ist. Feuert Wellen der Gier ab.|
+%s|Ein skrupelloser halbprofessioneller Pitcher, der alles tut,|um ein Spiel zu gewinnen.|Wirft illegale Bälle aus weiter Entfernung, um die|Batter von Auswärtsmannschaften einzuschüchtern.|
+%s|Im Jahr 1196 des kosmischen Kalenders geboren. Er hat durch|seinen Militärdienst und seine Errungenschaften für die|Wissenschaft eine Krone verliehen bekommen. Er ist sauer,|weil sein Bruder in einer Realityshow bekannter wurde.|
+%s|Ein umherwanderndes Mädchen aus dem Wald, das von der|Hundearmee als Auftragsmörder angeheuert wurde. Wird von der|Katzenarmee gefürchtet, weil sie jede Taktik einsetzt, um zu|töten. Selbst eine Panzerfaust mit hoher Reichweite!|
+%s||||
+%s|||||
+%s|Führender Assistent des berühmtesten Record-Label-Produzenten|im Himmel. Ghostwriter für zwei One-Hit-Wonder:|„Können Katzen Sünde sein“ und|„C. P. U. (Intelligenz der Zukunft Teil II)“|
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|Hat eine 9-jährige Auszeit genommen, bevor er sich traute,|sich an der Uni einzuschreiben. Will einen Abschluss in|Nuklearphysik machen, um seinen Partikelstrahl besser zu|kontrollieren, aber Papa will, dass er Buchhalter wird.|
+%s|Hat zum Spaß eine gruselige Maske getragen, die ihn in einen|fleischfressenden Dämon verwandelte. So etwas passiert.|Speit reine Verderbtheit, die aus rachsüchtigem Hass|entstand. Das normale Gesicht ist gar nicht so übel, was?|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|Eine ausgestoßene Prinzessin wurde zur Elite auf den|Straßen der großen Stadt. Ihre schlechte Erziehung ist der|Grund für ihr schlechtes Temperament. Komm ihr nicht zu nahe,|sonst hört sie nicht auf zu sticheln.|
+%s|Großer Champion des Problemkindpokals, Schrecken eines|jeden Kindergartens.|Vielleicht hat Papa ihn die russischen Klassiker zu früh|lesen lassen? Lieblingswort = LIEBE.|
+%s
+%s
+%s
+%s
+%s
+%s
+%s|||||
+%s|Nach jahrelanger Wanderung durch das Ödland|haben sich sein Pelz und seine Seele von der Korruption der|Welt schwarz gefärbt. Erhält Preise für lückenlose|Anwesenheit am Arbeitsplatz.|
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|Der verstorbene und vor einigen Jahren begrabene Vater des|Hundes. Selbst im Grab macht er sich Sorgen über die Noten|seiner Kinder. Nur ein ordentliches Zeugnis kann ihm|ewige Ruhe schenken.|
+%s|Eine schlüpfrige Kreatur, die Wasserfarben als|Horror-Schminke verwendet (ist aber schon tot).|Du musst nur wissen, dass sie über gewaltige|Flächenangriffskraft verfügt.|
+%s|Ist eines Nachts über ein giftiges Moor gewandert|und ist später tot aufgewacht.|Es macht ihm allerdings nicht aus, wie es scheint.|Nun werden wir nie erfahren, ob es ein er oder eine sie ist.|
+%s|Selbst nach dem Tod wird dieses königliche Schwein den|Thron nicht aufgeben. Trägt einen stilvollen Schädel, bis|ihre geraubte Krone geborgen wird.|Ich faule nicht, ich reife nur wie feiner Wein.|
+%s|Nachdem sein Debütfilm ein Desaster war, blieb nur ein großes|Loch übrig, wo Pengs Herz früher einmal schlug.|Selbst der Tod stoppt seine Rache an undankbaren|Zuschauern nicht!|
+%s|Nachdem er wegen seiner Fratze am Himmelstor|abgewiesen wurde, schreitet der Gorilla nun auf Erden.|Jemand hat ihn beim Glücksspiel skalpiert, weil er dachte,|er trüge ein Toupet. Das hat sicher wehgetan.|
+%s|Im Morgennebel wurde ich einer Robbe gewahr.|Sie rief nach mir, ihre Stimme war weder lebendig noch tot.|Sie beschwor mich, sie zu einer fernen Küste in|einer unheimlichen Welt zu begleiten ...|
+%s|Nach 50 Jahren als Boxerin kam ihr Körper mit|dem Dopen nicht mehr zurecht.|Wie dem auch sei, die Pillen waren so effektiv, dass ihr|Körper auch nach ihrem Tod noch weiterboxt.|
+%s|Ein armer Alligator, der verhungerte.|Ist zu schwach, um über den Fluss Styx zu schwimmen, daher|kam er als halber Geist auf diese Welt zurück.|Wird manchmal mit einer Hantel verwechselt.|
+%s|Ein Hausbesetzer hat sich in Zunds Grab niedergelassen!|Wie unhöflich! Wem auch immer der geheimnisvolle|Kadaver gehört, der Wille auf den Putz zu hauen|ist durch und durch lebendig.|
+%s|Die Geister der von den Kampfkatzen Besiegten haben|sich zu einem rachsüchtigen Sturm vereint.|Wie kann man einen Wirbelwind besiegen,|der bereits tot ist?|
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Zunds Frau sollte hier begraben werden,|aber sie ist 158 Jahre alt und immer noch|am Leben. Jemand anderes hat sich offenbar|die freie Lagerfläche gekrallt.|
+%s|Lass diesen Faulpelz am besten in Ruhe, er beißt jeden,|der sein Nickerchen unterbricht. Oder schlimmer noch:|Er erzählt endlose Geschichten über seine Baseballkarriere|in der Minor League.|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s|Ein uralter Held der Hundearmee.|Hat sich letztes Jahr als bedrohte Tierart registriert ...|Die älteren Toten fristen ein einsames Dasein.|Lateinischer Name: Canis Mausus Totus.|
+%s|Ist nach einer missglückten Schönheitsoperation an ihrem|unvorteilhaften Buckel verstorben. Ist eine hübsche Leiche.|Das erste untote Covergirl!|Verliere kein Wort über ihren unnatürlichen Fellton ...|
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Der Geist eines Hundekriegers hat von einem aufstrebenden|jungen Schauspieler Besitz ergriffen, der seine Person in|einem Theaterstück über seine Legende darstellte. Komm ihm|nicht zu nahe – das verfluchte Schloss könnte zuschlagen.|
+%s|Der beste Zombie ist ein gebildeter Zombie, hat Papa immer|gesagt. Hinter dem ominösen Cover verbergen sich nur|billige Horror-Comics.|Immun gegen alle negativen Effekte.|
+%s|Nimmt oft nach einer durchzechten Nacht den|letzten Zug nach Hause. Denkt jetzt über ihre achtlos|vergeudete Jugend nach und schwört, sich zu bessern.|Hat letzte Woche die Arbeit nur 3-mal verschlafen.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s||||
+%s|Ein himmlischer Leckerbissen aus dem Meer, der allen mit|reinem Herzen als religiöse Vision des Katzengottes|erscheint. Das kulinarische Paradies erwartet jene,|die diese Glaubensprüfung bestehen können.|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Diese lebende Legende der Kampfkunst erwartet alle|würdigen Besucher an der Spitze des Himmlischen Turms.|Liebt es, reiche Sprösslinge in die Schranken zu weisen, die|versuchen, Erleuchtung einfach zu kaufen. Liebt rosa Limo.|
+%s|Berüchtigter professioneller eSports-Spieler, der während|Turnieren mit seiner Zunge Reset-Knöpfe drückt, um zu|ragequitten. Das ist wohl eine Möglichkeit,|eine perfekte Sieg-Niederlage-Statistik zu erreichen.|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|Offiziershund der außerirdischen Marines.|Hatte beste Noten in der Akademie und|sein Fachgebiet sind Teleport-Angriffe.|Aber der Arbeitsmarkt ist heutzutage schwierig.|
+%s|Der Begründer der Teleportfeldtaktik.|Das Volk der Peng ist ein stolzer Kriegerstamm, der|wissenschaftlich sehr fortschrittlich ist, weil sie nämlich|allesamt täglich ein Sudoku lösen.|
+%s|Ein mächtiger Taktiker, der wegen seines Gesichts noch|immer single ist. Er ist tatsächlich ein ausgezeichneter Koch|und kann in sechs Oktaven singen, aber er ist zu schüchtern,|um irgendwen an seinen Talenten teilhaben zu lassen.|
+%s|Die Mutter aller Le'Boins. Sie beschützt ihre|süßen Kinder mit eiserner Abwehr.|Marschiert in mindestens drei Planeten pro Woche ein, um|ihre ansprechenden Kurven zu wahren.|
+%s|Er kann all deine schmutzigen Gedanken erraten.|Bewahre reine Gedanken in seiner Gegenwart, sonst|werden ihn die unzüchtigen Energien nur stärken.|Er hat überhaupt keine Erfahrung.|
+%s|Ein stolzer Soldat der großartigen Maulwurfarmee, der|den Frieden und die Liebe im ganzen Kosmos wahrt.|Sein Antimaterie-Aufwärtshaken katapultiert Katzen|in eine andere Dimension.|
+%s|Eine von Weltraumhunden gezüchtete Biowaffe, die für|Überfälle auf Katzenaußenposten gemacht ist. Unsichtbar|von vorne, aber da das Spiel von der Seite abläuft,|ist die Tarnung nicht besonders effektiv.|
+%s|He, ich bin’s, Katzengott.|Es scheint dir Spaß zu machen, meinen Beschreibungstext|zu lesen.|Es ist aber fast Zeit für mein Bad, also ...|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Ein äußerst selbstbewusster Vogel, der von Eltern benannt|wurde, die wollten, dass er immer an sich glaubt. Seine|Arroganz ist so extrem, dass sie seine Heimatdimension|ausgefüllt und ihn in diese getrieben hat.|
+%s|仮1|仮2|仮3|仮4|
+%s|Ein Riss in Zeit und Raum, der sich in einem Nebel|geöffnet hat. Manipuliert das Kontinuum, um Katzen|wegzuteleportieren. Ein Sieg ist möglich, wenn du ihn aus|der Entfernung angreifst ...|
+%s|仮1|仮2|仮3|仮4|
+%s|Ein nettes Schwein mit einer niedlichen, herzförmigen Nase.|Sie will mit ihrem fröhlichen Gehüpfe niemandem schaden,|aber es wird deinen Kampfwillen brechen.|Will bloß zu ihrer himmlischen Familie zurückkehren.|
+%s|Heiliger Wächter des Himmlischen Turms. Nur jene, die seine|Prüfung bestehen, werden als würdig angesehen.|Da er in letzter Zeit weniger Besucher hatte, arbeitet er|nebenher als Lehrer für Modern Dance für Kindergartenkinder.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Ambitionierter Pitcher, dessen brennende Leidenschaft|oft nur den Strand, aber sonst nicht viel, entflammt.|Hofft, eines Tages die Wucht hinter seinen kräftigen,|weitreichenden Fastball-Angriffen vorzeigen zu können!|
+%s|Sternschaf mit einer mächtigen Barrierenabwehr.|Die stachelige Erscheinung ist tatsächlich nur eine Frisch-|aus-dem-Bett-Frisur. Da jeder auf Distanz bleibt, macht es|sich Sorgen darüber, ob es Mundgeruch hat.|
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|
+%s|
+%s|
+%s|
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Überbleibsel eines uralten Imperiums, das einst die Erde|regierte. Eine dunkle Hunde-Vereinigung hat diese furchtbare|Macht wiedererweckt, aber zum Glück müssen sich alle Piloten|die einzige Ausgabe des Benutzerhandbuchs teilen!|
+%s|Ein unaufhaltbares Artefakt, das gnadenlos jeden Eindringling|im Reich der Uralten zermalmt. Den Prophezeiungen zufolge|gibt es Helden, die den üblen Flüchen widerstehen können,|die dieser Wächter seinen Feinden auferlegt.|
+%s|Angestammter Erzfeind des Katzenimperiums.|Seriös und fleißig wie alle Hunde, aber manchmal rutscht ihm|ein Fluch raus, wenn er sich zu sehr konzentriert.|Hoppla, tut mir leid!|
+%s||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|Spricht nur Altenglisch. Das bedeutet,|es ist ein sehr junges Relikt.|Wenn die Katzen richtig aufpassen würden,|könnten sie einiges von diesem Kerlchen lernen.|
+%s|Ein uralter Prophet, der von nahendem Unheil erfährt, indem|er durch die Zeit reist. Seine Zeitreisen sind nicht sehr|zielgenau, deshalb ist die schlimme Zukunft bereits|eingetreten, bevor er wieder zuhause ist ...|
+%s|Bürgermeister des alten Herzogtums Lepidoptera.|Die Einwohner hassen seine langen, ausschweifenden|Geschichten, mit denen er die morgendlichen|Stadtratssitzungen bis in die Abendstunden hinzieht.|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|Eillieferung ans Ende der Galaxis!|Seine Freundin findet, dass er sich eine echte Stelle|suchen sollte, also hat er sich einem außerirdischen|Elite-Stoßtrupp angeschlossen.|
+%s|Unterschätzter, genialer Koch, der in einem Sternerestaurant|arbeitet. Er teleportiert alles, was unappetitlich aussieht,|zurück in die Küche. Welchen Wein serviert man am besten|zu Katze?|
+%s|Hallo! Ich bin’s, der allseits beliebte Katzengott!|Ich hoffe, dir hat das 2. Kapitel des Kosmos gefallen!|Das Leben in der echten Welt ist ziemlich hart ... Ich musste|letzte Woche wieder bei meiner Mutter einziehen ...|
+%s|Die beliebteste Berühmtheit des letzten Jahres, die für ihre|ausgefallenen Augenbedeckungen bekannt ist. Aber eigentlich|sehen nur ihre Augen merkwürdig aus ... Schon komisch, dass|sie sie so werfen kann. Relikte – einfach unverbesserlich.|
+%s|||||
+%s|||||
+%s|Lebensform, deren Zweck darin besteht, die Katzen|auszulöschen. Man dachte, er wurde vor Jahrtausenden in|einer großen Schlacht mit der ursprünglichen Katzenarmee|zerstört. Kleinster und hübschester der Gesichtoiden(?)|
+%s|Ein Strauß, der außerdem erfahrener Stand-up-Comedian ist.|Eine Inspiration für jüngere Komiker, aber der|Altersunterschied innerhalb der Szene wird ihm immer|mehr bewusst.|
+%s|||||
+%s|||||
+%s|Wurde aus den stärksten Teilen ausgedienter Lehrerbären|hergestellt. Der Kopf wollte nicht recht passen, also|wurde er festgenietet.|Sein Wunsch zu Töten scheint zu wachsen ...|
+%s|Dieses Schwein wurde durch einen tragischen Unfall mit|einer Haartrockenhaube mit einer schicken Dreadlock-Frisur|gesegnet ... und ist jetzt ein Ex-Ebär.|So schnell kann man sein Image ändern.|
+%s
+%s|||||
+%s|Ein verträumter süßer Fratz, der im Halbschlaf umherwandert.|Sie trägt noch immer eine Windel, obwohl sie schon|vierzehn ist. Stör diese zarte Schlafwandlerin nicht,|egal, wie laut sie auch schnarchen mag.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|Der älteste aller Zyklone, der aus dem Urknall selbst|entstanden ist. Hat nicht abgenommen, auch nachdem|er die Dinosaurier verschlungen hat. Verflucht und wird|nach erlittenem Schaden stärker.|
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|Man sagt sich, dass dies das geheime Kind eines berühmten|Sturmes ist. Es ist allerdings unmöglich zu sagen, von|welchem genau. Teleportiert alle, die ihm nahe kommen.|Hält nicht viel aus, also gib alles!|
+%s|Dieses fiese Trio aalglatter Schurken hat es satt, dass|die Katzen in ihrem Gebiet für Ärger sorgen.|Sie sind bereit, auch die schmutzigen Tricks auszupacken!|Bezeichne sie nicht als Schlangen, das mögen sie nicht.|
+%s|Ein Weltraumsalamander mit einer Katzenallergie.|Kleine Katzen sollten die mächtigen Böen, die sein|unaufhörliches Niesen entfesselt, meiden, sonst könnten|sie in eine andere Dimension gepustet werden.|
+%s|Oho, so sehen wir uns wieder! Der Katzengott gibt nicht|einfach klein bei! Ja, du hast dich im letzten Kosmoskapitel|gut geschlagen, schätze ich. Vielleicht hast du dich endlich|dafür qualifiziert, mein Helferlein zu sein ...|
+%s|Nachdem sie Jahrtausende zwischen den Sternen verloren war,|stiftet diese seltsame Macht wieder Chaos im galaktischen|Katzenimperium. Die chaotische Kraft, die hier zum Einsatz|kommt, könnte die Gesetze der Realität neu schreiben.|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|Ein uralter Kämpfer, der von Hunden ausgegraben wurde.|Der Tonkörper sieht schwach aus, aber er ist durch Relikt-|kraft verstärkt. Sein menschlicher Torso wurde aus Versehen|an einen Pferdekörper befestigt, aber er funktioniert noch.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Ein irrer Wissenschaftler hat seinen Schweif angezündet,|um die Grenzen der Geflügelkraft zu testen.|Panik hat ihm die Stärke gegeben, die er braucht,|um in den Himmel zu fliegen.|
+%s|Die Anderen sind nie allein, im Leben wie im Tode.|Zum Glück gibt es einen Shuttle-Service, der vom Friedhof|zum Schlachtfeld fährt.|Der Untod macht einen nicht weniger abhängig von anderen.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Filialleiter einer Unterwasserhandelsfirma.|Früher war er für seine giftige Art bekannt, aber|er hat geheiratet und ist jetzt deutlich umgänglicher,|obwohl er immer noch aussieht, als würde er gern sticheln.|
+%s|||||
+%s|Ein ehrgeiziges Idol, das einmal alle 100 Jahre erscheint|und lange für einen Asteroiden gehalten wurde.|Seine treuen Fans bilden einen leuchtenden Schweif,|den man lichtjahreweit sehen kann.|
+%s|
+%s|
+%s|
+%s|
+%s|
+%s|
+%s|
+%s|仮1|仮2|仮3|仮4|
+%s|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Ein fieser Ausdruck verbirgt sich hinter dieser|traditionellen Maske einer unschuldigen Jungfer.|Will sich an all jenen rächen, die seine jugendliche|Leichtgläubigkeit ausgenutzt haben.|
+%s|Ihre Aufnahmeprüfung als Erzengel steht an, also schleift|sie ihr Lehrbuch überallhin mit.|Jede Katze, die sie beim Lernen unterbricht, wird mit ihrer|Giftmagie bestraft. Pssst!|
+%s|Königin der Bühne, die vor 888 Jahren als bescheidene|Hintergrundtänzerin begann. Der ganze Schwarm liebt sie,|auch in ihrem hohen Alter noch. Einige Drohnen sagen sogar,|dass sie die einzig wahre Herrscherin ist ...!|
+%s|仮1|仮2|仮3|仮4|
+%s|Dieses kleine Monster sieht immer so friedlich aus, wenn|es Gurken im Teich verschnabuliert.|Zumindest bis es zubeißt und dich mit einem wilden|Zufallsangriff attackiert!|
+%s|Wächter der unangetasteten Wildnis.|Niemand, der je in ihren heiligen Wald eingedrungen ist, hat|ihn lebend wieder verlassen. Nur jene, die sie besiegen,|dürfen einen Blick hinter die Maske wagen.|
+%s|Kroko hat sich freiwillig gemeldet, um zum Cyborg und damit|zum mächtigsten Mitglied seines Clans zu werden. Leider ist|mittendrin das Geld ausgegangen, aber er schafft,|dass es ganz ordentlich aussieht.|
+%s|Dieser Truthahn ist nebenbei ein hervorragender Verkäufer.|Im Oktober ließ er sich aus der Hand lesen und hat sehr|schlechte Neuigkeiten über seine Zukunft erfahren.|Er versucht ihr zu entkommen, indem er davonflattert.|
+%s|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|eine überlegene Robbe zu schaffen. Höchste Vorsicht ist vor |Schwächen- und Einfrieren-Angriffen geboten.|Tödlichkeit steigt mit jedem Kampf.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Der größte Gigolo des Universums, dem alle einsamen|Damen der Galaxis verfallen sind.|Nur ein paar süße Worte von ihm und schon sehen|bald alle Sterne.|
+%s||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|einen überlegenden Le’noir zu schaffen. Von unübertroffener|Größe und Aggression, mit lähmenden Angriffen.|Tödlichkeit steigt mit jedem Kampf.|
+%s|Clionel-artiges Wesen, das die vernichtende Verschmutzung der|Ozeane seiner Welt irgendwie überlebt (?) hat.|Bleib mir und meinen Söhnen von jetzt an fern.|Es heißt, es kann Katzen mit Furcht lähmen.|
+%s|Geliebter Neffe des kinderlosen Onkel Zyklombie.|Verfügt über die Härte seiner Mutter und der Bescheidenheit|seines Vaters, wodurch ein hungriger, kleiner Sturm entsteht,|der sich bei der kleinsten Gefahr verkriecht.|
+%s|Er ist treu bis zum bitteren Ende und wartet am Himmelstor|auf die Ankunft seines Meisters.|Eine berühmte Statue von ihm beim Zufallsangriff ist ein|beliebter Treffpunkt für Jugendliche.|
+%s|Ein Veteranenbaby, das 7 Jahre Erfahrung in der Infanterie|gesammelt hat. Kann perfekt auf Kommando weinen und|Fremde bewusstlos schlagen. Wurde deswegen von zwei|Kindergärten abgelehnt.|
+%s|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|eine überlegene Mootte zu schaffen. Stöße der kolossalen|Schwingen stoßen ihre Beute bis zum Sieg zurück.|Tödlichkeit steigt mit jedem Kampf.|
+%s|Oberhaupt eines mächtigen Klans im Ruhestand, das insgeheim|noch immer regiert. Hat im hohen Turm ein Versteck errichtet,|wo er mit seiner Freundin entspannt (bis die unhöflichen|Katzen das Versteck stürmen!)|
+%s|Maskottchen/Trainer der NLB-Champions „Koala-Knüppler“.|Hat öfter erzwungen, dass Spiele wiederholt wurden, indem|er das Spiel gestört hat, wenn sein Team am verlieren war.|Alle fürchten seine gnadenlosen Trainingsmethoden.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Ein U-Bahn-Straßenkünstler, der seinen Wert ändert, indem er|sich auf ein anderes Bild konzentriert. Ursprünglich Mitglied|einer beliebten Band, aber hat sie verlassen, um Solo|durchzustarten – kurz darauf war die Band ein Welterfolg.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|ein überlegenes Nüllpferd zu schaffen. Enorm groß, mit der|Fähigkeit, jeden, der sich wehrt, zu lähmen.|Tödlichkeit steigt mit jedem Kampf.|
+%s|Subjekt 002 (paläobakterielle Lebensform)|Kampfpotenzial: Unermesslich.|Trotz Aussehens ist Eigenschaft „Fliegend“ nicht vorhanden.|Leistung entspricht geschwächter Kapazität|
+%s|Dieser Vogel ist so stark, dass er nach Belieben selbst durch|den Fluss Styx schwimmen kann.|Unglücklich, weil seine sorgsam kultivierten Muskeln trotz|aller Maßnahmen einfach verrotten.|
+%s|
+%s|
+%s|
+%s|
+%s|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Der verheißene Herr der Katzen, vom Stolz auf seine|Meisterschaft über uralte Waldzauber verzehrt.|Ist jetzt König der Zerstörung und straft diese dekadente|Welt mit wütenden Zufallsangriffen und Flüchen.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|"DIESER Ebär wird nie rot", sagt dieser junge Rebell gern,|bevor er auf seinem Motorrad davonbraust.|Die Urteile der Erwachsenengesellschaft sind ihm egal,|er will nur die offene Straße befahren.|
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|Während er gerade in einem Online-Kurs Zufallsangriffe|lernte, traf dieser Fuchs das Schwein versehentlich mit|einer Welle, während er verbotenerweise im Park übte. Jetzt|getarnt, um nicht von der Polizei entdeckt zu werden …|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Identifiziert sich nicht als Löwe.|... aber wieso? Man hat ihn gefragt,|aber er wurde sofort wütend und|ließ einen Mini-Wellenangriff los.|
+%s|||||
+%s|Bürohengst, der sich einem fiesen Multi verschworen hat.|Nach ewigen Überstunden sind seine Augen blutunterlaufen,|und als der Neue um Punkt fünf Uhr gegangen ist,|ist er einfach durchgedreht.|
+%s|仮1|仮2|仮3|仮4|
+%s|Tief im Uralten Wald lebt der Doron-Stamm und versteckt seine|Gesichter hinter von Göttern gesegneten Masken. Wird die|Maske zerbrochen, wird eine tödliche Welle aus göttlicher|Macht freigesetzt.|
+%s|Der Bruder des Hundes hatte den Schulalltag satt und ist|weggelaufen, um den Aku beizutreten.|Der Clan sieht ihn als Verräter, aber er zahlt heimlich|immer noch die Schulgebühren für den Hund.|
+%s|Schlänge, von einer blauen Flamme der Aku-Macht gezeichnet.|Lässt im Moment des Todes einen Zufallsangriff los.|Vermutlich schwach gegen Wasser, aber diese Info hilft dir|in diesem Spiel überhaupt nicht weiter.|
+%s|Ein Trio von Internetbewohnern, die ihre Seelen verkauften,|als sie auf einen Link in Aku-Rekrutierungsspam klickten.|Waren früher niedrigstufige rote Feinde, aber jetzt|sind sie erfolgreiche Investoren in das Böse.|
+%s|Berühmt für seine Rolle in „Der schlaflose Peng“.|Hat mit den Aku einen Pakt geschlossen, um in der Fortsetzung|zu sein, und bekam einen Körper, der keine Ruhe braucht.|Als Bonus kann er einen Strahl aus der Stirn abfeuern.|
+%s|Vom Himmel wegen dauernder Missgeschicke im Büro gefeuert.|Wurde wegen seines gruseligen Gesichts bald von den Aku|abgeworben. Streamt jetzt seinen Alltag|im Aku-Vortex.|
+%s|Hat einen Pakt mit den Aku geschlossen: Seine Seele für eine|Reihe von sehr schwer zu findenden Fotos ... Keine weiteren|Fragen bitte. Hat einen Schild entwickelt, um die|unschätzbare Fotosammlung besser schützen zu können.|
+%s|Ein Elite-Repräsentant des Reichs der Aku.|Ein fester Händedruck und ein strahlendes Lächeln: Seine|körperliche Ausstrahlung ist praktisch unschlagbar. Aber|im Zweifelsfall ... geht ein Atomschlag immer.|
+%s|Niemand wagt es, sich diesem allmächtigen Aku zu nähern!|Glaubt er wenigstens, aber in Wirklichkeit hat er eine|furchtbare Persönlichkeit und überträgt eine ganze Reihe|widerlicher Bakterien. (Quelle: Aku-Forscher).|
+%s|Ein riesiger, alles verschlingender Sturm. Von ihm erfasste|Seelen werden in die Aku-Reiche gezogen und treten den Armeen|des Bösen bei. Wenn du seinen Schild durchdringen kannst,|hast du vielleicht eine Chance.|
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Böser Priester mit dem düsteren Traum, über das Reich der|Aku zu herrschen. Baut Altäre, um die Kraft seiner Feinde|zu blockieren, ihnen die Lebenskraft zu entziehen und sie|für seine eigenen finsteren Zwecke zu nutzen.|
+%s|Ein mächtiger Magier, der Lebensenergie stiehlt, um sie im|Wiedererweckungsritual des Herrn der Zerstörung zu nutzen.|Wird die perfekte Welt, von der er träumt, Wirklichkeit|werden, oder wird es unerwartete Konsequenzen geben?|
+%s|Der böse Gott der Zerstörung. Einst von großen Helden|eingesperrt, jetzt von den Ritualen eines dunklen Priesters|wieder befreit. Ein längst vergessenes Zeitalter der|Zerstörung wird bald wiederauferstehen ...|
+%s|Bei ihrer verbissenen Forschung öffnete die Kaiserin ein|verfluchtes Buch und wurde vom ultimativen Bösen besessen.|Mit vom Bösen befleckter Seele führt sie das Imperium jetzt|in die völlige Zerstörung.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s
+%s|||||
+%s|||||
+%s|||||
+%s|Aku mit Identitätskrise. „Bin ich jetzt eine Schlange, ein|Löwe oder ein Fisch?“, fragt sie jeden Passanten und|versteinert ihn bei falschen Antworten.|Extrem gefährlich, mit Zufallsangriffen.|
+%s|Bösartige Liebes-„Expertin“, die bei jeder Gelegenheit|schlechten Rat erteilt und zu gebrochenen Herzen|führt. Oft in der Innenstadt, um alle vielversprechende|erste Dates in Reichweite zu ruinieren.|
+%s|Ein Aku, der von einer verfluchten Maske erschaffen wurde,|um die Wiedererweckung des Großen Aku voranzutreiben.|Bösartige Ausdünstungen aus der Maske entziehen jedem,|der sich zu nähern wagt, das Leben selbst.|
+%s|Ein Cousin von Ren T. mit tiefschwarzem Geweih.|Alle haben über sein Geweih gelacht. Jetzt ist er auf|einem Rachefeldzug, der erst endet, wen seine Nase|knallrot geworden ist.|
+%s|Ein kaltherziges Highschool-Baseball-Ass, das die Seele|seines Zwillingsbruders für einen Turniergewinn an die Aku|verkauft hat. Ein Rundumtalent, das Talentscouts in die|Major League rekrutieren wollen.|
+%s|Ein anarchischer Kory, der für eine Deathcore-Metal-Band|singt. Scheut sich nicht vor Rangeleien im Moshpit. Hat|fast überall Hausverbot, weil er Wellenangriffe in das|nichtsahnende Publikum gefeuert hat.|
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|H. Nee ist süchtig nach gestrecktem|Katzamin C und leidet unter Realitätsverlust.|Behauptet, ein für den Kampf geborener Berserker zu sein.|Zufallsangriffe halten seine Feinde auf Distanz.|
+%s|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|einen überlegenen Mr. Engel zu schaffen, der verlorene|Sünder führt, indem er sie bis zur Erlösung schwächt und|teleportiert. Tödlichkeit steigt mit jedem Kampf.|
+%s|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|einen überragenden Peng gigantischer Ausmaße zu schaffen,|der Gift in alle Richtungen sprühen kann.|Tödlichkeit steigt mit jedem Kampf.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|Ein heiliges Wesen, als älteste aller Waldkreaturen|bekannt. Ruft den Blitz herab, um Eindringlinge zu strafen.|Die Überlebenden gelten als würdig,|weiterzuleben.|
+%s|Capy hatte einen wunderbaren Thermenurlaub ...|bis sie urplötzlich verstarb. Sie ist richtig fies und|schützt ihre Ecke des Bads, indem sie andere|Gäste weit weg teleportiert.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Auf einer Tropenreise hat dieser Hund den Ruf|der Wildnis gehört. Jetzt hat er gekündigt|und seinen Zwilling für ein Leben auf der|Suche nach der perfekten Welle verlassen.|
+%s|Eine Ente, die zurück in die Natur geflogen ist und knapp dem|Schicksal als Foie Gras entkommen ist. Plustert ihre Federn|heftig auf und spießt Feinde mit dem riesigen Schnabel auf.|Wildes Tier unter den Wildtieren.|
+%s|Ein Eulheul, das mit 79 seine wilde Seite entdeckt hat. Ein|Senior, der zu einem Vulkan absteigt und Jahre aufgestauter|Wut als Lichtball entfesselt. Kann einen|Wellenangriff auslösen.|
+%s|Ein Helmut Krabbe, der sowohl die irrationale Macht der|Liebe als auch ein nettes Zuhause gefunden hat. Seine|Riesenscheren lähmen seine Feinde, während die Distanz-|Mehrfachangriffe für den Schaden sorgen.|
+%s|Dieses Häschen ist aus einem Geheimen, unethischen Genlabor|geflohen. Alle seine Läden sind bankrott gegangen, aber|das Juwel in seinem Hinterteil sagt ihm in|Zukunft viel Glück voraus.|
+%s|Enkel des Hundes. Kommt aus der Zukunft, um die Vergangen-|heit zu ändern, in der sein Opa in einem Test durchgefallen ist.|Die Fragen in der Zulassungsprüfung sind so anders, dass|es kaum einen Unterschied gemacht hat.|
+%s|Eine von den Uralten erbaute, zerstörerische Waffe.|Der Strahl, den sie abfeuert, soll Zerstörung bringen können.|Wurde von einem Weisen am Meeresgrund versiegelt.|Soll angeblich zur Oberfläche auftreiben.|
+%s|Ein mächtiger Behemoth, der dämonisch wurde, als er sein|Heim verlor. Die Bäume im umgebenden Dschungel gefallen ihm |gar nicht. Kann Stachel aus seinem Schwanz feuern, die|alle Bewegung einfrieren.|
+%s|Der dritte der drei Vogelbrüder. Lebt in|Dunkelheit und hat gefährliche Pflanzen kultiviert. Das|munkelt man jedenfalls. Kann jeden Feind mit unablässigen|Schnabelstößen besiegen. Ruft Gifteffekt hervor.|
+%s|Ein Hund aus Ton, der Häuser bewachen soll.|Verfügt über Stör- und Blockadefunktionen, um niemanden in|die Nähe des Hauses zu lassen. Beste Eigenschaft:|Ähnelt seinem Besitzer.|
+%s|Herrscher über die Natur selbst. Sein gruseliges Gesicht|täuscht über sein gütiges Herz und seinen Wunsch, die Umwelt|zu schützen, hinweg. Setzt bösen Wilderern mit|Wellen, Zufallsangriffen und seinen heiligen Fäusten zu.|
+%s|Ameise, die mit aller Mühe Essen für den Winter gesammelt|hat, nur um sich zu überfressen und zwischen Leben und|Tod zu schweben.|Ihr Magen explodiert, wenn sie nervös wird.|
+%s|Sohn eines Firmenbesitzers, der über Vitamin B einen|Job bekommen hat. Hat seine Gene editieren lassen, um nicht|mit seinem berühmten Paps verglichen zu werden.|Hat vor, demnächst auf ein Amt zu kandidieren.|
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|
+%s|
+%s|In Donner gehüllter Ahnenvogel, der in einem Turm im Himmel|lebt. Legenden zufolge ein unvergesslicher Anblick, verbirgt|jedoch seine gewalttätige Persönlichkeit, die noch heftiger|wird, wenn er in die Enge getrieben wird.|
+%s|||||
+%s|||||
+%s|Altmodische Ente mit drei Kindern im Schlepptau.|Cholerische Tendenzen. Eine strenge Elternente, die ihre|Küken dazu erzieht, irgendwann flügge zu werden.|Schickt dem jüngsten Küken Geld.|
+%s|Ein großer Affe, der seit Urzeiten den Heiligen Wald bewacht.|Wird für einen Vorfahren des Menschen gehalten. Kann sich|gegen Behemoths mit|dem „Uralten Fluch“ behaupten.|
+%s|Nimmt die Energie auf, aus der alles besteht.|Mit erwachter, wahrer Macht wird alles dank riesiger Fäuste|in die Enge getrieben und mit unerbittlicher|Kraft als Beute zur Strecke gebracht.|
+%s|Durchstreift unendliche Welten und hinterlässt eine Spur aus |sowohl Zerstörung als auch Schöpfung. Sein Wesen ist|ein Rätsel, wie auch seine Macht. Alle negativen Effekte|sind dagegen machtlos.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|Renommierter Bildhauer, der in der Wildnis lebt. |Schloss einen Aku-Vertrag ab, um Röntgenblick zu erhalten,|damit er besser nackte Statuen formen kann – sieht aber|jetzt durch Kleidung und Haut bis auf die Knochen ...|
+%s|||||
+%s|Influencerin mit Schönheit und Einfluss, die alle mögliche|Aufmerksamkeit auf sich zieht. Führt ein echtes Luxusleben.|Schlägt mit ihrer Mode hohe Wellen.|Spendet all ihr Geld an Bedürftige.|
+%s|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|die Cerberus-Kids zu verbessern, mit unvergleichlicher Größe,|Zufalls- und einfrierenden Angriffen.|Tödlichkeit steigt mit jedem Kampf.|
+%s|Kleiner Bruder des weißen Zyklons. Studiert Sog und|Stabilität an der Uni. Dank des Robotersauger-Booms|fällt es ihm schwer,|Arbeit zu finden.|
+%s|Ein Riesen-Pegasus mit der Macht, den Himmel zu|entzünden und den Boden einzuäschern. Wer|ihn sieht, wird von Mini-Wellen umschlossen und|festgehalten, um zu verbrennen.|
+%s|Schweinsmaskottchen der 56. Königin des Schweinekönigreichs.|Geflohen, nachdem es zu oft in Kleidung spazieren gehen |musste. Genoss das Leben als Wildschwein und merkte dann,|dass die Kleidung seine eigenen Borsten waren.|
+%s|Ist in einer rauen Welt aufgewachsen und hat keinen Takt, |was Frauen angeht. Hat sich so viele Körbe eingefangen, dass |er nun willensstark genug ist, jeden negativen Statuseffekt|einfach abzuschütteln.|
+%s|Ist nach 560.000 Jahren als höllischer Tyrann in unsere Welt|zurückgekehrt, um ein Foto für ein Blind Date zu machen. |Hat vor, mit seiner Größe, guten Noten und seinen Blutzucker-|Werten zu beeindrucken.|
+%s|Grausige Verzauberin, die in den tiefsten Tiefen eines|Labyrinths haust. Quält in ihren Fallen gefangene Opfer mit|endlosen Geschichten ohne Pointe, immer über ihren großen|Bruder im Reich der Aku.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s||||
+%s|
+%s|仮1|仮2|仮3|仮4|
+%s|Otter, der als Torwächter zum Himmel arbeitet.|Schickt alle, die des Himmels nicht wert sind,|mit seiner goldenen Kugel in die Unterwelt.|Beschwört Monster mit der Kraft von Zufallsangriffen.|
+%s|Der Vorfahre aller invasiven Arten.|Sollte eigentlich Schädlinge ausrotten, aber sein|unbändiger Appetit machte es schwer, ihn zu zähmen.|So wurde er zu einer Gefahr für seine Umgebung.|
+%s|仮1|仮2|仮3|仮4|
+%s|Hat 10-mal die Uni-Aufnahmeprüfung nicht geschafft|und die Ausbildung aufgegeben, weil man zum|Untotsein keinen Abschluss braucht.|Fragt sich doch, was hätte sein können …|
+%s|Ein stubenreiner großer Yokai aus den Sümpfen.|Sein mächtiger, von einer Bittermelonenernährung getriebener|Schlag macht ihn außer Haus zum gefährlichen Gegner, doch|zu Hause hat seine Frau ihn unter Kontrolle.|
+%s|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|das ideale Schaf zu schaffen. Anfangs mit dem eigenwilligen|Körper zufrieden, wünschte es sich bald, die Verwandlung|wäre ambitionierter gewesen.|
+%s|Alligator, der sich beim Wildzelten in die freie Natur |verliebt hat. Der gestählte Körper ist mit Grillkohlestaub|bedeckt, damit er sich beim Pirschen im Urwald |besser tarnen kann.|
+%s|仮1|仮2|仮3|仮4|
+%s|仮1|仮2|仮3|仮4|
+%s|Behütetes Mädchen, das aufgezogen wurde, um von der|Unreinheit der Außenwelt unberührt zu bleiben. Verlässt das|Haus, wenn ihre Eltern schlafen, und reinigt|die Welt mit Mini-Zufallsangriffen.|
+%s|In der Vergangenheit vom eigenen, edlen Selbst getötet,|um ewig abgeschieden versiegelt zu werden. Während ein|wachsendes Miasma mehr Behemoths erzeugt, ist auch das|Siegel des ersten Kaisers gebrochen worden.|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|||||
+%s|||||
+%s|仮1|仮2|仮3|仮4|
+%s|Hochrangiger Weiser, der die Welt aus einer anderen Ebene|studiert. Hat einen Pakt mit der Menschheit geschlossen und|teilt seine Weisheit mit ihnen. Unstillbarer Durst nach|Wissen führte zu Schicksalstreffen mit den Katzen.|
+%s|仮1|仮2|仮3|仮4|
+%s|Hat nach Durchfallen bei der Abschlussprüfung|ein Weisheitsamulett in einem Comicheft gefunden.|Denkt jetzt über alles zu lange nach und wird bei jedem|Test versagen, weil die Zeit ausgeht.|
+%s|Hat das falsche Brillenrezept bekommen, ist gestolpert|und auf den Stein gefallen, der jetzt in seiner Stirn steckt.|Um durchs Himmelstor zu kommen, muss man ihn erst|in einem geistigen Gefecht besiegen.|
+%s|仮1|仮2|仮3|仮4|
+%s|Das seltsame Halsband hat den edlen Hund zu einem|Musikliebhaber werden lassen. Er kann sie nicht spielen, aber|kennt genug Theorie, um Stücke zu schreiben und sie|in seinem Namen aufführen zu lassen.
+%s|Riesiger Haniwa, der aus einem alten Labor ausgegraben und|als Kriegswaffe eingesetzt wurde. Dank verändertem Genom|immun gegen Flüche und ausgestattet mit einer Menge|Wellenangriffe, die vernichtende Effekte auslösen.
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s|Wissenschaftler, der seinem auf die schiefe Bahn geratenen|Sohn seinen Mut beweisen will, indem er Boxer wird. Mit|erhöhter Intelligenz durch den Ein-Schlag-Kraftstein hat er|unnachweisbare Doping-Technologie entwickelt.
+%s|仮1|仮2|仮3|仮4
+%s|Alte Hyäne, die als größter Astronom aller Zeiten gilt …|… laut Teilnahmeurkunde des örtlichen Astronomiestammtischs.|Schickt alle, die ihre Theorien kritisieren,|in eine andere Dimension.
+%s
+%s
+%s|Gieriger Vogel, der von Wertsachen besessen ist.|Macht Geschäfte mit dem Verkauf von Schätzen, seit er eines|Tages einen glitzernden Stein eingesammelt hat. Wenn der|Käufer verspricht, seine Schulden zu zahlen, gilt der Handel.
+%s|Unsterblicher Comedian, der alle Gefühle gegen die|ultimative Pointe getauscht hat. Chronische Amnesie|führt zu vielen vergessenen Witzen bei Auftritten,|doch das scheint ihn nicht zu bekümmern.
+%s|Ergebnis der Bemühungen eines antiken Wissenschaftlers,|ein Superwesen zu schaffen, das die Menschheit übertrifft.|Nachdem er die Katzen in eine andere Dimension geführt hatte,|verschlang ein seltsamer Kristall sein Ego.
+%s|Exemplar Nr. ???. Status: Instabile Mikroben|gefunden. Kampfenergie: Unermesslich.|Pflanzt sich durch aufsparen und verbreiten von Samen fort.|Die ultimative Lebensform ist beinahe da.
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s|仮1|仮2|仮3|仮4
+%s|仮1|仮2|仮3|仮4
+%s
+%s
+%s|Der seltsame Hut dieses Gelehrten flutet seinen Geist|mit verbotenem Wissen über die Unterwelt.|Lehrt über die tiefe und aufregende Weisheit des Abgrunds|und führt naive Schüler in ihren Untergang.
+%s|Lehrer, der in die Wildnis verbannt wurde, nachdem es|einen Züchtigungsskandal gab. Jede Kreatur in seinen Landen|lernt durch seine Eisenfaust, was „hart aber herzlich“|heißt. Als König aller Wildtiere gefürchtet.
+%s|Uraltes Seeungeheuer mit unersättlichem Appetit.|Wurde nach dem Verzehr eines seltsamen Steins|plötzlich ein sehr viel besserer Fischer.|Daher sind viele Arten nun vom Aussterben bedroht.
+%s
+%s
+%s
+%s
+%s||||
+%s
+%s|Wurde von unbändigem Zorn verzehrt, nachdem er|das Ende des Kugelvolks durch Überfischung miterlebte.|Um alle grausamen Fischesser zu vernichten, rollt er mit|dem Kopf voran, um alle Schiffe in seinem Weg zu versenken.
+%s|Ostianischer Eroberer aus einer weit, weit entfernten Welt,|der nach einer Meuterei auf der Erde strandete.|Übermittelt pausenlos SOS-Signale und hofft,|irgendwann von einem Schiff gerettet zu werden.
+%s
+%s
+%s
+%s
+%s
+%s|Hat aus einer anderen Dimension auf unsere Welt geblickt und|segnet verborgene Genies mit unglaublichem Wissen.|Will das Ausmaß der Unlogik der Katzenarmee erfassen,|indem er sich ihr im Kampf stellt.
+%s
+%s
+%s
+%s
+%s
+%s|Durch einen rätselhaften Stein erhielt dieser legendäre|Baseballspieler die Fähigkeit, jede Position zu meistern …|woraufhin er sich für das Team aufopferte|und jetzt kurz vor dem Burnout steht.
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|den besten Mondfisch zu erschaffen. Er ist so groß geworden,|dass Tarnung nicht mehr in Frage kommt. Zerstört alles,|was ihm begegnet, mit lähmenden Wellen.
+%s|Schlurft auf der Suche nach Knochen zum Abnagen umher.|Seine Arme sind zu kurz, um den Knochen herauszuziehen, der|ihm durch den Bauch gefahren ist, aber immer wenn er dafür|um Hilfe bitten will, laufen alle vor Angst davon.
+%s|Nimmt bei vielen Sportarten die Rolle des Balls ein,|um insgeheim das Ergebnis besagter|Spiele zu ändern, um sich als der Hauptcharakter|aufzuspielen ... beim Fußball gar nicht so einfach.
+%s
+%s||||
+%s
+%s

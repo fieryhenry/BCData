@@ -1,0 +1,98 @@
+Eficaz contra enemigos rojos.|＠
+Eficaz contra enemigos voladores.|＠
+Eficaz contra enemigos negros.|＠
+Eficaz contra enemigos metálicos.|＠
+Eficaz contra enemigos ángeles.|＠
+Eficaz contra enemigos álienes.|＠
+Eficaz contra enemigos zombis.|＠
+Eficaz contra enemigos reliquias.|＠
+Eficaz contra enemigos akus.|＠
+Eficaz contra enemigos sin rasgos.|＠
+＠
+＠
+＠
+＠
+＠
+(Desgaste)|El poder de ataque del tipo de enemigo indicado|se reduce durante un periodo de tiempo.|＠
+(Arrebato)|Cuando la vida de la unidad baja de un límite,|sus ataques se vuelven más potentes.|＠
+(Paralización)|El tipo de enemigo indicado es incapaz|de moverse durante un periodo de tiempo.|＠
+(Ralentización)|La velocidad de movimiento del tipo de enemigo|indicado se reduce durante un periodo de tiempo.|＠
+(Supervivencia)|Cuando la vida de la unidad baja de cero,|recupera un poco.|＠
+(Destruyebases)|Si la unidad ataca la base enemiga,|le inflige mucho más daño.|＠
+(Daño crítico)|Los ataques de esta unidad tienen más|probabilidad de dañar a enemigos metálicos.|＠
+(Objetivo único)|Los ataques de esta unidad solo dañan|a un tipo específico de enemigo.|＠
+(Eficacia)|Esta unidad es más resistente contra el tipo de|enemigo indicado y también le infligirá más daño.|＠
+(Resistencia)|Se reduce significativamente el daño|recibido del tipo de enemigo indicado.|＠
+(Dinero extra)|Aumenta el dinero que se recibe al|vencer al tipo de enemigo indicado.|＠
+(Superfuerza)|Los ataques de la unidad infligen mucho|más daño al tipo de enemigo indicado.|＠
+(Repulsión)|La unidad tiene una probabilidad de hacer retroceder|hacia su base al tipo de enemigo indicado.|＠
+(Oleada)|Los ataques dañan a todos los enemigos dentro de su|alcance, y una ola de energía inflige daño adicional.|＠
+(Metal)|Se reduce en gran medida el daño sufrido, pero la|unidad sigue siendo vulnerable a golpes críticos.|＠
+(Inmunidad a oleada)|La unidad no sufre daño de ataques en oleada.|＠
+(Ataque de área)|Todas las unidades que se encuentran dentro|de su alcance sufren daño con sus ataques.|＠
+(Largo alcance)|Los ataques de la unidad infligen daño a los enemigos|lejanos, pero es posible que fallen contra los cercanos.|＠
+(Inmunidad a desgaste)|Los ataques enemigos no desgastan|los de esta unidad.|＠
+(Inmunidad a paralización)|Los ataques enemigos no detienen|el movimiento de esta unidad.|＠
+(Inmunidad a ralentización)|Los ataques enemigos no ralentizan|el movimiento de esta unidad.|＠
+(Inmunidad a repulsión)|Los ataques enemigos no repelen|a esta unidad.|＠
+(Ataque individual)|Los ataques de esta unidad solo dañan|a una unidad dentro de su alcance.|＠
+(Matabrujas)|Esta unidad es muy eficaz y resistente contra las|brujas de las fases colaborativas de Madoka Magica.|＠
+(Matazombis)|Esta unidad puede evitar|que los zombis resuciten.|＠
+(Escudo contra oleada)|Esta unidad bloquea las oleadas y protege de sus|efectos a las unidades que se encuentren detrás de ella.|＠
+(Rompebarreras)|Puede destrozar las barreras enemigas|y tiene superfuerza cuando las rompe.|＠
+(Bloqueo de abducción)|Las abducciones enemigas|no afectan a esta unidad.|＠
+(Omniataque)|Esta unidad ataca a los enemigos que estén tanto|delante como detrás de ella en un área extensa.|＠
+(EVA Angel Killer)|Delivers extra damage to / takes less|damage from EVANGELION Collab bosses|＠
+(Inmunidad a maldición)|Esta unidad es inmune a los efectos|temporales de las maldiciones enemigas.|＠
+(Abducción)|Los ataques de esta unidad pueden abducir a enemigos.|＠
+(Resistencia a desgaste)|El efecto de desgaste de los ataques enemigos|tiene más probabilidades de fallar.|＠
+(Resistencia a paralización)|El efecto de paralización de los ataques enemigos|tiene más probabilidades de fallar.|＠
+(Resistencia a ralentización)|El efecto de ralentización de los ataques enemigos|tiene más probabilidades de fallar.|＠
+(Resistencia a repulsión)|El efecto de repulsión de los ataques enemigos|tiene más probabilidades de fallar.|＠
+(Resistencia a oleada)|Las oleadas enemigas causan menos daño a esta unidad.|＠
+(Resistencia a abducción)|El efecto de abducción de los ataques enemigos|tiene más probabilidades de fallar.|＠
+(Coste reducido)|El coste de despliegue de la unidad se reduce.|＠
+(Aumento de recuperación)|La unidad estará lista para volver a desplegarse antes.|＠
+(Aumento de movimiento)|La unidad se desplazará más rápido.|＠
+(Mejora de repulsión)|La unidad tiene más probabilidades de repeler.|＠
+(Resistencia a maldición)|El efecto de maldición de los ataques enemigos|tiene más probabilidades de fallar.|＠
+(Mejora de ataque)|El poder de ataque de la base aumenta permanentemente.|＠
+(Mejora de defensa)|La defensa de la base aumenta permanentemente.|＠
+(Megafuerza)|El daño que se inflige a los enemigos|objetivo aumenta tremendamente.|＠
+(Superdureza)|El daño que se recibe de los enemigos|objetivo disminuye tremendamente.|＠
+(Objetivo: rojos)|Las habilidades afectan también a enemigos rojos.|＠
+(Objetivo: voladores)|Las habilidades afectan también a enemigos voladores.|＠
+(Objetivo: negros)|Las habilidades afectan también a enemigos negros.|＠
+(Objetivo: metálicos)|Las habilidades afectan también a enemigos metálicos.|＠
+(Objetivo: ángeles)|Las habilidades afectan también a enemigos ángeles.|＠
+(Objetivo: álienes)|Las habilidades afectan también a enemigos álienes.|＠
+(Objetivo: zombis)|Las habilidades afectan también a enemigos zombis.|＠
+(Objetivo: reliquias)|Las habilidades afectan también a enemigos reliquias.|＠
+(Objetivo: sin rasgos)|Las habilidades afectan también a enemigos sin rasgos.|＠
+(Golpetazo)|Esta unidad puede infligir mucho más daño.|＠
+(Evasión)|Esquiva temporalmente todos los ataques|del tipo de enemigo objetivo.|＠
+(Réplica)|Los ataques de esta unidad infligen daño adicional|a zonas aleatorias dentro de su área de ataque.|＠
+(Inmunidad a toxicidad)|Los efectos tóxicos no afectan a esta unidad.|＠
+(Maldición)|Durante un breve periodo de tiempo,|los ataques enemigos no le afectan.|＠
+(Inmunidad a réplicas)|Las réplicas de los ataques enemigos no le afectan.|＠
+(Minioleada)|Los ataques pueden infligir daño adicional en forma|de minioleada a los enemigos a su alcance.|＠
+(Resistencia a toxicidad)|El efecto de toxicidad de los ataques enemigos|tiene más probabilidades de fallar.|＠
+(Resistencia a réplicas)|Las réplicas enemigas causan menos daño.|＠
+(Atravesar escudos)|Los ataques tienen una probabilidad fija de|anular los escudos de akus e infligir mucho daño.|＠
+(Objetivo: akus)|Las habilidades afectan también a enemigos akus.|＠
+(Matacolosos)|Tiene mejor ataque y defensa|contra enemigos colosales.|＠
+(Directo al alma)|Sus ataques pueden infligir daño|a zombis «muertos» temporalmente.|＠
+(Matamastodontes)|Aumenta bastante el daño de ataque y la defensa|contra mastodontes, con la posibilidad de esquivar.|＠
+(Aumento de frecuencia de ataque)|El tiempo entre ataques es más corto.|＠
+(Mini-réplica)|Todo ataque que acierte libera una pequeña réplica que|inflige daño extra en un lugar aleatorio.|＠
+(Contrarréplica)|Cuando un enemigo golpea con un ataque réplica, |contraataca con su propio ataque réplica.|＠
+(Invocador)|Toca el icono para invocar a un espíritu que ataca|enemigos. Solo se puede tener una unidad cada vez.|＠
+(Matasabios)|Aumenta el daño infligido a sabios. Reduce|el daño recibido y el efecto de las penalizaciones.|También anula la inmunidad a penal. de los sabios enem.|＠
+(Matametálicos.)|Hace daño a los enemigos metálicos en relación|a la vida que le quede al enemigo.|＠
+＠
+＠
+＠
+＠
+＠
+【Explosión】|Desata una explosión que hiere hacia|izquierda y derecha al asestar un ataque.|＠
+【Inmunidad a explosiones】|No sufre daño de explosiones enemigas.|＠

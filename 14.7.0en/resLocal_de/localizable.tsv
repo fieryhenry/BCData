@@ -1,0 +1,1605 @@
+item_pack_name_0	Packaktion: Katzenbatzenpaket!
+item_pack_name_1	Packaktion: Katzenbatzen-Superpaket!
+item_pack_name_2	Packaktion: Katzenbatzen-Megapaket!
+item_pack_name_3	Blitzangebot: Katzenbatzen-Spezialset!
+item_pack_name_4	Blitzangebot: Katzenbatzen-Superset!
+item_pack_name_5	Blitzangebot: Katzenbatzen-Megaset!
+item_pack_name_6	Sonderangebot: Kaufe ein seltenes Ticket!
+item_pack_name_7	Sonderangebot: Platinticket!
+item_pack_name_11	Kaufe das Platin-Startpaket!
+item_pack_name_12	
+item_pack_name_13	Shakurellöwe-Paket
+item_pack_name_14	Shakureltiger-Paket
+item_pack_name_15	Shakurelpanda-Paket
+item_pack_name_17	Dankeschönpaket
+item_pack_name_18	Limit. Angebot: Silber
+item_pack_name_19	Limit. Angebot: Gold
+item_pack_name_20	Limit. Angebot: Platin
+item_pack_purchased_title	<flash>%@</flash><br>
+item_pack_purchased_item	%@ x %d → <color=255,255,0>%d</color><br>
+item_pack_purchased_xp	%@ %d → <color=255,255,0>%d</color><br>
+item_pack_purchased_ticket	%@ x %d → <color=255,255,0>%d</color><br>
+battle_result_first_clear_bonus	<color=255,255,0>Einmalige Abschlussbelohnung</color><br>Du erhältst <flash>30 Katzenbatzen!</flash><br>Du erhältst außerdem <flash>1 Führung!</flash>
+user_rank_gift_1600_catseye_unlocked	<flash>Erhöhe deine Stufengrenze!</flash><br>Benutze ein Katzenauge, um bei bestimmten<br>Katzen höhere Stufen freizuschalten!
+user_rank_gift_no_more	<color=255,255,0>Du hast alle verfügbaren Belohnungen<br>freigeschaltet ... Bald gibt es mehr!</color>
+user_rank_popup_title1	<color=255,255,0>Benutzerrang-Mission</color><br>
+user_rank_popup_title2	<flash>Benutzerrang %d erreicht!</flash><br>
+user_rank_popup_title3	<color=255,255,0>Benutzerrang ${rankNum} erreicht!</color><br>Belohnung abholen?
+user_rank_full_recovery_energy	Du hast <flash>1 Führung</flash> abgeholt!
+data_upload_error_catfood_20000	Daten werden möglicherweise nicht gespeichert, weil sie geändert oder gehackt wurden. Bitte kontaktiere den Support.
+energy_connecting	Daten werden hochgeladen ...
+energy_connection_failed1	Fehler beim Aktualisieren der Energiedaten.
+energy_connection_failed2	Überprüfe deine Verbindung und versuche es erneut.
+energy_fraud1	Die Systemzeit wurde möglicherweise verändert.
+energy_fraud2	Für kurze Zeit füllt sich die Energie nicht auf.
+gamatoto_connection	Daten werden hochgeladen ...
+gamatoto_connection_failed	Fehler bei der Berechnung der Expeditionszeit. Überprüfe deine Verbindung und starte die App neu.
+gamatoto_fraud	Die Systemzeit wurde möglicherweise verändert. Für kurze Zeit füllt sich die Energie nicht auf.
+reset_item_reward	<color=255,255,0>Belohnungsverfügbarkeit wiederhergestellt!</color><br>Bereits erhaltene Belohnungen sind erneut erhältlich.<br>Schließe Aufgaben ab, um sie erneut zu erhalten!
+reset_tower_state	<color=255,255,0>Belohnungen/Abschlussstatus zurückgesetzt!</color><br>Levelabschlussbedingungen wurden zurückgesetzt und<br>Belohnungen können erneut erhalten werden.
+reward_energy	Chance auf Energieauffüllung!<br>Video ansehen, um %d Energie aufzufüllen?</flash>
+receive_energy	%d Energie aufgefüllt.
+receive_energy_full	Alle Energie aufgefüllt.
+network_unavailable_energy	Energie nicht aktualisiert.\nÜberprüfe deine Netzwerkverbindung!
+network_unavailable_gamatoto	Katzenbatzen nicht aktualisiert.\nÜberprüfe deine Netzwerkverbindung!
+001_img044.png	i001_img044_de.png
+001_img044.imgcut	i001_img044_de.imgcut
+001_img045.png	i001_img045_de.png
+001_img045.imgcut	i001_img045_de.imgcut
+021_e.png	i021_e_de.png
+021_e.imgcut	i021_e_de.imgcut
+slot_copy_select	Einheiten können aus Platz %d kopiert werden.<br>Einheiten kopieren/ersetzen?
+slot_copy	Einheiten aus Platz %d kopiert.<br>Öffne den gewünschten Platz und tippe auf „Ersetzen“.<br>
+slot_paste	Dieser Platz wird mit Einheiten aus Platz %d ersetzt.<br>Bist du sicher?
+instant_koyashi	5 Kapseln, die du nicht mehr brauchst, können<br>gegen ein seltenes Ticket getauscht werden.<br>Kapsel(n) eintauschen?<br>(%d weitere Kapsel(n) nötig)
+storage_koyashi	Alle Kapseln, die du nicht mehr brauchst,<br>werden gegen seltene Tickets eingetauscht.<br>Bist du sicher?<br>
+have_koyashi	%d Kapseln können eingetauscht werden.
+tutorial_favoriteUnit	Tippe auf den „☆“, um entweder nur<br>deine favorisierten Einheiten oder alle<br>gesammelten Einheiten anzuzeigen.
+tutorial_favoriteUnit_pictureBook1	<color=255,255,0>Favoriten auswählen ①</color><br>Sobald du ein paar favorisierte Katzen<br>ausgewählt hast, kannst du auf „Bestätigen ☆“<br>tippen, um das Favoriten-Menü zu schließen!
+tutorial_favoriteUnit_pictureBook2	<color=255,255,0>Favoriten auswählen ②</color><br>Tippe unter Verbesserungen oder<br>Teamauswahl auf „Filtern“, um NUR Katzen zu sehen,<br>die du als Favoriten markiert hast!
+everyplay_not_supported	Dieses Gerät wird nicht unterstützt.
+everyplay_no_related_videos	Keine entsprechenden Medien gefunden.
+cat_challenge01	<flash>Willkommen im Katzenkrallendojo!</flash><br>Ein Countdown-Kampf mit endlos Feinden.<br>Schlage so viele wie möglich für den Highscore!<br>(Besiegte Feinde gewähren kein Geld.)
+data_download_error_catfood_20000	Unautorisierte Datenänderung entdeckt. Diese Speicherdaten können nicht auf ein anderes Gerät übertragen werden. Kontaktiere den PONOS-Support.
+cat_challenge_item	Benutze bei Kämpfen Im Katzenkrallendojo<br>so viele Gratis-Beschleuniger und<br>Katzencomputer, wie du willst!<br>*Beschleuniger werden bei Aktivierung aufgebraucht.
+zombie_clear00	<flash>Ausbruch in ${stageName} eingedämmt!</flash><br>10 Katzenbatzen erhalten!
+zombie_clear01	<flash>Quarantänegebiet gesichert!</flash><br>%@ Chance auf Schätze erhöht!
+zombie_clear02	<flash>Alle Quarantänegebiete des Imperiums gesichert!</flash><br>Max. Energie um ${EnergyNum} erhöht!
+zombie_clear03	<flash>Chance auf Schätze in bestimmten Leveln erhöht!</flash><br>Mehr erfährst du in der Schatzliste!
+zombie_clear04	<flash>Alle Quarantänegebiete der Zukunft gesichert!</flash><br>Max. Energie um ${EnergyNum} erhöht!
+zombie_clear05	<flash>Alle Quarantänegebiete des Kosmos gesichert!</flash><br>Max. Energie um ${EnergyNum} erhöht!
+zombie_area_00	QG: Ostasien
+zombie_area_01	QG: Indischer Ozean
+zombie_area_02	QG: Himalayagraben
+zombie_area_03	QG: Mittelmeerraum
+zombie_area_04	QG: Alpen
+zombie_area_05	QG: Westeuropa
+zombie_area_06	QG: Nordatlantik
+zombie_area_07	QG: Amerikanische Ostküste
+zombie_area_08	QG: Pazifik
+zombie_area_09	QG: Fairbanks
+zombie_area_10	QG: Mauna Kea
+receivedBoxText	Gegenstände, die nicht innerhalb von 30 Tage abgeholt werden, verfallen.
+receive_version_error	Bevor du Gegenstandsbelohnungen<br>annimmst, aktualisiere die App.
+receive_network_error	Verbindungsfehler<br>Gegenstände konnten nicht abgeholt werden.
+receive_item_popup	%d %s
+receive_item_popup_xp	%d %s
+receive_item_popup_chara	Katzeneinheit: %s
+receive_item_popup_chara_evolve	Wahre Form: %s
+receive_item_popup_last	erhalten!
+zombie_treasure	Quarantänegebiet gesichert!<br>%@ Chance auf Schätze erhöht!
+zombie_treasure01	Alle Level auf dieser Seite sind vor Zombies sicher!<br>Die Chance auf Schätze ist für diese Level erhöht!
+receive_list_network_error	Kann aufgrund von einem Verbindungsfehler<br>nicht angezeigt werden.
+receive_item_none_popup	Du kannst derzeit keine<br>Gegenstände abholen.
+serial_error_popup	Gegenstände nicht verfügbar.<br>Falls du denkst, dass ein Problem besteht,<br>wende dich an den Support.
+ponos_games_url	https://ponos.s3.amazonaws.com/iphone/en/battlecats.html
+zombie_comp	Quarantänegebiet gesichert!<br>%@ Chance auf Schätze erhöht!<br>Die Welt wurde vor der Zombieinvasion gerettet!<br>Max. Energie wurde erhöht!
+zombie_comp01	Alle Level auf dieser Seite sind vor Zombies sicher!<br>Die Chance auf Schätze ist für diese Level erhöht!<br>Alle Gebiete sind vor Zombies sicher!<br>Katzenenergiemaximum erhöht!
+zombie_comp02	Alle Level in dieser Zone gesichert!<br>Beuterate für diese Level erhöht!<br>Alle Kosmos-Quarantänegebiete verteidigt!
+Space09_Invasion_stageclear_txt1	<flash>Du hast einen allmächtigen Feind besiegt!</flash><br>Spezialeinheit Filibuster-Katze X hat sich<br>deiner Katzenarmee verschworen!<br>Hol sie dir unter Verbesserungen!
+maxcollab_mg	Kollab.-Einheiten sind außerhalb der Kollab.-Events nicht verfügbar.
+maxcollab_popup	<flash>Du erhältst eine Sonderkatze: %@!</flash><br>Im Verbesserungenmenü aktivieren!
+slot_set_error	<color=255,255,0>Du hast keine Katzeneinheiten für deine Armee ausgewählt!</color>
+shop_category1	Kampfgegenstände
+shop_category2	XP
+shop_category3	GAMATOTO
+collabo_send_message	Du kannst eine Belohnung in „%@“ verwenden!<br>„%@“-App starten?
+collabo_send_title_0	
+collabo_send_scheme_0	
+collabo_send_url_0	
+collabo_send_url_android_0	
+collabo_send_title_1	
+collabo_send_scheme_1	
+collabo_send_url_1	
+collabo_send_url_android_1	
+collabo_send_title_2	
+collabo_send_scheme_2	
+collabo_send_url_2	
+collabo_send_url_android_2	
+collabo_send_title_3	
+collabo_send_scheme_3	
+collabo_send_url_3	
+collabo_send_url_android_3	
+collabo_send_title_4	
+collabo_send_scheme_4	
+collabo_send_url_4	
+collabo_send_url_android_4	
+collabo_send_title_5	
+collabo_send_scheme_5	
+collabo_send_url_5	
+collabo_send_url_android_5	
+collabo_send_title_14	
+collabo_send_scheme_14	
+collabo_send_url_14	
+collabo_send_url_android_14	
+collabo_send_title_17	
+collabo_send_scheme_17	
+collabo_send_url_17	
+collabo_send_url_android_17	
+collabo_send_url_android_27	
+collabo_send_title_6	
+collabo_send_scheme_6	
+collabo_send_url_6	
+collabo_send_url_android_6	
+collabo_send_title_15	
+collabo_send_scheme_15	
+collabo_send_url_15	
+collabo_send_url_android_15	
+collabo_send_title_16	
+collabo_send_scheme_16	
+collabo_send_url_16	
+collabo_send_url_android_16	
+collabo_send_title_18	
+collabo_send_scheme_18	
+collabo_send_url_18	
+collabo_send_url_android_18	
+collabo_send_title_19	
+collabo_send_scheme_19	
+collabo_send_url_19	
+collabo_send_url_android_19	
+collabo_send_title_20	
+collabo_send_scheme_20	
+collabo_send_url_20	
+collabo_send_url_android_20	
+collabo_send_title_7	
+collabo_send_scheme_7	
+collabo_send_url_7	
+collabo_send_url_android_7	
+collabo_send_title_8	
+collabo_send_scheme_8	
+collabo_send_url_8	
+collabo_send_url_android_8	
+collabo_send_title_9	
+collabo_send_scheme_9	
+collabo_send_url_9	
+collabo_send_url_android_9	
+collabo_send_title_10	
+collabo_send_scheme_10	
+collabo_send_url_10	
+collabo_send_url_android_10	
+collabo_send_title_11	
+collabo_send_scheme_11	
+collabo_send_url_11	
+collabo_send_url_android_11	
+collabo_send_title_12	Crash Fever
+collabo_send_scheme_12	com.wonderplanet.crashfever://Nyanko?code=001
+collabo_send_url_12	https://itunes.apple.com/us/app/crash-fever/id1146722894?ls=1&mt=8
+collabo_send_url_android_12	https://play.google.com/store/apps/details?id=com.wonderplanet.CrashFever
+collabo_send_title_13	Crash Fever
+collabo_send_scheme_13	com.wonderplanet.crashfever://Nyanko?code=002
+collabo_send_url_13	https://itunes.apple.com/us/app/crash-fever/id1146722894?ls=1&mt=8
+collabo_send_url_android_13	https://play.google.com/store/apps/details?id=com.wonderplanet.CrashFever
+collabo_send_title_21	
+collabo_send_scheme_21	
+collabo_send_url_21	
+collabo_send_url_android_21	
+collabo_send_title_22	
+collabo_send_scheme_22	
+collabo_send_url_22	
+collabo_send_url_android_22	
+scheme_item_param_3	
+scheme_popup_3	<flash>Du erhältst eine Sonderkatze: %@!</flash>
+scheme_popup_3_option	<flash>Du erhältst eine Sonderkatze: %@!</flash><br>Unter Verbesserungen abholen!
+scheme_popup_3_option_get	Belohnung erhalten!<br>Ansehen unter Verbesserungen!
+scheme_item_param_47	nekohopper_en1
+scheme_popup_47	Los, los! Pogo-Katze<br>Kollab.-Missionsbelohnung 1<br><flash>%@%@!</flash>
+scheme_item_param_48	nekohopper_en2
+scheme_popup_48	Los, los! Pogo-Katze<br>Kollab.-Missionsbelohnung 2<br><flash>%@%@!</flash>
+scheme_item_param_49	nekohopper_en3
+scheme_popup_49	Los, los! Pogo-Katze<br>Kollab.-Missionsbelohnung 3<br><flash>%@%@!</flash>
+scheme_item_param_50	nekohopper_en4
+scheme_popup_50	Los, los! Pogo-Katze<br>Kollab.-Missionsbelohnung 4<br><flash>%@%@!</flash>
+scheme_item_param_51	nekohopper_en5
+scheme_popup_51	Los, los! Pogo-Katze<br>Kollab.-Missionsbelohnung 5<br><flash>%@%@!</flash>
+scheme_popup_browser	Viel Spaß mit den Eventbelohnungen!<br>Du erhältst deine Geschenke in der Katzenbasis!
+scheme_popup_browser_get	Eventbelohnungen erhalten!
+rarity_name_1	Normal
+rarity_name_2	Besondere
+rarity_name_3	Selten
+rarity_name_4	Superselten
+rarity_name_5	Megaselten
+rarity_name_6	Legendär selten
+unlock_popup_message_0	<flash>Das Schatz-Menü wurde freigeschaltet!</flash><br>Hol dir Katzenschätze und aktiviere<br>Katzenschatzboni!<br>Finde Boni im Schatzmenü!
+unlock_popup_message_1	<flash>Verbesserungen wurden freigeschaltet!</flash><br>Tippe in der Katzenbasis auf Verbesserungen!<br><br>Schalte Katzeneinheiten vor dem Kampf frei!
+unlock_popup_message_2	<flash>Die Feindefibel wurde freigeschaltet!</flash><br>Hier kannst du alles über bislang<br>aufgetauchte Gegner nachlesen.
+unlock_popup_message_3	<flash>Der Gegenstände-Shop ist eröffnet!</flash><br>Du kannst hier viele nützliche<br>Gegenstände für den Kampf kaufen!<br>
+unlock_popup_message_4	<flash>Du hast das Katzenkompendium freigeschaltet!</flash><br>Inspiziere und sortiere alle<br>deine Katzen!
+unlock_popup_message_5	<flash>Gamatoto wurde freigeschaltet!</flash><br>Schick die Katzen auf Expeditionen und<br>sammle verschiedene Belohnungen!
+unlock_popup_message_6	<flash>Neue Gegenstände im Shop!</flash><br>Kaufe Katzamin und verkürze<br>die Gamatoto-Expedition!
+unlock_popup_message_7	<flash>Erhöhe deine Stufengrenze!</flash><br>Benutze ein Katzenauge, um bei bestimmten<br>Katzen höhere Stufen freizuschalten!<br>Bei Katzen der Stufe 30 einsetzbar!
+unlock_popup_message_8	<flash>Ein neues Eventlevel wurde veröffentlicht!</flash><br>Öffne es vom Startbildschirm aus.
+unlock_popup_message_9	<flash>Ein neues Kapitel von Katzenimperium ist verfügbar!</flash><br>Wähle Katzenimperium im Startbildschirm,<br>um neue, knifflige Level zu spielen!
+unlock_popup_message_10	<flash>Ein neues Kapitel von Katzenimperium ist verfügbar!</flash><br>Wähle Katzenimperium im Startbildschirm,<br>um neue, knifflige Level zu spielen!
+unlock_popup_message_11	<flash>Herausforderungskampf freigeschaltet!</flash><br>Öffne ihn vom Hauptmenü aus.<br>Du kannst jetzt mit „Klasse wechseln“<br>die Katzenklasse wechseln!
+unlock_popup_message_12	<flash>Katzenkapsel-Maschine freigeschaltet!</flash><br>Du kannst von der Katzenbasis aus darauf zugreifen.
+unlock_popup_message_13	<flash>新キャラメッセージ</flash>
+unlock_popup_message_14	<flash>Abschlussbonus!</flash><br>Sonderkatze [Bohnenkatzen] freigeschaltet!<br>Im Verbesserungenmenü aktivieren.
+unlock_popup_message_15	<flash>Abschlussbonus!</flash><br>Du erhältst „Moneko“!<br>Im Verbesserungenmenü aktivieren!
+unlock_popup_message_16	<flash>Legenden wurden freigeschaltet!</flash><br>Unter Legenden können auch normale<br>Eventlevel gespielt werden!
+unlock_popup_message_17	<flash>Ein neues Abenteuer ist verfügbar!</flash><br>Wähle Zukunftsreise im Startbildschirm<br>und nimm die Herausforderung an!
+unlock_popup_message_18	<flash>Alle Filter aktiviert!</flash><br>Alle Kapseln befinden sich im Lager.<br>Rufe das Verbesserungenmenü auf und sieh es dir an!
+unlock_popup_message_19	<flash>Das Teamauswahl-Menü ist freigeschaltet!</flash><br>Jetzt kannst du deine Katzen für den<br>Kampf besser organisieren.
+unlock_popup_message_20	<flash>Kampfformationen erhöht!</flash><br>Es sind jetzt bis zu 3 Formationen in<br>der Teamauswahl verfügbar.
+unlock_popup_message_21	<flash>Benutzerrang freigeschaltet!</flash><br>Erreiche den Zielrang für Belohnungen!<br>Der Rang ist abhängig von der Verbesserungen-Gesamtpunktzahl.
+unlock_popup_message_22	<flash>Katzenkombo freigeschaltet!</flash><br>Arrangiere deine Einheiten zum Freischalten des Kraftbonus!<br>Weitere Informationen findest du in der Komboliste!
+unlock_popup_message_23	<flash>Das Katzenkrallendojo ist geöffnet!</flash><br>Öffne das Katzenkrallendojo über den Startbildschirm<br>und zeig, was deine Katzen können!
+unlock_popup_message_24	<flash>Abschlussbonus!</flash><br>Eine neue Katzenkombo wurde freigeschaltet!<br>In der Komboliste findest du mehr<br>Informationen zu deiner neuen Fertigkeit.
+unlock_popup_message_25	<flash>Ein neues Kapitel der Zukunftssaga ist da!</flash><br>Wähle Zukunftsreise im Startbildschirm<br>und nimm die Herausforderung an!
+unlock_popup_message_26	<flash>Ein neues Kapitel der Zukunftssaga ist da!</flash><br>Wähle Zukunftsreise im Startbildschirm<br>und nimm die Herausforderung an!
+unlock_popup_message_27	<flash>Abschlussbonus!</flash><br>Sondercharakter:<br>Du hast die wahre Form der Walkürenkatze freigeschaltet!<br>Entwickle sie auf Stufe 20 und setze sie ein!
+unlock_popup_message_28	<flash>Abschlussbonus!</flash><br>Eine neue Katzenkombo wurde freigeschaltet!<br>In der Komboliste findest du mehr<br>Informationen zu deiner neuen Fertigkeit.
+unlock_popup_message_29	<flash>Abschlussbonus!</flash><br>Sondercharakter:<br>Du hast die wahre Form der Bahamut-Katze freigeschaltet!<br>Entwickle sie auf Stufe 20 und setze sie ein!
+unlock_popup_message_30	<flash>Abschlussbonus!</flash><br>Eine neue Katzenkombo wurde freigeschaltet!<br>In der Komboliste findest du mehr<br>Informationen zu deiner neuen Fertigkeit.
+unlock_popup_message_31	<flash>Katzenfrucht-Lager freigeschaltet!</flash><br>Schau dir die Katzenfrucht und Kerne<br>an, die du gesammelt hast!
+unlock_popup_message_32	<flash>Du kannst nun Kämpfe aufnehmen und teilen!</flash><br>Nutze die Auto-Aufnahme für epische Kämpfe<br>in den Einstellungen durch Antippen von AN.<br>Die Aufnahme endet automatisch am Kampfende.
+unlock_popup_message_33	<flash>Du kannst jetzt Videos anderer Spieler ansehen!</flash><br>Nutze Einstellungen im Startbildschirm<br>und suche nach The Battle-Cats-Medien.
+unlock_popup_message_34	<flash>Das Stufenlimit wurde erhöht!</flash><br>Deine Katzen können jetzt noch<br>stärker werden!
+unlock_popup_message_35	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_36	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_37	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_38	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_39	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_40	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_41	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_42	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_43	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_44	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_45	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_46	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_47	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_48	<flash>Eine neue Katze</flash><br>wartet auf Verbesserung!
+unlock_popup_message_49	<flash>Abschlussbonus!</flash><br>Du erhältst „%@“!<br>Im Verbesserungenmenü freischalten!
+unlock_popup_message_50	<flash>Abschlussbonus!</flash><br>Du erhältst „%@“!<br>Im Verbesserungenmenü freischalten!
+unlock_popup_message_51	<flash>Abschlussbonus!</flash><br>Du erhältst „%@“!<br>Im Verbesserungenmenü freischalten!
+unlock_popup_message_52	<flash>Abschlussbonus!</flash><br>Du erhältst „%@“!<br>Im Verbesserungenmenü freischalten!
+unlock_popup_message_53	<flash>Abschlussbonus!</flash><br>Spezialeinheit:<br>%@: wahre Form erhalten!<br>Entwickeln auf Stufe 20!
+unlock_popup_message_54	<flash>Abschlussbonus!</flash><br>Spezialeinheit:<br>%@: wahre Form erhalten!<br>Entwickeln auf Stufe 20!
+unlock_popup_message_55	<flash>Der Ototo-Trupp wurde freigeschaltet!</flash><br>Baue und verbessere deine Katzenbasis<br>und ihre Katzenkanone!<br>Schau im Gamatoto-Menü vorbei!
+unlock_popup_message_56	<flash>Miaufgaben sind jetzt verfügbar!</flash><br>Schließe verschiedene Missionen ab<br>und erhalte tolle Belohnungen!
+unlock_popup_message_57	<flash>„Kosmische Katzen“ ist jetzt verfügbar!</flash><br>Öffne dieses Kapitel über den Startbildschirm<br>und spiele seltsame neue Abenteuer!
+unlock_popup_message_58	<flash>Abschlussbonus!</flash><br>Du wurdest vom Katzengott gesegnet!<br>Tippe auf den Katzengott, um in einem Storymodus-<br>Kampf ein Wunder zu wirken!
+unlock_popup_message_59	<flash>Kosmische Katzen ABGESCHLOSSEN!</flash><br>Bald kommt ein neues Kapitel.<br>Sei auf die neuen Updates gespannt!
+unlock_popup_message_60	<flash>Abschlussbonus!</flash><br>Wahre Form von „Ururun-Wolf“ freigeschaltet!<br>Verbessern auf Stufe 30 und<br>mit XP/Katzenfrucht aktivieren!
+unlock_popup_message_61	<flash>Abschlussbonus!</flash><br>Wahre Form von „Kleiner Nyandam“ freigeschaltet!<br>Verbessern auf Stufe 30 und<br>mit XP/Katzenfrucht aktivieren!
+unlock_popup_message_62	<flash>Abschlussbonus!</flash><br>Wahre Form von „Rotkäppchen-Mina“ freigeschaltet!<br>Verbessern auf Stufe 30 und<br>mit XP/Katzenfrucht aktivieren!
+unlock_popup_message_63	<flash>Abschlussbonus!</flash><br>Wahre Form von „Miyamoku Musashi“ freigeschaltet!<br>Verbessern auf Stufe 30 und<br>mit XP/Katzenfrucht aktivieren!
+unlock_popup_message_64	<flash>Unheimliche Legenden erscheinen jetzt nach den legendären Leveln!</flash><br>Jetzt in den legendären Leveln verfügbar!
+unlock_popup_message_65	<flash>Erhöhe die Stufenlimits!</flash><br>Katzen können mit Katzenaugen<br>höhere Maximalstufen erreichen!<br>(Benutzerrang 1600 nötig für Katzenauge-Einsatz)
+unlock_popup_message_66	<flash>Abschlussbonus!</flash><br>Wahre Form von „Mecha-Bun“ freigeschaltet!<br>Verbessern auf Stufe 30 und<br>mit XP/Katzenfrucht aktivieren!
+unlock_popup_message_67	<flash>Abschlussbonus!</flash><br>Katzamin-Level wurden freigeschaltet!<br>Spiele diese Level mit überschüssigen Katzaminen!
+unlock_popup_message_68	<flash>Ein neues Kapitel von Kosmische Katzen ist verfügbar!</flash><br>Wähle Kosmische Katzen im Startbildschirm aus, um die Kampfkatzen-<br>Geschichte fortzuführen!
+unlock_popup_message_69	<flash>Kosmische Katzen Kapitel 2 ABGESCHLOSSEN!</flash><br>Bald kommt ein neues Kapitel.<br>Sei auf die neuen Updates gespannt!
+unlock_popup_message_70	<flash>Abschlussbonus!</flash><br>Du erhältst die Sonderkatze „%@“!<br>Im Verbesserungenmenü aktivieren!
+unlock_popup_message_71	<flash>Talente sind jetzt freigeschaltet!</flash><br>Besuche das Verbesserungenmenü und<br>entdecke/verbessere Fähigkeiten von Wahre-Form-Einheiten(oder höher)!
+unlock_popup_message_72	<flash>Der Offiziersklub wurde freigeschaltet!</flash><br>Tippe in der Katzenbasis auf das<br>entsprechende Symbol!
+unlock_popup_message_73	<flash>NEUES „Kosmische Katzen“-Kapitel!</flash><br>Tippe im Startbildschirm auf „Kosmische Katzen“,<br>um die neue Herausforderung zu spielen!
+unlock_popup_message_74	<flash>Abschlussbonus!</flash><br>Du erhältst<br>%d %@!
+unlock_popup_message_75	<flash>Verbesserte Levelauswahl!</flash><br>Du kannst nun nach dem Abschluss eines Levels<br>direkt zur Levelauswahl zurückkehren!
+unlock_popup_message_76	<flash> Miaumedaillen wurden freigeschaltet!</flash><br>Sieh sie dir im<br>Katzenbasis-Menü an!
+Castle_Tutorial00	<flash>Willkommen beim Ototo-Trupp!</flash><br>Ändere das Design deiner Katzenbasis<br>und steigere ihre Kampfstärke!
+Castle_Tutorial01	Tippe den Chefingenieur an, um loszulegen!<br>Wähle eine Blaupause zum Bauen aus!
+Castle_Tutorial02	Tippe auf „Ändern“, um einen neuen<br>Stil für deine Katzenbasis auszuwählen!
+Castle_part00	Fundament
+Castle_part01	Stil
+Castle_part02	Effekt
+Castle_dev_finish00	<flash>Katzenbasis-Verbesserungen abgeschlossen!</flash><br>Stufe ${level1} → <color=255,255,0>${level2}</color>
+Castle_dev_finish01	<flash>${recipeName}: ${partsName} abgeschlossen!</flash>
+Castle_dev_finish02	<flash>${recipeName}-${partsName}: Katzenkanonen-Verbesserungen abgeschlossen!</flash><br>Stufe ${level1} → <color=255,255,0>${level2}</color>
+Castle_lock00	Um deine Katzenbasis auszubauen,<br>muss Folgendes auf Stufe 10 verbessert werden:<br>Kanonenkraft ・ Kanonenreichweite ・ Kanonenaufladung.
+Castle_lock01	Für diese Verbesserung wird vor dem Bau<br>%@<br>benötigt.
+Castle_lock02	Für den Bau dieser Verbesserung<br>muss erst „%@“ gebaut werden.
+Castle_lock03	Nicht genug Materialien ...<br>*Sammle Materialien aus Legenden.
+Castle_lock03a	Nicht genug Ingenieure.<br>*Rekrutiere Ingenieure über Gamatoto-Expeditionen.
+Castle_lock04	Maximalstufe erreicht!<br>In der aktuellen Spielversion sind<br>keine Verbesserungen mehr möglich.
+Castle_lock05	Du musst <br>%@<br> abschließen, um dieses Teil weiter zu verstärken.
+Castle_researcher	Für den Ototo-Ingenieurstrupp rekrutiert.<br>Kann nur für ein Projekt eingesetzt werden.
+Castle_dev_suspend	Dieses Projekt abbrechen?<br>Ingenieure/Materialien gehen verloren!
+Castle_researcher_name00	Ingenieur Nr. %d
+Castle_researcher_name01	Ingenieur
+Castle_researcher_counter	Aktuelle Ingenieure: 
+Castle_researcher_desc	Assistenten des Chefingenieurs der Katzenbasis.<br>*Reisen nach Projektabschluss für immer ab.
+Castle_dev_start00	Die Basisverbesserung beginnt bald.
+Castle_dev_start01	Beginn des Baus: ${partsName} von ${recipeName}.
+Castle_dev_start02	Beginn der Verbesserung: ${partsName} von ${recipeName}.
+Castle_material_drop00	<flash>Material gefunden!</flash><br>
+Castle_material_drop01	 ×
+Castle_researcher_get	%@ gefunden!
+Castle_UnlockDataId_1	Rang 600 und einen fertigen Lähmungsstrahl
+Castle_UnlockDataId_2	Rang 900 und einen fertigen Eisenwall
+Castle_UnlockDataId_3	Rang 900 und einen fertigen Blitzschlag
+Castle_UnlockDataId_4	Gesamtstufe 30 der Katzenkanonenschlagkraft<br>Gesamtstufe 30 der Katzenkanonenaufladung
+Castle_UnlockDataId_5	Rang 900 und eine fertige Wasserkanone
+Castle_UnlockDataId_6	Rang 900 und ein fertiges Heiliges Kanonenrohr
+Castle_UnlockDataId_7	Rang 900 und einen<br>fertigen Brecherschlag
+local_notification_custom	Ototo hat die Aufgabe abgeschlossen und ist zurück!
+Castle_AutoChange	<flash>Alle Teile geändert!</flash>
+Castle_shoter00	%@ einsetzen?,Projektzeit wird um %d Stunden verkürzt.
+Castle_shoter01	Projektzeit um , Stunden verkürzt!
+castle_connection_failed	Verbleibende Projektzeit konnte nicht bestätigt werden. Netzwerkverbindung überprüfen!
+castle_fraud	Gerätezeit hat sich evtl. geändert. Ändere die Uhrzeit nicht noch weiter.
+beacon_event_date	開催期間: %d年%d月%d日～%d年%d月%d日まで
+beacon_event_before	にゃんこビーコンのイベントは<br>現在、開催してないにゃ
+beacon_event_held	にゃんこビーコン電波を<br>検索してるにゃ～
+beacon_event_held2	イベント報酬を受け取ると<br>取得済マークがつくにゃ
+beacon_bluetooth_off	にゃんこビーコン受信するなら<br>Bluetoothをオンにして<br>ほしいにゃ～
+beacon_location_off	にゃんこビーコン受信するなら<br>位置情報の利用を許可して<br>ほしいにゃ～
+beacon_location_authorization	にゃんこビーコン受信するなら<br>位置情報の利用を許可して<br>ほしいにゃ～
+beacon_pushinfo_off	にゃんこビーコン受信するなら<br>プッシュ通知設定をオンにするにゃ
+beacon_wifi_off	にゃんこビーコン受信するなら<br>Wi-Fiをオンにするにゃ
+beacon_reward_before	にゃんこビーコン報酬はまだ取得していません
+beacon_reward_received	にゃんこビーコン報酬は受け取り済みです
+beacon_event_2017520	京都みやこめっせで記念キャラを取得しよう！<br>5/20～5/21に開催されるBitSummit2017会場の<br>にゃんこブースに訪問すれば<br>記念キャラ「ネコまねき」を取得可能！<br>※にゃんこビーコン受信設定が必要です<br>※詳細はバナーをタップ！
+beacon_unsupported_device	この端末/OSバージョンには対応していません
+not_enough_space_left_on_device	Download fehlgeschlagen, weil nicht genug Speicherplatz frei ist.
+ranking_description	<flash>Ranglisten-Level</flash><br>Steige im Rang auf, indem du mehr Punkte erzielst!<br>*Für dieses Level ist eine Netzwerkverbindung nötig.<br>*Ränge und Punkte werden nach dem Event zurückgesetzt.
+ranking_unauthorized	Nicht genug Katzenbatzen ...<br>Um dieses Level zu versuchen, sind Katzenbatzen nötig.
+ranking_suspend	Kampf verlassen?
+ranking_error01	Verbindung zum Ranglistenserver fehlgeschlagen.
+ranking_default	―
+ranking_title01	Großmeister
+ranking_title02	Meister
+ranking_title03	Experte
+ranking_title04	Adept
+ranking_title05	Schüler
+ranking_title06	Neuling
+ranking_title07	Lehrling
+ranking_resultcomment	<flash>Aktueller Rang: Top %d %%</flash><br>Du erreichst Rang „%@“!
+ranking_start	<flash>JETZT: Dojo-Rangliste!</flash><br>(Ranglisten-Laufzeit: %d/%02d/%02d–%d/%02d/%02d)<br>Spiele gegen andere Spieler in Ranglisten-Leveln!<br>Du erhältst Belohnungen für deine Punkte, wenn das Event endet!
+ranking_announce01	<flash>Ergebnisse des Ranglistenevents</flash><br>(Ranglisten-Laufzeit: %d/%02d/%02d–%d/%02d/%02d)<br>Aktueller Rang: Top %d %<br>Deine Belohnungen liegen im Briefkasten!<br>(Nicht abgeholte Belohnungen verfallen nach 1 Monat.)
+ranking_announce02	<flash>Dojo-Ranglisten-Ankündigung:</flash><br>(Eventzeit: %d/%02d/%02d–%d/%02d/%02d)<br>Endergebnis: Top %d!<br>Keine Belohnungen verdient.<br>Mehr Glück beim nächsten Mal!
+ranking_no_reward	–
+urguerrilla_warning00	%dx abschließen, bevor dieses Level verschwindet!<br>Gib nicht auf, bis du das Levelabschlusslimit erreichst!
+mission_receive_achieved	<flash>Mission erfüllt!</flash>
+mission_receive_item	<color=255,255,0>Belohnung: ${itemNum}x ${itemName}</color>
+mission_receive_item_xp	<color=255,255,0>Belohnung: +${itemNum} ${itemName}</color>
+mission_receive_item_chara	<color=255,255,0>Katzeneinheitsbelohnung: „${charaName}“</color>
+mission_receive_item_chara_evolve	<color=255,255,0>Wahre-Form-Belohnung: „${charaName}“</color>
+everyplay_mapname_E	Sonderlevel
+everyplay_mapname_N	Legenden
+everyplay_mapname_S	Sonderlevel
+everyplay_mapname_C	Kollaborationen
+everyplay_mapname_T	Katzenkrallendojo
+everyplay_mapname_V	Sonderlevel
+everyplay_mapname_J	Katzenimperium Kap. %d
+everyplay_mapname_W	Zukunftsreise Kap. %d
+everyplay_mapname_P	Kosmische Katzen Kap. %d
+everyplay_mapname_Z	(Zombie)
+lang	de
+network_unavailable	Netzwerkverbindung nicht möglich
+connecting	Verbinden ...
+error	Fehler aufgetreten
+gamecenter_noauth	Melde dich bei Game Center an.
+purchase_unavailable	Käufe deaktiviert. Bitte aktiviere In-App-Käufe in den Einstellungen unter Beschränkungen.
+purchase_failed	Kauf fehlgeschlagen
+purchase_verifying	Kauf bestätigen ...
+disconnected	Verbindung getrennt
+invalid_data_received	Ungültige Daten erhalten
+nekokan_bonus_msg	<span class='kakoi2'>Spare %d!</span>
+Copied_txt	In die Zwischenablage kopiert
+err_txt	Datenlesefehler
+err_v_txt	Diese Spielversion\nunterstützt die Übertagung\nvon Speicherdaten nicht.\nBitte aktualisiere das Spiel\ndurch Tippen auf „Aktualisieren“,\nbevor du fortfährst.
+nyanko_url	https://ponosgames.com/dl/index_de.html
+nyanko_update	Aktualisieren
+catfoodbuy_txt	Kauf erfolgreich!
+catfoodtapjoy_txt	Du erhältst %d<br>Katzenbatzen!
+adreward_txt	%@ +%d<br>erhalten!
+twitter_hash	#BattleCats
+yes_txt	Ja
+no_txt	Nein
+Rank_txt0	Benutzerrang
+Rank_txt1	Gesamtpunktzahl von Einheit und Gegenstand
+Rank_txt2	bestimmen deinen Benutzerrang!
+Rank_txt3	Das Erreichen eines bestimmten Benutzerrangs bringt
+Rank_txt4	dir besondere Spielboni und Belohnungen ein!
+downloading	Herunterladen ...
+download_wrn_cellular	Keine WLAN-Verbindung gefunden.\n* Stattdessen werden mobile Daten genutzt.\nHinweis: Dabei können zusätzliche Kosten entstehen.
+download_err	Download fehlgeschlagen.\nÜberprüfe deine Netzwerkverbindung.
+download_retry	Wiederholen
+warning_text1	„The Battle Cats“ ist gratis spielbar.
+warning_text2	Es können Inhalte käuflich erworben werden.
+url_err	Nicht kompatibel mit der aktuellen Version oder momentan nicht verfügbar.
+sign_in	Anmelden
+sign_out	Abmelden
+model_conversion	Speicherdaten
+notice	Push-Nachr.
+push_on	AN
+push_off	AUS
+local_push	Push-Nachr.
+local_notification	Du hast volle Katzenenergie!
+local_notification_expedition	Gamatoto ist zurück!
+google_1	Laden ...
+google_2	Speichern ...
+google_3	Erhalten ...
+nyanko_storage	%d ins Katzenlager geschickt
+settle_nyanko	Du hast davon %d.
+boss_hp	Boss-HP:
+clear_1	1.-Abschluss-Bonus!
+clear_2	30 Katzenbatzen!
+pause_1	Es findet gerade ein Kampf statt.
+pause_2	Möchtest du den Kampf fortführen?
+ok_txt	Okay
+evolveWarningText0	Stufen
+evolveWarningText1	XP
+evolveWarningText2	Gegenstände
+evolveWarningText3	Es fehlt: 
+evolveWarningText4	/
+gamatotoReward_1	Katzenbatzen entdeckt!
+gamatotoReward_1_1	Wahrsagung erhalten!
+gamatotoReward_2	Schaue zum Ausgraben Werbung an!
+gamatotoReward_3	* Erhalte eine zufällige Zahl dieser Gegenst.
+gama_collabo_00_popup	<flash> PowerPro-Baseball-Kollab.!</flash><br>Das Maskottchen von PowerPro „Gunder“<br>hilft dem Gamatoto-Trupp!<br>Während der Kollab., bringt Gamatoto mehr Belohnungen ein!<br>* Es gibt nicht mehr Katzenbatzen.
+gama_collabo_00_name	Gunder
+gama_collabo_00_charatext	Der Hundeheld von PowerPro ist für<br>kurze Zeit da! Erhöhte Gamatoto-Belohnungen!<br>* Es gibt nicht mehr Katzenbatzen.
+gama_collabo_01_popup	<flash>Shoumetsu Toshi Collab!</flash><br>Takuya's loyal buddy "The Geek"<br>appears to help the Gamatoto crew!<br>During the collab, Gamatoto rewards increase!<br>※ Cat Food drops will not increase.
+gama_collabo_01_name	The Geek
+gama_collabo_01_charatext	A tech wizard, visiting from Shoumetsu Toshi<br>for a limited time! Increases Gamatoto rewards!<br>※ Cat Food drops will not increase.
+gama_collabo_02_popup	<flash>Merc-Storia-Kollab.!</flash><br>Das hilfreiche Monster „Toto“<br>hilft dem Gamatoto-Trupp!<br>Mit seiner Hilfe gibt es mehr Gamatoto-Belohnungen!<br>* Außer Katzenbatzen.
+gama_collabo_02_name	Toto
+gama_collabo_02_charatext	Ein Minimonsterfreund aus Merc Storia ist<br>für kurze Zeit da! Erhöhte Gamatoto-Belohnungen!<br>* Es gibt nicht mehr Katzenbatzen.
+beginnerPack1_Title	Startpaket für 4,99 USD gekauft!
+beginnerPack2_Title	Startpaket für 11,99 USD gekauft!
+beginnerPack3_Title	Startpaket für 29,99 USD gekauft!
+rankupSale1_Title	Schnäppchen! 160 Katzenbatzen gekauft!
+rankupSale2_Title	Schnäppchen! 150.000 XP gekauft!
+rankupSale3_Title	Schnäppchen! Großes Gegenstandsset gekauft!
+beginnerPack1	Katzenbatzen: %d →
+beginnerPack2	XP: %d →
+beginnerPack3	Schatzradar: %d →
+beginnerPack4	Reiche Katze: %d →
+beginnerPack5	Katzeneffizienz: %d →
+beginnerPack6	Katzenschütze: %d →
+beginnerPack1_result	%d
+beginnerPack2_result	%d
+beginnerPack3_result	%d
+beginnerPack4_result	%d
+beginnerPack5_result	%d
+beginnerPack6_result	%d
+rankupSale1	Katzenbatzen %d → 
+rankupSale2	XP %d → 
+rankupSale3	Beschleuniger %d → 
+rankupSale4	Schatzradar %d → 
+rankupSale5	Katzencomputer %d → 
+rankupSale1_result	%d
+rankupSale2_result	%d
+rankupSale3_result	%d
+rankupSale4_result	%d
+rankupSale5_result	%d
+tapjoy_video_error	Medienwiedergabe-Fehler. Überprüfe deine Netzwerkverbindung.
+line_appli_url	https://itunes.apple.com/app/line/id443904275?mt=8
+line_appli_url_android	https://play.google.com/store/apps/details?id=jp.naver.line.android
+line_message	Ich erobere die Welt bei The Battle Cats! Spiele kostenlos!
+serial_txt1	Seriennummer erfolgreich eingegeben!\nTippe auf den Briefkasten im Startbildschirm und bestätige deine Belohnung.
+serial_txt2	* Du hast nach Abschluss des Japan-Levels darauf Zugriff.
+serial_txt3	* Du musst bei Game Center angemeldet sein, um dein Geschenk zu erhalten.
+serial_txt4	* Diese Seriennummer für ein neues Geschenk ist jetzt ungültig.\nBestätige die Infos im Eingabemenü.
+warningtxt1	Diese App wurde in den Ursprungszustand\nzurückgesetzt. Keine Speicherdaten gefunden.
+autoSave_txt1	Referenzcode\n%@\nDu brauchst diesen Code, um deine Daten wiederherzustellen.\nWird im Startbildschirm oder Optionen-Menü bestätigt.
+autoSave_txt2	Referenzcode: 
+autoSave_txt3	Notiere und speichere deinen Referenzcode!
+autoSave_txt4	Ohne diese Information kann im Verlustfall dein Fortschritt nicht wiederhergestellt werden.
+autoSave_txt5	Referenzcode
+autoSave_txt6	Speichere diese Nummer, um Datenverlust zu vermeiden!
+collaboration_txt1	Kollab.-Geschenke: %d!
+collaboration_txt2	Du erhältst ein Kollab.-Geschenk!
+nyancombo_txt1	Tippen, um Einheitennamen anzusehen
+nyancombo_txt2	<color=255,212,0>[Normal]</color>
+nyancombo_txt3	<color=255,212,0>[Besonders]</color>
+nyancombo_txt4	<color=255,212,0>[Selten]</color>
+nyancombo_txt5	<color=255,212,0>[Superselten]</color>
+nyancombo_txt6	<color=255,212,0>[Megaselten]</color>
+nyancombo_txt7	<color=255,212,0>[Legendär]</color>
+nyancombo_txt8	???
+nyancombo_txt9	 ？？？？？
+nyancombo_txt10	Setze die richtigen Einheiten in den oberen Platz, um Spezialfertigkeiten freizuschalten.
+nyancombo_txt11	Tippe doppelt auf verwendete Katzenkombos, um Einheiten automatisch auszuwählen.
+nyancombo_pop0	Alle „%@“-Einheiten werden in der
+nyancombo_pop1	Kampfformation eingesetzt.
+nyancombo_pop2	Bestätigen?
+pictureBook1	Katzenkombo: %@
+pictureBook2	Aktiviere diese Kombo mit dem Tipp!
+picBook_getCatFood	<flash>%@ freigeschaltet!</flash><br>Du erhältst 5 Katzenbatzen!
+picBook_filteringMiss1	Keine Einheiten entsprechen dieser Filter-
+picBook_filteringMiss2	einstellung! Probier es mit einer anderen!
+picBook_Rarity0	Normal
+picBook_Rarity1	Besonders
+picBook_Rarity2	Selten
+picBook_Rarity3	Superselten
+picBook_Rarity4	Megaselten
+picBook_Rarity5	Legendär
+gamestop	Die aktuellen Speicherdaten verstoßen gegen die\nSoftware-Lizenzvereinbarung von The Battle Cats.\nDiese Speicherdaten können nicht weitergespielt werden.
+gamestop_base	Konto wurde gesperrt.<br>Zurück zum Startbildschirm.
+daily_login_date	Tag %d
+filter_err1	Keine Einheiten entsprechen dieser Filter-
+filter_err2	einstellung! Probier es mit einer anderen!
+exstage_text1	Sonderlevel: „%@“ freigeschaltet!
+exstage_text2	Herausforderung annehmen?
+exstage_text3	Aktuelle Gegenstandseffekte (außer Beschleuniger) werden nicht in dieses Level übernommen.
+unit_evol_0	f
+unit_evol_1	c
+unit_evol_2	s
+unit_evol_3	u
+img001.png	img001_de.png
+img001.imgcut	img001_de.imgcut
+img002.png	img002_de.png
+img002.imgcut	img002_de.imgcut
+img004.png	img004_de.png
+img004.imgcut	img004_de.imgcut
+img006.png	img006_de.png
+img006.imgcut	img006_de.imgcut
+img008.png	img008_de.png
+img008.imgcut	img008_de.imgcut
+img009.png	img009_de.png
+img009.imgcut	img009_de.imgcut
+img010.png	img010_de.png
+img010.imgcut	img010_de.imgcut
+img011.png	img011_de.png
+img011.imgcut	img011_de.imgcut
+img012.png	img012_de.png
+img012.imgcut	img012_de.imgcut
+img019.png	img019_de.png
+img019.imgcut	img019_de.imgcut
+img022.png	img022_de.png
+img022.imgcut	img022_de.imgcut
+img023.png	img023_de.png
+img023.imgcut	img023_de.imgcut
+img024.png	img024_de.png
+img024.imgcut	img024_de.imgcut
+img027.png	img027_de.png
+img027.imgcut	img027_de.imgcut
+img028.png	img028_de.png
+img028.imgcut	img028_de.imgcut
+img029.png	img029_de.png
+img029.imgcut	img029_de.imgcut
+img031.png	img031_de.png
+img031.imgcut	img031_de.imgcut
+img033.png	img033_de.png
+img033.imgcut	img033_de.imgcut
+img037.png	img037_de.png
+img037.imgcut	img037_de.imgcut
+img041.png	img041_de.png
+img041.imgcut	img041_de.imgcut
+img100.png	img100_de.png
+img100.imgcut	img100_de.imgcut
+item000.png	item000_de.png
+ec047.png	ec047_de.png
+ec047.imgcut	ec047_de.imgcut
+ec048.png	ec048_de.png
+ec048.imgcut	ec048_de.imgcut
+nyancombo_autoset1	„%@“-Einheiten werden in<br>Kampfformation eingesetzt.<br>Okay?
+nyancombo_autoset2	„%@“-Einheiten werden in<br>Kampfformation eingesetzt.<br><color=255,0,0>Die Katzen der aktuellen Formation werden ersetzt.<br>Okay?</color>
+nyancombo_autoset3	Einige Katzen müssen entwickelt werden, bevor<br>„%@“ in die Formation aufgenommen werden kann.<br>*Überprüfe die Entwicklungen deiner Katzen!
+challenge_popup	Willkommen beim Herausforderungskampf!<br>Erziele mehr Punkte, indem du schnellstmöglich alle Feinde besiegst!<br>Wiederhole den Kampf, um die höchsten Ränge zu erreichen!<br>* Keine Gegenstände in diesen Leveln verfügbar.
+everyplay_mapname_M	Sonderlevel
+everyplay_mapname_R	Ranglisten-Level
+stage_restriction_dot	・
+stage_restriction_cost_over	Nur %d ￠ oder mehr
+stage_restriction_cost_under	Nur %d ￠ oder weniger
+stage_restriction_cost_just	Nur %d ￠
+stage_restriction_limit_1	Seltenheit: Nur <color=255,255,0>%@</color>
+stage_restriction_limit_2	Max. Anzahl einsetzbarer Katzen: <color=255,255,0>%d</color>
+stage_restriction_limit_3	Nur aus <color=255,255,0>%d.</color> Reihe einsetzen
+stage_restriction_limit_4	Katzen-Einsatzkosten: <color=255,255,0>%@</color>
+stage_restriction_limit_5	Einheitenrestriktionen: <color=255,255,0>%@</color>
+stage_restriction_text_0	Kampfrestriktionen
+stage_restriction_text_1	Diese Aufstellung erfüllt die Anforderungen nicht!
+stage_restriction_warning	Diese Einheit kann nicht eingesetzt werden!
+stage_restriction_level_select	<color=255,255,0>Kampfrestriktionen</color>
+stage_restriction_charagroup_1	
+stage_restriction_charagroup_2	Keine kleine Homura/Homura Akemi
+stage_restriction_charagroup_3	Keine Bebe/Nagisa & Katze
+initializing_adgeneration	Funktionen laden.\nBitte warten.
+VAMPErrorCodeNotSupportedOsVersion	The Battle Cats unterstützt diese OS-Version nicht.
+VAMPErrorCodeUnknown	Unbekannter Fehler
+VAMPErrorCodeServerError	Verbindungsfehler
+VAMPErrorCodeNoAdnetwork	Verbindung abgelaufen
+VAMPErrorCodeNeedConnection	Keine Netzwerkverbindung
+VAMPErrorCodeMediationTimeout	Verbindung abgelaufen
+VAMPErrorCodeUserCancel	Abgebrochen
+VAMPErrorCodeNoAdStock	Werbung nicht verfügbar
+VAMPErrorCodeAdnetworkError	Verbindung abgelaufen
+VAMPIncentiveError	Lesefehler: Kann nicht<br>abgeholt werden.
+everyplay_community_url	https://everyplay.com/the-battle-cats/home
+GiftMessage_000	<flash>☆★☆ Bonusgegenstand ☆★☆</flash><br>Schließe „Katzenimperium Kap. 2“ ab<br>und erhalte die Walkürenkatze!
+GiftMessage_001	<flash>☆★☆ Bonusgegenstand ☆★☆</flash><br>Schließe „Katzenimperium Kap. 3“ ab<br>und erhalte die Bahamut-Katze!
+GiftMessage_002	<flash>☆★☆ Bonusgegenstand ☆★☆</flash><br>Schließe „Zukunftsreise Kap. 2“ ab<br>und schalte die wahre Form der Walkürenkatze frei!
+GiftMessage_003	<flash>☆★☆ Bonusgegenstand ☆★☆</flash><br>Schließe das Griechenland-Level ab, um die<br>Spezialeinheit „Bohnenkatzen“ freizuschalten.
+GiftMessage_004	<flash>☆★☆ Bonusgegenstand ☆★☆</flash><br>Schließe „Katzenimperium Kap. 1“ ab,<br>um die Spezialeinheit „Moneko“ freizuschalten.
+GiftMessage_005	<flash>Levelabschlussbelohnung 1</flash><br>Schließe „Der Große Kettensprenger“ ab<br>und erhalte vielleicht die Spezialeinheit<br>„Ururun-Wolf“!
+GiftMessage_006	<flash>Levelabschlussbelohnung 2</flash><br>Schließe „Sankt Rotfuchs“ ab<br>und erhalte vielleicht die Spezialeinheit<br>„Kleiner Nyandam“!
+GiftMessage_007	<flash>☆★☆ Bonusgegenstand ☆★☆</flash><br>Schließe „Zukunftsreise Kap. 3“ ab<br>und schalte die wahre Form der Bahamut-Katze frei!
+GiftMessage_008	<flash>Levelabschlussbelohnung 3</flash><br>Schließe „Das Lieben gelernt“ ab<br>und erhalte vielleicht die Spezialeinheit<br>„Rotkäppchen-Mina“!
+GiftMessage_009	<flash>Levelabschlussbelohnung 4</flash><br>Schließe „Multiversal Studios“ ab<br>und erhalte vielleicht die Spezialeinheit<br>„Miyamoku Musashi“!
+GiftMessage_010	<flash>☆★☆ Levelabschlussbelohnung 1 ☆★☆</flash><br>Schließe „Kosmische Katzen Kap. 1“ ab<br>und erhalte eine mysteriöse Belohnung ...
+GiftMessage_011	<flash>☆★☆ Bonusgegenstand ☆★☆</flash><br>Schließe „Zukunftsreise Kap. 1“ab<br>und schalte neue Katzenkombos für den Kampf frei!
+GiftMessage_012	<flash>Levelabschlussbonus!</flash><br>Schließe das letzte Level von „Eine neue Legende“ ab<br>und schalte die wahre Form von Mecha-Bun frei!
+GiftMessage_013	<flash>Levelabschlussbonus!</flash><br>Schließe das letzte Level von „Die Passion des Katzengottes“ ab<br>und schalte eine mysteriöse Belohnung frei!
+GiftMessage_014	<flash>☆★☆ Levelabschlussbonus ☆★☆</flash><br>Schließe das letzte Level von<br>„Kosmische Katzen Kap. 3“ ab und verdiene<br>eine tolle Belohnung!
+GiftMessage_015	<flash>☆★☆ Levelabschlussbonus ☆★☆</flash><br>Besiege das allmächtige Wesen von<br>Kapitel 3 und verdiene<br>eine tolle Belohnung!
+GiftMessage_016	<flash>Levelabschlussbelohnung 6</flash><br>Schließe „Primitive Seelen“ ab<br>und erhalte vielleicht die Spezialeinheit<br>„Dogumaru“!
+GiftMessage_017	<flash>Levelabschlussbonus 7</flash><br>Schließe das letzte Level von „Die Gelatinemine“ ab,<br>um vielleicht die Sonderkatze<br>„Urs & Fenrir“ freizuschalten!
+GiftMessage_018	<flash>Im Labor der Relikte (Stufe 4) erscheint eine seltsame Lebensform!</flash>
+LvUpLimit_txt	Diese Einheit hat die Maximalstufe erreicht.
+LvUpLimitMax_txt	Maximalstufe für die aktuelle Version erreicht.
+option_qrcode_title	Mein QR-Code
+option_qrcode_txt1	Dieser QR-Code kann für Spezialevents verwendet werden.
+option_qrcode_txt2	Nutze den Code nicht außerhalb der angegebenen Eventzeiten.
+option_qrcode_txt3	Sorge dafür, dass dein Bildschirm hell genug ist, damit er gut gelesen werden kann.
+matatabi_growup_1	${itemName} x${Num} wird verbraucht,<br>um eine Katzenfrucht herzustellen.<br>*Geringe Chance auf eine epische Katzenfrucht!
+matatabi_growup_2	${itemName} x${Num} wird verbraucht,<br>um eine Katzenfrucht herzustellen.
+drop_popup_item	${rewardName}<br><color=255,255,0>Gegenstand</color> ${itemName} +${itemNum}<br>${itemPossession}
+drop_popup_xp	${rewardName}:<br>${itemName} +${itemNum}
+drop_reward	Beutebelohnung <flash>verdient!</flash>
+score_reward	Punktebelohnung <flash>verdient!</flash>
+drop_popup_chara_first	%@<br>%@ „%@“ erhalten!<br><flash>Im Verbesserungenmenü aktivieren!</flash>
+drop_popup_treasure	<color=255,255,0>Schatz: </color>%@ %@<br><flash>erhalten!</flash>
+drop_popup_chara_third_evolve	%@<br>%@: wahre Form von<br>„%@“ erhalten!<br><flash>Bei Erreichen von Stufe 20 freischalten!</flash>
+drop_popup_chara_levelup1	%@<br>%@ %@ erhalten!<br><flash>Verbessert </flash><br>Stufe %d → Stufe %d +%d
+drop_popup_chara_levelup2	%@<br>%@ %@ erhalten!<br><flash>Verbessert </flash><br>Stufe %d +%d → Stufe %d +%d
+drop_popup_chara_levelmax1	%@<br>%@ %@ erhalten!<br><flash>Neue Maximalstufe!</flash><br>Stufe %d → Stufe %d +%d
+drop_popup_chara_levelmax2	%@<br>%@ %@ erhalten!<br><flash>Neue Maximalstufe!</flash><br>Stufe %d +%d → Stufe %d +%d
+drop_popup_chara_limit	%@<br>%@ %@ erhalten!<br>Kann derzeit nicht mit weiteren<br>MAX+-Stufen verbessert werden.
+drop_rarity_1	Sonderkatze
+drop_rarity_2	Seltene Katze
+drop_rarity_3	Superseltene Katze
+drop_rarity_4	Megaseltene Katze
+drop_rarity_5	Legendär seltene Einheit
+nekovitan_Tutorial00	Gehe mit deinen übrigen Katzaminen Blitzlevel an!<br>Kaufe Katzamine mit Katzenbatzen im Gegenstände-Shop!
+nekovitan_battle00	Kampf aufgeben?<br>Du erhältst deine Katzamine zurück (10 Sek. oder kürzerer Kampf).
+rareGatya_omakeTicket	Ziehe seltene Kapseln und erhalte einmalig<br><flash> %@</flash> geschenkt!
+nekovitan_shop0	Nicht genug Katzamine!<br>Zum Gegenstände-Shop?
+nekovitan_shop1	Zum Gegenstände-Shop,<br>um Katzamine zu kaufen?
+kill_application	App beenden?
+receive_item_none_BoxText	*Im Briefkasten warten keine Gegenstände.
+nyanko_club_gift_txt_clubitemID0	<flash>Goldpass des Offiziersklubs!<br>Deine Belohnung: 1 seltenes Ticket!</flash><br>
+nyanko_club_gift_txt_clubitemID1	<flash>Goldpass des Offiziersklubs!<br>30 Tage unbegrenzte Beschleuniger!</flash><br>
+nyanko_club_expiration_date_txt1	Dein Goldpass gilt nur noch<br>%d Tage!<br>Erneuere deinen Goldpass im Offiziersklub!
+nyanko_club_expiration_date_txt2	Dein Goldpass<br>läuft bald ab!<br>Erneuere deinen Goldpass im Offiziersklub!
+nyanko_club_error_time_manipulation_txt1	Problem mit Gerätezeit aufgetreten. *Es kann bis zu 48 Std. dauern, bis das Problem nach der Zeitänderung gelöst ist.
+nyanko_club_error_already_gold_txt1	Du besitzt schon einen aktiven Goldpass!
+nyanko_club_error_gold_400_txt1	-Ein Fehler ist aufgetreten-
+nyanko_club_error_gold_500_txt1	Ein Fehler ist aufgetreten.
+nyanko_club_error_out_of_term_txt1	Dieser Gegenstand kann gerade nicht gekauft werden.
+nyanko_club_error_gold_none_user_data_txt1	Ein Fehler ist aufgetreten ...
+nyanko_club_error_normal_none_user_ID_txt1	--Ein Fehler ist aufgetreten--
+nyanko_club_error_normal_400_txt1	*Ein Fehler ist aufgetreten*
+nyanko_club_error_normal_500_txt1	Ein Fehler ist aufgetreten.
+nyanko_club_error_other_txt1	Verbindungsfehler
+nyanko_club_char_change_txt1	Tippen, um Symbol zu ändern
+potential_exchange_np	Wird gegen NP eingetauscht.<br>Bist du sicher? (%d→<color=255,255,0>%d</color>)
+potential_exchange_np_set	%d wird gegen NP eingetauscht.<br>Bist du sicher?<br>(%d→<color=255,255,0>%d</color>)
+potential_exchange_all_item	Alles wird eingetauscht.<br>Willst du NP oder XP?
+potential_exchange_all_item_np	Alle Einheiten im Lager werden gegen NP<br>eingetauscht.<br>Bist du sicher? (%d→<color=255,255,0>%d</color>)
+potential_exchange_gatya_result	Gegen NP oder XP eintauschen?
+potential_skill_acquisition	Ein Talent mit<br>NP freischalten?
+potential_skill_levelup	Ein Talent mit<br>NP verbessern?
+potential_skill_warning00	Nicht genug NP.
+potential_skill_lvmax	Max. Verbesserungsstufe erreicht!<br>Du hast die in dieser Version<br>höchste Stufe erreicht.
+potential_exchange_error	Keine weiteren Einheiten/Gegenstände<br>gegen NP eintauschbar.
+potential_skill_get	Alle Verbesserungen für dieses Talent freigeschaltet.
+potential_acquisition_result	<flash>Du hast „%@“ freigeschaltet!<flash>
+potential_levelup_result	<flash>%@ auf Stufe %d verbessert!<flash>
+potential_skill_name01	Schwächen
+potential_skill_name02	Einfrieren
+potential_skill_name03	Lähmung
+potential_skill_name04	Angriff nur gegen
+potential_skill_name05	Stark gegen
+potential_skill_name06	Resistent
+potential_skill_name07	Heftiger Schaden
+potential_skill_name08	Rückstoß
+potential_skill_name09	Teleport
+potential_skill_name10	Willensstärke
+potential_skill_name11	Überlebenswille
+potential_skill_name12	Basiszerstörer
+potential_skill_name13	Haudrauf
+potential_skill_name14	Zombietöter
+potential_skill_name15	Abwehrbrecher
+potential_skill_name16	Bonuszahlung
+potential_skill_name17	Wellenangriff
+potential_skill_name18	Schwächen-Resistenz
+potential_skill_name19	Einfrieren-Resistenz
+potential_skill_name20	Lähmung-Resistenz
+potential_skill_name21	Rückstoß-Resistenz
+potential_skill_name22	Wellen-Resistenz
+potential_skill_name23	Wellenschild
+potential_skill_name24	Teleport-Resistenz
+potential_skill_name25	Kosten –
+potential_skill_name26	Erholungsbeschleuniger
+potential_skill_name27	Bewegungsbeschleuniger
+potential_skill_name28	Besserer Rückstoß
+potential_skill_name29	Immun gg. Flüche
+potential_skill_name30	Fluch-Resistenz
+potential_skill_name31	Angriffsstärkung
+potential_skill_name32	Verteidigungsstärkung
+potential_skill_name33	Ziel: Rot
+potential_skill_name34	Ziel: Fliegend
+potential_skill_name35	Ziel: Schwarz
+potential_skill_name36	Ziel: Eisern
+potential_skill_name37	Ziel: Engel
+potential_skill_name38	Ziel: Alien
+potential_skill_name39	Ziel: Zombie
+potential_skill_name40	Ziel: Relikt
+potential_skill_name41	Ziel: Wertelos
+potential_skill_name44	Immun gg. Schwächen
+potential_skill_name45	Immun gg. Einfrieren
+potential_skill_name46	Immun gg. Verlangs.
+potential_skill_name47	Immun gg. Rückstoß
+potential_skill_name48	Immun gg. Wellen
+potential_skill_name49	Teleport-Resistenz
+potential_skill_name50	Wilder Schlag
+potential_skill_name51	Angriff ausweichen
+potential_skill_name52	Gift-Resistenz
+potential_skill_name53	Immun gegen Gifte
+potential_skill_name54	Zufalls-Resistenz
+potential_skill_name55	Immun gegen Zufallsangriffe
+potential_skill_name56	Zufallsangriff
+return_stageselect_error00	Dieses Event ist vorbei.<br>Rückkehr zur Katzenbasis ...
+return_stageselect_error01	Dieses Event kann nicht mehr gespielt werden.<br>Rückkehr zur Katzenbasis ...
+return_stageselect_error02	Dich erwartet eine Belohnung!<br>Rückkehr zur Katzenbasis!
+h13_inquiry_button	Bericht senden
+h13_inquiry_error	Netzwerkverbindung nicht möglich.\nVerbindung prüfen und\nerneut versuchen.
+filter_option_description0	<color=0,0,0>Wähle deine Favoriten im Katzenkompendium aus,<br>um schnell nur diese Katzen zu sehen!<br>Du musst min. 1 Favoriten auswählen, um diesen Filter zu nutzen.</color>
+filter_option_description1	<color=0,0,0>Nur Katzen anzeigen, die die Levelbeschränkungen erfüllen.</color>
+sort_tutorial_txt1	<flash>Die Filter- und Sortierungsoptionen sind freigeschaltet!</flash><br>Du kannst mit der rechten<br>Schaltfläche filtern und mit<br>der linken sortieren.
+item_pack_purchased_chara	%@ Einheit<color=255,255,0>「%@」</color><br>
+enemy_list_title	Feinde erscheinen
+enemy_name_question	???
+calendar_title	Das markierte Event hat begonnen!
+calendar_error	Ein Serververbindungs- oder Gerätezeit-Fehler ist<br>aufgetreten. Überprüfe deine<br>Netzwerkverbindung und Uhrzeiteinstellungen.
+legendquest_tutorial1	Willkommen zu Legenden-Quests!<br>Kämpfe in einem Sonderlevel<br>mit einer zufälligen Katzenauswahl!
+legendquest_tutorial2	Um dieses Level zu versuchen, brauchst du Kronen!<br>Hol dir Kronen, indem du Level der Stufe 1-4<br>in Legenden abschließt.
+legendquest_tutorial3	Bitte beachte, dass Kronen, Energie und<br>Gegenstände nicht erstattet werden,<br>wenn du in einer Legenden-Quest aus dem Kampf fliehst!
+legendquest_Cancel	Aus dem Kampf fliehen?<br><color=255,0,0>Kronen, Energie und Gegenstände werden nicht rückerstattet.</color>
+legendquest_warning	Nicht genug Kronen ...<br>Sammle Kronen, indem du<br>Legenden-Kartenlevel abschließt.
+legendquest_popup	<flash>Legenden-Quest</flash><br>Stell dich einem zufälligen Level mit einer zufälligen Formation!<br>* Nutze in legendären Leveln verdiente Kronen und Energie, um die Herausforderung zu beginnen.<br>* Bei jedem weiteren Versuch eines Levels kostet der Kampfantritt mehr Kronen.<br>* Kronen, Energie und Gegenstände werden nicht erstattet, wenn du aus dem Kampf fliehst.
+score_sns	Meine Kampfkatzen haben bei „%@“ %d Pkt. erreicht! %s %s
+legend_sns	Meine Kampfkatzen fallen in die Legenden-Quest „%@“ ein! %s %s
+nekodojo_sns	Meine Kampfkatzen haben bei „%@“ im Katzenkrallendojo %d Pkt. erreicht! %s %s
+ranking_sns	Meine Kampfkatzen haben bei „%@“ in den Ranglisten-Leveln %d Pkt. erreicht! %s %s
+challenge_sns	Meine Kampfkatzen haben bei „%@“ im Herausforderungskampf %d Pkt. erreicht! %s %s
+tower_sns	Meine Kampfkatzen haben Ebene %@ des Himmlischen Turms erobert! %s %s
+sns_txt1	Meine Kampfkatzen sind in „%@“ eingefallen, um die Welt zu erobern! %s %s
+gpp_item_popup	Du hast eine Belohnung erhalten!<br>Hol dir deine Gegenstände aus deinem Briefkasten!
+age_confirmation	Aufgrund einer neuen App-Store-Richtlinie<br>musst du dein Geburtsdatum bestätigen,<br>damit dir angemessene Werbung angezeigt wird.
+error_age_confirmation	Verbindungsfehler<br>Überprüfe deine Netzwerkverbindung.
+restart_item	<flash>Rückkehrpaket gekauft!</flash><br>Katzenimperium Kap. 3 abgeschlossen!<br>13 Katzeneinheiten erhalten!<br>10 Katzentickets erhalten!<br>1 seltenes Ticket erhalten!
+restart_overwrite	Rückkehrpaket einsetzen?<br><color=255,0,0>* Beim Einsatz des Rückkehrpakets wird bestehender Spielfortschritt überschrieben.<br>*Wenn du es nicht nutzt, werden gekaufte Inhalte ungültig.</color>
+restart_reflect	Gekaufte Inhalte jetzt verfügbar.<br>Katzenimperium wurde abgeschlossen!<br>Kapseltickets erhalten!
+slot_message	Du erhältst %s x <flash>%d</flash>!
+slot_lastmessage	Endergebnis!
+slot_SNS_000	Ich habe %s Katzenbatzen bei den Wildkatzen-Slots in #TheBattleCats gewonnen!<br>#BattleCats
+medal_txt1	%s
+medal_txt2	%d Medaillen erhalten!
+medal_unknown	???<br>???
+line_Confirmation	LINIE nicht installiert.<br>App Store besuchen?
+talk_Reward	%@ <flash>x %@</flash> erhalten!
+talk_000_push	Ich muss dich um einen Gefallen bitten ... (Ф∀Ф)✧
+DL_permission	Die aktuellsten Spieldaten werden heruntergeladen.<br>Wir empfehlen, dass du eine stabile<br>WLAN-Verbindung nutzt, wenn du die Installation startest.<br>* Die Sprache kann in den Einstellungen geändert werden.<br>Verbleibendes Downloadvolumen: %s MB
+map_minutes	(Erholen ...) Katzamin A x ${itemNum} nutzen,<br>um 1 Abschlusschance aufzufüllen?<br><color=255,255,0>0/${countNum} Abschlusschancen verbleiben. (${minutes1} Min. übrig, bis 1 Abschlusschance aufgefüllt wird)</color>
+assault_warning	Nach %d-maligem Abschluss des Levels musst<br>du vor dem Wiederholen kurze Zeit warten.
+talk_001_push	Komm morgen wieder!
+slot_clearteam_txt_0	Kampfformation des letzten Sieges verwenden?
+slot_clearteam_txt_1	Die Katzen des letzten Sieges werden verwendet!
+slot_clearteam_txt_2	<flash>Zu Kampfformation des letzten Sieges geändert!</flash>
+slot_clearteam_txt_3	„Formation bei letztem Sieg“ nicht in der Teamauswahl anzeigen.
+slot_clearteam_error	<color=255,255,0>Keine vorigen Formationen für dieses Level vorhanden.</color>
+slot_copy_clearteam	Die Formation des letzten Sieges wird kopiert.<br>Öffne den gewünschten Platz, um dieses Team zu speichern.<br>Wähle dann „Ersetzen“, um dieses Team einzufügen.
+slot_paste_clearteam	Deine Katzen werden mit den Katzen des<br>letzten Sieges ersetzt. Okay?
+hidden_rarity_0	Minderwertiges Level
+hidden_rarity_1	Normales Level
+hidden_rarity_2	Ausgezeichnetes Level
+drop_popup_hidden	%@ wurde <flash>entdeckt!</flash><br>Enthüllung in der Katzenbasis möglich!
+hidden_hour	%d Std. %d Min. bis zur fertigen Entschlüsselung!
+hidden_minutes	%d Min. bis zur fertigen Entschlüsselung!
+unlock_popup_message_77	<flash>Du kannst jetzt Rätselkarten entschlüsseln!</flash><br>Besuche Legenden, um<br>ab und zu Rätsel zu erbeuten!
+unlock_popup_message_78	<flash>Stufenaufstieg!</flash><br>Deine Rätselentschlüsselungsstufe ist jetzt <color=255,255,0>%d</color>!<br>Du kannst jetzt noch seltenere Rätsel finden!
+enemy_name_unknown	[Unbekannt]
+nyancombo_overwrite_popup_title	Katzenkombo festlegen?
+nyancombo_overwrite_popup_description	Tippe auf die Kombo, um den Effekt zu sehen!
+000_gatya_rare.png	i000_gatya_rare_de.png
+000_gatya_rare.imgcut	000_gatya_rare_de.imgcut
+000_gatya.png	i000_gatya_de.png
+000_gatya.imgcut	000_gatya_de.imgcut
+003_gatya_tuika01.png	003_gatya_tuika01_de.png
+003_gatya_tuika01.imgcut	003_gatya_tuika01_de.imgcut
+002_bank.png	i002_bank_de.png
+002_bank.imgcut	002_bank_de.imgcut
+nekodojo_twitter	Meine Kampfkatzen haben im Katzenkrallendojo „%@“ %d Pkt. erreicht! \n %@
+nekodojo_facebook	Meine Kampfkatzen haben im Katzenkrallendojo „%@“ %d Pkt. erreicht! \n %@
+tower_twitter	Meine Kampfkatzen haben „%@“ im Himmlischem Turm erreicht!
+tower_facebook	Meine Kampfkatzen haben „%@“ im Himmlischem Turm erreicht!
+facebook_txt1	Meine Kampfkatzen haben %@ erobert!\n%@
+twitter_txt1	Meine Kampfkatzen haben %@ erobert!
+picBook_getCatFood1	%@ freigeschaltet!
+picBook_getCatFood2	Du erhältst 5 Katzenbatzen!
+challenge_twitter	Meine Kampfkatzen haben bei „%@“ im Herausforderungskampf %d Pkt. erreicht!
+challenge_facebook	Meine Kampfkatzen haben bei „%@“ im Herausforderungskampf %d Pkt. erreicht!\n%@
+ranking_twitter	Meine Kampfkatzen haben bei „%@“ in den Ranglisten-Leveln %d Pkt. erreicht! %@
+ranking_facebook	Meine Kampfkatzen haben bei „%@“ in den Ranglisten-Leveln %d Pkt. erreicht!\n%@
+app_name	The Battle Cats
+review1	Wenn dir „The Battle Cats“ gefällt,\nbewerte es bitte! Danke!
+review2	Später bewerten
+review3	Vielleicht später
+review4	Nein danke
+appLovin_error0_txt	Kein Video gefunden.
+appLovin_error1_txt	Bitte erneut versuchen.
+appLovin_error2_txt	Überprüfe deine Netzwerkverbindung und versuche es erneut.
+appLovin_error3_txt	Überprüfe deinen freien Speicherplatz und versuche es erneut.
+facebook_txt2	Es war nicht leicht, aber ich habe eine HERAUSFORDERUNG in The Battle Cats abgeschlossen!
+facebook_txt3	Ich empfehle diese App!\\n*Einladungscode:\\:「%@」*Du kannst den Code nach Level 7 \\(Japan\\) eingeben.\\n%@
+facebook_txt4	Seltsam niedliche Katzen sind im Hitspiel „The Battle Cats“ los! 10.000 Bonus-XP ERHALTEN!\\nBohnenkatzen-Einladungscode: 「%@」\\n*Du kannst den Code nach Level 7 (Japan) eingeben.
+twitter_txt2	Es war nicht leicht, aber ich habe eine HERAUSFORDERUNG in The Battle Cats abgeschlossen!
+twitter_txt3	Ich empfehle diese App!\\n*Einladungscode:「%@」*Du kannst den Code nach Level 7 (Japan) eingeben.
+twitter_txt4	Seltsam niedliche Katzen sind im Hitspiel „The Battle Cats“ los! Hol dir 10.000 Bonus-XP mit einem Einladungscode!\\nBohnenkatzen-Einladungscode: 「%@」\n*Du kannst den Code nach Level 7 (Japan) eingeben.
+line_txt1	Es war nicht leicht, aber ich habe eine HERAUSFORDERUNG in The Battle Cats abgeschlossen!\\nTolle App! Hol dir 10.000 XP mit einem Einladungscode!\\n*Einladungscode:「%@」*Du kannst den Code nach Level 7 (Japan) eingeben.\\n%@
+line_txt2	Es war nicht leicht, aber ich habe eine HERAUSFORDERUNG in The Battle Cats abgeschlossen!\nTolle App! Hol dir 10.000 XP mit einem Einladungscode!\n*Einladungscode:「%@」*Du kannst den Code nach Level 7 (Japan) eingeben.\n%@
+line_txt3	Auch du wirst die witzigen Katzen von „The Battle Cats“ lieben!\nMoneko-Einladungscode:「%@」*Du kannst den Code nach Level 7 (Japan) eingeben.\n%@
+line_txt4	Auch du wirst die witzigen Katzen von „The Battle Cats“ lieben!\nBohnenkatzen-Einladungscode:「%@」*Du kannst den Code nach Level 7 (Japan) eingeben.\n%@
+kakao_txt1	dummy
+kakao_txt2	dummy
+kakao_txt3	dummy
+err_txt1	Nicht autorisierte Handlung (A) entdeckt.
+err_txt2	Nicht autorisierte Handlung (B) entdeckt.
+err_txt3	Nicht autorisierte Handlung (C) entdeckt.
+err_txt4	Nicht autorisierte Handlung (D) entdeckt.
+err_txt5	Nicht autorisierte Handlung (E) entdeckt.
+err_txt6	Nicht autorisierte Handlung (F) entdeckt.
+kerihime_txt1	dummy
+kerihime_txt2	dummy
+kerihime_txt3	dummy
+kerihime_txt4	dummy
+kerihime_txt5	dummy
+kerihime_txt6	dummy
+kerihime_txt7	dummy
+kerihime_txt8	dummy
+kerihime_txt9	dummy
+kerihime_txt11	dummy
+kerihime_txt12	dummy
+kerihime_txt13	dummy
+kerihime_txt21	dummy
+kerihime_txt22	dummy
+kerihime_txt23	dummy
+kerihime_tw49	dummy
+kerihime_tw50	dummy
+kerihime_fa49	dummy
+kerihime_fa50	dummy
+manbo_scheme	jp.selectbutton.manbotheworld://collaboration/nyanko1
+manbo_url	https://itunes.apple.com/us/app/survive!-mola-mola!/id915222954?l=en&ls=1&mt=8
+manbo_txt11	Du erhältst besondere\nMondfisch-Geschenke, wenn du\n„Überlebe! Mondfisch!“ spielst.\nDie App „Überlebe!\nMondfisch!“ starten?
+manbo_txt12	Dein Mondfisch-Geschenk\nablehnen?\nBist du sicher?\n*Um das Geschenk erneut\nabzuholen, schließe dieses\nLevel erneut ab.
+manbo_txt13	Keine App gefunden.\n„Überlebe! Mondfisch!“ aus dem\nApp Store herunterladen?
+manbo_txt14	Hol dir besondere Belohnungen für „Überlebe! Mondfisch!“
+manbo_txt15	Die „Überlebe! Mondfisch!“-App starten?
+manbo_txt16	Falls sie nicht installiert ist, öffnet sich die App-Store-Seite.
+appstore_txt1	Schrecklich niedliche Katzen! Einfach für alle!\nGib nach Abschluss von Level 7 (Japan) den Einladungscode ein, um 10.000 Bonus-XP zu erhalten!\n■Einladungscode:「%@」\nSammeln wir ALLE KATZEN!
+iosver_error	Bitte aktualisiere deine iOS-Version.
+limited_function	Derzeit nicht verfügbar
+model_conversion2	Transfer
+noapp_kakao	Du musst die KakaoTalk-App installiert haben.
+noapp_line	Du musst die LINE-App installiert haben.
+store_url	https://itunes.apple.com/us/app/the-battle-cats/id850057092?l=en&ls=1&mt=8
+url_abbr	https://ponos.s3.amazonaws.com/iphone/en/battlecats.html
+img026.png	img026_de.png
+img026.imgcut	img026_de.imgcut
+img038.png	img038_de.png
+img038.imgcut	img038_de.imgcut
+ec000.png	ec000_de.png
+ec000.imgcut	ec000_de.imgcut
+ec001.png	ec001_de.png
+ec001.imgcut	ec001_de.imgcut
+ec002.png	ec002_de.png
+ec002.imgcut	ec002_de.imgcut
+ec003.png	ec003_de.png
+ec003.imgcut	ec003_de.imgcut
+ec004.png	ec004_de.png
+ec004.imgcut	ec004_de.imgcut
+ec005.png	ec005_de.png
+ec005.imgcut	ec005_de.imgcut
+ec006.png	ec006_de.png
+ec006.imgcut	ec006_de.imgcut
+ec007.png	ec007_de.png
+ec007.imgcut	ec007_de.imgcut
+ec008.png	ec008_de.png
+ec008.imgcut	ec008_de.imgcut
+ec009.png	ec009_de.png
+ec009.imgcut	ec009_de.imgcut
+ec010.png	ec010_de.png
+ec010.imgcut	ec010_de.imgcut
+ec011.png	ec011_de.png
+ec011.imgcut	ec011_de.imgcut
+ec012.png	ec012_de.png
+ec012.imgcut	ec012_de.imgcut
+ec013.png	ec013_de.png
+ec013.imgcut	ec013_de.imgcut
+ec014.png	ec014_de.png
+ec014.imgcut	ec014_de.imgcut
+ec015.png	ec015_de.png
+ec015.imgcut	ec015_de.imgcut
+ec016.png	ec016_de.png
+ec016.imgcut	ec016_de.imgcut
+ec017.png	ec017_de.png
+ec017.imgcut	ec017_de.imgcut
+ec018.png	ec018_de.png
+ec018.imgcut	ec018_de.imgcut
+ec019.png	ec019_de.png
+ec019.imgcut	ec019_de.imgcut
+ec020.png	ec020_de.png
+ec020.imgcut	ec020_de.imgcut
+ec021.png	ec021_de.png
+ec021.imgcut	ec021_de.imgcut
+ec022.png	ec022_de.png
+ec022.imgcut	ec022_de.imgcut
+ec023.png	ec023_de.png
+ec023.imgcut	ec023_de.imgcut
+ec024.png	ec024_de.png
+ec024.imgcut	ec024_de.imgcut
+ec025.png	ec025_de.png
+ec025.imgcut	ec025_de.imgcut
+ec026.png	ec026_de.png
+ec026.imgcut	ec026_de.imgcut
+ec027.png	ec027_de.png
+ec027.imgcut	ec027_de.imgcut
+ec028.png	ec028_de.png
+ec028.imgcut	ec028_de.imgcut
+ec029.png	ec029_de.png
+ec029.imgcut	ec029_de.imgcut
+ec030.png	ec030_de.png
+ec030.imgcut	ec030_de.imgcut
+ec031.png	ec031_de.png
+ec031.imgcut	ec031_de.imgcut
+ec032.png	ec032_de.png
+ec032.imgcut	ec032_de.imgcut
+ec033.png	ec033_de.png
+ec033.imgcut	ec033_de.imgcut
+ec034.png	ec034_de.png
+ec034.imgcut	ec034_de.imgcut
+ec035.png	ec035_de.png
+ec035.imgcut	ec035_de.imgcut
+ec036.png	ec036_de.png
+ec036.imgcut	ec036_de.imgcut
+ec037.png	ec037_de.png
+ec037.imgcut	ec037_de.imgcut
+ec038.png	ec038_de.png
+ec038.imgcut	ec038_de.imgcut
+ec039.png	ec039_de.png
+ec039.imgcut	ec039_de.imgcut
+ec040.png	ec040_de.png
+ec040.imgcut	ec040_de.imgcut
+ec041.png	ec041_de.png
+ec041.imgcut	ec041_de.imgcut
+ec042.png	ec042_de.png
+ec042.imgcut	ec042_de.imgcut
+ec043.png	ec043_de.png
+ec043.imgcut	ec043_de.imgcut
+ec044.png	ec044_de.png
+ec044.imgcut	ec044_de.imgcut
+ec045.png	ec045_de.png
+ec045.imgcut	ec045_de.imgcut
+ec046.png	ec046_de.png
+ec046.imgcut	ec046_de.imgcut
+img007.png	img007_de.png
+img007.imgcut	img007_de.imgcut
+img009_3.png	img009_3_de.png
+img009_3.imgcut	img009_3_de.imgcut
+img009_4.png	img009_4_de.png
+img009_4.imgcut	img009_4_de.imgcut
+img009_5.png	img009_5_de.png
+img009_5.imgcut	img009_5_de.imgcut
+img009_6.png	img009_6_de.png
+img009_6.imgcut	img009_6_de.imgcut
+img013.png	img013_de.png
+img013.imgcut	img013_de.imgcut
+img017.png	img017_de.png
+img017.imgcut	img017_de.imgcut
+img018.png	img018_de.png
+img018.imgcut	img018_de.imgcut
+img030.png	img030_de.png
+img030.imgcut	img030_de.imgcut
+img035.png	img035_de.png
+img035.imgcut	img035_de.imgcut
+img036.png	img036_de.png
+img036.imgcut	img036_de.imgcut
+img050.png	img050_de.png
+img050.imgcut	img050_de.imgcut
+img101.png	img101_de.png
+img101.imgcut	img101_de.imgcut
+img102.png	img102_de.png
+img102.imgcut	img102_de.imgcut
+ot000_c.png	ot000_c_de.png
+ot000_c.imgcut	ot000_c_de.imgcut
+ot000_o.png	ot000_o_de.png
+ot000_o.imgcut	ot000_o_de.imgcut
+ot001_c.png	ot001_c_de.png
+ot001_c.imgcut	ot001_c_de.imgcut
+ot001_o.png	ot001_o_de.png
+ot001_o.imgcut	ot001_o_de.imgcut
+ot002_c.png	ot002_c_de.png
+ot002_c.imgcut	ot002_c_de.imgcut
+ot002_o.png	ot002_o_de.png
+ot002_o.imgcut	ot002_o_de.imgcut
+ot003_c.png	ot003_c_de.png
+ot003_c.imgcut	ot003_c_de.imgcut
+ot003_o.png	ot003_o_de.png
+ot003_o.imgcut	ot003_o_de.imgcut
+ot004_c.png	ot004_c_de.png
+ot004_c.imgcut	ot004_c_de.imgcut
+ot004_o.png	ot004_o_de.png
+ot004_o.imgcut	ot004_o_de.imgcut
+ot005_c.png	ot005_c_de.png
+ot005_c.imgcut	ot005_c_de.imgcut
+ot005_o.png	ot005_o_de.png
+ot005_o.imgcut	ot005_o_de.imgcut
+ot006_c.png	ot006_c_de.png
+ot006_c.imgcut	ot006_c_de.imgcut
+ot006_o.png	ot006_o_de.png
+ot006_o.imgcut	ot006_o_de.imgcut
+ot007_c.png	ot007_c_de.png
+ot007_c.imgcut	ot007_c_de.imgcut
+ot007_o.png	ot007_o_de.png
+ot007_o.imgcut	ot007_o_de.imgcut
+ot008_c.png	ot008_c_de.png
+ot008_c.imgcut	ot008_c_de.imgcut
+ot008_o.png	ot008_o_de.png
+ot008_o.imgcut	ot008_o_de.imgcut
+ot009_c.png	ot009_c_de.png
+ot009_c.imgcut	ot009_c_de.imgcut
+ot009_o.png	ot009_o_de.png
+ot009_o.imgcut	ot009_o_de.imgcut
+ot010_c.png	ot010_c_de.png
+ot010_c.imgcut	ot010_c_de.imgcut
+ot010_o.png	ot010_o_de.png
+ot010_o.imgcut	ot010_o_de.imgcut
+ot011_c.png	ot011_c_de.png
+ot011_c.imgcut	ot011_c_de.imgcut
+000_img013.imgcut	i000_img013_de.imgcut
+terms_network_unavailable	Verbindungsfehler<br>Überprüfe deine Netzwerkverbindung und versuche es erneut.
+item_pack_name_21	Dankeschönpaket
+item_pack_name_22	Nur jetzt: Kaufe ein Platinticket!
+zombie_sns	Meine Katzenarmee hat %@ vor einer Zombieinvasion bewahrt! %s %s
+Invasion_sns	Meine Katzenarmee hat die Galaxis vor dem Angriff einer allmächtigen Bedrohung bewahrt! %s %s
+item_pack_name_23	Startpaket
+item_pack_name_24	Super-Startpaket
+item_pack_name_25	Mega-Startpaket
+item_pack_name_26	Angebot für Champions
+talk_002_push	Pssst! Komm zur Katzenbasis, wir haben Neuigkeiten für dich!
+equipment_unworn	Talentkugeln im Lager werden nicht angelegt.
+equipment_confirm	„${equipmentName}“<br>bei „${characterName}“ ausrüsten?<br>${faultMessage}
+release_confirm	Mit NP %@<br>ablegen? (%d → <color=255,255,0>%d</color>)<br>Du kannst das aktuell angelegte Talent auch<br>überschreiben.
+release_error	Nicht genug NP.<br>%d NP nötig.
+composition_confirm	Mit %@ x%d verschmelzen,<br>um Talentstufe zu erhöhen? (%@ → <color=255,255,0>%@</color>)
+composition_error	Talentkugel x%d zum Verschmelzen nötig.<br>%d fehlen!
+composition_finish	Verschmelzen erfolgreich!<br>Du erhältst %@!
+composition_limit	Höchststufe erreicht.<br>In dieser Spielversion ist kein Verschmelzen mehr möglich.
+overwrite_confirm	Angelegte Talentkugel überschreiben,<br>um %@ anzulegen?<br><color=255,255,0>Die aktuelle Kugel „%@“ wird dabei zerstört!</color>
+overwrite_remind	<color=255,255,0>Die derzeit angelegte Kugel „%@“<br>wird zerstört. Bist du sicher?</color>
+exchange_all_equip_np	Kugeln im Lager werden gegen NP eingetauscht.<br>Bist du sicher? (%d→<color=255,255,0>%d</color>)
+equipment_drop	${rewardName}<br><color=255,255,0>Talentkugel:</color> ${equipmentName} +${equipmentNum}<br>${itemPossession}
+equipment_limit	Das Talentkugellager ist voll.<br>Verschmelze sie oder tausche sie gegen NP ein,<br>um Platz für neue Kugeln zu machen.<br>
+potential_name	Talent 
+potential_storge	Derzeit hast du %d Kugeln auf Lager.
+slotunlock_medal_txt1	Freischaltungsanforderungen noch nicht erfüllt!<br>Freischaltungsanforderung: %d Miaumedaillen
+item_pack_name_27	Limitierte Einheit: Gacha-Katze
+unlock_popup_message_79	<flash>Empfohlen-Filter freigeschaltet</flash><br>Tippe auf den Schalter unter<br>Legenden/Sonderlevel, um nicht abgeschlossene<br>Level anzuzeigen, die deinem<br>aktuellen Level entsprechen!
+filterstage_txt1	Empfohlen-Filter<br>Wenn du den Schalter aktivierst, werden nur empfohlene,<br>nicht abgeschlossene Karten angezeigt.
+slotunlock_number_txt1	Kampfformationsplatz %d freigeschaltet!
+scheme_popup_77	<flash>Vielen Dank für deine Antworten!<br>Viel Spaß mit: %@%@!</flash>
+zombie_talk_0	Zombieausbruch jetzt hier:<br><flash>%s</flash>!
+zombie_talk_1	Zombieausbruch in<br><flash>%s</flash>!
+chapter_name_0	Katzenimperium Kapitel 1
+chapter_name_1	Katzenimperium Kapitel 2
+chapter_name_2	Katzenimperium Kapitel 3
+chapter_name_4	Zukunftsreise Kapitel 1
+chapter_name_5	Zukunftsreise Kapitel 2
+chapter_name_6	Zukunftsreise Kapitel 3
+chapter_name_7	Kosmische Katzen, Kapitel 1
+unlock_popup_message_80	<flash>Katzaminlevel: „Aufsteigender Clionel“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_81	<flash>Katzaminlevel: „Fluss Styx“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_82	<flash>Katzaminlevel: „Krönung der Königin“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_83	<flash>Katzaminlevel: „Tödliches Debüt“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_84	<flash>Katzaminlevel: „König Wahwahs Rache“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_85	<flash>Katzaminlevel: „Tiefschlaf“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_86	<flash>Katzaminlevel: „Blutrote Katastrophe“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_87	<flash>Katzaminlevel: „Himmel der Dunkelheit“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_88	<flash>Katzaminlevel: „Unvergleichlich“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_89	<flash>Katzaminlevel: „Zorn des Himmels“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_90	<flash>Katzaminlevel: „Süße Ironie“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_91	<flash>Katzaminlevel: „Dimension der Verzweiflung“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_92	<flash>Katzaminlevel: „Die verrückte Katze“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_93	<flash>Katzaminlevel: „Der verrückte Panzer“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_94	<flash>Katzaminlevel: „Die verrückte Axt“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_95	<flash>Katzaminlevel: „Die verrückten Stelzen“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_96	<flash>Katzaminlevel: „Die verrückte Kuh“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_97	<flash>Katzaminlevel: „Der verrückte Vogel“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_98	<flash>Katzaminlevel: „Der verrückte Fisch“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_99	<flash>Katzaminlevel: „Die verrückte Echse“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_100	<flash>Katzaminlevel: „Der verrückte Titan“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlockpopup_Guide_1	Weitere Informationen findest du im Hilfe-Menü!
+jinja_saisen00	100.000 XP opfern, um mit<br>Basis-Baumaterial gesegnet zu werden?
+jinja_saisen01	1 Million XP opfern, um mit<br>Katzenfrucht gesegnet zu werden?
+jinja_saisen02	3 Millionen XP opfern, um mit<br>Katzenaugen gesegnet zu werden?
+jinja_saisen03	5 Millionen XP opfern, um mit<br>einer herrlichen Überraschungsbelohnung gesegnet zu werden?
+jinja_lock00	Nicht genug XP ...<br>* Hol dir mehr XP, in dem du Level abschließt<br>oder im Shop XP-Pakete kaufst.
+jinja_lock01	Der Belohnungsvorrat ist erschöpft ...
+jinja_lock02	Der Schrein ist in den Nebeln verschwunden ...
+jinja_itemget	Du hast „%@“ erhalten!
+legend_warning	<color=255,255,0>Herausforderungs-Voraussetzung<br>Schließe alle Kronen-Level aller Stufen der legendären Level ab.</color>
+item_pack_name_28	Limitierte Einheit kaufen: „Kleines Zyklopenkatzenei“
+jinja_levelup_popup	<flash>Stufe+!</flash><br>Der Katzenschrein hat Stufe %d erreicht!<br>
+gamatotoReward_1_2	Große Wahrsagung erhalten!
+talk_003_push	
+jinja_omikuji00	5 XP opfern, um einen Wahrsagezettel zu ziehen?
+omikuji_lock00	Nicht genug XP...<br>* Schließe Level ab, um mehr zu sammeln,<br>oder kaufe im Gegenstände-Shop mehr.
+omikuji_lock01	Die Wahrsagezettel-Kiste ist leer ...
+gama_jinja_00_popup	<flash>Verdiene Boni mit Wahrsagezetteln!</flash><br>„Inari“, Diener Gottes, ist nun Teil des Gamatoto-Trupps!<br>Erhöhte Gegenstandsbelohnungen für eine Expedition.<br>* Gilt nicht für Katzenbatzen-Belohnungen.
+gama_jinja_00_name	Inari
+gama_jinja_00_charatext	Treuer Diener Gottes, der Gamatoto zeitweise hilft!<br>Erhöhte Gegenstandsbelohnungen für eine Expedition!<br>* Gilt nicht für Katzenbatzen-Belohnungen.
+item_pack_name_29	Limit. Angebot: Legenden-Ticket im Angebot
+omikuji_fortune00	Wünsche: 
+omikuji_fortune01	Karriere: 
+omikuji_fortune02	Besucher: 
+omikuji_fortune03	Geschäft: 
+omikuji_fortune04	Verlorener Gegenstand: 
+omikuji_fortune05	Geld: 
+omikuji_fortune06	Reisen: 
+omikuji_fortune07	Rivalitäten: 
+omikuji_fortune08	Gesundheit: 
+omikuji_fortune09	Liebe: 
+omikuji_outlook	<color=255,255,0>Blick in die Zukunft: </color>
+gatyadata_error_popup	Kapseln nicht verfügbar.
+htmldata_error_popup	Seite kann nicht angezeigt werden.
+gama_jinja_00_gohome	Inari ist in das Reich des Katzengottes zurückgekehrt.
+gama_collabo_03_popup	<flash>Hatsune Miku Collab!</flash><br>Snow Miku's loyal pet "Rabbit Yukine"<br>appears to help the Gamatoto crew!<br>While they are here, Gamatoto rewards increase!<br>※ Cat Food excluded.
+gama_collabo_03_name	Rabbit Yukine
+gama_collabo_03_charatext	Snow Miku's loyal pet "Rabbit Yukine"<br>appears to help the Gamatoto crew!<br>While they are here, Gamatoto rewards increase!<br>※ Cat Food excluded.
+gamestop_device	Diese Speicherdaten werden bereits verwendet\nund können auf diesem Gerät nicht mehr abgerufen werden.\nWenn du dieses Gerät verwenden möchtest, installiere\ndie App neu und fange von vorn an.
+item_pack_name_32	Helferangebot: 3 Stunden unbegrenzt reiche Katzen!
+item_pack_name_33	Helferangebot: 3 Stunden unbegrenzt Katzencomputer!
+item_pack_name_34	Helferangebot: 3 Stunden unbegrenzt Katzenschützen!
+otasuke_sale2	Unbegrenzt reiche Katzen für 3 Stunden!<br>
+otasuke_sale3	Unbegrenzt Katzencomputer für 3 Stunden!<br>
+otasuke_sale5	Unbegrenzt Katzenschützen für 3 Stunden!<br>
+GiftMessage_019	<flash>Levelabschlussbonus 8</flash><br>Schließe das letzte Level von „Uraltes Waldlabyrinth“ ab,<br>um vielleicht die Sonderkatze<br>„Ältestenmaske Doron“ freizuschalten!
+save_failed1	Nicht genug Speicherplatz. Daten können nicht gespeichert werden.
+save_failed2	Nicht genug Speicherplatz. Daten können nicht gespeichert werden.
+comeback_stamp_push01	Hast du heute schon deinen Rückkehrstempel bekommen? Hol dir jede Menge Bonus-XP!
+comeback_stamp_push02	Hol dir jeden Tag 3 Katzentickets aus der Rückkehrstempel-Belohnung!
+comeback_stamp_push03	Hast du heute schon deinen Rückkehrstempel bekommen? Hol dir für den 7. Stempel 2 seltene Tickets!
+item_pack_name_36	Verstärker-Angebot: Bronze! Katzenbatzen- & Gegenstandspaket
+item_pack_name_37	Verstärker-Angebot: Silber! Katzenbatzen- & Gegenstandspaket
+item_pack_name_38	Verstärker-Angebot: Gold! Katzenbatzen- & Gegenstandspaket
+item_conversion	%d Platinsplitter eingetauscht gegen<br><flash>Platinticket x %d</flash>
+fragment_message	Tausche 10 Platinsplitter<br>gegen 1 Platinticket.<br>Aktuelle Splitteranzahl: %d
+fragment_bonus	Hol dir mit jeder ${gatyaNumber}er-Kapselziehung<br>ein Platinsplitter-Geschenk!<br>Tausche 10 Platinsplitter<br>gegen ein <flash>Platinticket</flash>!
+applang	en
+equipment_error	Dieses Talent kann nur verwendet werden, wenn die Einheit<br>bereits die Fähigkeit "%@ gg. %@" hat.
+scratch_message	Du erhältst %s x %d
+scratch_SNS_000	Ich habe %d Katzenbatzen beim #BattleCatsScratcher gewonnen!<br>Jede Woche eine Chance auf einen großartigen Preis!<br><br>#TheBattleCats
+item_pack_name_39	Partypaket
+potential_skill_name57	Ziel: Aku
+assault_skip	(Es geht schon besser ...)<br><flash>1 Abschlusschance aufgefüllt!</flash><br>Du kehrst zur Levelauswahl zurück.<br><color=255,255,0>Verfügbare Abschlusschancen: 1/${countNum} ${assaultWord}</color>
+assault_word	(Volle Auffüllung in ${minutes2} Min.)
+potential_skill_name58	Durchdringend
+potential_skill_name59	Seelenstoß
+potential_skill_name60	Fluch
+demon_error_popup	<color=255,255,0>Du kannst dieses Level noch nicht versuchen.</color>
+demon_timelimit	Verbleibende Zeit: %d:%02d:%02d
+sealed_announce	Durch die Energie des Aku-Altars blockiert.<br>Aktuelle Stufenblockierung: %d
+sealed_release	Der Aku-Altar ist zerstört und einige Stufen wurden wiederhergestellt!<br><flash>Aktuelle Höchststufe: Stufe %d</flash>
+sealed_information	Du spürst die Macht des Aku-Altars ...<br><color=255,255,0>Aktuelle Höchststufe: Stufe %d</color>
+unlock_popup_message_101	<flash>Aku-Altäre erscheinen!</flash><br>Deine Aku-Forschung ist abgeschlossen und die Aku-Tore haben sich geöffnet!<br>Besuche das Katzenimperium, um dieses finstere Reich zu betreten ...
+unlock_popup_message_102	<flash>Die Katzenarmee hat Mamon den Priester besiegt!</flash><br>Doch die Rückkehr des Herrn der Zerstörung ist noch nicht verhindert ...
+unlock_popup_message_103	<flash>Abschlussbonus!</flash><br>Sonderkatze „%@“ freigeschaltet!<br>Aktiviere diese Katze im Verbesserungsmenü!
+unlock_popup_message_104	<flash>Aku-Altar zerstört!</flash><br>Die +-Level deiner Katzen wurden wiederhergestellt!
+demon_return_title	Nicht abgeholte Belohnungen verfügbar!<br>Besuche die Katzenbasis, um deine Belohnungen einzusammeln.<br>Kehre zurück zum Titelbildschirm ...
+demon_return_select	Nicht abgeholte Belohnungen verfügbar!<br>Besuche die Katzenbasis, um deine Belohnungen einzusammeln.<br>Kehre zurück zur Katzenbasis ...
+stage_restriction_charagroup_5	Einheiten aus „Herzklopfen-Katzkademie“
+stage_restriction_charagroup_6	„Sommerferienkatzen“-Insekteneinheiten
+scheme_item_param_87	nyanko9_en1
+scheme_popup_87	Battle Cats Quest<br>Collab Mission Reward 1<br><flash>You got %@ x%@!</flash>
+scheme_item_param_88	nyanko9_en2
+scheme_popup_88	Battle Cats Quest<br>Collab Mission Reward 2<br><flash>You got %@ x%@!</flash>
+scheme_item_param_89	nyanko9_en3
+scheme_popup_89	Battle Cats Quest<br>Collab Mission Reward 3<br><flash>You got %@ x%@!</flash>
+scheme_item_param_90	nyanko9_en4
+scheme_popup_90	Battle Cats Quest<br>Collab Mission Reward 4<br><flash>You got %@ x%@!</flash>
+scheme_item_param_91	nyanko9_en5
+scheme_popup_91	Battle Cats Quest<br>Collab Mission Reward 5<br><flash>You got %@ x%@!</flash>
+settlement_error	Zahlung nicht abgeschlossen.\nGegenstand wird geliefert, wenn die Zahlung abgeschlossen ist.
+tower_sns_006	Meine Katzenarmee hat Stufe %@ des Höllischen Turms überrannt! %s %s
+scheme_item_param_96	
+scheme_popup_96	<flash>Vielen Dank für deine Antworten!<br>Viel Spaß mit: %@%@!</flash>
+skip_description	${stageName1} wurde bereits abgeschlossen, sodass<br>du deine Reise mit <flash>${stageName2} beginnen kannst</flash>!
+stageskip_message_0	Du hast Level ${stageName1} des Himmlischen Turms abgeschlossen!<br>Beginne deine nächste Reise in Level <flash>${stageName2}</flash>!
+stageskip_message_1	Du hast Level ${stageName1} des Höllischen Turms abgeschlossen!<br>Beginne deine nächste Reise in Level <flash>${stageName2}</flash>!
+unlock_popup_message_106	<flash>„Kosmische Katzen“-Abschlussbonus!</flash><br>Glückwunsch zum Sieg über den Katzengott!</flash><br>Zur Belohnung ist Superkatze jetzt in Katzenkapseln+ verfügbar.
+unlock_popup_message_107	<flash>Katzenkapsel+ freigeschaltet!</flash><br>Lagerplatz erhöht von 64 → <color=255,255,0>128 Katzen</color>.<br>Tauschrate für Normale Katzen erhöht von 1 NP → <color=255,255,0>2 NP</color>.
+scratch_SNS_001	
+gama_jinja_01_popup	<flash>Vom Katzenschrein gesegnet!</flash><br>${itemNum} x ${itemName} erhalten!
+scratch_SNS_002	Ich habe %d Katzenbatzen aus dem Katzenrubbler #HeartbeatCatcademy bekommen!<br>Hol dir während des Events einmal pro Woche Gratis-Katzenbatzen!<br><br>#TheBattleCats #BattleCatsCatScratcher
+view_unavailable	Kein Medien verfügbar.
+view_limit_reached	Tägliches Videolimit erreicht.
+data_download_error_hash_mismatch	There is a problem with the save data. (Error Code TE01)<br>When sending an inquiry, please be sure to give your inquiry code and error code along with your request.
+data_download_error_could_not_load	There is a problem with the save data. (Error Code TE02)<br>When sending an inquiry, please be sure to give your inquiry code and error code along with your request.
+data_download_error_could_not_read_local_backup	There is a problem with the save data. (Error Code TE03)<br>When sending an inquiry, please be sure to give your inquiry code and error code along with your request.
+data_download_error_could_not_load_local_backup	There is a problem with the save data. (Error Code TE04)<br>When sending an inquiry, please be sure to give your inquiry code and error code along with your request.
+GiftMessage_020	<flash>Levelabschlussbonus 9</flash><br>Schließe das letzte Level von „Behemothgipfel“ ab,<br>um mit Glück die Sonderkatze<br>„Ältestenbestie Naala“ freizuschalten!
+unlock_popup_message_108	<flash>Katzaminlevel: „Blauer Schlag“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+scratch_SNS_003	Ich habe %d Katzenbatzen vom Kleinen Katzenrubbler erhalten! Probiere es aus und erhalte Katzenbatzen! <br><br>#TheBattleCats #LilCatScratcher
+unlock_popup_message_109	<flash>Katzaminlevel: „Verrückte Moneko schlägt zu“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_110	<flash>Katzaminlevel: „Morgenrot“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_111	<flash>Katzaminlevel: „Wandelnde Tote“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_112	<flash>Katzaminlevel: „Taifun-Nemo“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_113	<flash>Katzaminlevel: „Der große Diablo“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_114	<flash>Katzaminlevel: „Grund des Sumpfs“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_115	<flash>Katzaminlevel: „Irre Katze“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_116	<flash>Katzaminlevel: „Der irre Panzer“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_117	<flash>Katzaminlevel: „Die irre Axt“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_118	<flash>Katzaminlevel: „Die irren Stelzen“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_119	<flash>Katzaminlevel: „Die irre Kuh“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_120	<flash>Katzaminlevel: „Der irre Vogel“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_121	<flash>Katzaminlevel: „Der irre Fisch“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_122	<flash>Katzaminlevel: „Die irre Echse“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_123	<flash>Katzaminlevel: „Der irre Titan“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+unlock_popup_message_124	<flash>Katzaminlevel: „Die 2. Dimension“ freigeschaltet!</flash><br>* Setze zu einem beliebigen Zeitpunkt Katzamine ein, um dieses Level zu versuchen!
+drop_info_single	<color=0,0,0>Einmalige Beute für dieses Level ist</color><br><color=255,0,0>${dropContents}</color><color=0,0,0> <br>${statusWord}</color>
+drop_info_multi	<color=0,0,0>Einmalige Beute für dieses Level ist</color><br><color=255,0,0>${dropContents}</color><color=0,0,0> <br>${statusWord}</color>
+drop_contents1	${itemName} +${itemNum}
+drop_contents2	Einheit „${charaName}“
+drop_contents3	Wahre Form von „${charaName}“
+status_acquire	Du besitzt das bereits.
+status_unacquired	Du besitzt das noch nicht.
+scheme_item_param_77	
+AccountDelete_error01	Code konnte nicht erzeugt werden.<br>Überprüfe deine Netzwerkverbindung.
+AccountDelete_error02	Konto konnte nicht gelöscht werden.<br>Überprüfe deine Netzwerkverbindung.
+AccountDelete_error03	Der Code ist abgelaufen.<br>Bitte starte den Vorgang neu.
+boost_message	<color=255,0,255>Beschleuniger</color><br><color=0,0,0>Nutze diesen Gegenstand für einen Geschwindigkeitsschub<br>Tippe im Kampf auf das Gegenstandssymbol und wähle<br>zwischen Aus, Geschwindigkeit x2 und Geschwindigkeit x3.</color>
+item_possession	<color=178,178,178>(# Held: ${itemNum1} → ${itemNum2})</color>
+stage_restriction_charagroup_7	World Trigger Collab Unit
+slot_remove	Alle Einheiten werden aus der Kampfformation entfernt.
+remove_error	<color=255,255,0>Einheit kann nicht aus der Formation entfernt werden.</color>
+receive_honor_popup	<flash>%s</flash>
+labyrinth_SNS	Meine Katzenarmee hat %@ des Untergrund-Labyrinths geplündert! %s %s
+unusable_info	${unusableNum} Katzen sind in Fallen gefangen!<br>Diese Einheiten können<br>im nächsten Kampf nicht eingesetzt werden.
+change_info	${unusableNum} Katzen sind in Fallen gefangen!<br><color=255,255,0>Wähle ${usableNum} gefangene Einheiten,<br>um sie zu retten!</color>
+change_limit	<color=255,255,0>Du kannst keine weiteren Katzen retten.</color>
+change_lack	Wähle <color=255,255,0>${usableNum} weitere Katzen</color>, um sie zu retten!
+change_confirmation	Gefangene Katzen<br>können im nächsten Kampf nicht eingesetzt werden.<br>Ist das okay?
+labyrinth_start	Das Untergrund-Labyrinth ist jetzt verfügbar!<br>(Von ${startDate} bis ${endDate})<br>Wetteifere mit anderen Spielern darum, wer die tiefste Tiefe erreicht!<br>Erhalte Belohnungen je nach erreichter Tiefe!
+labyrinth_announce1	Ergebnisse aus dem Untergrund-Labyrinth<br>(Von ${startDate} bis ${endDate})<br>Letzter Rang: ${rankingNum}%!<br>Belohnungen können aus dem Briefkasten abgeholt werden<br>(Nicht abgeholte Belohnungen laufen nach 1 Monat ab)
+labyrinth_announce2	Ergebnisse aus dem Untergrund-Labyrinth<br>(Von ${startDate} bis ${endDate})<br>Letzter Rang: ${rankingNum}%!<br>Leider hast du keine Belohnungen erhalten.<br>Versuche es beim nächsten Mal!
+labyrinth_announce3	Das Untergrund-Labyrinth-Event ist vorüber!<br>Viel Glück bei deiner nächsten Höhlenerkundung!
+labyrinth_challenge_item	Im Untergrund-Labyrinth können<br>Beschleuniger und Katzencomputer so oft du willst verwendet werden!<br>*Ist der Beschleuniger aktiv, wird der Gegenstand verbraucht.
+labyrinth_play_error1	<color=255,255,0>Abgeschlossene Level des Untergrund-Labyrinths können nicht erneut gespielt werden.</color>
+labyrinth_play_error2	<color=255,255,0>Die Aufstellung erfüllt nicht die Anforderungen.<br>Bitte wähle 10 ausrüstbare Einheiten.</color>
+labyrinth_slot_error	<color=255,255,0>Zuvor verwendete Formationen können im Untergrund-Labyrinth nicht wiederverwendet werden.</color>
+labyrinth_slot_name	Team
+labyrinth_combo_error	<color=255,255,0>Der Fluch des Untergrund-Labyrinths<br>verhindert, dass du Katzenkombos benutzt.</color>
+labyrinth_cancel	Kampf verlassen?<br><color=255,0,0>Einige deiner Einheiten wurden gefangen!</color><br><color=178,178,178>* Gefangene Einheiten können im nächsten Kampf nicht in einer Formation genutzt werden.</color>
+labyrinth_result	${stageName} abgeschlossen!<br>Du bist in die Top ${rankingNum} % unter den Streifzugteams gekommen!
+cube_growup_1	${itemName} x${Num} wird verbraucht,<br>um ein Behemoth-Juwel herzustellen.
+unlock_popup_message_125	<flash>Levelabschluss-Belohnung!</flash><br>Die Wahre Form von Sondereinheit Dogumaru wurde freigeschaltet!<br>Nutze nach Stufe 30<br>XP und Material zum Entwickeln!
+unlock_popup_message_126	<flash>Levelabschluss-Belohnung!</flash><br>Die Wahre Form von Sondereinheit Urs & Fenrir wurde freigeschaltet!<br>Nutze nach Stufe 30<br>XP und Material zum Entwickeln!
+unlock_popup_message_127	<flash>Levelabschluss-Belohnung!</flash><br>Die Wahre Form von Sondereinheit Ältestenmaske Doron wurde freigeschaltet!<br>Nutze nach Stufe 30<br>XP und Material zum Entwickeln!
+unlock_popup_message_128	<flash>Levelabschluss-Belohnung!</flash><br>Die Wahre Form von Sondereinheit Ältestenbestie Naala wurde freigeschaltet!<br>Nutze nach Stufe 30<br>XP und Material zum Entwickeln!
+unlock_popup_message_129	<flash>Erhöhe die Stufenlimits!</flash><br>Katzen können mit Katzenaugen<br>höhere Maximalstufen erreichen!<br>(Benutzerrang 1600 nötig für Katzenauge-Einsatz)
+unlock_popup_message_130	<flash>Zero Legenden ist unter Legendäre Level erschienen.</flash><br>Kann in den Legendären Leveln herausgefordert werden.
+unlock_popup_message_131	<flash>Levelabschluss-Belohnung!</flash><br>Die Wahre Form von Sondereinheit Filibuster-Katze X wurde freigeschaltet!<br>Nutze nach Stufe 30<br>XP und Material zum Entwickeln!
+unlock_popup_message_132	<flash>Das Untergrund-Labyrinth wurde freigeschaltet!</flash><br>Es erscheint während des Events im Titelmenü.<br>Wähle „Untergrund-Labyrinth“, um zu spielen!
+item_pack_name_71	Geniales XP-Paket
+item_pack_name_72	Katzenaugen- & Kampfgegenstände-Paket
+item_pack_name_73	Katzenaugen-&-Seltenes-Ticket-Paket
+item_pack_name_8	Katzenbatzen-Aufstiegspaket
+item_pack_name_9	XP-Aufstiegspaket
+item_pack_name_10	Gegenstands-Aufstiegspaket
+item_pack_name_47	Katzenbatzen-Aufstiegspaket
+item_pack_name_48	XP-Aufstiegspaket
+item_pack_name_49	Gegenstands-Aufstiegspaket
+item_pack_name_67	Katzenbatzen-Aufstiegspaket
+item_pack_name_68	XP-Aufstiegspaket
+item_pack_name_74	Katzenbatzen-Aufstiegspaket
+potential_skill_warning01	Ultratalent freischaltbar auf <flash>St. ${level}</flash><br>※Gesamtstufe beinhaltet MAX+-Stufen
+potential_skill_warning02	Zweiter Talentkugelplatz freischaltbar auf <flash>St. ${level}</flash><br>※Gesamtstufe beinhaltet MAX+-Stufen
+potential_skill_option00	<flash>${charaName}</flash> hat<br>ein Ultra-Talent erhalten!
+potential_skill_option01	<flash>${charaName}</flash> hat<br>neuen Talentkugelplatz erhalten!
+potential_skill_option02	<flash>${charaName}</flash> hat<br>Ultratalent und Talentkugelplatz erhalten!
+potential_name1	Ultratalent 
+potential_skill_name61	Angriffsfrequenz+
+item_pack_name_75	Fortschrittspaket
+Castle_dev_finish03	<flash>${recipeName}-${partsName}: Verbesserung abgeschlossen!</flash>
+Castle_dev_finish04	<flash>Materialverschmelzung abgeschlossen!</flash><br>${itemName}　${value1} → <color=255,255,0>${value2}</color>
+Castle_lock06	Mehr Material benötigt!<br>*Außerdimensionales Material<br>erhältst du durch Verschmelzung.
+Castle_dev_start03	Beginn der Erweiterung: ${partsName} von ${recipeName}.
+Castle_dev_start04	Beginn der Materialverschmelzung.
+Castle_UnlockDataId_9	Baue eine Lähmungskanone<br>und schließe das legendäre Level „Labor der Relikte“ ab.
+Castle_UnlockDataId_10	Baue eine Eisenmauer<br>und schließe das legendäre Level „Labor der Relikte“ ab.
+Castle_UnlockDataId_11	Baue einen Blitzschlag<br>und schließe das legendäre Level „Labor der Relikte“ ab.
+Castle_UnlockDataId_12	Baue eine Wasserkanone<br>und schließe das legendäre Level „Labor der Relikte“ ab.
+Castle_UnlockDataId_13	Baue „Heiliger Bimbam“<br>und schließe das legendäre Level „Labor der Relikte“ ab.
+Castle_UnlockDataId_14	Baue einen Brecherschlag<br>und schließe das legendäre Level „Labor der Relikte“ ab.
+Castle_UnlockDataId_15	Baue einen Fluchschlag<br>und schließe das legendäre Level „Labor der Relikte“ ab.
+Castle_mixitem00	Verschmilz Material, um Fundament und Stil<br>der Katzenbasis zu verbessern.
+stage_restriction_charagroup_8	
+potential_skill_name62	Mini-Welle
+filter_option_description2	<color=0,0,0>Ziel/Fähigkeiten-Suchmodus ändern<br>ODER: Charaktere stimmen mit mindestens einem Kriterium überein<br>UND: Charaktere stimmen mit allen Kriterien überein</color>
+unlock_popup_message_133	<flash>Fundament- und Stilverbesserung und Verschmelzungsmaterial<br></flash>für Ototo-Trupp freigeschaltet! <br>Tippe auf den Gamatoto-Reiter in der Katzenbasis, um anzufangen!
+unlock_popup_message_134	<flash>+ Stufenlimit erhöht!</flash><br>Der Levelabschluss hat das Stufenlimit der Kleinen Katze<br>auf 45 erhöht!
+unlock_popup_message_135	<flash>+ Stufenlimit erhöht!</flash><br>Der Levelabschluss hat das Stufenlimit der Kleinen Katze<br>auf 50 erhöht!
+unlock_popup_message_136	<flash>+ Stufenlimit erhöht!</flash><br>Der Levelabschluss hat das Stufenlimit der Kleinen Katze<br>auf 55 erhöht!
+unlock_popup_message_137	<flash>+ Stufenlimit erhöht!</flash><br>Der Levelabschluss hat das Stufenlimit der Kleinen Katze<br>auf 60 erhöht!
+potential_skill_name63	Kolosstöter
+potential_skill_name64	Behemothtöter
+stage_restriction_charagroup_9	Katze
+potential_skill_name65	Mini-Zufallsangriff
+slot_SNS_002	Ich habe %d Katzenbatzen bei den Wildkatzen-Slots in #TheBattleCats gewonnen!<br><br>#BattleCats #9Years
+stageskip_message_2	„Baron Robbe schlägt zu!“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_3	„Grummelfant schlägt zu!“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_4	„Megabedrohung!“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_5	„Schreckensnilpferd!“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_6	„Der göttliche Erzengel schlägt zu“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_7	„Der große Peng Z schlägt zu“, „${stageName1}“ abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_8	„Angriff der Omen“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+unlock_popup_message_138	<flash>Überspringe Kämpfe mit dem Katzencomputer!</flash><br>Um die Levels zu überspringen, die du schon abgeschlossen hast und die Belohnungen zu erhalten, tippe auf das Symbol, wenn du Gegenstände auswählst.<br>Beachte: In manchen Leveln kannst du die Kämpfe nicht überspringen.
+ScatCPU_info1	<flash>${itemNum1}</flash>x „${itemName1}“ nutzen, um den Kampf zu überspringen?<br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_info2	<flash>Unbegrenzte Katzencomputer für alle!</flash><br>Möchtest du den Kampf überspringen?<br>Du kannst heute noch ${itemNum}-mal überspringen.
+ScatCPU_XPdrop	<color=255,255,0>Absoluter Sieg!</color><br>Du <flash>erhältst</flash> XP für den Abschluss des Levels!<br>XP +${itemNum}
+ScatCPU_message	<color=255,0,255>Der Katzencomputer</color><color=0,0,0> ist unterwegs.<br>Er ist nicht perfekt, schließlich wurde er von Katzen<br>programmiert, aber er wird mit Leveln fertig, die du<br>bereits abgeschlossen hast, wenn du auf das Symbol tippst!</color>
+ScatCPU_error1	Du hast die maximale Anzahl von Überspringen genutzt.<br>Die Anzahl wird um Mitternacht vollständig zurückgesetzt.
+ScatCPU_error2	Die Systemzeit wurde möglicherweise verändert.<br>Du kannst eine Weile keine Kämpfe überspringen.
+ScatCPU_error3	Nicht genügend Katzencomputer!<br>Zum Gegenstände-Shop?
+ScatCPU_error4	<flash>${itemNum1}</flash>X ${itemName1} nutzen, um den Kampf zu überspringen?<br><color=255,255,0>Du kannst damit aus Leveln keine Zeitlevel-Belohnungen erhalten.</color><br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_error5	Unbegrenzte Katzencomputer für alle!<br>Möchtest du den Kampf überspringen?<br><color=255,255,0>Du kannst damit aus Leveln keine Zeitlevel-Belohnungen erhalten, auch wenn sie verfügbar sind.</color><br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_error6	<flash>${itemNum1}</flash>X „${itemName1}“ nutzen, um den Kampf zu überspringen?<br><color=255,255,0>Folgelevel erscheinen nach Überspringen von Leveln nicht.</color><br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_error7	Unbegrenzte Katzencomputer für alle!<br>Möchtest du den Kampf überspringen?<br><color=255,255,0>Folgelevel erscheinen nach Überspringen von Leveln nicht.</color><br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_error8	Noch nicht abgeschlossene Kämpfe kannst du nicht überspringen.
+ScatCPU_error9	Kein Überspringen für dieses Level!<br>Jetzt ist die Zeit, aus eigener Kraft zu kämpfen!
+filter_option_description3	<color=0,0,0>Nur Katzen mit möglicher Weiterentwicklung anzeigen.</color>
+filter_option_description4	<color=0,0,0>Nur Katzen mit aktiver Talente-Schaltfläche anzeigen.</color>
+chapter_name_8	Kosmische Katzen, Kapitel 2
+labyrinth_autoslot	Einheiten werden automatisch eingewechselt, wenn sie verfügbar sind.
+push_permission	Aktiviere die Einstellung "Wecker & Erinnerungen",<br>um zu passenden Zeiten Benachrichtigungen zu erhalten.<br><color=255,255,0>Deine Android-Einstellungen öffnen?</color>
+purchase_unavailable_android	Kann nicht bei Google Play gekauft werden.<br>Bitte überprüfe deine Verbindung und vergewissere<br>dich, dass du bei Google Play eingeloggt bist.
+purchase_unable_ios	Kauf über App Store fehlgeschlagen. Bitte überprüfe deinen Netzwerk- und App Store-Anmeldestatus.
+purchase_unable_android	Kauf über Google Play fehlgeschlagen. Bitte überprüfe deinen Netzwerk- und Google Play-Anmeldestatus.
+drop_contents4	Ultra-Form von „${charaName}“
+drop_popup_chara_third_evolve2	%@<br>%@ Ultra-Form von<br>„%@“ enthüllt!<br><flash>Bei Erreichen von Stufe 50 freischalten!</flash>
+mission_receive_item_chara_evolve2	<color=255,255,0>Ultra-Form-Belohnung: „${charaName}“</color>
+receive_item_popup_chara_evolve2	Ultra-Form: %s
+GiftMessage_021	<flash>Levelabschlussbonus 10</flash><br>Schließe das letzte Level von Garten der verdorrten Gedanken ab<br>und erhalte eine kleine Chance,<br>Meister der Gedanken Soraktes zu erhalten!
+potential_skill_name66	Weiser Töter
+item_pack_name_76	Katzencomputer-Paket
+stage_SPChara_warning	Diese Einheit kann noch nicht eingesetzt werden!
+item_pack_name_77	Limit. Einheit kaufen: „Rektor Katze“
+enemy_info_unknown	<color=255,255,0>Diesen Feind in der Feindefibel ansehen<br>nach Sieg, Niederlage oder 10 Sek. Kampf.</color>
+enemy_info_not_found	<color=255,255,0>Dieser unbekannte Feind wurde<br>der Feindefibel noch nicht hinzugefügt.</color>
+comeback_push_01	Die Katzen vermissen dich …
+equipment_fault	*Fügt der aktuellen Form keine Effekte hinzu.
+equipment_fault_equip	<color=255,255,0>${errorMessage}</color>
+gamatotoReward_4	${itemName} + ${itemNum}
+item_pack_name_78	Limit. Einheit kaufen: „Dotty Cat“
+item_pack_name_80	Sonderangebot: Kaufe ein seltenes Ticket!
+stageskip_message_9	Gigahaniwan schlägt zu! ${stageName1} abgeschlossen!<br>Beim nächsten Mal kannst du bei <flash>${stageName2}</flash> anfangen!
+clear_adreward_1	XP-Boost-Chance!<br>Werbung ansehen, eine <flash>XP ${xp} x2</flash>-Belohnung erhalten?
+reward_freegatya	Sieh dir Werbung an, um aus den<br>Glückskapseln zu ziehen (nur einmal pro Tag).
+Itemshop_ad_popup1	Werbung ansehen, um XP +${xp} zu erhalten?
+clear_adreward_2	<flash>XP +${xp}</flash> verdient!
+lose_retry_ad	Geld MAX, Katzenkanone AUFGELADEN!
+Itemshop_ad_popup2	XP verdient: +${xp}!
+stage_restriction_limit_6	${rarity}: ${value} oder weniger
+SpecialRuleName000	Treuhandkonto
+SpecialRuleName001	Selbe Abklingzeit
+SpecialRuleExplanation000	(Treuhandkonto)<br>Beginne den Kampf mit einem Haufen Geld,<br>aber erhalte kein Geld über Zeit<br>oder bei Siegen über Feinde.
+SpecialRuleExplanation001	(Selbe Abklingzeit)<br>Einsatzabklingzeiten werden für alle<br>verbündeten Einheiten auf die gleiche Rate gesetzt.
+treasure_get	Doppeltippe auf ein Symbol, um zu einem Level zu reisen, in dem diese Belohnung erhältlich ist.
+treasure_geterror	Zu einem noch nicht freigeschalteten Level kannst du nicht reisen.
+treasure_popup1	<color=255,255,0> ${treasureRank} ${treasureName}</color> ${text} ${stageName}
+treasure_popup2	 ${treasureRank} ${text} ${stageName}
+treasure_popup3	 ${treasureName}
+item_pack_name_81	Herausfordererangebot: XP-&-Seltenes-Ticket-Paket!
+item_pack_name_82	
+scratch_SNS_004	Ich habe %d Katzenbatzen beim #BattleCatsScratcher gewonnen!<br>Jede Woche eine Chance auf einen großartigen Preis!<br><br>#TheBattleCats #CatsOfSummer2025
+slot_SNS_003	Ich habe %d Katzenbatzen bei den Wildkatzen-Slots in #TheBattleCats gewonnen!<br><br>#BattleCats #10Years
+Account_iOS13_error	Anmeldung mit Apple-ID nicht für Geräte mit iOS 12 oder niedriger verfügbar.
+gamatoto_shortcut	Gamatoto-Bildschirm aufrufen?
+mission_receive_bulk	Alle Missionsbelohnungen erhalten.
+mission_receive_bulk_item	${itemName} x ${itemNum}
+mission_receive_bulk_item_chara	Einheit: „${charaName}“
+mission_receive_bulk_item_chara_evolve	Einheit: „${charaName}“ Wahre Form
+mission_receive_bulk_item_chara_evolve2	Einheit: „${charaName}“ Ultra-Form
+mission_receive_bulk_item_xp	${itemName} + ${itemNum}
+mission_receive_bulk_not_all	<color=255,255,0>Du hast zu viele Gegenstände,<br>um alle Missionsbelohnungen abzuholen.</color>
+mission_txt	${missionNum} Mission(en) abgeschlossen!
+SpecialRuleExplanation004	(Superselt.-AV)<br>Superseltene Einheiten können zum halben Preis<br>mit der Hälfte der Abklingzeit eingesetzt werden.
+SpecialRuleName004	Superselt.-AV
+stage_restriction_limit_7	Einsetzbare Einheiten jeder Seltenheit: <color=255,255,0>%@</color>
+stage_restriction_limit_8	${rarity} x${value}
+stage_shortcut	Die „${stageName}“-<br>Levelauswahl aufrufen?<br>${specialText}
+stage_shortcut_nekovitan	Die Levelauswahl für<br>Katzaminlevel<br>„${stageName}“ aufrufen?<br>${specialText}
+stage_shortcut_no_interval_times	<color=255,255,0>Du kannst dieses Level noch nicht versuchen.<br>(Keine Levelversuche übrig)</color>
+stage_shortcut_not_found	<color=255,255,0>Du kannst dieses Level noch nicht versuchen.<br>(Level noch nicht freigeschaltet)</color>
+stage_shortcut_out_of_term	<color=255,255,0>Du kannst dieses Level noch nicht versuchen.<br>(Level aktuell nicht verfügbar)</color>
+talk_005_push	Setzen wir unser Katzengespräch fort!
+cube_guide	Behemothjagd-Level sind täglich<br>als Blitz-Events verfügbar. Mehr Details<br>findest du im Event-Kalender!
+cube_guide_common1	*Am einfachsten im Behemothjagd-Level<br>„Versteckter Gapra-Wald“ zu sammeln.
+cube_guide_common2	*Am einfachsten im Behemothjagd-Level<br>„Ashvini-Wüste“ zu sammeln.
+cube_guide_common3	*Am einfachsten im Behemothjagd-Level<br>„Jinfore-Vulkan“ zu sammeln.
+gamatoto_error_popup1	Du kannst nicht erneut erkunden, ohne<br>vorher auf eine Expedition zu gehen!
+gamatoto_error_popup2	Du kannst nicht erneut erkunden, weil die<br>vorherige Expedition nicht mehr verfügbar ist.
+gamatoto_popup1	${areaName}<br>erneut erkunden ${timeText}<br>${bonuspop}
+gamatoto_popup2	Du hast das Limit für<br>Katzenhelfer und Ototo-Ingenieure erreicht.<br>Möchtest du ${gamatotoName} [${gamatotoRarity}]<br>in den Ruhestand versetzen?
+gamatoto_popup3	Du hast mehr Katzenhelfer<br>als erlaubt.<br>Möchtest du ${gamatotoName} [${gamatotoRarity}]<br>als Ingenieur in den Ruhestand versetzen?
+gamatoto_popup4	Du hast mehr Katzenhelfer<br>als erlaubt.<br>Möchtest du ${gamatotoName} [${gamatotoRarity}]<br>als Helfer in den Ruhestand versetzen?
+gamatotoBonus	Gamatoto-Gespür hat sich verbessert!
+gamatotoBonus_popup1	<flash>Gamatoto ist im Arbeitsrausch!</flash><br>Ein Aura-Gegenstand garantiert!<br>Verbleibende Arbeitsrausch-Expedition: ${expeditionNum}
+gamatotoBonus_popup2	Gamatoto ist nicht mehr im Arbeitsrausch ...
+gamatotoBonus_popup3	Mindestens 1 Gegenstand mit Aura für eine beliebige Expedition garantiert!<br><color=255,255,0>Verbleibende Arbeitsrausch-Expeditionen: ${expeditionNum}</color>
+gamatotoBonus_popup4	<color=255,0,255>Während Arbeitsrausch einer garantiert!</color>
+gamatotoBonus_popup5	<color=255,255,0>Verbleibende Arbeitsrausch-Expeditionen: ${expeditionNum}</color>
+GiftMessage_022	<flash>Im heiligen Wald (Stufe 4) erscheint eine seltsame Lebensform!</flash>
+item_pack_name_83	Benutzerrang-300-Angebot kaufen
+legend_warning_01	<color=255,255,0>Schließe alle Stufen der „Unheimliche Legenden“-Level ab,<br>um dieses Level zu versuchen.</color>
+matatabi_guide_common	*Katzamin-Level sind täglich verfügbar.
+matatabi_guide_guerrilla	${stageName} ist täglich als<br>Blitzlevel verfügbar. Mehr Details<br> findest du im Event-Kalender!
+matatabi_guide_special	*Epische Katzenfrüchte haben eine feste Beuterate.
+matatabi_guide1	„${stageName}“ ist<br>jeden Montag verfügbar<br>${commonText}
+matatabi_guide2	„${stageName}“ ist<br>jeden Dienstag verfügbar<br>${commonText}
+matatabi_guide3	„${stageName}“ ist<br>jeden Mittwoch verfügbar<br>${commonText}
+matatabi_guide4	„${stageName}“ ist<br>jeden Donnerstag verfügbar<br>${commonText}
+matatabi_guide5	„${stageName}“ ist<br>jeden Freitag verfügbar<br>${commonText}
+matatabi_transition	Benötigt „${itemName}“<br>Ein Ziel wählen?
+medama_complete	Sondergegenstand FERTIG!
+medama_rennsuu	Verdiene einen Sondergegenstand, nachdem du die Kapseln ${value}-mal benutzt hast!
+SpecialRuleExplanation002	(Nur eine Seltenheit)<br>Nur eine Einheit jeder Seltenheit kann gleichzeitig eingesetzt werden.<br>Du kannst deine Katzenarmee nach Wunsch zusammenstellen.
+SpecialRuleExplanation003	(Billige Arbeitskraft)<br>Der Einsatz aller verbündeten Einheiten<br>kostet 500￠.
+SpecialRuleName002	Nur eine Seltenheit
+SpecialRuleName003	Billige Arbeitskraft
+stage_challenge_conditions	„${mapName}“<br>${stagelimitText1}<br>${stagelimitText2}<br>${stagelimitText3}
+stage_restriction_limit_9	Einsetzbare Einheiten: <color=255,255,0> x${value}</color>
+unlock_popup_message_139	<flash>Eine mysteriöse Lebensform ist<br>im uralten Waldlabyrinth erschienen!</flash>
+unlock_popup_message_140	<flash>Levelabschluss-Bonus!</flash><br>Wahre Form für<br>Idi:N freigeschaltet. Erreiche St. 30 und<br>nutze XP und Gegenstände zum Entwickeln!
+cert_tutorial1	<color=255,255,0>Level mit festen Aufstellungen</color><br>Dies sind Level mit voreingestellten Einheiten,<br>Katzenkanonen-Einstellungen und Schätzen. Tippe auf<br>die Schaltfläche unten, um deine Einheiten zu prüfen!
+cert_tutorial2	Sieh dir vor Kampfbeginn einen Tipp<br>für Level mit festen Aufstellungen an!<br>Tippe auf die Level-Schaltfläche, um ihn zu sehen!
+cert_tutorial3	Tippe auf das Symbol, um mehr Informationen anzuzeigen!<br>Du kannst Feinde, einmalige Belohnungen<br>und andere wichtige Informationen prüfen!
+fixed_formation_popup	Dieses Level hat eine feste Aufstellung.<br>Die Formation ist nicht änderbar.<br>*Details können im Pausenmenü eingesehen werden.
+fixed_formation_slot_name	Festgelegt
+hint_popup000	<color=0,0,0>Es gibt viele Arten von Feinden, darunter<br>Rote, Schwarze und Aliens.<br>Gegen rote Feinde sind <color=0,0,255>Axtkatze<color=0,0,0> und<br><color=0,0,255>Fischkatze<color=0,0,0> effektiv.</color>
+hint_popup001	<color=0,0,0>Für Distanzangreifer wie <color=0,0,255>Lehrerbär<color=0,0,0> nutze<br>Einheiten wie <color=0,0,255>Echsenkatze<color=0,0,0> mit großer Reichweite.<br>Für starke Angreifer wie <color=0,0,255>Le'boin<color=0,0,0> sind harte<br>Einheiten wie <color=0,0,255>Titanenkatze<color=0,0,0> bestens geeignet.<br>Nutze die Stärken einer Katzeneinheit zum Sieg!</color>
+hint_popup002	<color=0,0,0>Maschinenähnliche eiserne Feinde<br>erleiden nur sehr wenig Schaden.<br>Um mit ihnen fertigzuwerden nutze<br>Einheiten mit der <color=0,0,255>kritischen <color=0,0,0>Fähigkeit.</color>
+hint_popup003	<color=0,0,0>Lila Zombie-Feinde können wiederauferstehen,<br>auch wenn sie besiegt wurden.<br><color=0,0,255>Zombietöter<color=0,0,0>-Einheiten können Zombies<br>besiegen und die Wiederauferstehung verhindern.</color>
+hint_popup004	<color=0,0,0>Schnelle und unerbittliche Feinde<br>können durch den Einsatz von<br>Einheiten aufgehalten werden, die kostengünstig<br>sind und eine hohe Vitalität aufweisen.</color>
+hint_popup005	<color=0,0,0>Manche Bosse tauchen erst auf, wenn<br>die feindliche Basis angegriffen wird.<br>Achte darauf, dass du dich mit Geld eindeckst, bevor du dich<br>durch die feindlichen Truppen schlägst.</color>
+hint_popup006	<color=0,0,0>Schwächungszauber wie <color=0,0,255>Einfrieren und Lähmen<color=0,0,0><br>sind eine effektive Lösung<br>gegen Feinde mit Werten.<br>Nutze Einheiten mit Schwächungseffekten<br>gegen Feinde mit Werten, um zu siegen!</color>
+hint_popup007	<color=0,0,0>Einige Feinde haben Barrieren,<br>die Schaden aufheben. Diese können entweder durch<br>einen starken Angriff oder eine Einheit<br>mit der Fähigkeit <color=0,0,255>Abwehrbrecher<color=0,0,0> zerstört werden.</color>
+hint_popup008	<color=0,0,0>Zombies lauern im Untergrund,<br>wenn sie sich in der Nähe einer Katzeneinheit befinden.<br>Verhindere dieses Manöver, indem du<br>den Einsatz deiner Einheiten entsprechend abpasst.</color>
+mission_receive_bulk_item_map	Herausforderungserlaubnis für „${mapName}“
+mission_receive_item_map	<color=255,255,0>Belohnung: Herausforderungserlaubnis für „${mapName}“</color>
+SpecialRuleExplanation005	(Einsatzgrenze)<br>Es können maximal 60 Einheiten<br>eingesetzt werden.
+SpecialRuleName005	Einsatzgrenze
+unlock_popup_message_141	<flash>Du hast ★ Rang 1 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 1 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_142	<flash>Du hast ★ Rang 2 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 2 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_143	<flash>Du hast ★ Rang 3 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 3 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_144	<flash>Du hast ★ Rang 4 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 4 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_145	<flash>Du hast ★ Rang 5 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 5 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_146	<flash>Du hast ★ Rang 6 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 6 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_147	<flash>Du hast ★ Rang 7 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 7 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_148	<flash>Du hast ★ Rang 8 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 8 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_149	<flash>Du hast ★ Rang 9 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 9 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_150	<flash>Du hast ★ Rang 10 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 10 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_151	<flash>Du hast ★ Rang 11 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 11 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+unlock_popup_message_152	<flash>Du hast ★ Rang 12 erreicht!</flash><br>Dein neuer Rang steht auf deiner Offiziersklub-Karte.<br>Level, die mit Rang 12 abgeschlossen werden können,<br>sind mit rosa ★ gekennzeichnet.
+autoSave_txt7	Code anzeigen
+item_pack_name_85	Nachschlag-Angebot
+item_pack_name_86	Angebot für Champions
+mission_receive_bulk_not_part	<color=255,255,0>Maximale Gegenstandsanzahl erreicht.</color><br>Überzählige Gegenstände werden nicht eingesammelt.<br>Belohnungen einsammeln und Mission abschließen?
+SpecialRuleExplanation006	(Sonderausverkauf)<br>Einheiten der Seltenheit „Spezial“ können<br>für 30 % der Kosten mit 30 % der Abklingzeit eingesetzt werden.
+SpecialRuleName006	Sonderausverkauf
+equipment_attribute_common	Feinde mit Werten
+equipment_filteringMiss	<color=255,255,0>Es wurden keine Talentkugeln<br>gefunden, die zu diesen Filtern passen.</color>
+gamatoto_shortcut_error	<color=255,255,0>Du musst das Level Katzenimperium<br>Kap. 1 „Griechenland“ abschließen,<br>um Gamatoto-Expeditionen freizuschalten.</color>
+item_pack_name_87	100-Mio.-DL-Feier-Ticket-Paket kaufen
+item_pack_name_88	
+potential_skill_name67	Explosion
+slot_SNS_006	Ich habe %d Katzenbatzen bei den Wildkatzen-SlotsⅡ in #TheBattleCats gewonnen!<br><br>#BattleCats  
+SpecialRuleExplanation007	[Megaselten +1]<br>Entsende 2-mal die<br>gleiche megaseltene Einheit.
+SpecialRuleName007	Megaselten +1
+unlock_popup_message_153	<flash>Talente der Heiligen Walkürenkatze freigeschaltet!</flash><br>Der Abschluss der Prüfung hat neue Kräfte entfesselt.<br>Zur wahren Form entwickeln und Lv. 30 erreichen,<br>um Fähigkeiten im Verbesserungenmenü freizuschalten/zu verbessern.
+unlock_popup_message_154	<flash>Talente der Erwachten Bahamut-Katze freigeschaltet!</flash><br>Der Abschluss der Prüfung hat neue Kräfte entfesselt.<br>Zur wahren Form entwickeln und Lv. 30 erreichen,<br>um Fähigkeiten im Verbesserungenmenü freizuschalten/zu verbessern.
+assault_skip_battle_result	(Es geht schon besser ...)<br><flash>1 Abschlusschance aufgefüllt!</flash><br>Du kehrst zur Levelauswahl zurück.<br>
+assault_skip_battle_skip	(Es geht schon besser ...)<br><flash>1 Abschlusschance aufgefüllt!</flash><br>Versuche dieses Level jederzeit wieder!<br>
+BonusExplanationLabel000	(Punktebonus: Schwächen)<br> Belegt Feinde mit Schwächen<br>* Verdiene mehr Punkte mit Katzen, die weniger Zieltypen haben.<br>Weitere Details findest du unter „Was ist die Arena des Schicksals?“ unten links im Menü.
+BonusNameLabel000	Schwächen
+gama_collabo_04_charatext	
+gama_collabo_04_name	
+gama_collabo_04_popup	
+item_pack_name_89	Kaufe: Platin-Doppelangebot, Teil 1
+item_pack_name_90	Kaufe: Platin-Doppelangebot, Teil 2
+leadershipreturn_pop1	Aus dem Kampf fliehen?<br><color=255,255,0>Ausgegebene Energie wird wiederhergestellt.</color>
+leadershipreturn_pop2	In diesem Level können keine Fortsetzungen eingesetzt werden.<br>Ausgegebene Energie wird wiederhergestellt.
+leadershipreturn_pop3	In diesem Level ausgegebene Energie wird<br>bei Niederlage oder Flucht wiederhergestellt.<color=255,255,0>Für Sonderlevel ausgegebene Energie wird nicht wiederhergestellt.</color>
+leadershipreturn_pop4	In diesem Level ausgegebene Energie wird<br>bei Niederlage oder Flucht wiederhergestellt.
+map_minutes_empty	(Keine Energie ... Kann nicht weiter ...)<br>${itemNum} Katzamin [A] verwenden?<br>Eine Abschlusschance wird wiederhergestellt.<br><color=255,255,0>Verfügbare Abschlusschancen: 0/${countNum} (Abschlusschance wird in ${minutes1} Min. wiederhergestellt)</color>
+receive_item_popup_annotation_1	* Schatztruhen werden ins Talentkugellager geschickt.
+SpecialRuleExplanation008	(Megakatzenkanone) <br>Katzenkanonen-Kraft wird mit 100 multipliziert!<br>* Die Angriffskraft von Kanonen-Spezialeffekten wie Blitzschlag ist davon nicht betroffen.
+SpecialRuleName008	Megakatzenkanone
+SpecialRuleReset000	<color=255,255,0>Kriegskasse zurückgesetzt!</color><br>Das zum Entsenden von Katzen<br>verwendete Geld wurde zurückgesetzt!
+treasure_box_error_1	Du benötigst noch ${itemNum} Katzenbatzen.<br>Möchtest du den Futterladen aufrufen?
+treasure_box_get_confirm	„${itemName}“<br>einsammeln?
+treasure_box_item	<color=255,255,0>${itemName}</color>
+treasure_box_last_one	Nutze ${itemNum} Katzenbatzen<br>und erhalte eine Chance auf die Gegenstände unten.
+treasure_box_open	Ziehe zufällig einen der unteren Gegenstände.
+treasure_box_probability	* Alle Gegenstände haben die gleiche Chance, gezogen zu werden.<br>* Tippe auf ein Symbol, um mehr zu erfahren.
+treasure_box_redraw	* Für ${itemNum} Katzenbatzen erneut ziehen?
+treasure_box_redrow_probability	* Alle Gegenstände haben die gleiche Chance, gezogen zu werden.<br>* Bereits gezogene Gegenstände werden nicht erneut gezogen.
+treasure_box_result	<color=255,255,0>Du hast ${itemName} gezogen!</color><br>Mit Katzenbatzen kannst du erneut ziehen.
+treasure_box_result_2	* Nach einer erneuten Ziehung kann der aktuelle Gegenstand nicht mehr erhalten werden.
+treasure_box_result_last_one	<color=255,255,0>Du hast ${itemName} gezogen!</color><br>Keine weiteren erneuten Ziehungen verfügbar.
+gama_collabo_05_popup	<flash>Sonic the Hedgehog Collab!</flash><br>Chao joins the Gamatoto Expeditions!<br>Earn more items during the collab!<br>※Does not apply to Cat Food.
+gama_collabo_05_name	Chao
+gama_collabo_05_charatext	Chao has joined Gamatoto Expeditions!<br>Earn more item rewards during the collab!<br>※Does not apply to Cat Food.
+GiftMessage_023	<flash>Levelabschluss-Belohnung 11</flash><br>Schließe das letzte Level aus<br>„Schlingender Schlund der Wahrheit“ ab<br>für eine Chance, Weiser des logischen Newton zu erhalten.
+slot_SNS_005	Ich habe %d Katzenbatzen bei den Wildkatzen-SlotsⅡ in #TheBattleCats gewonnen!<br><br>#BattleCats  
+SpecialRuleExplanation009	【Im Gleichschritt】<br>Alle feindlichen Einheiten<br>bewegen sich im gleichen Tempo.
+SpecialRuleExplanation010	【Besondere +1】<br>Sondereinheiten werden automatisch<br>doppelt eingesetzt.
+SpecialRuleName009	Im Gleichschritt
+SpecialRuleName010	Besondere +1
+talk_008_push	Wir sollten unser Gespräch über Verstärkung fortsetzen!
+BonusExplanationLabel001	(Punktebonus: Rückstoß)<br>Stoße Feinde zurück.<br>* Verdiene mehr Punkte mit Katzen, die weniger Zieltypen haben.<br>Weitere Details findest du unter „Was ist die Arena des Schicksals?“ unten links im Menü.
+BonusNameLabel001	Rückstoß
+hidden_rarity_3	Illusionskarte
+item_pack_name_84	Sonderangebot: 3 seltene Tickets!
+nyancombo_error1	<color=255,255,0>Die für diese Katzenkombo benötigten Einheiten können<br>nicht hinzugefügt werden, da deine Aufstellung<br>angeheftete Katzen enthält.</color>
+SpecialRuleExplanation011	(Mega-Abschluss)<br>Es kann immer nur 1 megaseltene Einheit<br>eingesetzt werden, die Kosten betragen aber<br>nur 5 % und die Abklingzeit ist um 50 % reduziert.
+SpecialRuleName011	Mega-Abschluss
+slot_autoset_error_1	<color=255,255,0>Man weiß nicht, welche Feinde in diesem Level erscheinen ...</color>
+slot_autoset_error_2	<color=255,255,0>Keine verfügbaren Einheiten können in diesem Level antreten.</color>
+slot_autoset_error_3	<color=255,255,0>Einheiten können nicht gewechselt werden.</color>
+slot_tutorial_txt1	<color=255,255,0>Auto-Auswahl</color><br>Tippe auf die Schaltfläche und lege eine empfohlene<br>Aufstellung für das Level fest! Verfügbar für Level<br>mit sichtbaren erscheinenden Feinden!
+slot_tutorial_txt2	<color=255,255,0>Einheiten anheften</color><br>Tippe auf eine Einheit und behalte sie auch nach der<br>Auto-Auswahl in der Aufstellung! Erneut antippen, um das Anheften umzuschalten!
+BonusExplanationLabel002	【Punktebonus: Stark gegen】<br>Greife Feinde an, gegen die eine Katze stark ist.<br>* Verdiene mehr Punkte mit Katzen, die weniger Zieltypen haben.<br>Weitere Details findest du unter „Was ist die Arena des Schicksals?“ unten links im Menü.
+BonusNameLabel002	Stark gegen
+calendar_day	${day} Tage
+calendar_limit	99+ Tage
+cube_guide_yellow	Ashvini-Wüste/Jinfore-Vulkan sind täglich<br>als Blitz-Events verfügbar. Mehr Details<br>findest du im Event-Kalender!
+equipment_error2	Dieses Talent kann nicht bei einer Einheit<br>mit „%@“-Fähigkeit eingesetzt werden.
+filter_equipment_err1	<color=255,255,0>Es konnten keine Einheiten mit<br>dem ausgewählten Talent gefunden werden.</color>
+filter_equipment_tutorial	Filtere die angezeigten Einheiten mit<br>ausgerüsteten Talentkugeln nach<br>Rang, Ziel, Effekt und/oder Fähigkeit.
+filter_option_description5	<color=0,0,0>Zeigt Katzen an, die das ausgewählte<br>Ziel/den ausgewählten Effekt<br>nach der Entwicklung/Verstärkung haben.</color>
+ScatCPU_ad_confirm	Chance auf XP-Schub bei Levelabschluss!<br>Eine Anzeige ansehen und folgende Belohnung für Levelabschluss erhalten:<br><flash>${xp} XP x2</flash>?
+ScatCPU_ad_result	<flash>MEHR</flash> XP beim Levelabschluss!<br><flash>${xp}</flash> XP
+scratch_SNS_005	
+slot_SNS_004	Ich habe %d Katzenbatzen bei den Wildkatzen-Slots in #TheBattleCats gewonnen!<br><br>#BattleCats #11YearsOfBattleCats
+SpecialRuleExplanation012	【Limitiert】<br>Während dieses Kampfes können nur 50 Einheiten<br>entsendet werden, aber<br>alle Einheiten haben dieselbe Erholungszeit.
+SpecialRuleName012	Limitiert
+talk_007_push	Ich habe Neuigkeiten zur Katzenhochzeit!
+talk_009_push	
+BonusExplanationLabel003	【Punktebonus: Einfrieren】<br>Friere Feinde ein.<br>* Verdiene mehr Punkte mit Katzen, die weniger Zieltypen haben.<br>Weitere Details findest du unter „Was ist die Arena des Schicksals?“ unten links im Menü.
+BonusNameLabel003	Einfrieren
+item_pack_name_91	Kaufe: Kollab.-Feier-Paket
+SpecialRuleExplanation013	(Spottbillig)<br>Der Einsatz aller verbündeten Einheiten<br>kostet 10￠.
+SpecialRuleExplanation014	(Zahltag)<br>Du beginnst mit einem Riesenhaufen Geld, verdienst aber<br>kein Geld durch verstreichende Zeit oder besiegte Feinde.<br>Abklingzeit für megaseltene Einheiten auf 20 % verringert.
+SpecialRuleName013	Spottbillig
+SpecialRuleName014	Zahltag
+treasure_festival_default	<flash>Schatzfest hat begonnen!</flash><br>Das ist deine Chance, dir haufenweise Schätze zu sichern!☆<br>ERHÖHTE Chance auf Schätze in allen Leveln!
+treasure_festival_comeback	<flash>Schatzfest hat begonnen!</flash><br>Eine besondere Chance für wiederkehrende Spieler!☆<br>ERHÖHTE Chance auf Schätze in allen Leveln!
+treasure_festival_comeback_start	Nur für wiederkehrende Spieler!<br>Schatzfest hat begonnen!
+unlock_popup_message_155	<flash>Talente des Metafilibusters freigeschaltet!</flash><br>Der Abschluss der Prüfung hat neue Kräfte entfesselt.<br>Zur wahren Form entwickeln und Lv. 30 erreichen,<br>um Fähigkeiten im Verbesserungenmenü freizuschalten/zu verbessern.
+unlock_popup_message_156	<flash>In Kosmische Katzen Kapitel 3<br>ist eine neue Lebensform aufgetaucht!</flash>
+unlock_popup_message_157	<flash>Talente von Katzengott dem Goldenen freigeschaltet!</flash><br>Hey! Wie läufts?!<br>Willst du mal sehen, wie stark ich geworden bin?<br>Wirf mal einen Blick ins Verbesserungsmenü!

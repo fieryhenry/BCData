@@ -1,0 +1,89 @@
+id	enable	display	server	server set	limitid	productName	HTMLName	priority	limitid2	userrank	day	ItemCategory1	ItemID1	Quantity1	ItemCategory2	ItemID2	Quantity2	ItemCategory3	ItemID3	Quantity3	ItemCategory4	ItemID4	Quantity4	ItemCategory5	ItemID5	Quantity5	ItemCategory6	ItemID6	Quantity6	ItemCategory7	ItemID7	Quantity7	ItemCategory8	ItemID8	Quantity8	ItemCategory9	ItemID9	Quantity9
+0	1	0	800	-1	-1	item_pack1	ouensale_pack	10	0	0	0	0	22	160	0	6	30000	0	1	1	0	5	1
+1	1	0	800	-1	-1	item_pack2	ouensale_pack	10	0	0	0	0	22	400	0	6	50000	0	1	2	0	2	2	0	5	2
+2	1	0	800	-1	-1	item_pack3	ouensale_pack	10	0	0	0	0	22	1100	0	6	100000	0	1	4	0	2	4	0	4	4	0	5	4
+3	1	0	801	-1	-1	matatabi_set1	genteisale_pack	40	0	0	0	0	22	900	0	6	100000	0	36	1	0	37	1	0	39	1	0	38	1	0	35	1
+4	1	0	801	-1	-1	matatabi_set2	genteisale_pack	40	0	0	0	0	22	1900	0	6	500000	0	36	1	0	37	1	0	39	1	0	38	1	0	35	1	0	40	1
+5	1	0	801	-1	-1	matatabi_set3	genteisale_pack	40	0	0	0	0	22	4000	0	6	1000000	0	36	2	0	37	2	0	39	2	0	38	2	0	35	2	0	40	2
+6	1	0	802	-1	-1	rare_ticket	rare_ticket	30	0	0	0	0	21	1
+7	1	0	803	-1	-1	platinum_ticket	intro_platinum	50	0	0	0	0	29	1	0	22	100	0	6	100000
+23	1	3	810	-1	-1	nekokan_pack1	introduction	20	0	0	0	0	22	160	0	6	30000	0	1	1	0	5	1
+24	1	3	810	-1	-1	nekokan_pack2	introduction	20	0	0	0	0	22	400	0	6	50000	0	1	2	0	2	2	0	5	2
+25	1	3	810	-1	-1	nekokan_pack3	introduction	20	0	0	0	0	22	1100	0	6	100000	0	1	4	0	2	4	0	4	4	0	5	4
+8	1	2	-1	-1	0	rankup_sale1	rankup	-1	0	0	0	0	22	160
+9	1	2	-1	-1	0	rankup_sale2	rankup	-1	0	0	0	0	6	150000
+10	1	2	-1	-1	0	rankup_sale3	rankup	-1	0	0	0	0	0	10	0	3	10	0	1	1
+11	1	0	804	-1	-1	platinum_ticket2	intro_platinum_beginner	51	0	0	0	0	29	1	0	22	100	0	0	1	0	1	1	0	2	1	0	3	1	0	4	1	0	5	1
+12	0	0	805	-1	-1	chara_479	intro_chara479	70	0	0	0	1	479	1	0	22	30
+13	1	0	806	-1	-1	chara_498	shakurel_pack	71	0	0	0	1	498	1	0	22	300
+14	1	0	806	-1	-1	chara_499	shakurel_pack	71	0	0	0	1	499	1	0	22	400
+15	1	0	806	-1	-1	chara_500	shakurel_pack	71	0	0	0	1	500	1	0	22	500
+16	1	1	807	-1	-1	restart	intro_restart	-1	0	0	0	0	123	1
+17	1	0	812	-1	-1	daikansha_set	special_set_daikansha	100	0	0	0	0	22	777	0	21	7
+18	1	0	813	-1	-1	super_set1	special_set_chogentei	90	0	0	0	0	22	1200	0	21	1	0	6	500000
+19	1	0	813	-1	-1	super_set2	special_set_chogentei	90	0	0	0	0	22	2200	0	21	3	0	6	1000000
+20	1	0	813	-1	-1	super_set3	special_set_chogentei	90	0	0	0	0	22	4600	0	29	1	0	6	2000000
+21	1	0	809	-1	-1	blackfriday_set	intro_blackfriday_set	91	0	0	0	0	22	777	0	21	7
+22	1	0	809	-1	-1	platinum_ticket3	intro_blackfriday_set	91	0	0	0	0	29	1	0	22	100	0	6	100000
+26	1	3	811	-1	-1	premium_sale1_2	intro_premium_sale	60	0	0	0	0	29	1	0	6	2000000
+27	1	0	814	-1	-1	chara_558	intro_chara558	72	0	0	0	1	558	1	0	22	750	0	6	1000000
+28	0	0	815	-1	-1	chara_567	intro_chara567	73	0	0	0	1	567	1	0	22	50	0	6	300000
+29	1	0	816	-1	-1	legend_ticket	intro_legend_ticket	80	0	0	0	0	145	1
+30	1	0	817	-1	-1			22	0	0	0
+31	1	0	818	-1	-1			21	0	0	0
+32	1	4	819	-1	-1	otasuke_sale1	otasuke_sale	10	0	0	0	0	151	1	0	105	1
+33	1	4	819	-1	-1	otasuke_sale2	otasuke_sale	10	0	0	0	0	152	1	0	105	1
+34	1	4	819	-1	-1	otasuke_sale3	otasuke_sale	10	0	0	0	0	153	1	0	105	1
+35	0	0	820	-1	-1	chara_608	intro_chara608	74	0	0	0	1	608	1	0	21	1
+36	1	0	821	-1	-1	powerup_sale1	powerup_sale	40	0	0	0	0	22	900	0	6	50000	0	1	1	0	3	3
+37	1	0	821	-1	-1	powerup_sale2	powerup_sale	40	0	0	0	0	22	1900	0	6	150000	0	1	2	0	3	5
+38	1	0	821	-1	-1	powerup_sale3	powerup_sale	40	0	0	0	0	22	4000	0	6	300000	0	1	4	0	3	10
+39	1	0	822	-1	-1	kansha_set	special_set_kansha	85	0	0	0	0	22	750	0	6	1000000
+44	0	3	826	-1	-1	nekokan_pack1_1	introduction_1	20	0	0	0	0	22	170	0	6	30000	0	1	1	0	5	1
+45	0	3	826	-1	-1	nekokan_pack2_1	introduction_1	20	0	0	0	0	22	400	0	6	50000	0	1	2	0	2	2	0	5	2
+46	0	3	826	-1	-1	nekokan_pack3_1	introduction_1	20	0	0	0	0	22	1100	0	6	100000	0	1	4	0	2	4	0	4	4	0	5	4
+47	0	2	-1	-1	0	rankup_sale1_1	rankup_1	-1	0	0	0	0	22	140
+48	0	2	-1	-1	0	rankup_sale2_1	rankup_1	-1	0	0	0	0	6	130000
+49	0	2	-1	-1	0	rankup_sale3_1	rankup_1	-1	0	0	0	0	0	10	0	3	10	0	1	1
+50	0	0	827	-1	-1	item_pack1_1	ouensale_pack_1	10	0	0	0	0	22	170	0	6	30000	0	1	1	0	5	1
+51	0	0	827	-1	-1	item_pack2_1	ouensale_pack_1	10	0	0	0	0	22	400	0	6	50000	0	1	2	0	2	2	0	5	2
+52	0	0	827	-1	-1	item_pack3_1	ouensale_pack_1	10	0	0	0	0	22	1100	0	6	100000	0	1	4	0	2	4	0	4	4	0	5	4
+53	0	0	828	-1	-1	rare_ticket_1	rare_ticket_1	30	0	0	0	0	21	1	0	22	10
+54	0	0	829	-1	-1	legend_ticket_1	intro_legend_ticket_1	80	0	0	0	0	145	1	0	22	10
+55	0	0	830	-1	-1	kansha_set_1	special_set_kansha_1	85	0	0	0	0	22	750	0	6	1000000
+56	0	0	831	-1	-1	daikansha_set_1	special_set_daikansha_1	100	0	0	0	0	22	777	0	21	7
+57	0	0	832	-1	-1	super_set1_1	special_set_chogentei_1	90	0	0	0	0	22	1200	0	21	1	0	6	500000
+58	0	0	832	-1	-1	super_set2_1	special_set_chogentei_1	90	0	0	0	0	22	2200	0	21	3	0	6	1000000
+59	0	0	832	-1	-1	super_set3_1	special_set_chogentei_1	90	0	0	0	0	22	4600	0	29	1	0	6	2000000
+60	0	0	833	-1	-1	matatabi_set1_1	genteisale_pack_1	40	0	0	0	0	22	900	0	6	100000	0	36	1	0	37	1	0	39	1	0	38	1	0	35	1
+61	0	0	833	-1	-1	matatabi_set2_1	genteisale_pack_1	40	0	0	0	0	22	1900	0	6	500000	0	36	1	0	37	1	0	39	1	0	38	1	0	35	1	0	40	1
+62	0	0	833	-1	-1	matatabi_set3_1	genteisale_pack_1	40	0	0	0	0	22	4000	0	6	1000000	0	36	2	0	37	2	0	39	2	0	38	2	0	35	2	0	40	2
+63	0	0	834	-1	-1	powerup_sale1_1	powerup_sale_1	40	0	0	0	0	22	900	0	6	50000	0	1	1	0	3	3
+64	0	0	834	-1	-1	powerup_sale2_1	powerup_sale_1	40	0	0	0	0	22	1900	0	6	150000	0	1	2	0	3	5
+65	0	0	834	-1	-1	powerup_sale3_1	powerup_sale_1	40	0	0	0	0	22	4000	0	6	300000	0	1	4	0	3	10
+66	0	3	826	-1	-1	nekokan_pack1_1	introduction_1	20	0	0	0	0	22	160	0	6	30000	0	1	1	0	5	1
+67	0	2	-1	-1	0	rankup_sale1_1	rankup_1	-1	0	0	0	0	22	160
+68	0	2	-1	-1	0	rankup_sale2_1	rankup_1	-1	0	0	0	0	6	150000
+69	0	0	827	-1	-1	item_pack1_1	ouensale_pack_1	10	0	0	0	0	22	160	0	6	30000	0	1	1	0	5	1
+70	0	2	-1	-1	1	rankup_sale4_1	rankup2_1	-1	0	0	0	0	22	140
+71	1	2	-1	-1	1	rankup_sale5_1	rankup2_1	-1	0	0	0	0	6	1000000
+72	1	2	-1	-1	1	rankup_sale6_1	rankup2_1	-1	0	0	0	0	58	3	0	54	3	0	1	3	0	2	5
+73	1	0	835	-1	-1	rare_ticket2_1	rare_ticket2_1	30	0	0	0	0	21	1	0	58	1
+74	1	2	-1	-1	1	rankup_sale4_1	rankup2_1	-1	0	0	0	0	22	160
+75	1	0	836	-1	-1	kouryaku_set_1	kouryaku_set_1	23	0	0	0	0	22	500	0	105	5	0	20	10	0	0	5	0	1	5	0	2	5	0	3	5	0	4	5	0	5	5
+76	1	0	837	-1	-1	nyanputer_pack_1	nyanputer_pack_1	25	0	0	0	0	3	77	0	21	3
+77	1	0	838	-1	-1	chara_735	intro_chara735	75	0	0	0	1	735	1	0	3	30	0	105	5
+78	1	0	839	-1	-1	chara_745	intro_chara745	76	0	0	0	1	745	1	0	22	50	0	6	300000
+79	0	0	840	-1	-1	rare_ticket_cp	rare_ticket_cp	30	0	0	0	0	21	1	0	22	10
+80	1	0	841	-1	-1	rare_ticket_cp	rare_ticket_cp	30	0	0	0	0	21	1
+81	1	0	842	-1	-1	rare_ticket_xp	rare_ticket_xp	45	0	0	0	0	21	1	0	6	500000
+82	0	0	843	-1	-1	event_ticket_set1	intro_event_ticket_set1	26	0	0	0	0	22	130	0	204	30
+83	1	3	844	-1	-1	rank300_sale1	intro_rank300_sale1	86	0	300	14	0	22	1000	0	21	5
+84	1	0	845	-1	-1	rare_ticket_3	rare_ticket_3	101	0	0	0	0	21	3
+85	1	3	846	1	-1	premium_sale_add	intro_premium_sale_add	60	10811	0	3	0	29	1	0	6	2000000
+86	1	3	847	1	-1	premium_sale_re	intro_premium_sale_re	60	20811	0	7	0	29	1	0	6	2000000
+87	1	0	848	-1	-1	superextreme_ticket_set1	intro_superextreme_ticket_set1	110	0	0	0	0	212	1	0	22	610
+88	0	0	849	-1	-1	chara_784	intro_chara784	76	0	0	0	1		1	0	21	1
+89	1	3	850	-1	-1	platinum_double_1st	intro_platinum_double_1st	51	0	0	0	0	29	1	0	6	100000	0	22	100
+90	1	3	851	1	-1	platinum_double_2nd	intro_platinum_double_2nd	51	10850	0	7	0	29	1	0	6	1000000	0	22	200
+91	1	0	852	-1	-1	collaboration_pack_1	collaboration_pack_1	45	0	0	0	0	22	500	0	21	5
