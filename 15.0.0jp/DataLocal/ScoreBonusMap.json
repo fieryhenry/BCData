@@ -1,0 +1,59 @@
+{
+  "MapID": {
+    "11030": {
+      "BonusNameLabel": "BonusNameLabel000",
+      "BonusExplanationLabel": "BonusExplanationLabel000",
+      "BonusType": {
+        "0": {
+          "Parameters": [
+            2500
+          ]
+        }
+      }
+    },
+    "11033": {
+      "BonusNameLabel": "BonusNameLabel001",
+      "BonusExplanationLabel": "BonusExplanationLabel001",
+      "BonusType": {
+        "3": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    },
+    "11035": {
+      "BonusNameLabel": "BonusNameLabel002",
+      "BonusExplanationLabel": "BonusExplanationLabel002",
+      "BonusType": {
+        "13": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    },
+    "11036": {
+      "BonusNameLabel": "BonusNameLabel003",
+      "BonusExplanationLabel": "BonusExplanationLabel003",
+      "BonusType": {
+        "1": {
+          "Parameters": [
+            2000
+          ]
+        }
+      }
+    },
+    "11038": {
+      "BonusNameLabel": "BonusNameLabel004",
+      "BonusExplanationLabel": "BonusExplanationLabel004",
+      "BonusType": {
+        "14": {
+          "Parameters": [
+            1500
+          ]
+        }
+      }
+    }
+  }
+}
