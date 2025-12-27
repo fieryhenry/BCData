@@ -3,7 +3,7 @@
 A collection of game data for The Battle Cats.
 
 New game data will now be stored on my self hosted Forgejo instance
-[here](https://git.fyhenry.uk/henry/BCData) instead of on GitHub.
+[here](https://git.battlecatsmodding.org/fieryhenry/BCData) instead of on GitHub.
 
 This is used in my [save editor](https://codeberg.org/fieryhenry/BCSFE-Python)
 for item names, cat data, treasure data, etc
