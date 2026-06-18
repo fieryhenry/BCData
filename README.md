@@ -1,5 +1,7 @@
 # Battle Cats Game Data
 
+## This is no longer used by new versions of the save editor! [Here](https://git.battlecatsmodding.org/fieryhenry/BCData) is the new repository
+
 A collection of game data for The Battle Cats.
 
 New game data will now be stored on my self hosted Forgejo instance
